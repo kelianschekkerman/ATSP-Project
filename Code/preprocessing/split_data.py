@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = "../../Data/Preprocessed_data/name_disease_drug_reduced10.csv"
+file_path = "../../Data/Preprocessed_data/name_disease_drug/name_disease_drug_reduced10.csv"
 
 def load_data():
     print("Importing data...")
