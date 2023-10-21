@@ -98,15 +98,15 @@ HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Erythromelalgia,gabapentin
-"Asthma, acute",albuterol
-"Asthma, acute",prednisolone
-"Asthma, acute",methylprednisolone
-"Asthma, acute",epinephrine
-"Asthma, acute",hydrocortisone
-"Asthma, acute",theophylline
-"Asthma, acute",dexamethasone
-"Asthma, acute",levalbuterol
-"Asthma, acute",terbutaline
+acute Asthma,albuterol
+acute Asthma,prednisolone
+acute Asthma,methylprednisolone
+acute Asthma,epinephrine
+acute Asthma,hydrocortisone
+acute Asthma,theophylline
+acute Asthma,dexamethasone
+acute Asthma,levalbuterol
+acute Asthma,terbutaline
 Urinary Tract Infection,ciprofloxacin
 Urinary Tract Infection,nitrofurantoin
 Urinary Tract Infection,sulfamethoxazole AND trimethoprim
@@ -352,18 +352,18 @@ Acute Lymphocytic Leukemia,asparaginase escherichia coli
 Acute Lymphocytic Leukemia,daunorubicin
 Acute Lymphocytic Leukemia,asparaginase erwinia chrysanthemi
 Acute Lymphocytic Leukemia,teniposide
-"Conjunctivitis, Allergic",ketotifen
-"Conjunctivitis, Allergic",azelastine
-"Conjunctivitis, Allergic",cromolyn
-"Conjunctivitis, Allergic",prednisone
-"Conjunctivitis, Allergic",prednisolone
-"Conjunctivitis, Allergic",epinastine
-"Conjunctivitis, Allergic",nedocromil
-"Conjunctivitis, Allergic",bepotastine
-"Conjunctivitis, Allergic",cetirizine
-"Conjunctivitis, Allergic",alcaftadine
-"Conjunctivitis, Allergic",carbinoxamine
-"Conjunctivitis, Allergic",doxylamine
+Allergic Conjunctivitis,ketotifen
+Allergic Conjunctivitis,azelastine
+Allergic Conjunctivitis,cromolyn
+Allergic Conjunctivitis,prednisone
+Allergic Conjunctivitis,prednisolone
+Allergic Conjunctivitis,epinastine
+Allergic Conjunctivitis,nedocromil
+Allergic Conjunctivitis,bepotastine
+Allergic Conjunctivitis,cetirizine
+Allergic Conjunctivitis,alcaftadine
+Allergic Conjunctivitis,carbinoxamine
+Allergic Conjunctivitis,doxylamine
 Atopic Dermatitis,triamcinolone
 Atopic Dermatitis,clobetasol
 Atopic Dermatitis,betamethasone
@@ -517,19 +517,19 @@ Dercum's Disease,fentanyl
 Dercum's Disease,pregabalin
 Androgenetic Alopecia,finasteride
 Androgenetic Alopecia,ketoconazole
-"Anemia, Drug Induced",epoetin alfa
-"Anemia, Drug Induced",epoetin alfa
-"Anemia, Drug Induced",epoetin alfa
+Drug Induced Anemia,epoetin alfa
+Drug Induced Anemia,epoetin alfa
+Drug Induced Anemia,epoetin alfa
 Iron Deficiency Anemia,ferrous sulfate
 Iron Deficiency Anemia,ferrous gluconate
 Iron Deficiency Anemia,ferrous fumarate
 Iron Deficiency Anemia,iron polysaccharide
 Iron Deficiency Anemia,ferumoxytol
 Iron Deficiency Anemia,iron sucrose
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -666,12 +666,12 @@ Anthrax,ofloxacin
 Anthrax,anthrax immune globulin intravenous
 Pseudomembranous Colitis,metronidazole
 Pseudomembranous Colitis,vancomycin
-"Sexual Dysfunction, SSRI Induced",buspirone
-"Sexual Dysfunction, SSRI Induced",sildenafil
-"Sexual Dysfunction, SSRI Induced",bupropion
-"Sexual Dysfunction, SSRI Induced",dextroamphetamine
-"Sexual Dysfunction, SSRI Induced",cyproheptadine
-"Sexual Dysfunction, SSRI Induced",amantadine
+SSRI Induced Sexual Dysfunction,buspirone
+SSRI Induced Sexual Dysfunction,sildenafil
+SSRI Induced Sexual Dysfunction,bupropion
+SSRI Induced Sexual Dysfunction,dextroamphetamine
+SSRI Induced Sexual Dysfunction,cyproheptadine
+SSRI Induced Sexual Dysfunction,amantadine
 Antiphospholipid Syndrome,warfarin
 Antiphospholipid Syndrome,aspirin
 Antiphospholipid Syndrome,heparin
@@ -865,24 +865,24 @@ Asthma,triamcinolone
 Asthma,fluticasone AND vilanterol
 Asthma,levalbuterol
 Asthma,ciclesonide
-"Asthma, acute",albuterol
-"Asthma, acute",prednisolone
-"Asthma, acute",methylprednisolone
-"Asthma, acute",epinephrine
-"Asthma, acute",hydrocortisone
-"Asthma, acute",theophylline
-"Asthma, acute",dexamethasone
-"Asthma, acute",levalbuterol
-"Asthma, acute",terbutaline
-"Asthma, acute",albuterol
-"Asthma, acute",prednisolone
-"Asthma, acute",methylprednisolone
-"Asthma, acute",epinephrine
-"Asthma, acute",hydrocortisone
-"Asthma, acute",theophylline
-"Asthma, acute",dexamethasone
-"Asthma, acute",levalbuterol
-"Asthma, acute",terbutaline
+acute Asthma,albuterol
+acute Asthma,prednisolone
+acute Asthma,methylprednisolone
+acute Asthma,epinephrine
+acute Asthma,hydrocortisone
+acute Asthma,theophylline
+acute Asthma,dexamethasone
+acute Asthma,levalbuterol
+acute Asthma,terbutaline
+acute Asthma,albuterol
+acute Asthma,prednisolone
+acute Asthma,methylprednisolone
+acute Asthma,epinephrine
+acute Asthma,hydrocortisone
+acute Asthma,theophylline
+acute Asthma,dexamethasone
+acute Asthma,levalbuterol
+acute Asthma,terbutaline
 Atherosclerosis,rosuvastatin
 Tinea Pedis,clotrimazole
 Tinea Pedis,ketoconazole
@@ -1023,31 +1023,31 @@ Back Pain,diclofenac
 Back Pain,duloxetine
 Back Pain,aspirin
 Back Pain,nabumetone
-"Conjunctivitis, Bacterial",erythromycin
-"Conjunctivitis, Bacterial",tobramycin
-"Conjunctivitis, Bacterial",ciprofloxacin
-"Conjunctivitis, Bacterial",gentamicin
-"Conjunctivitis, Bacterial",polymyxin b AND trimethoprim
-"Conjunctivitis, Bacterial",ofloxacin
-"Conjunctivitis, Bacterial",moxifloxacin
-"Conjunctivitis, Bacterial",dexamethasone AND tobramycin
-"Conjunctivitis, Bacterial",azithromycin
-"Conjunctivitis, Bacterial",bacitracin
-"Conjunctivitis, Bacterial",dexamethasone AND neomycin AND polymyxin b
+Bacterial Conjunctivitis,erythromycin
+Bacterial Conjunctivitis,tobramycin
+Bacterial Conjunctivitis,ciprofloxacin
+Bacterial Conjunctivitis,gentamicin
+Bacterial Conjunctivitis,polymyxin b AND trimethoprim
+Bacterial Conjunctivitis,ofloxacin
+Bacterial Conjunctivitis,moxifloxacin
+Bacterial Conjunctivitis,dexamethasone AND tobramycin
+Bacterial Conjunctivitis,azithromycin
+Bacterial Conjunctivitis,bacitracin
+Bacterial Conjunctivitis,dexamethasone AND neomycin AND polymyxin b
 Campylobacter Gastroenteritis,erythromycin
 Campylobacter Gastroenteritis,ofloxacin
 Campylobacter Gastroenteritis,minocycline
-"Conjunctivitis, Bacterial",erythromycin
-"Conjunctivitis, Bacterial",tobramycin
-"Conjunctivitis, Bacterial",ciprofloxacin
-"Conjunctivitis, Bacterial",gentamicin
-"Conjunctivitis, Bacterial",polymyxin b AND trimethoprim
-"Conjunctivitis, Bacterial",ofloxacin
-"Conjunctivitis, Bacterial",moxifloxacin
-"Conjunctivitis, Bacterial",dexamethasone AND tobramycin
-"Conjunctivitis, Bacterial",azithromycin
-"Conjunctivitis, Bacterial",bacitracin
-"Conjunctivitis, Bacterial",dexamethasone AND neomycin AND polymyxin b
+Bacterial Conjunctivitis,erythromycin
+Bacterial Conjunctivitis,tobramycin
+Bacterial Conjunctivitis,ciprofloxacin
+Bacterial Conjunctivitis,gentamicin
+Bacterial Conjunctivitis,polymyxin b AND trimethoprim
+Bacterial Conjunctivitis,ofloxacin
+Bacterial Conjunctivitis,moxifloxacin
+Bacterial Conjunctivitis,dexamethasone AND tobramycin
+Bacterial Conjunctivitis,azithromycin
+Bacterial Conjunctivitis,bacitracin
+Bacterial Conjunctivitis,dexamethasone AND neomycin AND polymyxin b
 Bacterial Skin Infection,sulfamethoxazole AND trimethoprim
 Bacterial Skin Infection,bacitracin
 Bacterial Skin Infection,bacitracin AND neomycin AND polymyxin b
@@ -2920,41 +2920,41 @@ Heart Failure ,amlodipine
 Heart Failure ,warfarin
 Heart Failure ,hydralazine
 Conjunctival Mucosa-Associated Lymphoid Tissue Lymphoma,interferon alfa-2b
-"Conjunctivitis, Allergic",ketotifen
-"Conjunctivitis, Allergic",azelastine
-"Conjunctivitis, Allergic",cromolyn
-"Conjunctivitis, Allergic",prednisone
-"Conjunctivitis, Allergic",prednisolone
-"Conjunctivitis, Allergic",epinastine
-"Conjunctivitis, Allergic",nedocromil
-"Conjunctivitis, Allergic",bepotastine
-"Conjunctivitis, Allergic",cetirizine
-"Conjunctivitis, Allergic",alcaftadine
-"Conjunctivitis, Allergic",carbinoxamine
-"Conjunctivitis, Allergic",doxylamine
-"Conjunctivitis, Allergic",ketotifen
-"Conjunctivitis, Allergic",azelastine
-"Conjunctivitis, Allergic",cromolyn
-"Conjunctivitis, Allergic",prednisone
-"Conjunctivitis, Allergic",prednisolone
-"Conjunctivitis, Allergic",epinastine
-"Conjunctivitis, Allergic",nedocromil
-"Conjunctivitis, Allergic",bepotastine
-"Conjunctivitis, Allergic",cetirizine
-"Conjunctivitis, Allergic",alcaftadine
-"Conjunctivitis, Allergic",carbinoxamine
-"Conjunctivitis, Allergic",doxylamine
-"Conjunctivitis, Bacterial",erythromycin
-"Conjunctivitis, Bacterial",tobramycin
-"Conjunctivitis, Bacterial",ciprofloxacin
-"Conjunctivitis, Bacterial",gentamicin
-"Conjunctivitis, Bacterial",polymyxin b AND trimethoprim
-"Conjunctivitis, Bacterial",ofloxacin
-"Conjunctivitis, Bacterial",moxifloxacin
-"Conjunctivitis, Bacterial",dexamethasone AND tobramycin
-"Conjunctivitis, Bacterial",azithromycin
-"Conjunctivitis, Bacterial",bacitracin
-"Conjunctivitis, Bacterial",dexamethasone AND neomycin AND polymyxin b
+Allergic Conjunctivitis,ketotifen
+Allergic Conjunctivitis,azelastine
+Allergic Conjunctivitis,cromolyn
+Allergic Conjunctivitis,prednisone
+Allergic Conjunctivitis,prednisolone
+Allergic Conjunctivitis,epinastine
+Allergic Conjunctivitis,nedocromil
+Allergic Conjunctivitis,bepotastine
+Allergic Conjunctivitis,cetirizine
+Allergic Conjunctivitis,alcaftadine
+Allergic Conjunctivitis,carbinoxamine
+Allergic Conjunctivitis,doxylamine
+Allergic Conjunctivitis,ketotifen
+Allergic Conjunctivitis,azelastine
+Allergic Conjunctivitis,cromolyn
+Allergic Conjunctivitis,prednisone
+Allergic Conjunctivitis,prednisolone
+Allergic Conjunctivitis,epinastine
+Allergic Conjunctivitis,nedocromil
+Allergic Conjunctivitis,bepotastine
+Allergic Conjunctivitis,cetirizine
+Allergic Conjunctivitis,alcaftadine
+Allergic Conjunctivitis,carbinoxamine
+Allergic Conjunctivitis,doxylamine
+Bacterial Conjunctivitis,erythromycin
+Bacterial Conjunctivitis,tobramycin
+Bacterial Conjunctivitis,ciprofloxacin
+Bacterial Conjunctivitis,gentamicin
+Bacterial Conjunctivitis,polymyxin b AND trimethoprim
+Bacterial Conjunctivitis,ofloxacin
+Bacterial Conjunctivitis,moxifloxacin
+Bacterial Conjunctivitis,dexamethasone AND tobramycin
+Bacterial Conjunctivitis,azithromycin
+Bacterial Conjunctivitis,bacitracin
+Bacterial Conjunctivitis,dexamethasone AND neomycin AND polymyxin b
 Constipation,docusate
 Constipation,polyethylene glycol 3350
 Constipation,bisacodyl
@@ -3423,26 +3423,26 @@ Urinary Frequency,darifenacin
 Urinary Frequency,fesoterodine
 Urinary Frequency,flavoxate
 Urinary Frequency,onabotulinumtoxinA
-"Diabetes, Type 2",metformin
-"Diabetes, Type 2",glipizide
-"Diabetes, Type 2",glimepiride
-"Diabetes, Type 2",pioglitazone
-"Diabetes, Type 2",liraglutide
-"Diabetes, Type 2",sitagliptin
-"Diabetes, Type 2",metformin AND sitagliptin
-"Diabetes, Type 1",insulin glargine
-"Diabetes, Type 1",insulin lispro
-"Diabetes, Type 1",insulin aspart
-"Diabetes, Type 1",insulin regular
-"Diabetes, Type 1",insulin glulisine
-"Diabetes, Type 2",metformin
-"Diabetes, Type 2",glipizide
-"Diabetes, Type 2",glimepiride
-"Diabetes, Type 2",pioglitazone
-"Diabetes, Type 2",liraglutide
-"Diabetes, Type 2",sitagliptin
-"Diabetes, Type 2",metformin AND sitagliptin
-"Diabetes, Type 3c",metformin
+Type 2 Diabetes,metformin
+Type 2 Diabetes,glipizide
+Type 2 Diabetes,glimepiride
+Type 2 Diabetes,pioglitazone
+Type 2 Diabetes,liraglutide
+Type 2 Diabetes,sitagliptin
+Type 2 Diabetes,metformin AND sitagliptin
+Type 1 Diabetes,insulin glargine
+Type 1 Diabetes,insulin lispro
+Type 1 Diabetes,insulin aspart
+Type 1 Diabetes,insulin regular
+Type 1 Diabetes,insulin glulisine
+Type 2 Diabetes,metformin
+Type 2 Diabetes,glipizide
+Type 2 Diabetes,glimepiride
+Type 2 Diabetes,pioglitazone
+Type 2 Diabetes,liraglutide
+Type 2 Diabetes,sitagliptin
+Type 2 Diabetes,metformin AND sitagliptin
+Type 3c Diabetes,metformin
 Dermal Ulcer,collagenase
 Dermal Ulcer,becaplermin
 Dermal Ulcer,cadexomer iodine
@@ -3587,8 +3587,8 @@ Systemic Lupus Erythematosus,mycophenolate mofetil
 Systemic Lupus Erythematosus,triamcinolone
 Systemic Lupus Erythematosus,belimumab
 Systemic Lupus Erythematosus,dexamethasone
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Dissociative Identity Disorder,sertraline
 Dissociative Identity Disorder,venlafaxine
 Dissociative Identity Disorder,fluoxetine
@@ -4276,19 +4276,19 @@ Laryngopharyngeal Reflux,lansoprazole
 Laryngopharyngeal Reflux,famotidine
 Laryngopharyngeal Reflux,aluminum hydroxide AND magnesium hydroxide AND simethicone
 Laryngopharyngeal Reflux,cimetidine
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
-"Conjunctivitis, Bacterial",erythromycin
-"Conjunctivitis, Bacterial",tobramycin
-"Conjunctivitis, Bacterial",ciprofloxacin
-"Conjunctivitis, Bacterial",gentamicin
-"Conjunctivitis, Bacterial",polymyxin b AND trimethoprim
-"Conjunctivitis, Bacterial",ofloxacin
-"Conjunctivitis, Bacterial",moxifloxacin
-"Conjunctivitis, Bacterial",dexamethasone AND tobramycin
-"Conjunctivitis, Bacterial",azithromycin
-"Conjunctivitis, Bacterial",bacitracin
-"Conjunctivitis, Bacterial",dexamethasone AND neomycin AND polymyxin b
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
+Bacterial Conjunctivitis,erythromycin
+Bacterial Conjunctivitis,tobramycin
+Bacterial Conjunctivitis,ciprofloxacin
+Bacterial Conjunctivitis,gentamicin
+Bacterial Conjunctivitis,polymyxin b AND trimethoprim
+Bacterial Conjunctivitis,ofloxacin
+Bacterial Conjunctivitis,moxifloxacin
+Bacterial Conjunctivitis,dexamethasone AND tobramycin
+Bacterial Conjunctivitis,azithromycin
+Bacterial Conjunctivitis,bacitracin
+Bacterial Conjunctivitis,dexamethasone AND neomycin AND polymyxin b
 Hordeolum,bacitracin AND polymyxin b
 Hordeolum,bacitracin AND neomycin AND polymyxin b
 Facial Lipoatrophy,poly-l-lactic acid
@@ -4322,22 +4322,22 @@ High Cholesterol,gemfibrozil
 High Cholesterol,niacin
 High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Muscle Twitching ,baclofen
 Fatigue,modafinil
 Fatigue,methylphenidate
@@ -4394,40 +4394,40 @@ Forehead Lines,onabotulinumtoxinA
 Forehead Lines,prabotulinumtoxinA
 Diffuse Idiopathic Skeletal Hyperostosis,ibuprofen
 Diffuse Idiopathic Skeletal Hyperostosis,naproxen
-"Hyperlipoproteinemia Type IIa, Elevated LDL",fenofibrate
-"Hyperlipoproteinemia Type IIa, Elevated LDL",atorvastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",simvastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",pravastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",rosuvastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",cholestyramine
-"Hyperlipoproteinemia Type IIa, Elevated LDL",lovastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",colesevelam
-"Hyperlipoproteinemia Type IIa, Elevated LDL",colestipol
-"Hyperlipoproteinemia Type IIa, Elevated LDL",fluvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",fenofibrate
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",gemfibrozil
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",atorvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",simvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",rosuvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",pravastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",colestipol
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",lovastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",cholestyramine
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",fluvastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",atorvastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",simvastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",pravastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",rosuvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",fenofibrate
-"Hyperlipoproteinemia Type IV, Elevated VLDL",atorvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",niacin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",gemfibrozil
-"Hyperlipoproteinemia Type IV, Elevated VLDL",rosuvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",simvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",pravastatin
-"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",fenofibrate
-"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",gemfibrozil
-"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",niacin
+Elevated LDL Hyperlipoproteinemia Type IIa,fenofibrate
+Elevated LDL Hyperlipoproteinemia Type IIa,atorvastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,simvastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,pravastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,rosuvastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,cholestyramine
+Elevated LDL Hyperlipoproteinemia Type IIa,lovastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,colesevelam
+Elevated LDL Hyperlipoproteinemia Type IIa,colestipol
+Elevated LDL Hyperlipoproteinemia Type IIa,fluvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,fenofibrate
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,gemfibrozil
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,atorvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,simvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,rosuvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,pravastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,colestipol
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,lovastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,cholestyramine
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,fluvastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,atorvastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,simvastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,pravastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,rosuvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,fenofibrate
+Elevated VLDL Hyperlipoproteinemia Type IV,atorvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,niacin
+Elevated VLDL Hyperlipoproteinemia Type IV,gemfibrozil
+Elevated VLDL Hyperlipoproteinemia Type IV,rosuvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,simvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,pravastatin
+Elevated Chylomicrons   VLDL Hyperlipoproteinemia Type V,fenofibrate
+Elevated Chylomicrons   VLDL Hyperlipoproteinemia Type V,gemfibrozil
+Elevated Chylomicrons   VLDL Hyperlipoproteinemia Type V,niacin
 Bejel,penicillin g benzathine
 Diarrhea,loperamide
 Diarrhea,atropine AND diphenoxylate
@@ -4467,12 +4467,12 @@ Tinea Pedis,tolnaftate
 Tinea Pedis,ciclopirox
 Tinea Pedis,miconazole
 Tinea Pedis,griseofulvin
-"Onychomycosis, Fingernail",terbinafine
-"Onychomycosis, Fingernail",fluconazole
-"Onychomycosis, Fingernail",ciclopirox
-"Onychomycosis, Fingernail",itraconazole
-"Onychomycosis, Fingernail",ketoconazole
-"Onychomycosis, Fingernail",griseofulvin
+Fingernail Onychomycosis,terbinafine
+Fingernail Onychomycosis,fluconazole
+Fingernail Onychomycosis,ciclopirox
+Fingernail Onychomycosis,itraconazole
+Fingernail Onychomycosis,ketoconazole
+Fingernail Onychomycosis,griseofulvin
 Tinea Cruris,betamethasone AND clotrimazole
 Tinea Cruris,ketoconazole
 Tinea Cruris,clotrimazole
@@ -4489,14 +4489,14 @@ Onychomycosis,undecylenic acid
 Tinea Capitis,terbinafine
 Tinea Capitis,griseofulvin
 Tinea Capitis,itraconazole
-"Onychomycosis, Toenail",terbinafine
-"Onychomycosis, Toenail",ciclopirox
-"Onychomycosis, Toenail",fluconazole
-"Onychomycosis, Toenail",ketoconazole
-"Onychomycosis, Toenail",itraconazole
-"Onychomycosis, Toenail",efinaconazole
-"Onychomycosis, Toenail",griseofulvin
-"Onychomycosis, Toenail",tavaborole
+Toenail Onychomycosis,terbinafine
+Toenail Onychomycosis,ciclopirox
+Toenail Onychomycosis,fluconazole
+Toenail Onychomycosis,ketoconazole
+Toenail Onychomycosis,itraconazole
+Toenail Onychomycosis,efinaconazole
+Toenail Onychomycosis,griseofulvin
+Toenail Onychomycosis,tavaborole
 Fungal Infections,fluconazole
 Generalized Anxiety Disorder,escitalopram
 Generalized Anxiety Disorder,quetiapine
@@ -4678,10 +4678,10 @@ Allergic Rhinitis,azelastine
 Allergic Rhinitis,diphenhydramine
 Allergic Rhinitis,prednisone
 Allergic Rhinitis,levocetirizine
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Hepatocellular Carcinoma,sorafenib
 Hepatocellular Carcinoma,nivolumab
 Hepatocellular Carcinoma,regorafenib
@@ -4761,10 +4761,10 @@ Migraine,naratriptan
 Migraine,almotriptan
 Migraine,zolmitriptan
 Migraine,eletriptan
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Hemophagocytic Lymphohistiocytosis,emapalumab
 Hemophagocytic Lymphohistiocytosis,emapalumab
 Alport Syndrome,lisinopril
@@ -4850,26 +4850,26 @@ Ramsay Hunt Syndrome,prednisone
 Ramsay Hunt Syndrome,valacyclovir
 Herpetic Keratitis,trifluridine
 Herpetic Keratitis,acyclovir
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
 Ehrlichiosis,doxycycline
 Ehrlichiosis,tetracycline
 Ehrlichiosis,doxycycline
@@ -4897,22 +4897,22 @@ High Cholesterol,gemfibrozil
 High Cholesterol,niacin
 High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Non-Hodgkin's Lymphoma,cyclophosphamide
 Non-Hodgkin's Lymphoma,vincristine
 Non-Hodgkin's Lymphoma,rituximab
@@ -5022,18 +5022,18 @@ Hodgkin's Lymphoma,methotrexate
 Hodgkin's Lymphoma,chlorambucil
 Hodgkin's Lymphoma,nivolumab
 Hodgkin's Lymphoma,carmustine
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Nonketotic Hyperosmolar Syndrome,insulin regular
 Nonketotic Hyperosmolar Syndrome,insulin glulisine
 Nonketotic Hyperosmolar Syndrome,insulin lispro
@@ -5114,22 +5114,22 @@ High Cholesterol,gemfibrozil
 High Cholesterol,niacin
 High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Hyperekplexia,diazepam
 Hyperekplexia,clonazepam
 Hyperekplexia,divalproex sodium
@@ -5161,74 +5161,74 @@ High Cholesterol,gemfibrozil
 High Cholesterol,niacin
 High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"Hyperlipoproteinemia Type IIa, Elevated LDL",fenofibrate
-"Hyperlipoproteinemia Type IIa, Elevated LDL",atorvastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",simvastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",pravastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",rosuvastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",cholestyramine
-"Hyperlipoproteinemia Type IIa, Elevated LDL",lovastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",colesevelam
-"Hyperlipoproteinemia Type IIa, Elevated LDL",colestipol
-"Hyperlipoproteinemia Type IIa, Elevated LDL",fluvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",fenofibrate
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",gemfibrozil
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",atorvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",simvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",rosuvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",pravastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",colestipol
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",lovastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",cholestyramine
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",fluvastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",atorvastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",simvastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",pravastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",rosuvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",fenofibrate
-"Hyperlipoproteinemia Type IV, Elevated VLDL",atorvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",niacin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",gemfibrozil
-"Hyperlipoproteinemia Type IV, Elevated VLDL",rosuvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",simvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",pravastatin
-"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",fenofibrate
-"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",gemfibrozil
-"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",niacin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",fenofibrate
-"Hyperlipoproteinemia Type IIa, Elevated LDL",atorvastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",simvastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",pravastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",rosuvastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",cholestyramine
-"Hyperlipoproteinemia Type IIa, Elevated LDL",lovastatin
-"Hyperlipoproteinemia Type IIa, Elevated LDL",colesevelam
-"Hyperlipoproteinemia Type IIa, Elevated LDL",colestipol
-"Hyperlipoproteinemia Type IIa, Elevated LDL",fluvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",fenofibrate
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",gemfibrozil
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",atorvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",simvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",rosuvastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",pravastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",colestipol
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",lovastatin
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",cholestyramine
-"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",fluvastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",atorvastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",simvastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",pravastatin
-"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",rosuvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",fenofibrate
-"Hyperlipoproteinemia Type IV, Elevated VLDL",atorvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",niacin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",gemfibrozil
-"Hyperlipoproteinemia Type IV, Elevated VLDL",rosuvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",simvastatin
-"Hyperlipoproteinemia Type IV, Elevated VLDL",pravastatin
-"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",fenofibrate
-"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",gemfibrozil
-"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",niacin
+Elevated LDL Hyperlipoproteinemia Type IIa,fenofibrate
+Elevated LDL Hyperlipoproteinemia Type IIa,atorvastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,simvastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,pravastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,rosuvastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,cholestyramine
+Elevated LDL Hyperlipoproteinemia Type IIa,lovastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,colesevelam
+Elevated LDL Hyperlipoproteinemia Type IIa,colestipol
+Elevated LDL Hyperlipoproteinemia Type IIa,fluvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,fenofibrate
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,gemfibrozil
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,atorvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,simvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,rosuvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,pravastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,colestipol
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,lovastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,cholestyramine
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,fluvastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,atorvastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,simvastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,pravastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,rosuvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,fenofibrate
+Elevated VLDL Hyperlipoproteinemia Type IV,atorvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,niacin
+Elevated VLDL Hyperlipoproteinemia Type IV,gemfibrozil
+Elevated VLDL Hyperlipoproteinemia Type IV,rosuvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,simvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,pravastatin
+Elevated Chylomicrons   VLDL Hyperlipoproteinemia Type V,fenofibrate
+Elevated Chylomicrons   VLDL Hyperlipoproteinemia Type V,gemfibrozil
+Elevated Chylomicrons   VLDL Hyperlipoproteinemia Type V,niacin
+Elevated LDL Hyperlipoproteinemia Type IIa,fenofibrate
+Elevated LDL Hyperlipoproteinemia Type IIa,atorvastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,simvastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,pravastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,rosuvastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,cholestyramine
+Elevated LDL Hyperlipoproteinemia Type IIa,lovastatin
+Elevated LDL Hyperlipoproteinemia Type IIa,colesevelam
+Elevated LDL Hyperlipoproteinemia Type IIa,colestipol
+Elevated LDL Hyperlipoproteinemia Type IIa,fluvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,fenofibrate
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,gemfibrozil
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,atorvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,simvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,rosuvastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,pravastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,colestipol
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,lovastatin
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,cholestyramine
+Elevated LDL   VLDL Hyperlipoproteinemia Type IIb,fluvastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,atorvastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,simvastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,pravastatin
+Elevated beta Hyperlipoproteinemia Type III-VLDL   IDL,rosuvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,fenofibrate
+Elevated VLDL Hyperlipoproteinemia Type IV,atorvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,niacin
+Elevated VLDL Hyperlipoproteinemia Type IV,gemfibrozil
+Elevated VLDL Hyperlipoproteinemia Type IV,rosuvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,simvastatin
+Elevated VLDL Hyperlipoproteinemia Type IV,pravastatin
+Elevated Chylomicrons   VLDL Hyperlipoproteinemia Type V,fenofibrate
+Elevated Chylomicrons   VLDL Hyperlipoproteinemia Type V,gemfibrozil
+Elevated Chylomicrons   VLDL Hyperlipoproteinemia Type V,niacin
 Renal Cell Carcinoma,pazopanib
 Renal Cell Carcinoma,sunitinib
 Renal Cell Carcinoma,axitinib
@@ -5281,14 +5281,14 @@ Iron Deficiency Anemia,ferrous fumarate
 Iron Deficiency Anemia,iron polysaccharide
 Iron Deficiency Anemia,ferumoxytol
 Iron Deficiency Anemia,iron sucrose
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
 Mania,divalproex sodium
 Mania,lithium
 Mania,risperidone
@@ -5305,12 +5305,12 @@ Underactive Thyroid ,levothyroxine
 Underactive Thyroid ,thyroid desiccated
 Underactive Thyroid ,liothyronine
 Underactive Thyroid ,liotrix
-"Hypothyroidism, After Thyroid Removal ",levothyroxine
-"Hypothyroidism, After Thyroid Removal ",thyroid desiccated
-"Hypothyroidism, After Thyroid Removal ",liothyronine
-"Hypothyroidism, After Thyroid Removal ",levothyroxine
-"Hypothyroidism, After Thyroid Removal ",thyroid desiccated
-"Hypothyroidism, After Thyroid Removal ",liothyronine
+After Thyroid Removal Hypothyroidism ,levothyroxine
+After Thyroid Removal Hypothyroidism ,thyroid desiccated
+After Thyroid Removal Hypothyroidism ,liothyronine
+After Thyroid Removal Hypothyroidism ,levothyroxine
+After Thyroid Removal Hypothyroidism ,thyroid desiccated
+After Thyroid Removal Hypothyroidism ,liothyronine
 Respiratory Depression,doxapram
 Neurosis,nortriptyline
 Irritable Bowel Syndrome,dicyclomine
@@ -5506,12 +5506,12 @@ Tinea Pedis,tolnaftate
 Tinea Pedis,ciclopirox
 Tinea Pedis,miconazole
 Tinea Pedis,griseofulvin
-"Onychomycosis, Fingernail",terbinafine
-"Onychomycosis, Fingernail",fluconazole
-"Onychomycosis, Fingernail",ciclopirox
-"Onychomycosis, Fingernail",itraconazole
-"Onychomycosis, Fingernail",ketoconazole
-"Onychomycosis, Fingernail",griseofulvin
+Fingernail Onychomycosis,terbinafine
+Fingernail Onychomycosis,fluconazole
+Fingernail Onychomycosis,ciclopirox
+Fingernail Onychomycosis,itraconazole
+Fingernail Onychomycosis,ketoconazole
+Fingernail Onychomycosis,griseofulvin
 Tinea Cruris,betamethasone AND clotrimazole
 Tinea Cruris,ketoconazole
 Tinea Cruris,clotrimazole
@@ -5528,14 +5528,14 @@ Onychomycosis,undecylenic acid
 Tinea Capitis,terbinafine
 Tinea Capitis,griseofulvin
 Tinea Capitis,itraconazole
-"Onychomycosis, Toenail",terbinafine
-"Onychomycosis, Toenail",ciclopirox
-"Onychomycosis, Toenail",fluconazole
-"Onychomycosis, Toenail",ketoconazole
-"Onychomycosis, Toenail",itraconazole
-"Onychomycosis, Toenail",efinaconazole
-"Onychomycosis, Toenail",griseofulvin
-"Onychomycosis, Toenail",tavaborole
+Toenail Onychomycosis,terbinafine
+Toenail Onychomycosis,ciclopirox
+Toenail Onychomycosis,fluconazole
+Toenail Onychomycosis,ketoconazole
+Toenail Onychomycosis,itraconazole
+Toenail Onychomycosis,efinaconazole
+Toenail Onychomycosis,griseofulvin
+Toenail Onychomycosis,tavaborole
 Sinusitis,amoxicillin
 Sinusitis,prednisone
 Sinusitis,amoxicillin AND clavulanate
@@ -5658,11 +5658,11 @@ Insomnia,eszopiclone
 Insomnia,diphenhydramine
 Insomnia,gabapentin
 Insomnia,flurazepam
-"Diabetes, Type 1",insulin glargine
-"Diabetes, Type 1",insulin lispro
-"Diabetes, Type 1",insulin aspart
-"Diabetes, Type 1",insulin regular
-"Diabetes, Type 1",insulin glulisine
+Type 1 Diabetes,insulin glargine
+Type 1 Diabetes,insulin lispro
+Type 1 Diabetes,insulin aspart
+Type 1 Diabetes,insulin regular
+Type 1 Diabetes,insulin glulisine
 Insulin Resistance Syndrome ,metformin
 Insulin Resistance Syndrome ,insulin regular
 Interstitial Cystitis,phenazopyridine
@@ -5689,7 +5689,7 @@ Brain Tumor,methotrexate
 Brain Tumor,carmustine
 Brain Tumor,cyclophosphamide
 Brain Tumor,cisplatin
-"Mucormycosis, Invasive",isavuconazonium
+Invasive Mucormycosis,isavuconazonium
 Trophoblastic Disease,methotrexate
 Trophoblastic Disease,dinoprostone
 Trophoblastic Disease,dactinomycin
@@ -5874,11 +5874,11 @@ Juvenile Rheumatoid Arthritis,dexamethasone
 Juvenile Rheumatoid Arthritis,etanercept
 Juvenile Rheumatoid Arthritis,oxaprozin
 Juvenile Rheumatoid Arthritis,sulindac
-"Diabetes, Type 1",insulin glargine
-"Diabetes, Type 1",insulin lispro
-"Diabetes, Type 1",insulin aspart
-"Diabetes, Type 1",insulin regular
-"Diabetes, Type 1",insulin glulisine
+Type 1 Diabetes,insulin glargine
+Type 1 Diabetes,insulin lispro
+Type 1 Diabetes,insulin aspart
+Type 1 Diabetes,insulin regular
+Type 1 Diabetes,insulin glulisine
 Juvenile Rheumatoid Arthritis,meloxicam
 Juvenile Rheumatoid Arthritis,naproxen
 Juvenile Rheumatoid Arthritis,prednisone
@@ -6180,14 +6180,14 @@ Hypotension,norepinephrine
 Hypotension,phenylephrine
 Hypotension,ephedrine
 Hypotension,droxidopa
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
 Underactive Thyroid ,levothyroxine
 Underactive Thyroid ,thyroid desiccated
 Underactive Thyroid ,liothyronine
@@ -6565,8 +6565,8 @@ Migraine,almotriptan
 Migraine,zolmitriptan
 Migraine,eletriptan
 Mild Cognitive Impairment,donepezil
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Transient Ischemic Attack,clopidogrel
 Transient Ischemic Attack,aspirin
 Erythromelalgia,gabapentin
@@ -6671,7 +6671,7 @@ Methicillin-Resistant Staphylococcus Aureus Infection,ofloxacin
 Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin AND quinupristin
 Mucopolysaccharidosis Type IV,elosulfase alfa
 Mucopolysaccharidosis Type VII,vestronidase alfa
-"Mucormycosis, Invasive",isavuconazonium
+Invasive Mucormycosis,isavuconazonium
 Arteriosclerotic Dementia,ergoloid mesylates
 Multicentric Castleman’s Disease,siltuximab
 Multiple Myeloma,dexamethasone
@@ -7021,13 +7021,13 @@ Nonalcoholic Fatty Liver Disease,rosiglitazone
 Hyperbilirubinemia,phenobarbital
 Noninfectious Colitis,dicyclomine
 Noninfectious Colitis,belladonna
-"Diabetes, Type 2",metformin
-"Diabetes, Type 2",glipizide
-"Diabetes, Type 2",glimepiride
-"Diabetes, Type 2",pioglitazone
-"Diabetes, Type 2",liraglutide
-"Diabetes, Type 2",sitagliptin
-"Diabetes, Type 2",metformin AND sitagliptin
+Type 2 Diabetes,metformin
+Type 2 Diabetes,glipizide
+Type 2 Diabetes,glimepiride
+Type 2 Diabetes,pioglitazone
+Type 2 Diabetes,liraglutide
+Type 2 Diabetes,sitagliptin
+Type 2 Diabetes,metformin AND sitagliptin
 Nonketotic Hyperosmolar Syndrome,insulin regular
 Nonketotic Hyperosmolar Syndrome,insulin glulisine
 Nonketotic Hyperosmolar Syndrome,insulin lispro
@@ -7175,20 +7175,20 @@ Opioid-Induced Constipation,lubiprostone
 Opioid-Induced Constipation,methylnaltrexone
 Opioid-Induced Constipation,naldemedine
 Onychomycosis,undecylenic acid
-"Onychomycosis, Fingernail",terbinafine
-"Onychomycosis, Fingernail",fluconazole
-"Onychomycosis, Fingernail",ciclopirox
-"Onychomycosis, Fingernail",itraconazole
-"Onychomycosis, Fingernail",ketoconazole
-"Onychomycosis, Fingernail",griseofulvin
-"Onychomycosis, Toenail",terbinafine
-"Onychomycosis, Toenail",ciclopirox
-"Onychomycosis, Toenail",fluconazole
-"Onychomycosis, Toenail",ketoconazole
-"Onychomycosis, Toenail",itraconazole
-"Onychomycosis, Toenail",efinaconazole
-"Onychomycosis, Toenail",griseofulvin
-"Onychomycosis, Toenail",tavaborole
+Fingernail Onychomycosis,terbinafine
+Fingernail Onychomycosis,fluconazole
+Fingernail Onychomycosis,ciclopirox
+Fingernail Onychomycosis,itraconazole
+Fingernail Onychomycosis,ketoconazole
+Fingernail Onychomycosis,griseofulvin
+Toenail Onychomycosis,terbinafine
+Toenail Onychomycosis,ciclopirox
+Toenail Onychomycosis,fluconazole
+Toenail Onychomycosis,ketoconazole
+Toenail Onychomycosis,itraconazole
+Toenail Onychomycosis,efinaconazole
+Toenail Onychomycosis,griseofulvin
+Toenail Onychomycosis,tavaborole
 Opiate Dependence,buprenorphine AND naloxone
 Opiate Dependence,buprenorphine
 Opiate Dependence,naltrexone
@@ -7456,7 +7456,7 @@ Pancreatic Cancer,mitomycin
 Pancreatic Cancer,streptozocin
 Pancreatic Cancer,cetuximab
 Pancreatic Cancer,olaparib
-"Diabetes, Type 3c",metformin
+Type 3c Diabetes,metformin
 Panic Disorder,clonazepam
 Panic Disorder,alprazolam
 Panic Disorder,lorazepam
@@ -7885,7 +7885,7 @@ Premenstrual Syndrome,ethinyl estradiol AND levonorgestrel
 Premenstrual Syndrome,acetaminophen AND caffeine AND pyrilamine
 Premenstrual Syndrome,pamabrom
 Premenstrual Syndrome,acetaminophen AND pamabrom
-"Skin Disinfection, Preoperative",chlorhexidine
+Preoperative Skin Disinfection,chlorhexidine
 Pre-Exposure Prophylaxis,emtricitabine AND tenofovir
 Pre-Exposure Prophylaxis,emtricitabine AND tenofovir alafenamide
 Alzheimer's Disease,donepezil
@@ -7918,10 +7918,10 @@ HIV Infection,ritonavir
 HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
 Myelofibrosis,ruxolitinib
 Myelofibrosis,fedratinib
 Merkel Cell Carcinoma,avelumab
@@ -8593,12 +8593,12 @@ Erectile Dysfunction,tadalafil
 Erectile Dysfunction,vardenafil
 Erectile Dysfunction,alprostadil
 Erectile Dysfunction,avanafil
-"Sexual Dysfunction, SSRI Induced",buspirone
-"Sexual Dysfunction, SSRI Induced",sildenafil
-"Sexual Dysfunction, SSRI Induced",bupropion
-"Sexual Dysfunction, SSRI Induced",dextroamphetamine
-"Sexual Dysfunction, SSRI Induced",cyproheptadine
-"Sexual Dysfunction, SSRI Induced",amantadine
+SSRI Induced Sexual Dysfunction,buspirone
+SSRI Induced Sexual Dysfunction,sildenafil
+SSRI Induced Sexual Dysfunction,bupropion
+SSRI Induced Sexual Dysfunction,dextroamphetamine
+SSRI Induced Sexual Dysfunction,cyproheptadine
+SSRI Induced Sexual Dysfunction,amantadine
 Small Fiber Neuropathy,gabapentin
 Small Fiber Neuropathy,duloxetine
 Small Fiber Neuropathy,pregabalin
@@ -8616,14 +8616,14 @@ Reflex Sympathetic Dystrophy Syndrome,pregabalin
 Reflex Sympathetic Dystrophy Syndrome,doxepin
 Reflex Sympathetic Dystrophy Syndrome,carbamazepine
 Small Bowel Bacterial Overgrowth,amoxicillin AND clavulanate
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Laryngopharyngeal Reflux,omeprazole
 Laryngopharyngeal Reflux,pantoprazole
 Laryngopharyngeal Reflux,ranitidine
@@ -8710,8 +8710,8 @@ Squamous Cell Carcinoma,bleomycin
 Squamous Cell Carcinoma,cemiplimab
 Dermatological Disorders,betamethasone
 Dermatological Disorders,betamethasone
-"Skin Disinfection, Preoperative",chlorhexidine
-"Skin Disinfection, Preoperative",chlorhexidine
+Preoperative Skin Disinfection,chlorhexidine
+Preoperative Skin Disinfection,chlorhexidine
 Skin or Soft Tissue Infection,cephalexin
 Skin or Soft Tissue Infection,clindamycin
 Skin or Soft Tissue Infection,doxycycline
@@ -8905,12 +8905,12 @@ Squamous Cell Carcinoma,cetuximab
 Squamous Cell Carcinoma,bleomycin
 Squamous Cell Carcinoma,cemiplimab
 Systemic Sclerosis-Associated Interstitial Lung Disease,nintedanib
-"Sexual Dysfunction, SSRI Induced",buspirone
-"Sexual Dysfunction, SSRI Induced",sildenafil
-"Sexual Dysfunction, SSRI Induced",bupropion
-"Sexual Dysfunction, SSRI Induced",dextroamphetamine
-"Sexual Dysfunction, SSRI Induced",cyproheptadine
-"Sexual Dysfunction, SSRI Induced",amantadine
+SSRI Induced Sexual Dysfunction,buspirone
+SSRI Induced Sexual Dysfunction,sildenafil
+SSRI Induced Sexual Dysfunction,bupropion
+SSRI Induced Sexual Dysfunction,dextroamphetamine
+SSRI Induced Sexual Dysfunction,cyproheptadine
+SSRI Induced Sexual Dysfunction,amantadine
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -9116,7 +9116,7 @@ Mitral Valve Prolapse,bisoprolol
 Mitral Valve Prolapse,nebivolol
 Mitral Valve Prolapse,nadolol
 Mitral Valve Prolapse,labetalol
-"Diabetes, Type 3c",metformin
+Type 3c Diabetes,metformin
 Ventricular Tachycardia,atenolol
 Ventricular Tachycardia,amiodarone
 Ventricular Tachycardia,propranolol
@@ -9209,9 +9209,9 @@ Vaginal Yeast Infection,ketoconazole
 Vaginal Yeast Infection,itraconazole
 Vaginal Yeast Infection,tioconazole
 Vaginal Yeast Infection,boric acid
-"Hypothyroidism, After Thyroid Removal ",levothyroxine
-"Hypothyroidism, After Thyroid Removal ",thyroid desiccated
-"Hypothyroidism, After Thyroid Removal ",liothyronine
+After Thyroid Removal Hypothyroidism ,levothyroxine
+After Thyroid Removal Hypothyroidism ,thyroid desiccated
+After Thyroid Removal Hypothyroidism ,liothyronine
 Underactive Thyroid ,levothyroxine
 Underactive Thyroid ,thyroid desiccated
 Underactive Thyroid ,liothyronine
@@ -9447,10 +9447,10 @@ Tuberous Sclerosis,everolimus
 Tenosynovial Giant Cell Tumor,pexidartinib
 Fallopian Tube Cancer,bevacizumab
 Fallopian Tube Cancer,niraparib
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Tuberous Sclerosis,everolimus
 Tuberous Sclerosis,everolimus
 Tumor Necrosis Factor Receptor Associated Periodic Syndrome,canakinumab
@@ -9461,19 +9461,19 @@ Osteosarcoma,dactinomycin
 Transurethral Prostatectomy,fosfomycin
 Tympanostomy Tube Placement Surgery,ciprofloxacin
 Tympanostomy Tube Placement Surgery,ciprofloxacin
-"Diabetes, Type 1",insulin glargine
-"Diabetes, Type 1",insulin lispro
-"Diabetes, Type 1",insulin aspart
-"Diabetes, Type 1",insulin regular
-"Diabetes, Type 1",insulin glulisine
-"Diabetes, Type 2",metformin
-"Diabetes, Type 2",glipizide
-"Diabetes, Type 2",glimepiride
-"Diabetes, Type 2",pioglitazone
-"Diabetes, Type 2",liraglutide
-"Diabetes, Type 2",sitagliptin
-"Diabetes, Type 2",metformin AND sitagliptin
-"Diabetes, Type 3c",metformin
+Type 1 Diabetes,insulin glargine
+Type 1 Diabetes,insulin lispro
+Type 1 Diabetes,insulin aspart
+Type 1 Diabetes,insulin regular
+Type 1 Diabetes,insulin glulisine
+Type 2 Diabetes,metformin
+Type 2 Diabetes,glipizide
+Type 2 Diabetes,glimepiride
+Type 2 Diabetes,pioglitazone
+Type 2 Diabetes,liraglutide
+Type 2 Diabetes,sitagliptin
+Type 2 Diabetes,metformin AND sitagliptin
+Type 3c Diabetes,metformin
 Aphthous Ulcer,triamcinolone
 Aphthous Ulcer,dexamethasone
 Aphthous Ulcer,benzocaine
@@ -9898,4 +9898,4 @@ Acne,adapalene
 Acne,tetracycline
 Acne,cephalexin
 Acne,sulfamethoxazole AND trimethoprim
-"Mucormycosis, Invasive",isavuconazonium
+Invasive Mucormycosis,isavuconazonium

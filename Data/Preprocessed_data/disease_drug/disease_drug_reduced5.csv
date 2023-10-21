@@ -324,10 +324,10 @@ Aspiration Pneumonia,cefoxitin
 Aspiration Pneumonia,cilastatin AND imipenem
 Dercum's Disease,fentanyl
 Dercum's Disease,pregabalin
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -2310,8 +2310,8 @@ Schizophrenia,chlorpromazine
 Schizophrenia,paliperidone
 Schizophrenia,ziprasidone
 Schizophrenia,loxapine
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Dissociative Identity Disorder,sertraline
 Dissociative Identity Disorder,venlafaxine
 Dissociative Identity Disorder,fluoxetine
@@ -2813,8 +2813,8 @@ Hyperhidrosis,glycopyrronium
 Hyperhidrosis,onabotulinumtoxinA
 Peritoneal Cancer,bevacizumab
 Peritoneal Cancer,niraparib
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Facial Wrinkles,tazarotene
 Facial Wrinkles,onabotulinumtoxinA
 Facial Wrinkles,abobotulinumtoxinA
@@ -2834,22 +2834,22 @@ High Cholesterol,gemfibrozil
 High Cholesterol,niacin
 High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Muscle Twitching ,baclofen
 Nonalcoholic Fatty Liver Disease,ursodiol
 Nonalcoholic Fatty Liver Disease,pioglitazone
@@ -3015,10 +3015,10 @@ Hairy Cell Leukemia,pentostatin
 Hairy Cell Leukemia,interferon alfa-2b
 Hairy Cell Leukemia,moxetumomab pasudotox
 Atherosclerosis,rosuvastatin
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Hairy Cell Leukemia,cladribine
 Hairy Cell Leukemia,pentostatin
 Hairy Cell Leukemia,interferon alfa-2b
@@ -3059,10 +3059,10 @@ Migraine,naratriptan
 Migraine,almotriptan
 Migraine,zolmitriptan
 Migraine,eletriptan
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Hemophagocytic Lymphohistiocytosis,emapalumab
 Hemophagocytic Lymphohistiocytosis,emapalumab
 ThromboticANDThromboembolic Disorder,heparin
@@ -3083,26 +3083,26 @@ Ramsay Hunt Syndrome,prednisone
 Ramsay Hunt Syndrome,valacyclovir
 Herpetic Keratitis,trifluridine
 Herpetic Keratitis,acyclovir
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
 Ehrlichiosis,doxycycline
 Ehrlichiosis,tetracycline
 Ehrlichiosis,doxycycline
@@ -3118,22 +3118,22 @@ High Cholesterol,gemfibrozil
 High Cholesterol,niacin
 High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Non-Hodgkin's Lymphoma,cyclophosphamide
 Non-Hodgkin's Lymphoma,vincristine
 Non-Hodgkin's Lymphoma,rituximab
@@ -3232,18 +3232,18 @@ Hodgkin's Lymphoma,methotrexate
 Hodgkin's Lymphoma,chlorambucil
 Hodgkin's Lymphoma,nivolumab
 Hodgkin's Lymphoma,carmustine
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Nonketotic Hyperosmolar Syndrome,insulin regular
 Nonketotic Hyperosmolar Syndrome,insulin glulisine
 Nonketotic Hyperosmolar Syndrome,insulin lispro
@@ -3314,22 +3314,22 @@ High Cholesterol,gemfibrozil
 High Cholesterol,niacin
 High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe AND simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Hyperekplexia,diazepam
 Hyperekplexia,clonazepam
 Hyperekplexia,divalproex sodium
@@ -3392,14 +3392,14 @@ Osteoarthritis,prednisone
 Osteoarthritis,aspirin
 Osteoarthritis,nabumetone
 Osteoarthritis,duloxetine
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
 Pseudotumor Cerebri,acetazolamide
 Nonalcoholic Fatty Liver Disease,ursodiol
 Nonalcoholic Fatty Liver Disease,pioglitazone
@@ -3910,14 +3910,14 @@ Scleroderma,prednisone
 Scleroderma,cyclophosphamide
 Vertigo,meclizine
 Vertigo,promethazine
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
 Non-Hodgkin's Lymphoma,cyclophosphamide
 Non-Hodgkin's Lymphoma,vincristine
 Non-Hodgkin's Lymphoma,rituximab
@@ -4145,8 +4145,8 @@ Migraine,naratriptan
 Migraine,almotriptan
 Migraine,zolmitriptan
 Migraine,eletriptan
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Erythromelalgia,gabapentin
 Mitral Valve Prolapse,atenolol
 Mitral Valve Prolapse,metoprolol
@@ -4885,10 +4885,10 @@ HIV Infection,ritonavir
 HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin 
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
 Myelofibrosis,ruxolitinib
 Myelofibrosis,fedratinib
 Peritoneal Cancer,bevacizumab
@@ -5301,14 +5301,14 @@ Reflex Sympathetic Dystrophy Syndrome,milnacipran
 Reflex Sympathetic Dystrophy Syndrome,pregabalin
 Reflex Sympathetic Dystrophy Syndrome,doxepin
 Reflex Sympathetic Dystrophy Syndrome,carbamazepine
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Sinusitis,amoxicillin
 Sinusitis,prednisone
 Sinusitis,amoxicillin AND clavulanate
@@ -5774,10 +5774,10 @@ Trophoblastic Disease,dactinomycin
 Trophoblastic Disease,methotrexate
 Trophoblastic Disease,dinoprostone
 Trophoblastic Disease,dactinomycin
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Osteosarcoma,methotrexate
 Osteosarcoma,doxorubicin
 Osteosarcoma,cyclophosphamide

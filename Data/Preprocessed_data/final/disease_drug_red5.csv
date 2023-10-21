@@ -1,16 +1,16 @@
 disease,drug
 Alkylating Agent Cystitis,sodium bicarbonate
-Alkylating Agent Cystitis,citric acid / sodium citrate
+Alkylating Agent Cystitis,citric acid AND sodium citrate
 CNS Infection,cefotaxime
-Seizures (Convulsions),levetiracetam
-Seizures (Convulsions),phenobarbital
-Seizures (Convulsions),phenytoin
-Seizures (Convulsions),diazepam
-Seizures (Convulsions),oxcarbazepine
-Seizures (Convulsions),zonisamide
-Seizures (Convulsions),topiramate
-Seizures (Convulsions),valproic acid
-Seizures (Convulsions),primidone
+Seizures ,levetiracetam
+Seizures ,phenobarbital
+Seizures ,phenytoin
+Seizures ,diazepam
+Seizures ,oxcarbazepine
+Seizures ,zonisamide
+Seizures ,topiramate
+Seizures ,valproic acid
+Seizures ,primidone
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -21,7 +21,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 GERD,omeprazole
 GERD,pantoprazole
 GERD,ranitidine
@@ -31,7 +31,7 @@ GERD,esomeprazole
 GERD,rabeprazole
 GERD,sucralfate
 GERD,dexlansoprazole
-GERD,omeprazole / sodium bicarbonate
+GERD,omeprazole AND sodium bicarbonate
 Muscle Pain,ibuprofen
 Muscle Pain,naproxen
 Muscle Pain,acetaminophen
@@ -47,7 +47,7 @@ Acne,benzoyl peroxide
 Acne,adapalene
 Acne,tetracycline
 Acne,cephalexin
-Acne,sulfamethoxazole / trimethoprim
+Acne,sulfamethoxazole AND trimethoprim
 Acne,doxycycline
 Acne,spironolactone
 Acne,minocycline
@@ -58,28 +58,28 @@ Acne,benzoyl peroxide
 Acne,adapalene
 Acne,tetracycline
 Acne,cephalexin
-Acne,sulfamethoxazole / trimethoprim
+Acne,sulfamethoxazole AND trimethoprim
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Erythromelalgia,gabapentin
 Urinary Tract Infection,ciprofloxacin
 Urinary Tract Infection,nitrofurantoin
-Urinary Tract Infection,sulfamethoxazole / trimethoprim
+Urinary Tract Infection,sulfamethoxazole AND trimethoprim
 Urinary Tract Infection,amoxicillin
 Urinary Tract Infection,doxycycline
 Urinary Tract Infection,levofloxacin
 Urinary Tract Infection,ceftriaxone
-Urinary Tract Infection,amoxicillin / clavulanate
+Urinary Tract Infection,amoxicillin AND clavulanate
 Urinary Tract Infection,cefuroxime
 Urinary Tract Infection,trimethoprim
 Urinary Tract Infection,methenamine
@@ -103,14 +103,14 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Acute Lymphocytic Leukemia,prednisone
@@ -130,7 +130,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -143,19 +143,19 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Sinusitis,amoxicillin
 Sinusitis,prednisone
-Sinusitis,amoxicillin / clavulanate
+Sinusitis,amoxicillin AND clavulanate
 Sinusitis,cefdinir
 Sinusitis,azithromycin
 Sinusitis,levofloxacin
@@ -163,17 +163,17 @@ Sinusitis,cefuroxime
 Sinusitis,clarithromycin
 Sinusitis,ciprofloxacin
 Sinusitis,clindamycin
-Sinusitis,sulfamethoxazole / trimethoprim
+Sinusitis,sulfamethoxazole AND trimethoprim
 Sinusitis,moxifloxacin
-ADHD (Attention Deficit Hyperactivity Disorder),methylphenidate
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine / dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),clonidine
-ADHD (Attention Deficit Hyperactivity Disorder),bupropion
-ADHD (Attention Deficit Hyperactivity Disorder),guanfacine
-ADHD (Attention Deficit Hyperactivity Disorder),lisdexamfetamine
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),atomoxetine
+ADHD ,methylphenidate
+ADHD ,amphetamine AND dextroamphetamine
+ADHD ,dextroamphetamine
+ADHD ,clonidine
+ADHD ,bupropion
+ADHD ,guanfacine
+ADHD ,lisdexamfetamine
+ADHD ,amphetamine
+ADHD ,atomoxetine
 Renal Cell Carcinoma,pazopanib
 Renal Cell Carcinoma,sunitinib
 Renal Cell Carcinoma,axitinib
@@ -187,15 +187,15 @@ Renal Cell Carcinoma,aldesleukin
 Renal Cell Carcinoma,capecitabine
 Renal Cell Carcinoma,temsirolimus
 Renal Cell Carcinoma,lenvatinib
-ADHD (Attention Deficit Hyperactivity Disorder),methylphenidate
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine / dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),clonidine
-ADHD (Attention Deficit Hyperactivity Disorder),bupropion
-ADHD (Attention Deficit Hyperactivity Disorder),guanfacine
-ADHD (Attention Deficit Hyperactivity Disorder),lisdexamfetamine
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),atomoxetine
+ADHD ,methylphenidate
+ADHD ,amphetamine AND dextroamphetamine
+ADHD ,dextroamphetamine
+ADHD ,clonidine
+ADHD ,bupropion
+ADHD ,guanfacine
+ADHD ,lisdexamfetamine
+ADHD ,amphetamine
+ADHD ,atomoxetine
 Dercum's Disease,fentanyl
 Dercum's Disease,pregabalin
 Atrial Fibrillation,digoxin
@@ -223,9 +223,9 @@ Atrial Fibrillation,propranolol
 Myelofibrosis,ruxolitinib
 Myelofibrosis,fedratinib
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 AIDS Related Wasting,dronabinol
@@ -238,13 +238,13 @@ AIDS Related Wasting,dronabinol
 AIDS Related Wasting,megestrol
 AIDS Related Wasting,somatropin
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Alkylating Agent Cystitis,sodium bicarbonate
-Alkylating Agent Cystitis,citric acid / sodium citrate
+Alkylating Agent Cystitis,citric acid AND sodium citrate
 Acute Lymphocytic Leukemia,prednisone
 Acute Lymphocytic Leukemia,vincristine
 Acute Lymphocytic Leukemia,cyclophosphamide
@@ -302,7 +302,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -314,20 +314,20 @@ Amebiasis,paromomycin
 Amebiasis,chloroquine
 Aspiration Pneumonia,prednisone
 Aspiration Pneumonia,clindamycin
-Aspiration Pneumonia,amoxicillin / clavulanate
+Aspiration Pneumonia,amoxicillin AND clavulanate
 Aspiration Pneumonia,metronidazole
 Aspiration Pneumonia,dexamethasone
 Aspiration Pneumonia,lansoprazole
-Aspiration Pneumonia,piperacillin / tazobactam
-Aspiration Pneumonia,ampicillin / sulbactam
+Aspiration Pneumonia,piperacillin AND tazobactam
+Aspiration Pneumonia,ampicillin AND sulbactam
 Aspiration Pneumonia,cefoxitin
-Aspiration Pneumonia,cilastatin / imipenem
+Aspiration Pneumonia,cilastatin AND imipenem
 Dercum's Disease,fentanyl
 Dercum's Disease,pregabalin
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -338,7 +338,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -349,7 +349,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -360,7 +360,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -371,7 +371,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -382,7 +382,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Muscle Pain,ibuprofen
 Muscle Pain,naproxen
 Muscle Pain,acetaminophen
@@ -452,16 +452,16 @@ Prosthetic Heart Valves - Thrombosis Prophylaxis,warfarin
 Prosthetic Heart Valves - Thrombosis Prophylaxis,dipyridamole
 Auditory Processing Disorder,dexmethylphenidate
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Atherosclerosis,rosuvastatin
 Coronary Artery Disease,lisinopril
 Coronary Artery Disease,amlodipine
 Coronary Artery Disease,perindopril
-Coronary Artery Disease,amlodipine / atorvastatin
+Coronary Artery Disease,amlodipine AND atorvastatin
 Coronary Artery Disease,isoxsuprine
 Coronary Artery Disease,rivaroxaban
 Osteoarthritis,meloxicam
@@ -469,7 +469,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -483,41 +483,41 @@ Aseptic Necrosis,aspirin
 Aseptic Necrosis,naproxen
 Aspiration Pneumonia,prednisone
 Aspiration Pneumonia,clindamycin
-Aspiration Pneumonia,amoxicillin / clavulanate
+Aspiration Pneumonia,amoxicillin AND clavulanate
 Aspiration Pneumonia,metronidazole
 Aspiration Pneumonia,dexamethasone
 Aspiration Pneumonia,lansoprazole
-Aspiration Pneumonia,piperacillin / tazobactam
-Aspiration Pneumonia,ampicillin / sulbactam
+Aspiration Pneumonia,piperacillin AND tazobactam
+Aspiration Pneumonia,ampicillin AND sulbactam
 Aspiration Pneumonia,cefoxitin
-Aspiration Pneumonia,cilastatin / imipenem
+Aspiration Pneumonia,cilastatin AND imipenem
 Aspiration Pneumonia,prednisone
 Aspiration Pneumonia,clindamycin
-Aspiration Pneumonia,amoxicillin / clavulanate
+Aspiration Pneumonia,amoxicillin AND clavulanate
 Aspiration Pneumonia,metronidazole
 Aspiration Pneumonia,dexamethasone
 Aspiration Pneumonia,lansoprazole
-Aspiration Pneumonia,piperacillin / tazobactam
-Aspiration Pneumonia,ampicillin / sulbactam
+Aspiration Pneumonia,piperacillin AND tazobactam
+Aspiration Pneumonia,ampicillin AND sulbactam
 Aspiration Pneumonia,cefoxitin
-Aspiration Pneumonia,cilastatin / imipenem
+Aspiration Pneumonia,cilastatin AND imipenem
 Aspiration Pneumonia,prednisone
 Aspiration Pneumonia,clindamycin
-Aspiration Pneumonia,amoxicillin / clavulanate
+Aspiration Pneumonia,amoxicillin AND clavulanate
 Aspiration Pneumonia,metronidazole
 Aspiration Pneumonia,dexamethasone
 Aspiration Pneumonia,lansoprazole
-Aspiration Pneumonia,piperacillin / tazobactam
-Aspiration Pneumonia,ampicillin / sulbactam
+Aspiration Pneumonia,piperacillin AND tazobactam
+Aspiration Pneumonia,ampicillin AND sulbactam
 Aspiration Pneumonia,cefoxitin
-Aspiration Pneumonia,cilastatin / imipenem
+Aspiration Pneumonia,cilastatin AND imipenem
 Atherosclerosis,rosuvastatin
 Tinea Pedis,clotrimazole
 Tinea Pedis,ketoconazole
 Tinea Pedis,terbinafine
 Tinea Pedis,econazole
 Tinea Pedis,terbinafine
-Tinea Pedis,betamethasone / clotrimazole
+Tinea Pedis,betamethasone AND clotrimazole
 Tinea Pedis,tolnaftate
 Tinea Pedis,ciclopirox
 Tinea Pedis,miconazole
@@ -564,33 +564,33 @@ Atrial Fibrillation,rivaroxaban
 Atrial Fibrillation,dronedarone
 Atrial Fibrillation,clonidine
 Atrial Fibrillation,propranolol
-ADHD (Attention Deficit Hyperactivity Disorder),methylphenidate
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine / dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),clonidine
-ADHD (Attention Deficit Hyperactivity Disorder),bupropion
-ADHD (Attention Deficit Hyperactivity Disorder),guanfacine
-ADHD (Attention Deficit Hyperactivity Disorder),lisdexamfetamine
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),atomoxetine
-ADHD (Attention Deficit Hyperactivity Disorder),methylphenidate
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine / dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),clonidine
-ADHD (Attention Deficit Hyperactivity Disorder),bupropion
-ADHD (Attention Deficit Hyperactivity Disorder),guanfacine
-ADHD (Attention Deficit Hyperactivity Disorder),lisdexamfetamine
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),atomoxetine
-ADHD (Attention Deficit Hyperactivity Disorder),methylphenidate
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine / dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),clonidine
-ADHD (Attention Deficit Hyperactivity Disorder),bupropion
-ADHD (Attention Deficit Hyperactivity Disorder),guanfacine
-ADHD (Attention Deficit Hyperactivity Disorder),lisdexamfetamine
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),atomoxetine
+ADHD ,methylphenidate
+ADHD ,amphetamine AND dextroamphetamine
+ADHD ,dextroamphetamine
+ADHD ,clonidine
+ADHD ,bupropion
+ADHD ,guanfacine
+ADHD ,lisdexamfetamine
+ADHD ,amphetamine
+ADHD ,atomoxetine
+ADHD ,methylphenidate
+ADHD ,amphetamine AND dextroamphetamine
+ADHD ,dextroamphetamine
+ADHD ,clonidine
+ADHD ,bupropion
+ADHD ,guanfacine
+ADHD ,lisdexamfetamine
+ADHD ,amphetamine
+ADHD ,atomoxetine
+ADHD ,methylphenidate
+ADHD ,amphetamine AND dextroamphetamine
+ADHD ,dextroamphetamine
+ADHD ,clonidine
+ADHD ,bupropion
+ADHD ,guanfacine
+ADHD ,lisdexamfetamine
+ADHD ,amphetamine
+ADHD ,atomoxetine
 Auditory Processing Disorder,dexmethylphenidate
 Auditory Processing Disorder,dexmethylphenidate
 Auditory Processing Disorder,dexmethylphenidate
@@ -606,7 +606,7 @@ Aseptic Necrosis,aspirin
 Aseptic Necrosis,naproxen
 Back Pain,tramadol
 Back Pain,ibuprofen
-Back Pain,acetaminophen / hydrocodone
+Back Pain,acetaminophen AND hydrocodone
 Back Pain,naproxen
 Back Pain,diclofenac
 Back Pain,duloxetine
@@ -614,7 +614,7 @@ Back Pain,aspirin
 Back Pain,nabumetone
 Back Pain,tramadol
 Back Pain,ibuprofen
-Back Pain,acetaminophen / hydrocodone
+Back Pain,acetaminophen AND hydrocodone
 Back Pain,naproxen
 Back Pain,diclofenac
 Back Pain,duloxetine
@@ -656,7 +656,7 @@ Basal Cell Carcinoma,sonidegib
 Migraine,sumatriptan
 Migraine,rizatriptan
 Migraine,gabapentin
-Migraine,aspirin / butalbital / caffeine
+Migraine,aspirin AND butalbital AND caffeine
 Migraine,cyclobenzaprine
 Migraine,diclofenac
 Migraine,naratriptan
@@ -666,7 +666,7 @@ Migraine,eletriptan
 Migraine,sumatriptan
 Migraine,rizatriptan
 Migraine,gabapentin
-Migraine,aspirin / butalbital / caffeine
+Migraine,aspirin AND butalbital AND caffeine
 Migraine,cyclobenzaprine
 Migraine,diclofenac
 Migraine,naratriptan
@@ -683,9 +683,9 @@ Dermal Ulcer,becaplermin
 Dermal Ulcer,cadexomer iodine
 Bejel,penicillin g benzathine
 Gas,simethicone
-Gas,aluminum hydroxide / magnesium hydroxide / simethicone
+Gas,aluminum hydroxide AND magnesium hydroxide AND simethicone
 Bejel,penicillin g benzathine
-Muscle Twitching (Fasciculations),baclofen
+Muscle Twitching ,baclofen
 Pseudotumor Cerebri,acetazolamide
 Chronic Fatigue Syndrome,modafinil
 Chronic Fatigue Syndrome,duloxetine
@@ -703,7 +703,7 @@ Benign Prostatic Hyperplasia,tadalafil
 Benign Prostatic Hyperplasia,dutasteride
 Benign Prostatic Hyperplasia,prazosin
 Benign Prostatic Hyperplasia,silodosin
-Benign Prostatic Hyperplasia,dutasteride / tamsulosin
+Benign Prostatic Hyperplasia,dutasteride AND tamsulosin
 Benign Prostatic Hyperplasia,tamsulosin
 Benign Prostatic Hyperplasia,finasteride
 Benign Prostatic Hyperplasia,doxazosin
@@ -713,7 +713,7 @@ Benign Prostatic Hyperplasia,tadalafil
 Benign Prostatic Hyperplasia,dutasteride
 Benign Prostatic Hyperplasia,prazosin
 Benign Prostatic Hyperplasia,silodosin
-Benign Prostatic Hyperplasia,dutasteride / tamsulosin
+Benign Prostatic Hyperplasia,dutasteride AND tamsulosin
 Benign Prostatic Hyperplasia,tamsulosin
 Benign Prostatic Hyperplasia,finasteride
 Benign Prostatic Hyperplasia,doxazosin
@@ -723,8 +723,8 @@ Benign Prostatic Hyperplasia,tadalafil
 Benign Prostatic Hyperplasia,dutasteride
 Benign Prostatic Hyperplasia,prazosin
 Benign Prostatic Hyperplasia,silodosin
-Benign Prostatic Hyperplasia,dutasteride / tamsulosin
-Muscle Twitching (Fasciculations),baclofen
+Benign Prostatic Hyperplasia,dutasteride AND tamsulosin
+Muscle Twitching ,baclofen
 Neurofibromatosis,bevacizumab
 Primary Biliary Cholangitis,ursodiol
 Primary Biliary Cholangitis,colchicine
@@ -822,12 +822,12 @@ Acne,benzoyl peroxide
 Acne,adapalene
 Acne,tetracycline
 Acne,cephalexin
-Acne,sulfamethoxazole / trimethoprim
+Acne,sulfamethoxazole AND trimethoprim
 Urinary Tract Stones,tamsulosin
 Urinary Tract Stones,allopurinol
 Urinary Tract Stones,magnesium oxide
-Urinary Tract Stones,citric acid / potassium citrate
-Urinary Tract Stones,citric acid / sodium citrate
+Urinary Tract Stones,citric acid AND potassium citrate
+Urinary Tract Stones,citric acid AND sodium citrate
 Overactive Bladder,darifenacin
 Overactive Bladder,onabotulinumtoxinA
 Overactive Bladder,darifenacin
@@ -835,8 +835,8 @@ Overactive Bladder,onabotulinumtoxinA
 Urinary Tract Stones,tamsulosin
 Urinary Tract Stones,allopurinol
 Urinary Tract Stones,magnesium oxide
-Urinary Tract Stones,citric acid / potassium citrate
-Urinary Tract Stones,citric acid / sodium citrate
+Urinary Tract Stones,citric acid AND potassium citrate
+Urinary Tract Stones,citric acid AND sodium citrate
 Urinary Incontinence,oxybutynin
 Urinary Incontinence,tolterodine
 Urinary Incontinence,amitriptyline
@@ -857,9 +857,9 @@ Deep Vein Thrombosis,edoxaban
 Deep Vein Thrombosis,urokinase
 Lice,permethrin
 Lice,lindane
-Lice,piperonyl butoxide / pyrethrins
+Lice,piperonyl butoxide AND pyrethrins
 Lice,spinosad
-Tinea Corporis,betamethasone / clotrimazole
+Tinea Corporis,betamethasone AND clotrimazole
 Tinea Corporis,ketoconazole
 Tinea Corporis,clotrimazole
 Tinea Corporis,terbinafine
@@ -938,7 +938,7 @@ Benign Prostatic Hyperplasia,tadalafil
 Benign Prostatic Hyperplasia,dutasteride
 Benign Prostatic Hyperplasia,prazosin
 Benign Prostatic Hyperplasia,silodosin
-Benign Prostatic Hyperplasia,dutasteride / tamsulosin
+Benign Prostatic Hyperplasia,dutasteride AND tamsulosin
 Vertigo,meclizine
 Vertigo,promethazine
 CNS Infection,cefotaxime
@@ -970,7 +970,7 @@ Acne,benzoyl peroxide
 Acne,adapalene
 Acne,tetracycline
 Acne,cephalexin
-Acne,sulfamethoxazole / trimethoprim
+Acne,sulfamethoxazole AND trimethoprim
 Breast Cancer,tamoxifen
 Breast Cancer,anastrozole
 Breast Cancer,letrozole
@@ -995,36 +995,36 @@ Breast Cancer,capecitabine
 Breast Cancer,everolimus
 COPD,prednisone
 COPD,montelukast
-COPD,budesonide / formoterol
-COPD,fluticasone / vilanterol
+COPD,budesonide AND formoterol
+COPD,fluticasone AND vilanterol
 COPD,aclidinium
 COPD,levalbuterol
 COPD,roflumilast
-COPD,umeclidinium / vilanterol
-COPD,olodaterol / tiotropium
+COPD,umeclidinium AND vilanterol
+COPD,olodaterol AND tiotropium
 COPD,dyphylline
-COPD,fluticasone / umeclidinium / vilanterol
+COPD,fluticasone AND umeclidinium AND vilanterol
 COPD,olodaterol
 COPD,umeclidinium
 COPD,prednisone
 COPD,montelukast
-COPD,budesonide / formoterol
-COPD,fluticasone / vilanterol
+COPD,budesonide AND formoterol
+COPD,fluticasone AND vilanterol
 COPD,aclidinium
 COPD,levalbuterol
 COPD,roflumilast
-COPD,umeclidinium / vilanterol
-COPD,olodaterol / tiotropium
+COPD,umeclidinium AND vilanterol
+COPD,olodaterol AND tiotropium
 COPD,dyphylline
-COPD,fluticasone / umeclidinium / vilanterol
+COPD,fluticasone AND umeclidinium AND vilanterol
 COPD,olodaterol
 COPD,umeclidinium
-Thrombotic/Thromboembolic Disorder,heparin
-Thrombotic/Thromboembolic Disorder,argatroban
-Thrombotic/Thromboembolic Disorder,alteplase
-Thrombotic/Thromboembolic Disorder,urokinase
+ThromboticANDThromboembolic Disorder,heparin
+ThromboticANDThromboembolic Disorder,argatroban
+ThromboticANDThromboembolic Disorder,alteplase
+ThromboticANDThromboembolic Disorder,urokinase
 Gas,simethicone
-Gas,aluminum hydroxide / magnesium hydroxide / simethicone
+Gas,aluminum hydroxide AND magnesium hydroxide AND simethicone
 Bursitis,naproxen
 Bursitis,prednisone
 Bursitis,indomethacin
@@ -1064,11 +1064,11 @@ Methicillin-Resistant Staphylococcus Aureus Infection,vancomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,linezolid
 Methicillin-Resistant Staphylococcus Aureus Infection,daptomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,ofloxacin
-Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin / quinupristin
+Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin AND quinupristin
 Coronary Artery Disease,lisinopril
 Coronary Artery Disease,amlodipine
 Coronary Artery Disease,perindopril
-Coronary Artery Disease,amlodipine / atorvastatin
+Coronary Artery Disease,amlodipine AND atorvastatin
 Coronary Artery Disease,isoxsuprine
 Coronary Artery Disease,rivaroxaban
 Muscle Pain,ibuprofen
@@ -1109,7 +1109,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -1130,7 +1130,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -1143,7 +1143,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -1274,11 +1274,11 @@ Multiple Myeloma,carfilzomib
 Multiple Myeloma,pomalidomide
 Multiple Myeloma,daratumumab
 Multiple Myeloma,melphalan
-Wilms' Tumor (Nephroblastoma),paclitaxel
-Wilms' Tumor (Nephroblastoma),vincristine
-Wilms' Tumor (Nephroblastoma),doxorubicin
-Wilms' Tumor (Nephroblastoma),cyclophosphamide
-Wilms' Tumor (Nephroblastoma),dactinomycin
+Wilms' Tumor ,paclitaxel
+Wilms' Tumor ,vincristine
+Wilms' Tumor ,doxorubicin
+Wilms' Tumor ,cyclophosphamide
+Wilms' Tumor ,dactinomycin
 Non-Hodgkin's Lymphoma,cyclophosphamide
 Non-Hodgkin's Lymphoma,vincristine
 Non-Hodgkin's Lymphoma,rituximab
@@ -1380,11 +1380,11 @@ Endometrial Cancer,anastrozole
 Endometrial Cancer,cyclophosphamide
 Endometrial Cancer,pembrolizumab
 Endometrial Cancer,lenvatinib
-Wilms' Tumor (Nephroblastoma),paclitaxel
-Wilms' Tumor (Nephroblastoma),vincristine
-Wilms' Tumor (Nephroblastoma),doxorubicin
-Wilms' Tumor (Nephroblastoma),cyclophosphamide
-Wilms' Tumor (Nephroblastoma),dactinomycin
+Wilms' Tumor ,paclitaxel
+Wilms' Tumor ,vincristine
+Wilms' Tumor ,doxorubicin
+Wilms' Tumor ,cyclophosphamide
+Wilms' Tumor ,dactinomycin
 Oral Thrush,nystatin
 Oral Thrush,fluconazole
 Oral Thrush,clotrimazole
@@ -1415,7 +1415,7 @@ Skin or Soft Tissue Infection,clindamycin
 Skin or Soft Tissue Infection,doxycycline
 Skin or Soft Tissue Infection,amoxicillin
 Skin or Soft Tissue Infection,ciprofloxacin
-Skin or Soft Tissue Infection,amoxicillin / clavulanate
+Skin or Soft Tissue Infection,amoxicillin AND clavulanate
 Skin or Soft Tissue Infection,minocycline
 Skin or Soft Tissue Infection,azithromycin
 Skin or Soft Tissue Infection,metronidazole
@@ -1429,7 +1429,7 @@ Skin or Soft Tissue Infection,clindamycin
 Skin or Soft Tissue Infection,doxycycline
 Skin or Soft Tissue Infection,amoxicillin
 Skin or Soft Tissue Infection,ciprofloxacin
-Skin or Soft Tissue Infection,amoxicillin / clavulanate
+Skin or Soft Tissue Infection,amoxicillin AND clavulanate
 Skin or Soft Tissue Infection,minocycline
 Skin or Soft Tissue Infection,azithromycin
 Skin or Soft Tissue Infection,metronidazole
@@ -1474,12 +1474,12 @@ Schizophrenia,ziprasidone
 Schizophrenia,loxapine
 Urinary Tract Infection,ciprofloxacin
 Urinary Tract Infection,nitrofurantoin
-Urinary Tract Infection,sulfamethoxazole / trimethoprim
+Urinary Tract Infection,sulfamethoxazole AND trimethoprim
 Urinary Tract Infection,amoxicillin
 Urinary Tract Infection,doxycycline
 Urinary Tract Infection,levofloxacin
 Urinary Tract Infection,ceftriaxone
-Urinary Tract Infection,amoxicillin / clavulanate
+Urinary Tract Infection,amoxicillin AND clavulanate
 Urinary Tract Infection,cefuroxime
 Urinary Tract Infection,trimethoprim
 Urinary Tract Infection,methenamine
@@ -1530,30 +1530,30 @@ Chronic Fatigue Syndrome,armodafinil
 Coronary Artery Disease,lisinopril
 Coronary Artery Disease,amlodipine
 Coronary Artery Disease,perindopril
-Coronary Artery Disease,amlodipine / atorvastatin
+Coronary Artery Disease,amlodipine AND atorvastatin
 Coronary Artery Disease,isoxsuprine
 Coronary Artery Disease,rivaroxaban
 Alkylating Agent Cystitis,sodium bicarbonate
-Alkylating Agent Cystitis,citric acid / sodium citrate
+Alkylating Agent Cystitis,citric acid AND sodium citrate
 Aspiration Pneumonia,prednisone
 Aspiration Pneumonia,clindamycin
-Aspiration Pneumonia,amoxicillin / clavulanate
+Aspiration Pneumonia,amoxicillin AND clavulanate
 Aspiration Pneumonia,metronidazole
 Aspiration Pneumonia,dexamethasone
 Aspiration Pneumonia,lansoprazole
-Aspiration Pneumonia,piperacillin / tazobactam
-Aspiration Pneumonia,ampicillin / sulbactam
+Aspiration Pneumonia,piperacillin AND tazobactam
+Aspiration Pneumonia,ampicillin AND sulbactam
 Aspiration Pneumonia,cefoxitin
-Aspiration Pneumonia,cilastatin / imipenem
-ADHD (Attention Deficit Hyperactivity Disorder),methylphenidate
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine / dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),dextroamphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),clonidine
-ADHD (Attention Deficit Hyperactivity Disorder),bupropion
-ADHD (Attention Deficit Hyperactivity Disorder),guanfacine
-ADHD (Attention Deficit Hyperactivity Disorder),lisdexamfetamine
-ADHD (Attention Deficit Hyperactivity Disorder),amphetamine
-ADHD (Attention Deficit Hyperactivity Disorder),atomoxetine
+Aspiration Pneumonia,cilastatin AND imipenem
+ADHD ,methylphenidate
+ADHD ,amphetamine AND dextroamphetamine
+ADHD ,dextroamphetamine
+ADHD ,clonidine
+ADHD ,bupropion
+ADHD ,guanfacine
+ADHD ,lisdexamfetamine
+ADHD ,amphetamine
+ADHD ,atomoxetine
 Hyperbilirubinemia,phenobarbital
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -1563,7 +1563,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -1573,7 +1573,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -1583,7 +1583,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -1593,22 +1593,22 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 Trophoblastic Disease,methotrexate
 Trophoblastic Disease,dinoprostone
 Trophoblastic Disease,dactinomycin
 COPD,prednisone
 COPD,montelukast
-COPD,budesonide / formoterol
-COPD,fluticasone / vilanterol
+COPD,budesonide AND formoterol
+COPD,fluticasone AND vilanterol
 COPD,aclidinium
 COPD,levalbuterol
 COPD,roflumilast
-COPD,umeclidinium / vilanterol
-COPD,olodaterol / tiotropium
+COPD,umeclidinium AND vilanterol
+COPD,olodaterol AND tiotropium
 COPD,dyphylline
-COPD,fluticasone / umeclidinium / vilanterol
+COPD,fluticasone AND umeclidinium AND vilanterol
 COPD,olodaterol
 COPD,umeclidinium
 Persistent Depressive Disorder,bupropion
@@ -1664,41 +1664,41 @@ Chronic Myofascial Pain,ibuprofen
 Chronic Myofascial Pain,naproxen
 COPD,prednisone
 COPD,montelukast
-COPD,budesonide / formoterol
-COPD,fluticasone / vilanterol
+COPD,budesonide AND formoterol
+COPD,fluticasone AND vilanterol
 COPD,aclidinium
 COPD,levalbuterol
 COPD,roflumilast
-COPD,umeclidinium / vilanterol
-COPD,olodaterol / tiotropium
+COPD,umeclidinium AND vilanterol
+COPD,olodaterol AND tiotropium
 COPD,dyphylline
-COPD,fluticasone / umeclidinium / vilanterol
+COPD,fluticasone AND umeclidinium AND vilanterol
 COPD,olodaterol
 COPD,umeclidinium
 COPD,prednisone
 COPD,montelukast
-COPD,budesonide / formoterol
-COPD,fluticasone / vilanterol
+COPD,budesonide AND formoterol
+COPD,fluticasone AND vilanterol
 COPD,aclidinium
 COPD,levalbuterol
 COPD,roflumilast
-COPD,umeclidinium / vilanterol
-COPD,olodaterol / tiotropium
+COPD,umeclidinium AND vilanterol
+COPD,olodaterol AND tiotropium
 COPD,dyphylline
-COPD,fluticasone / umeclidinium / vilanterol
+COPD,fluticasone AND umeclidinium AND vilanterol
 COPD,olodaterol
 COPD,umeclidinium
 COPD,prednisone
 COPD,montelukast
-COPD,budesonide / formoterol
-COPD,fluticasone / vilanterol
+COPD,budesonide AND formoterol
+COPD,fluticasone AND vilanterol
 COPD,aclidinium
 COPD,levalbuterol
 COPD,roflumilast
-COPD,umeclidinium / vilanterol
-COPD,olodaterol / tiotropium
+COPD,umeclidinium AND vilanterol
+COPD,olodaterol AND tiotropium
 COPD,dyphylline
-COPD,fluticasone / umeclidinium / vilanterol
+COPD,fluticasone AND umeclidinium AND vilanterol
 COPD,olodaterol
 COPD,umeclidinium
 Overactive Bladder,darifenacin
@@ -1707,7 +1707,7 @@ Prostatitis,ciprofloxacin
 Prostatitis,doxycycline
 Prostatitis,oxybutynin
 Prostatitis,levofloxacin
-Prostatitis,sulfamethoxazole / trimethoprim
+Prostatitis,sulfamethoxazole AND trimethoprim
 Prostatitis,cephalexin
 Prostatitis,moxifloxacin
 Prostatitis,ofloxacin
@@ -1715,7 +1715,7 @@ Prostatitis,ciprofloxacin
 Prostatitis,doxycycline
 Prostatitis,oxybutynin
 Prostatitis,levofloxacin
-Prostatitis,sulfamethoxazole / trimethoprim
+Prostatitis,sulfamethoxazole AND trimethoprim
 Prostatitis,cephalexin
 Prostatitis,moxifloxacin
 Prostatitis,ofloxacin
@@ -1723,13 +1723,13 @@ Prostatitis,ciprofloxacin
 Prostatitis,doxycycline
 Prostatitis,oxybutynin
 Prostatitis,levofloxacin
-Prostatitis,sulfamethoxazole / trimethoprim
+Prostatitis,sulfamethoxazole AND trimethoprim
 Prostatitis,cephalexin
 Prostatitis,moxifloxacin
 Prostatitis,ofloxacin
 Sinusitis,amoxicillin
 Sinusitis,prednisone
-Sinusitis,amoxicillin / clavulanate
+Sinusitis,amoxicillin AND clavulanate
 Sinusitis,cefdinir
 Sinusitis,azithromycin
 Sinusitis,levofloxacin
@@ -1737,22 +1737,22 @@ Sinusitis,cefuroxime
 Sinusitis,clarithromycin
 Sinusitis,ciprofloxacin
 Sinusitis,clindamycin
-Sinusitis,sulfamethoxazole / trimethoprim
+Sinusitis,sulfamethoxazole AND trimethoprim
 Sinusitis,moxifloxacin
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Urinary Tract Infection,ciprofloxacin
 Urinary Tract Infection,nitrofurantoin
-Urinary Tract Infection,sulfamethoxazole / trimethoprim
+Urinary Tract Infection,sulfamethoxazole AND trimethoprim
 Urinary Tract Infection,amoxicillin
 Urinary Tract Infection,doxycycline
 Urinary Tract Infection,levofloxacin
 Urinary Tract Infection,ceftriaxone
-Urinary Tract Infection,amoxicillin / clavulanate
+Urinary Tract Infection,amoxicillin AND clavulanate
 Urinary Tract Infection,cefuroxime
 Urinary Tract Infection,trimethoprim
 Urinary Tract Infection,methenamine
@@ -1851,7 +1851,7 @@ Coccidioidomycosis,ketoconazole
 Coccidioidomycosis,amphotericin b
 Coccidioidomycosis,amphotericin b lipid complex
 Gas,simethicone
-Gas,aluminum hydroxide / magnesium hydroxide / simethicone
+Gas,aluminum hydroxide AND magnesium hydroxide AND simethicone
 Pseudomembranous Colitis,metronidazole
 Pseudomembranous Colitis,vancomycin
 Colorectal Cancer,oxaliplatin
@@ -1902,16 +1902,16 @@ Methicillin-Resistant Staphylococcus Aureus Infection,vancomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,linezolid
 Methicillin-Resistant Staphylococcus Aureus Infection,daptomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,ofloxacin
-Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin / quinupristin
-Seizures (Convulsions),levetiracetam
-Seizures (Convulsions),phenobarbital
-Seizures (Convulsions),phenytoin
-Seizures (Convulsions),diazepam
-Seizures (Convulsions),oxcarbazepine
-Seizures (Convulsions),zonisamide
-Seizures (Convulsions),topiramate
-Seizures (Convulsions),valproic acid
-Seizures (Convulsions),primidone
+Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin AND quinupristin
+Seizures ,levetiracetam
+Seizures ,phenobarbital
+Seizures ,phenytoin
+Seizures ,diazepam
+Seizures ,oxcarbazepine
+Seizures ,zonisamide
+Seizures ,topiramate
+Seizures ,valproic acid
+Seizures ,primidone
 Post Traumatic Stress Disorder,prazosin
 Post Traumatic Stress Disorder,sertraline
 Post Traumatic Stress Disorder,lamotrigine
@@ -1937,7 +1937,7 @@ Reflex Sympathetic Dystrophy Syndrome,carbamazepine
 Migraine,sumatriptan
 Migraine,rizatriptan
 Migraine,gabapentin
-Migraine,aspirin / butalbital / caffeine
+Migraine,aspirin AND butalbital AND caffeine
 Migraine,cyclobenzaprine
 Migraine,diclofenac
 Migraine,naratriptan
@@ -1959,45 +1959,45 @@ Atopic Dermatitis,fluticasone
 Atopic Dermatitis,methylprednisolone
 Atopic Dermatitis,dexamethasone
 Atopic Dermatitis,azathioprine
-Seizures (Convulsions),levetiracetam
-Seizures (Convulsions),phenobarbital
-Seizures (Convulsions),phenytoin
-Seizures (Convulsions),diazepam
-Seizures (Convulsions),oxcarbazepine
-Seizures (Convulsions),zonisamide
-Seizures (Convulsions),topiramate
-Seizures (Convulsions),valproic acid
-Seizures (Convulsions),primidone
+Seizures ,levetiracetam
+Seizures ,phenobarbital
+Seizures ,phenytoin
+Seizures ,diazepam
+Seizures ,oxcarbazepine
+Seizures ,zonisamide
+Seizures ,topiramate
+Seizures ,valproic acid
+Seizures ,primidone
 COPD,prednisone
 COPD,montelukast
-COPD,budesonide / formoterol
-COPD,fluticasone / vilanterol
+COPD,budesonide AND formoterol
+COPD,fluticasone AND vilanterol
 COPD,aclidinium
 COPD,levalbuterol
 COPD,roflumilast
-COPD,umeclidinium / vilanterol
-COPD,olodaterol / tiotropium
+COPD,umeclidinium AND vilanterol
+COPD,olodaterol AND tiotropium
 COPD,dyphylline
-COPD,fluticasone / umeclidinium / vilanterol
+COPD,fluticasone AND umeclidinium AND vilanterol
 COPD,olodaterol
 COPD,umeclidinium
 Coronary Artery Disease,lisinopril
 Coronary Artery Disease,amlodipine
 Coronary Artery Disease,perindopril
-Coronary Artery Disease,amlodipine / atorvastatin
+Coronary Artery Disease,amlodipine AND atorvastatin
 Coronary Artery Disease,isoxsuprine
 Coronary Artery Disease,rivaroxaban
 Coronary Artery Disease,lisinopril
 Coronary Artery Disease,amlodipine
 Coronary Artery Disease,perindopril
-Coronary Artery Disease,amlodipine / atorvastatin
+Coronary Artery Disease,amlodipine AND atorvastatin
 Coronary Artery Disease,isoxsuprine
 Coronary Artery Disease,rivaroxaban
 Prostatitis,ciprofloxacin
 Prostatitis,doxycycline
 Prostatitis,oxybutynin
 Prostatitis,levofloxacin
-Prostatitis,sulfamethoxazole / trimethoprim
+Prostatitis,sulfamethoxazole AND trimethoprim
 Prostatitis,cephalexin
 Prostatitis,moxifloxacin
 Prostatitis,ofloxacin
@@ -2005,13 +2005,13 @@ Prostatitis,ciprofloxacin
 Prostatitis,doxycycline
 Prostatitis,oxybutynin
 Prostatitis,levofloxacin
-Prostatitis,sulfamethoxazole / trimethoprim
+Prostatitis,sulfamethoxazole AND trimethoprim
 Prostatitis,cephalexin
 Prostatitis,moxifloxacin
 Prostatitis,ofloxacin
 Lice,permethrin
 Lice,lindane
-Lice,piperonyl butoxide / pyrethrins
+Lice,piperonyl butoxide AND pyrethrins
 Lice,spinosad
 Glomerulonephritis,azathioprine
 Glomerulonephritis,penicillin g benzathine
@@ -2053,21 +2053,21 @@ Acne,benzoyl peroxide
 Acne,adapalene
 Acne,tetracycline
 Acne,cephalexin
-Acne,sulfamethoxazole / trimethoprim
+Acne,sulfamethoxazole AND trimethoprim
 Urinary Tract Infection,ciprofloxacin
 Urinary Tract Infection,nitrofurantoin
-Urinary Tract Infection,sulfamethoxazole / trimethoprim
+Urinary Tract Infection,sulfamethoxazole AND trimethoprim
 Urinary Tract Infection,amoxicillin
 Urinary Tract Infection,doxycycline
 Urinary Tract Infection,levofloxacin
 Urinary Tract Infection,ceftriaxone
-Urinary Tract Infection,amoxicillin / clavulanate
+Urinary Tract Infection,amoxicillin AND clavulanate
 Urinary Tract Infection,cefuroxime
 Urinary Tract Infection,trimethoprim
 Urinary Tract Infection,methenamine
 Urinary Tract Infection,ampicillin
 Alkylating Agent Cystitis,sodium bicarbonate
-Alkylating Agent Cystitis,citric acid / sodium citrate
+Alkylating Agent Cystitis,citric acid AND sodium citrate
 Breast Cancer,tamoxifen
 Breast Cancer,anastrozole
 Breast Cancer,letrozole
@@ -2106,7 +2106,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -2115,7 +2115,7 @@ Osteoarthritis,nabumetone
 Osteoarthritis,duloxetine
 Back Pain,tramadol
 Back Pain,ibuprofen
-Back Pain,acetaminophen / hydrocodone
+Back Pain,acetaminophen AND hydrocodone
 Back Pain,naproxen
 Back Pain,diclofenac
 Back Pain,duloxetine
@@ -2126,7 +2126,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -2215,9 +2215,9 @@ Atopic Dermatitis,methylprednisolone
 Atopic Dermatitis,dexamethasone
 Atopic Dermatitis,azathioprine
 Diaper Rash,zinc oxide
-Diaper Rash,miconazole / zinc oxide
+Diaper Rash,miconazole AND zinc oxide
 Diaper Rash,lanolin
-Diaper Rash,menthol / zinc oxide
+Diaper Rash,menthol AND zinc oxide
 Diaper Rash,vitamin a & d
 Diaper Rash,"vitamins a, d, and e"
 Dermal Ulcer,collagenase
@@ -2231,27 +2231,27 @@ Dermal Ulcer,collagenase
 Dermal Ulcer,becaplermin
 Dermal Ulcer,cadexomer iodine
 Diaper Rash,zinc oxide
-Diaper Rash,miconazole / zinc oxide
+Diaper Rash,miconazole AND zinc oxide
 Diaper Rash,lanolin
-Diaper Rash,menthol / zinc oxide
+Diaper Rash,menthol AND zinc oxide
 Diaper Rash,vitamin a & d
 Diaper Rash,"vitamins a, d, and e"
 Diaper Rash,zinc oxide
-Diaper Rash,miconazole / zinc oxide
+Diaper Rash,miconazole AND zinc oxide
 Diaper Rash,lanolin
-Diaper Rash,menthol / zinc oxide
+Diaper Rash,menthol AND zinc oxide
 Diaper Rash,vitamin a & d
 Diaper Rash,"vitamins a, d, and e"
 Diaper Rash,zinc oxide
-Diaper Rash,miconazole / zinc oxide
+Diaper Rash,miconazole AND zinc oxide
 Diaper Rash,lanolin
-Diaper Rash,menthol / zinc oxide
+Diaper Rash,menthol AND zinc oxide
 Diaper Rash,vitamin a & d
 Diaper Rash,"vitamins a, d, and e"
 Diaper Rash,zinc oxide
-Diaper Rash,miconazole / zinc oxide
+Diaper Rash,miconazole AND zinc oxide
 Diaper Rash,lanolin
-Diaper Rash,menthol / zinc oxide
+Diaper Rash,menthol AND zinc oxide
 Diaper Rash,vitamin a & d
 Diaper Rash,"vitamins a, d, and e"
 Pseudomembranous Colitis,metronidazole
@@ -2310,8 +2310,8 @@ Schizophrenia,chlorpromazine
 Schizophrenia,paliperidone
 Schizophrenia,ziprasidone
 Schizophrenia,loxapine
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Dissociative Identity Disorder,sertraline
 Dissociative Identity Disorder,venlafaxine
 Dissociative Identity Disorder,fluoxetine
@@ -2323,21 +2323,21 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
 Osteoarthritis,aspirin
 Osteoarthritis,nabumetone
 Osteoarthritis,duloxetine
-Drowsiness (Hypersomnia),caffeine
-Drowsiness (Hypersomnia),modafinil
-Drowsiness (Hypersomnia),dextroamphetamine
-Drowsiness (Hypersomnia),armodafinil
-Drowsiness (Hypersomnia),caffeine
-Drowsiness (Hypersomnia),modafinil
-Drowsiness (Hypersomnia),dextroamphetamine
-Drowsiness (Hypersomnia),armodafinil
+Drowsiness ,caffeine
+Drowsiness ,modafinil
+Drowsiness ,dextroamphetamine
+Drowsiness ,armodafinil
+Drowsiness ,caffeine
+Drowsiness ,modafinil
+Drowsiness ,dextroamphetamine
+Drowsiness ,armodafinil
 Hyperbilirubinemia,phenobarbital
 Breast Cancer,tamoxifen
 Breast Cancer,anastrozole
@@ -2389,54 +2389,54 @@ Persistent Depressive Disorder,paroxetine
 Persistent Depressive Disorder,fluvoxamine
 Otitis Media,amoxicillin
 Otitis Media,cefdinir
-Otitis Media,amoxicillin / clavulanate
+Otitis Media,amoxicillin AND clavulanate
 Otitis Media,azithromycin
 Otitis Media,cephalexin
 Otitis Media,ofloxacin
 Otitis Media,clarithromycin
-Otitis Media,sulfamethoxazole / trimethoprim
+Otitis Media,sulfamethoxazole AND trimethoprim
 Otitis Media,cefuroxime
-Otitis Media,hydrocortisone / neomycin / polymyxin b
+Otitis Media,hydrocortisone AND neomycin AND polymyxin b
 Otitis Media,levofloxacin
-Otitis Media,ciprofloxacin / dexamethasone
+Otitis Media,ciprofloxacin AND dexamethasone
 Otitis Media,erythromycin
-Otitis Externa,hydrocortisone / neomycin / polymyxin b
-Otitis Externa,ciprofloxacin / dexamethasone
+Otitis Externa,hydrocortisone AND neomycin AND polymyxin b
+Otitis Externa,ciprofloxacin AND dexamethasone
 Otitis Externa,acetic acid
-Otitis Externa,acetic acid / hydrocortisone
+Otitis Externa,acetic acid AND hydrocortisone
 Otitis Externa,ceftazidime
-Otitis Externa,acetic acid / aluminum acetate
-Otitis Externa,colistin sulfate / hydrocortisone / neomycin / thonzonium bromide
+Otitis Externa,acetic acid AND aluminum acetate
+Otitis Externa,colistin sulfate AND hydrocortisone AND neomycin AND thonzonium bromide
 Otitis Media,amoxicillin
 Otitis Media,cefdinir
-Otitis Media,amoxicillin / clavulanate
+Otitis Media,amoxicillin AND clavulanate
 Otitis Media,azithromycin
 Otitis Media,cephalexin
 Otitis Media,ofloxacin
 Otitis Media,clarithromycin
-Otitis Media,sulfamethoxazole / trimethoprim
+Otitis Media,sulfamethoxazole AND trimethoprim
 Otitis Media,cefuroxime
-Otitis Media,hydrocortisone / neomycin / polymyxin b
+Otitis Media,hydrocortisone AND neomycin AND polymyxin b
 Otitis Media,levofloxacin
-Otitis Media,ciprofloxacin / dexamethasone
+Otitis Media,ciprofloxacin AND dexamethasone
 Otitis Media,erythromycin
-Otitis Externa,hydrocortisone / neomycin / polymyxin b
-Otitis Externa,ciprofloxacin / dexamethasone
+Otitis Externa,hydrocortisone AND neomycin AND polymyxin b
+Otitis Externa,ciprofloxacin AND dexamethasone
 Otitis Externa,acetic acid
-Otitis Externa,acetic acid / hydrocortisone
+Otitis Externa,acetic acid AND hydrocortisone
 Otitis Externa,ceftazidime
-Otitis Externa,acetic acid / aluminum acetate
-Otitis Externa,colistin sulfate / hydrocortisone / neomycin / thonzonium bromide
+Otitis Externa,acetic acid AND aluminum acetate
+Otitis Externa,colistin sulfate AND hydrocortisone AND neomycin AND thonzonium bromide
 Echocardiography,perflutren
 Echocardiography,perflutren
-Emergency Contraception (Postcoital Contraception),levonorgestrel
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / levonorgestrel
-Emergency Contraception (Postcoital Contraception),ulipristal
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / norgestrel
-Emergency Contraception (Postcoital Contraception),levonorgestrel
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / levonorgestrel
-Emergency Contraception (Postcoital Contraception),ulipristal
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / norgestrel
+Emergency Contraception ,levonorgestrel
+Emergency Contraception ,ethinyl estradiol AND levonorgestrel
+Emergency Contraception ,ulipristal
+Emergency Contraception ,ethinyl estradiol AND norgestrel
+Emergency Contraception ,levonorgestrel
+Emergency Contraception ,ethinyl estradiol AND levonorgestrel
+Emergency Contraception ,ulipristal
+Emergency Contraception ,ethinyl estradiol AND norgestrel
 Eczema,triamcinolone
 Eczema,mometasone
 Eczema,hydrocortisone
@@ -2529,14 +2529,14 @@ Soft Tissue Sarcoma,doxorubicin
 Soft Tissue Sarcoma,methotrexate
 Soft Tissue Sarcoma,trabectedin
 Soft Tissue Sarcoma,olaratumab
-Emergency Contraception (Postcoital Contraception),levonorgestrel
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / levonorgestrel
-Emergency Contraception (Postcoital Contraception),ulipristal
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / norgestrel
-Emergency Contraception (Postcoital Contraception),levonorgestrel
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / levonorgestrel
-Emergency Contraception (Postcoital Contraception),ulipristal
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / norgestrel
+Emergency Contraception ,levonorgestrel
+Emergency Contraception ,ethinyl estradiol AND levonorgestrel
+Emergency Contraception ,ulipristal
+Emergency Contraception ,ethinyl estradiol AND norgestrel
+Emergency Contraception ,levonorgestrel
+Emergency Contraception ,ethinyl estradiol AND levonorgestrel
+Emergency Contraception ,ulipristal
+Emergency Contraception ,ethinyl estradiol AND norgestrel
 Borderline Personality Disorder,quetiapine
 Borderline Personality Disorder,lamotrigine
 Borderline Personality Disorder,lithium
@@ -2664,15 +2664,15 @@ Borderline Personality Disorder,asenapine
 Borderline Personality Disorder,paliperidone
 COPD,prednisone
 COPD,montelukast
-COPD,budesonide / formoterol
-COPD,fluticasone / vilanterol
+COPD,budesonide AND formoterol
+COPD,fluticasone AND vilanterol
 COPD,aclidinium
 COPD,levalbuterol
 COPD,roflumilast
-COPD,umeclidinium / vilanterol
-COPD,olodaterol / tiotropium
+COPD,umeclidinium AND vilanterol
+COPD,olodaterol AND tiotropium
 COPD,dyphylline
-COPD,fluticasone / umeclidinium / vilanterol
+COPD,fluticasone AND umeclidinium AND vilanterol
 COPD,olodaterol
 COPD,umeclidinium
 Bejel,penicillin g benzathine
@@ -2703,7 +2703,7 @@ Benign Prostatic Hyperplasia,tadalafil
 Benign Prostatic Hyperplasia,dutasteride
 Benign Prostatic Hyperplasia,prazosin
 Benign Prostatic Hyperplasia,silodosin
-Benign Prostatic Hyperplasia,dutasteride / tamsulosin
+Benign Prostatic Hyperplasia,dutasteride AND tamsulosin
 Borderline Personality Disorder,quetiapine
 Borderline Personality Disorder,lamotrigine
 Borderline Personality Disorder,lithium
@@ -2740,7 +2740,7 @@ Erectile Dysfunction,vardenafil
 Erectile Dysfunction,alprostadil
 Erectile Dysfunction,avanafil
 Gas,simethicone
-Gas,aluminum hydroxide / magnesium hydroxide / simethicone
+Gas,aluminum hydroxide AND magnesium hydroxide AND simethicone
 Erythromelalgia,gabapentin
 Psoriasis,clobetasol
 Psoriasis,methotrexate
@@ -2756,7 +2756,7 @@ Psoriasis,cyclosporine
 Psoriasis,hydrocortisone
 Psoriasis,ustekinumab
 Psoriasis,adalimumab
-Psoriasis,betamethasone / calcipotriene
+Psoriasis,betamethasone AND calcipotriene
 Erythromelalgia,gabapentin
 GERD,omeprazole
 GERD,pantoprazole
@@ -2767,7 +2767,7 @@ GERD,esomeprazole
 GERD,rabeprazole
 GERD,sucralfate
 GERD,dexlansoprazole
-GERD,omeprazole / sodium bicarbonate
+GERD,omeprazole AND sodium bicarbonate
 Borderline Personality Disorder,quetiapine
 Borderline Personality Disorder,lamotrigine
 Borderline Personality Disorder,lithium
@@ -2798,10 +2798,10 @@ Hyperekplexia,clonazepam
 Hyperekplexia,divalproex sodium
 Hyperekplexia,levetiracetam
 Hyperekplexia,valproic acid
-Drowsiness (Hypersomnia),caffeine
-Drowsiness (Hypersomnia),modafinil
-Drowsiness (Hypersomnia),dextroamphetamine
-Drowsiness (Hypersomnia),armodafinil
+Drowsiness ,caffeine
+Drowsiness ,modafinil
+Drowsiness ,dextroamphetamine
+Drowsiness ,armodafinil
 Hyperhidrosis,oxybutynin
 Hyperhidrosis,aluminum chloride hexahydrate
 Hyperhidrosis,clonidine
@@ -2813,17 +2813,17 @@ Hyperhidrosis,glycopyrronium
 Hyperhidrosis,onabotulinumtoxinA
 Peritoneal Cancer,bevacizumab
 Peritoneal Cancer,niraparib
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Facial Wrinkles,tazarotene
 Facial Wrinkles,onabotulinumtoxinA
 Facial Wrinkles,abobotulinumtoxinA
 Facial Wrinkles,azficel-t
 Facial Wrinkles,incobotulinumtoxinA
-Thrombotic/Thromboembolic Disorder,heparin
-Thrombotic/Thromboembolic Disorder,argatroban
-Thrombotic/Thromboembolic Disorder,alteplase
-Thrombotic/Thromboembolic Disorder,urokinase
+ThromboticANDThromboembolic Disorder,heparin
+ThromboticANDThromboembolic Disorder,argatroban
+ThromboticANDThromboembolic Disorder,alteplase
+ThromboticANDThromboembolic Disorder,urokinase
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
 High Cholesterol,pravastatin
@@ -2832,45 +2832,45 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
-Muscle Twitching (Fasciculations),baclofen
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
+Muscle Twitching ,baclofen
 Nonalcoholic Fatty Liver Disease,ursodiol
 Nonalcoholic Fatty Liver Disease,pioglitazone
 Nonalcoholic Fatty Liver Disease,orlistat
 Nonalcoholic Fatty Liver Disease,betaine
 Nonalcoholic Fatty Liver Disease,rosiglitazone
-Seizures (Convulsions),levetiracetam
-Seizures (Convulsions),phenobarbital
-Seizures (Convulsions),phenytoin
-Seizures (Convulsions),diazepam
-Seizures (Convulsions),oxcarbazepine
-Seizures (Convulsions),zonisamide
-Seizures (Convulsions),topiramate
-Seizures (Convulsions),valproic acid
-Seizures (Convulsions),primidone
+Seizures ,levetiracetam
+Seizures ,phenobarbital
+Seizures ,phenytoin
+Seizures ,diazepam
+Seizures ,oxcarbazepine
+Seizures ,zonisamide
+Seizures ,topiramate
+Seizures ,valproic acid
+Seizures ,primidone
 Warts,salicylic acid
 Warts,fluorouracil
 Warts,silver nitrate
 Warts,cantharidin
 Gas,simethicone
-Gas,aluminum hydroxide / magnesium hydroxide / simethicone
+Gas,aluminum hydroxide AND magnesium hydroxide AND simethicone
 Mitral Valve Prolapse,atenolol
 Mitral Valve Prolapse,metoprolol
 Mitral Valve Prolapse,propranolol
@@ -2884,7 +2884,7 @@ Campylobacter Gastroenteritis,minocycline
 Diffuse Idiopathic Skeletal Hyperostosis,ibuprofen
 Diffuse Idiopathic Skeletal Hyperostosis,naproxen
 Bejel,penicillin g benzathine
-Tinea Corporis,betamethasone / clotrimazole
+Tinea Corporis,betamethasone AND clotrimazole
 Tinea Corporis,ketoconazole
 Tinea Corporis,clotrimazole
 Tinea Corporis,terbinafine
@@ -2901,12 +2901,12 @@ Tinea Pedis,ketoconazole
 Tinea Pedis,terbinafine
 Tinea Pedis,econazole
 Tinea Pedis,terbinafine
-Tinea Pedis,betamethasone / clotrimazole
+Tinea Pedis,betamethasone AND clotrimazole
 Tinea Pedis,tolnaftate
 Tinea Pedis,ciclopirox
 Tinea Pedis,miconazole
 Tinea Pedis,griseofulvin
-Tinea Cruris,betamethasone / clotrimazole
+Tinea Cruris,betamethasone AND clotrimazole
 Tinea Cruris,ketoconazole
 Tinea Cruris,clotrimazole
 Tinea Cruris,econazole
@@ -2923,7 +2923,7 @@ Tinea Capitis,terbinafine
 Tinea Capitis,griseofulvin
 Tinea Capitis,itraconazole
 Gas,simethicone
-Gas,aluminum hydroxide / magnesium hydroxide / simethicone
+Gas,aluminum hydroxide AND magnesium hydroxide AND simethicone
 GERD,omeprazole
 GERD,pantoprazole
 GERD,ranitidine
@@ -2933,7 +2933,7 @@ GERD,esomeprazole
 GERD,rabeprazole
 GERD,sucralfate
 GERD,dexlansoprazole
-GERD,omeprazole / sodium bicarbonate
+GERD,omeprazole AND sodium bicarbonate
 GERD,omeprazole
 GERD,pantoprazole
 GERD,ranitidine
@@ -2943,7 +2943,7 @@ GERD,esomeprazole
 GERD,rabeprazole
 GERD,sucralfate
 GERD,dexlansoprazole
-GERD,omeprazole / sodium bicarbonate
+GERD,omeprazole AND sodium bicarbonate
 Testicular Cancer,cisplatin
 Testicular Cancer,etoposide
 Testicular Cancer,bleomycin
@@ -2967,19 +2967,19 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
 Osteoarthritis,aspirin
 Osteoarthritis,nabumetone
 Osteoarthritis,duloxetine
-Strep Throat (Streptococcal Pharyngitis),amoxicillin / clavulanate
-Strep Throat (Streptococcal Pharyngitis),cefdinir
-Strep Throat (Streptococcal Pharyngitis),clarithromycin
-Strep Throat (Streptococcal Pharyngitis),erythromycin
-Strep Throat (Streptococcal Pharyngitis),cefuroxime
-Strep Throat (Streptococcal Pharyngitis),gemifloxacin
+Strep Throat ,amoxicillin AND clavulanate
+Strep Throat ,cefdinir
+Strep Throat ,clarithromycin
+Strep Throat ,erythromycin
+Strep Throat ,cefuroxime
+Strep Throat ,gemifloxacin
 Dental Abscess,amoxicillin
 Dental Abscess,metronidazole
 Dental Abscess,clarithromycin
@@ -2998,12 +2998,12 @@ Psoriasis,cyclosporine
 Psoriasis,hydrocortisone
 Psoriasis,ustekinumab
 Psoriasis,adalimumab
-Psoriasis,betamethasone / calcipotriene
+Psoriasis,betamethasone AND calcipotriene
 Methicillin-Resistant Staphylococcus Aureus Infection,vancomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,linezolid
 Methicillin-Resistant Staphylococcus Aureus Infection,daptomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,ofloxacin
-Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin / quinupristin
+Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin AND quinupristin
 Hemophagocytic Lymphohistiocytosis,emapalumab
 Hemophagocytic Lymphohistiocytosis,emapalumab
 Alopecia,spironolactone
@@ -3015,10 +3015,10 @@ Hairy Cell Leukemia,pentostatin
 Hairy Cell Leukemia,interferon alfa-2b
 Hairy Cell Leukemia,moxetumomab pasudotox
 Atherosclerosis,rosuvastatin
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Hairy Cell Leukemia,cladribine
 Hairy Cell Leukemia,pentostatin
 Hairy Cell Leukemia,interferon alfa-2b
@@ -3033,7 +3033,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Echocardiography,perflutren
 Prosthetic Heart Valves - Thrombosis Prophylaxis,aspirin
 Prosthetic Heart Valves - Thrombosis Prophylaxis,warfarin
@@ -3047,28 +3047,28 @@ GERD,esomeprazole
 GERD,rabeprazole
 GERD,sucralfate
 GERD,dexlansoprazole
-GERD,omeprazole / sodium bicarbonate
+GERD,omeprazole AND sodium bicarbonate
 Hemangioma,propranolol
 Migraine,sumatriptan
 Migraine,rizatriptan
 Migraine,gabapentin
-Migraine,aspirin / butalbital / caffeine
+Migraine,aspirin AND butalbital AND caffeine
 Migraine,cyclobenzaprine
 Migraine,diclofenac
 Migraine,naratriptan
 Migraine,almotriptan
 Migraine,zolmitriptan
 Migraine,eletriptan
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Hemophagocytic Lymphohistiocytosis,emapalumab
 Hemophagocytic Lymphohistiocytosis,emapalumab
-Thrombotic/Thromboembolic Disorder,heparin
-Thrombotic/Thromboembolic Disorder,argatroban
-Thrombotic/Thromboembolic Disorder,alteplase
-Thrombotic/Thromboembolic Disorder,urokinase
+ThromboticANDThromboembolic Disorder,heparin
+ThromboticANDThromboembolic Disorder,argatroban
+ThromboticANDThromboembolic Disorder,alteplase
+ThromboticANDThromboembolic Disorder,urokinase
 Ramsay Hunt Syndrome,acyclovir
 Ramsay Hunt Syndrome,prednisone
 Ramsay Hunt Syndrome,valacyclovir
@@ -3083,26 +3083,26 @@ Ramsay Hunt Syndrome,prednisone
 Ramsay Hunt Syndrome,valacyclovir
 Herpetic Keratitis,trifluridine
 Herpetic Keratitis,acyclovir
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
 Ehrlichiosis,doxycycline
 Ehrlichiosis,tetracycline
 Ehrlichiosis,doxycycline
@@ -3116,24 +3116,24 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Non-Hodgkin's Lymphoma,cyclophosphamide
 Non-Hodgkin's Lymphoma,vincristine
 Non-Hodgkin's Lymphoma,rituximab
@@ -3148,33 +3148,33 @@ Non-Hodgkin's Lymphoma,ibritumomab
 Non-Hodgkin's Lymphoma,ibrutinib
 Non-Hodgkin's Lymphoma,mitoxantrone
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Hemophagocytic Lymphohistiocytosis,emapalumab
@@ -3232,18 +3232,18 @@ Hodgkin's Lymphoma,methotrexate
 Hodgkin's Lymphoma,chlorambucil
 Hodgkin's Lymphoma,nivolumab
 Hodgkin's Lymphoma,carmustine
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Nonketotic Hyperosmolar Syndrome,insulin regular
 Nonketotic Hyperosmolar Syndrome,insulin glulisine
 Nonketotic Hyperosmolar Syndrome,insulin lispro
@@ -3252,7 +3252,7 @@ Methicillin-Resistant Staphylococcus Aureus Infection,vancomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,linezolid
 Methicillin-Resistant Staphylococcus Aureus Infection,daptomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,ofloxacin
-Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin / quinupristin
+Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin AND quinupristin
 Bursitis,naproxen
 Bursitis,prednisone
 Bursitis,indomethacin
@@ -3275,9 +3275,9 @@ Ehrlichiosis,tetracycline
 Ehrlichiosis,doxycycline
 Ehrlichiosis,tetracycline
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Ehrlichiosis,doxycycline
@@ -3302,7 +3302,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -3312,24 +3312,24 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
-"High Cholesterol, Familial Heterozygous",atorvastatin
-"High Cholesterol, Familial Heterozygous",pravastatin
-"High Cholesterol, Familial Heterozygous",simvastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe
-"High Cholesterol, Familial Heterozygous",rosuvastatin
-"High Cholesterol, Familial Heterozygous",lovastatin
-"High Cholesterol, Familial Heterozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Heterozygous",evolocumab
-"High Cholesterol, Familial Heterozygous",alirocumab
-"High Cholesterol, Familial Heterozygous",fluvastatin
-"High Cholesterol, Familial Homozygous",atorvastatin
-"High Cholesterol, Familial Homozygous",simvastatin
-"High Cholesterol, Familial Homozygous",rosuvastatin
-"High Cholesterol, Familial Homozygous",ezetimibe / simvastatin
-"High Cholesterol, Familial Homozygous",lomitapide
-"High Cholesterol, Familial Homozygous",evolocumab
+Familial Heterozygous High Cholesterol,atorvastatin
+Familial Heterozygous High Cholesterol,pravastatin
+Familial Heterozygous High Cholesterol,simvastatin
+Familial Heterozygous High Cholesterol,ezetimibe
+Familial Heterozygous High Cholesterol,rosuvastatin
+Familial Heterozygous High Cholesterol,lovastatin
+Familial Heterozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Heterozygous High Cholesterol,evolocumab
+Familial Heterozygous High Cholesterol,alirocumab
+Familial Heterozygous High Cholesterol,fluvastatin
+Familial Homozygous High Cholesterol,atorvastatin
+Familial Homozygous High Cholesterol,simvastatin
+Familial Homozygous High Cholesterol,rosuvastatin
+Familial Homozygous High Cholesterol,ezetimibe AND simvastatin
+Familial Homozygous High Cholesterol,lomitapide
+Familial Homozygous High Cholesterol,evolocumab
 Hyperekplexia,diazepam
 Hyperekplexia,clonazepam
 Hyperekplexia,divalproex sodium
@@ -3359,7 +3359,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 Renal Cell Carcinoma,pazopanib
 Renal Cell Carcinoma,sunitinib
@@ -3376,40 +3376,40 @@ Renal Cell Carcinoma,temsirolimus
 Renal Cell Carcinoma,lenvatinib
 Diffuse Idiopathic Skeletal Hyperostosis,ibuprofen
 Diffuse Idiopathic Skeletal Hyperostosis,naproxen
-Drowsiness (Hypersomnia),caffeine
-Drowsiness (Hypersomnia),modafinil
-Drowsiness (Hypersomnia),dextroamphetamine
-Drowsiness (Hypersomnia),armodafinil
+Drowsiness ,caffeine
+Drowsiness ,modafinil
+Drowsiness ,dextroamphetamine
+Drowsiness ,armodafinil
 Osteoarthritis,meloxicam
 Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
 Osteoarthritis,aspirin
 Osteoarthritis,nabumetone
 Osteoarthritis,duloxetine
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin (hcg)
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin (hcg)
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
 Pseudotumor Cerebri,acetazolamide
 Nonalcoholic Fatty Liver Disease,ursodiol
 Nonalcoholic Fatty Liver Disease,pioglitazone
 Nonalcoholic Fatty Liver Disease,orlistat
 Nonalcoholic Fatty Liver Disease,betaine
 Nonalcoholic Fatty Liver Disease,rosiglitazone
-Drowsiness (Hypersomnia),caffeine
-Drowsiness (Hypersomnia),modafinil
-Drowsiness (Hypersomnia),dextroamphetamine
-Drowsiness (Hypersomnia),armodafinil
+Drowsiness ,caffeine
+Drowsiness ,modafinil
+Drowsiness ,dextroamphetamine
+Drowsiness ,armodafinil
 Pseudotumor Cerebri,acetazolamide
 Myelofibrosis,ruxolitinib
 Myelofibrosis,fedratinib
@@ -3419,10 +3419,10 @@ Chronic Fatigue Syndrome,duloxetine
 Chronic Fatigue Syndrome,lisdexamfetamine
 Chronic Fatigue Syndrome,amantadine
 Chronic Fatigue Syndrome,armodafinil
-Insulin Resistance Syndrome (Metabolic Syndrome),metformin
-Insulin Resistance Syndrome (Metabolic Syndrome),insulin regular
-Insulin Resistance Syndrome (Metabolic Syndrome),metformin
-Insulin Resistance Syndrome (Metabolic Syndrome),insulin regular
+Insulin Resistance Syndrome ,metformin
+Insulin Resistance Syndrome ,insulin regular
+Insulin Resistance Syndrome ,metformin
+Insulin Resistance Syndrome ,insulin regular
 Muscle Pain,ibuprofen
 Muscle Pain,naproxen
 Muscle Pain,acetaminophen
@@ -3514,7 +3514,7 @@ Amebiasis,nitazoxanide
 Amebiasis,doxycycline
 Amebiasis,paromomycin
 Amebiasis,chloroquine
-Tinea Corporis,betamethasone / clotrimazole
+Tinea Corporis,betamethasone AND clotrimazole
 Tinea Corporis,ketoconazole
 Tinea Corporis,clotrimazole
 Tinea Corporis,terbinafine
@@ -3531,12 +3531,12 @@ Tinea Pedis,ketoconazole
 Tinea Pedis,terbinafine
 Tinea Pedis,econazole
 Tinea Pedis,terbinafine
-Tinea Pedis,betamethasone / clotrimazole
+Tinea Pedis,betamethasone AND clotrimazole
 Tinea Pedis,tolnaftate
 Tinea Pedis,ciclopirox
 Tinea Pedis,miconazole
 Tinea Pedis,griseofulvin
-Tinea Cruris,betamethasone / clotrimazole
+Tinea Cruris,betamethasone AND clotrimazole
 Tinea Cruris,ketoconazole
 Tinea Cruris,clotrimazole
 Tinea Cruris,econazole
@@ -3554,7 +3554,7 @@ Tinea Capitis,griseofulvin
 Tinea Capitis,itraconazole
 Sinusitis,amoxicillin
 Sinusitis,prednisone
-Sinusitis,amoxicillin / clavulanate
+Sinusitis,amoxicillin AND clavulanate
 Sinusitis,cefdinir
 Sinusitis,azithromycin
 Sinusitis,levofloxacin
@@ -3562,14 +3562,14 @@ Sinusitis,cefuroxime
 Sinusitis,clarithromycin
 Sinusitis,ciprofloxacin
 Sinusitis,clindamycin
-Sinusitis,sulfamethoxazole / trimethoprim
+Sinusitis,sulfamethoxazole AND trimethoprim
 Sinusitis,moxifloxacin
 Skin or Soft Tissue Infection,cephalexin
 Skin or Soft Tissue Infection,clindamycin
 Skin or Soft Tissue Infection,doxycycline
 Skin or Soft Tissue Infection,amoxicillin
 Skin or Soft Tissue Infection,ciprofloxacin
-Skin or Soft Tissue Infection,amoxicillin / clavulanate
+Skin or Soft Tissue Infection,amoxicillin AND clavulanate
 Skin or Soft Tissue Infection,minocycline
 Skin or Soft Tissue Infection,azithromycin
 Skin or Soft Tissue Infection,metronidazole
@@ -3583,7 +3583,7 @@ Skin or Soft Tissue Infection,clindamycin
 Skin or Soft Tissue Infection,doxycycline
 Skin or Soft Tissue Infection,amoxicillin
 Skin or Soft Tissue Infection,ciprofloxacin
-Skin or Soft Tissue Infection,amoxicillin / clavulanate
+Skin or Soft Tissue Infection,amoxicillin AND clavulanate
 Skin or Soft Tissue Infection,minocycline
 Skin or Soft Tissue Infection,azithromycin
 Skin or Soft Tissue Infection,metronidazole
@@ -3594,12 +3594,12 @@ Skin or Soft Tissue Infection,erythromycin
 Skin or Soft Tissue Infection,cefdinir
 Urinary Tract Infection,ciprofloxacin
 Urinary Tract Infection,nitrofurantoin
-Urinary Tract Infection,sulfamethoxazole / trimethoprim
+Urinary Tract Infection,sulfamethoxazole AND trimethoprim
 Urinary Tract Infection,amoxicillin
 Urinary Tract Infection,doxycycline
 Urinary Tract Infection,levofloxacin
 Urinary Tract Infection,ceftriaxone
-Urinary Tract Infection,amoxicillin / clavulanate
+Urinary Tract Infection,amoxicillin AND clavulanate
 Urinary Tract Infection,cefuroxime
 Urinary Tract Infection,trimethoprim
 Urinary Tract Infection,methenamine
@@ -3651,8 +3651,8 @@ Insomnia,eszopiclone
 Insomnia,diphenhydramine
 Insomnia,gabapentin
 Insomnia,flurazepam
-Insulin Resistance Syndrome (Metabolic Syndrome),metformin
-Insulin Resistance Syndrome (Metabolic Syndrome),insulin regular
+Insulin Resistance Syndrome ,metformin
+Insulin Resistance Syndrome ,insulin regular
 Amebiasis,metronidazole
 Amebiasis,tinidazole
 Amebiasis,nitazoxanide
@@ -3683,7 +3683,7 @@ Psoriasis,cyclosporine
 Psoriasis,hydrocortisone
 Psoriasis,ustekinumab
 Psoriasis,adalimumab
-Psoriasis,betamethasone / calcipotriene
+Psoriasis,betamethasone AND calcipotriene
 Borderline Personality Disorder,quetiapine
 Borderline Personality Disorder,lamotrigine
 Borderline Personality Disorder,lithium
@@ -3726,7 +3726,7 @@ Pruritus,diphenhydramine
 Pruritus,diphenhydramine
 Pruritus,diphenhydramine
 Hyperbilirubinemia,phenobarbital
-Tinea Cruris,betamethasone / clotrimazole
+Tinea Cruris,betamethasone AND clotrimazole
 Tinea Cruris,ketoconazole
 Tinea Cruris,clotrimazole
 Tinea Cruris,econazole
@@ -3743,7 +3743,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -3765,11 +3765,11 @@ Renal Cell Carcinoma,aldesleukin
 Renal Cell Carcinoma,capecitabine
 Renal Cell Carcinoma,temsirolimus
 Renal Cell Carcinoma,lenvatinib
-Wilms' Tumor (Nephroblastoma),paclitaxel
-Wilms' Tumor (Nephroblastoma),vincristine
-Wilms' Tumor (Nephroblastoma),doxorubicin
-Wilms' Tumor (Nephroblastoma),cyclophosphamide
-Wilms' Tumor (Nephroblastoma),dactinomycin
+Wilms' Tumor ,paclitaxel
+Wilms' Tumor ,vincristine
+Wilms' Tumor ,doxorubicin
+Wilms' Tumor ,cyclophosphamide
+Wilms' Tumor ,dactinomycin
 Hyperekplexia,diazepam
 Hyperekplexia,clonazepam
 Hyperekplexia,divalproex sodium
@@ -3808,7 +3808,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -3829,7 +3829,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -3842,7 +3842,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -3869,15 +3869,15 @@ Hairy Cell Leukemia,interferon alfa-2b
 Hairy Cell Leukemia,moxetumomab pasudotox
 Lice,permethrin
 Lice,lindane
-Lice,piperonyl butoxide / pyrethrins
+Lice,piperonyl butoxide AND pyrethrins
 Lice,spinosad
 Lice,permethrin
 Lice,lindane
-Lice,piperonyl butoxide / pyrethrins
+Lice,piperonyl butoxide AND pyrethrins
 Lice,spinosad
 Lice,permethrin
 Lice,lindane
-Lice,piperonyl butoxide / pyrethrins
+Lice,piperonyl butoxide AND pyrethrins
 Lice,spinosad
 Vertigo,meclizine
 Vertigo,promethazine
@@ -3901,7 +3901,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 Dercum's Disease,fentanyl
 Dercum's Disease,pregabalin
@@ -3910,14 +3910,14 @@ Scleroderma,prednisone
 Scleroderma,cyclophosphamide
 Vertigo,meclizine
 Vertigo,promethazine
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin (hcg)
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin (hcg)
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
 Non-Hodgkin's Lymphoma,cyclophosphamide
 Non-Hodgkin's Lymphoma,vincristine
 Non-Hodgkin's Lymphoma,rituximab
@@ -4102,33 +4102,33 @@ Glomerulonephritis,azathioprine
 Glomerulonephritis,penicillin g benzathine
 Glomerulonephritis,azathioprine
 Glomerulonephritis,penicillin g benzathine
-Insulin Resistance Syndrome (Metabolic Syndrome),metformin
-Insulin Resistance Syndrome (Metabolic Syndrome),insulin regular
+Insulin Resistance Syndrome ,metformin
+Insulin Resistance Syndrome ,insulin regular
 Methicillin-Resistant Staphylococcus Aureus Infection,vancomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,linezolid
 Methicillin-Resistant Staphylococcus Aureus Infection,daptomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,ofloxacin
-Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin / quinupristin
+Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin AND quinupristin
 Hyperimmunoglobulin D Syndrome,canakinumab
 Myelofibrosis,ruxolitinib
 Myelofibrosis,fedratinib
 Otitis Media,amoxicillin
 Otitis Media,cefdinir
-Otitis Media,amoxicillin / clavulanate
+Otitis Media,amoxicillin AND clavulanate
 Otitis Media,azithromycin
 Otitis Media,cephalexin
 Otitis Media,ofloxacin
 Otitis Media,clarithromycin
-Otitis Media,sulfamethoxazole / trimethoprim
+Otitis Media,sulfamethoxazole AND trimethoprim
 Otitis Media,cefuroxime
-Otitis Media,hydrocortisone / neomycin / polymyxin b
+Otitis Media,hydrocortisone AND neomycin AND polymyxin b
 Otitis Media,levofloxacin
-Otitis Media,ciprofloxacin / dexamethasone
+Otitis Media,ciprofloxacin AND dexamethasone
 Otitis Media,erythromycin
 Migraine,sumatriptan
 Migraine,rizatriptan
 Migraine,gabapentin
-Migraine,aspirin / butalbital / caffeine
+Migraine,aspirin AND butalbital AND caffeine
 Migraine,cyclobenzaprine
 Migraine,diclofenac
 Migraine,naratriptan
@@ -4138,15 +4138,15 @@ Migraine,eletriptan
 Migraine,sumatriptan
 Migraine,rizatriptan
 Migraine,gabapentin
-Migraine,aspirin / butalbital / caffeine
+Migraine,aspirin AND butalbital AND caffeine
 Migraine,cyclobenzaprine
 Migraine,diclofenac
 Migraine,naratriptan
 Migraine,almotriptan
 Migraine,zolmitriptan
 Migraine,eletriptan
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Erythromelalgia,gabapentin
 Mitral Valve Prolapse,atenolol
 Mitral Valve Prolapse,metoprolol
@@ -4194,14 +4194,14 @@ Bipolar Disorder,olanzapine
 Bipolar Disorder,venlafaxine
 Plantar Fibromatosis,clobetasol
 Plantar Fibromatosis,triamcinolone
-Emergency Contraception (Postcoital Contraception),levonorgestrel
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / levonorgestrel
-Emergency Contraception (Postcoital Contraception),ulipristal
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / norgestrel
-Emergency Contraception (Postcoital Contraception),levonorgestrel
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / levonorgestrel
-Emergency Contraception (Postcoital Contraception),ulipristal
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / norgestrel
+Emergency Contraception ,levonorgestrel
+Emergency Contraception ,ethinyl estradiol AND levonorgestrel
+Emergency Contraception ,ulipristal
+Emergency Contraception ,ethinyl estradiol AND norgestrel
+Emergency Contraception ,levonorgestrel
+Emergency Contraception ,ethinyl estradiol AND levonorgestrel
+Emergency Contraception ,ulipristal
+Emergency Contraception ,ethinyl estradiol AND norgestrel
 Scleroderma,methotrexate
 Scleroderma,prednisone
 Scleroderma,cyclophosphamide
@@ -4222,12 +4222,12 @@ Methicillin-Resistant Staphylococcus Aureus Infection,vancomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,linezolid
 Methicillin-Resistant Staphylococcus Aureus Infection,daptomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,ofloxacin
-Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin / quinupristin
+Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin AND quinupristin
 Methicillin-Resistant Staphylococcus Aureus Infection,vancomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,linezolid
 Methicillin-Resistant Staphylococcus Aureus Infection,daptomycin
 Methicillin-Resistant Staphylococcus Aureus Infection,ofloxacin
-Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin / quinupristin
+Methicillin-Resistant Staphylococcus Aureus Infection,dalfopristin AND quinupristin
 Multiple Myeloma,dexamethasone
 Multiple Myeloma,thalidomide
 Multiple Myeloma,cyclophosphamide
@@ -4241,13 +4241,13 @@ Dissociative Identity Disorder,sertraline
 Dissociative Identity Disorder,venlafaxine
 Dissociative Identity Disorder,fluoxetine
 Dissociative Identity Disorder,citalopram
-Muscle Twitching (Fasciculations),baclofen
+Muscle Twitching ,baclofen
 Muscle Pain,ibuprofen
 Muscle Pain,naproxen
 Muscle Pain,acetaminophen
 Muscle Pain,diclofenac
 Muscle Pain,nabumetone
-Muscle Twitching (Fasciculations),baclofen
+Muscle Twitching ,baclofen
 Muscle Pain,ibuprofen
 Muscle Pain,naproxen
 Muscle Pain,acetaminophen
@@ -4318,19 +4318,19 @@ Pseudomembranous Colitis,metronidazole
 Pseudomembranous Colitis,vancomycin
 Aspiration Pneumonia,prednisone
 Aspiration Pneumonia,clindamycin
-Aspiration Pneumonia,amoxicillin / clavulanate
+Aspiration Pneumonia,amoxicillin AND clavulanate
 Aspiration Pneumonia,metronidazole
 Aspiration Pneumonia,dexamethasone
 Aspiration Pneumonia,lansoprazole
-Aspiration Pneumonia,piperacillin / tazobactam
-Aspiration Pneumonia,ampicillin / sulbactam
+Aspiration Pneumonia,piperacillin AND tazobactam
+Aspiration Pneumonia,ampicillin AND sulbactam
 Aspiration Pneumonia,cefoxitin
-Aspiration Pneumonia,cilastatin / imipenem
-Wilms' Tumor (Nephroblastoma),paclitaxel
-Wilms' Tumor (Nephroblastoma),vincristine
-Wilms' Tumor (Nephroblastoma),doxorubicin
-Wilms' Tumor (Nephroblastoma),cyclophosphamide
-Wilms' Tumor (Nephroblastoma),dactinomycin
+Aspiration Pneumonia,cilastatin AND imipenem
+Wilms' Tumor ,paclitaxel
+Wilms' Tumor ,vincristine
+Wilms' Tumor ,doxorubicin
+Wilms' Tumor ,cyclophosphamide
+Wilms' Tumor ,dactinomycin
 Neurofibromatosis,bevacizumab
 Neurofibromatosis,bevacizumab
 Neurofibromatosis,bevacizumab
@@ -4349,7 +4349,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Neurofibromatosis,bevacizumab
 Neurofibromatosis,bevacizumab
 Neurofibromatosis,bevacizumab
@@ -4410,7 +4410,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -4537,7 +4537,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -4549,7 +4549,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -4565,45 +4565,45 @@ Osteosarcoma,methotrexate
 Osteosarcoma,doxorubicin
 Osteosarcoma,cyclophosphamide
 Osteosarcoma,dactinomycin
-Otitis Externa,hydrocortisone / neomycin / polymyxin b
-Otitis Externa,ciprofloxacin / dexamethasone
+Otitis Externa,hydrocortisone AND neomycin AND polymyxin b
+Otitis Externa,ciprofloxacin AND dexamethasone
 Otitis Externa,acetic acid
-Otitis Externa,acetic acid / hydrocortisone
+Otitis Externa,acetic acid AND hydrocortisone
 Otitis Externa,ceftazidime
-Otitis Externa,acetic acid / aluminum acetate
-Otitis Externa,colistin sulfate / hydrocortisone / neomycin / thonzonium bromide
-Otitis Externa,hydrocortisone / neomycin / polymyxin b
-Otitis Externa,ciprofloxacin / dexamethasone
+Otitis Externa,acetic acid AND aluminum acetate
+Otitis Externa,colistin sulfate AND hydrocortisone AND neomycin AND thonzonium bromide
+Otitis Externa,hydrocortisone AND neomycin AND polymyxin b
+Otitis Externa,ciprofloxacin AND dexamethasone
 Otitis Externa,acetic acid
-Otitis Externa,acetic acid / hydrocortisone
+Otitis Externa,acetic acid AND hydrocortisone
 Otitis Externa,ceftazidime
-Otitis Externa,acetic acid / aluminum acetate
-Otitis Externa,colistin sulfate / hydrocortisone / neomycin / thonzonium bromide
+Otitis Externa,acetic acid AND aluminum acetate
+Otitis Externa,colistin sulfate AND hydrocortisone AND neomycin AND thonzonium bromide
 Otitis Media,amoxicillin
 Otitis Media,cefdinir
-Otitis Media,amoxicillin / clavulanate
+Otitis Media,amoxicillin AND clavulanate
 Otitis Media,azithromycin
 Otitis Media,cephalexin
 Otitis Media,ofloxacin
 Otitis Media,clarithromycin
-Otitis Media,sulfamethoxazole / trimethoprim
+Otitis Media,sulfamethoxazole AND trimethoprim
 Otitis Media,cefuroxime
-Otitis Media,hydrocortisone / neomycin / polymyxin b
+Otitis Media,hydrocortisone AND neomycin AND polymyxin b
 Otitis Media,levofloxacin
-Otitis Media,ciprofloxacin / dexamethasone
+Otitis Media,ciprofloxacin AND dexamethasone
 Otitis Media,erythromycin
 Otitis Media,amoxicillin
 Otitis Media,cefdinir
-Otitis Media,amoxicillin / clavulanate
+Otitis Media,amoxicillin AND clavulanate
 Otitis Media,azithromycin
 Otitis Media,cephalexin
 Otitis Media,ofloxacin
 Otitis Media,clarithromycin
-Otitis Media,sulfamethoxazole / trimethoprim
+Otitis Media,sulfamethoxazole AND trimethoprim
 Otitis Media,cefuroxime
-Otitis Media,hydrocortisone / neomycin / polymyxin b
+Otitis Media,hydrocortisone AND neomycin AND polymyxin b
 Otitis Media,levofloxacin
-Otitis Media,ciprofloxacin / dexamethasone
+Otitis Media,ciprofloxacin AND dexamethasone
 Otitis Media,erythromycin
 Overactive Bladder,darifenacin
 Overactive Bladder,onabotulinumtoxinA
@@ -4625,7 +4625,7 @@ Muscle Pain,diclofenac
 Muscle Pain,nabumetone
 Back Pain,tramadol
 Back Pain,ibuprofen
-Back Pain,acetaminophen / hydrocodone
+Back Pain,acetaminophen AND hydrocodone
 Back Pain,naproxen
 Back Pain,diclofenac
 Back Pain,duloxetine
@@ -4660,7 +4660,7 @@ Psoriasis,cyclosporine
 Psoriasis,hydrocortisone
 Psoriasis,ustekinumab
 Psoriasis,adalimumab
-Psoriasis,betamethasone / calcipotriene
+Psoriasis,betamethasone AND calcipotriene
 Schizophrenia,risperidone
 Schizophrenia,clozapine
 Schizophrenia,olanzapine
@@ -4698,7 +4698,7 @@ Postpartum Depression,paroxetine
 Postpartum Depression,brexanolone
 Lice,permethrin
 Lice,lindane
-Lice,piperonyl butoxide / pyrethrins
+Lice,piperonyl butoxide AND pyrethrins
 Lice,spinosad
 Dental Abscess,amoxicillin
 Dental Abscess,metronidazole
@@ -4753,12 +4753,12 @@ Dissociative Identity Disorder,sertraline
 Dissociative Identity Disorder,venlafaxine
 Dissociative Identity Disorder,fluoxetine
 Dissociative Identity Disorder,citalopram
-Strep Throat (Streptococcal Pharyngitis),amoxicillin / clavulanate
-Strep Throat (Streptococcal Pharyngitis),cefdinir
-Strep Throat (Streptococcal Pharyngitis),clarithromycin
-Strep Throat (Streptococcal Pharyngitis),erythromycin
-Strep Throat (Streptococcal Pharyngitis),cefuroxime
-Strep Throat (Streptococcal Pharyngitis),gemifloxacin
+Strep Throat ,amoxicillin AND clavulanate
+Strep Throat ,cefdinir
+Strep Throat ,clarithromycin
+Strep Throat ,erythromycin
+Strep Throat ,cefuroxime
+Strep Throat ,gemifloxacin
 Acne,doxycycline
 Acne,spironolactone
 Acne,minocycline
@@ -4769,7 +4769,7 @@ Acne,benzoyl peroxide
 Acne,adapalene
 Acne,tetracycline
 Acne,cephalexin
-Acne,sulfamethoxazole / trimethoprim
+Acne,sulfamethoxazole AND trimethoprim
 Plantar Fibromatosis,clobetasol
 Plantar Fibromatosis,triamcinolone
 Plantar Fibromatosis,clobetasol
@@ -4849,10 +4849,10 @@ Chronic Fatigue Syndrome,duloxetine
 Chronic Fatigue Syndrome,lisdexamfetamine
 Chronic Fatigue Syndrome,amantadine
 Chronic Fatigue Syndrome,armodafinil
-Emergency Contraception (Postcoital Contraception),levonorgestrel
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / levonorgestrel
-Emergency Contraception (Postcoital Contraception),ulipristal
-Emergency Contraception (Postcoital Contraception),ethinyl estradiol / norgestrel
+Emergency Contraception ,levonorgestrel
+Emergency Contraception ,ethinyl estradiol AND levonorgestrel
+Emergency Contraception ,ulipristal
+Emergency Contraception ,ethinyl estradiol AND norgestrel
 Postpartum Depression,sertraline
 Postpartum Depression,citalopram
 Postpartum Depression,fluoxetine
@@ -4880,15 +4880,15 @@ Primary Biliary Cholangitis,colchicine
 Primary Biliary Cholangitis,azathioprine
 Primary Biliary Cholangitis,obeticholic acid
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
-"Hypogonadism, Male",testosterone
-"Hypogonadism, Male",chorionic gonadotropin (hcg)
-"Hypogonadism, Male",follicle stimulating hormone
-"Hypogonadism, Male",methyltestosterone
+Male Hypogonadism,testosterone
+Male Hypogonadism,chorionic gonadotropin 
+Male Hypogonadism,follicle stimulating hormone
+Male Hypogonadism,methyltestosterone
 Myelofibrosis,ruxolitinib
 Myelofibrosis,fedratinib
 Peritoneal Cancer,bevacizumab
@@ -4903,7 +4903,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Scleroderma,methotrexate
 Scleroderma,prednisone
 Scleroderma,cyclophosphamide
@@ -4923,22 +4923,22 @@ Benign Prostatic Hyperplasia,tadalafil
 Benign Prostatic Hyperplasia,dutasteride
 Benign Prostatic Hyperplasia,prazosin
 Benign Prostatic Hyperplasia,silodosin
-Benign Prostatic Hyperplasia,dutasteride / tamsulosin
+Benign Prostatic Hyperplasia,dutasteride AND tamsulosin
 Prostatitis,ciprofloxacin
 Prostatitis,doxycycline
 Prostatitis,oxybutynin
 Prostatitis,levofloxacin
-Prostatitis,sulfamethoxazole / trimethoprim
+Prostatitis,sulfamethoxazole AND trimethoprim
 Prostatitis,cephalexin
 Prostatitis,moxifloxacin
 Prostatitis,ofloxacin
 Prosthetic Heart Valves - Thrombosis Prophylaxis,aspirin
 Prosthetic Heart Valves - Thrombosis Prophylaxis,warfarin
 Prosthetic Heart Valves - Thrombosis Prophylaxis,dipyridamole
-Thrombotic/Thromboembolic Disorder,heparin
-Thrombotic/Thromboembolic Disorder,argatroban
-Thrombotic/Thromboembolic Disorder,alteplase
-Thrombotic/Thromboembolic Disorder,urokinase
+ThromboticANDThromboembolic Disorder,heparin
+ThromboticANDThromboembolic Disorder,argatroban
+ThromboticANDThromboembolic Disorder,alteplase
+ThromboticANDThromboembolic Disorder,urokinase
 Pruritus,diphenhydramine
 Pruritus,diphenhydramine
 Peritoneal Cancer,bevacizumab
@@ -4961,7 +4961,7 @@ Psoriasis,cyclosporine
 Psoriasis,hydrocortisone
 Psoriasis,ustekinumab
 Psoriasis,adalimumab
-Psoriasis,betamethasone / calcipotriene
+Psoriasis,betamethasone AND calcipotriene
 Post Traumatic Stress Disorder,prazosin
 Post Traumatic Stress Disorder,sertraline
 Post Traumatic Stress Disorder,lamotrigine
@@ -4992,7 +4992,7 @@ Post Traumatic Stress Disorder,asenapine
 Post Traumatic Stress Disorder,fluvoxamine
 Lice,permethrin
 Lice,lindane
-Lice,piperonyl butoxide / pyrethrins
+Lice,piperonyl butoxide AND pyrethrins
 Lice,spinosad
 Prosthetic Heart Valves - Thrombosis Prophylaxis,aspirin
 Prosthetic Heart Valves - Thrombosis Prophylaxis,warfarin
@@ -5011,7 +5011,7 @@ Psoriasis,cyclosporine
 Psoriasis,hydrocortisone
 Psoriasis,ustekinumab
 Psoriasis,adalimumab
-Psoriasis,betamethasone / calcipotriene
+Psoriasis,betamethasone AND calcipotriene
 GERD,omeprazole
 GERD,pantoprazole
 GERD,ranitidine
@@ -5021,9 +5021,9 @@ GERD,esomeprazole
 GERD,rabeprazole
 GERD,sucralfate
 GERD,dexlansoprazole
-GERD,omeprazole / sodium bicarbonate
+GERD,omeprazole AND sodium bicarbonate
 Alkylating Agent Cystitis,sodium bicarbonate
-Alkylating Agent Cystitis,citric acid / sodium citrate
+Alkylating Agent Cystitis,citric acid AND sodium citrate
 Anthrax,ciprofloxacin
 Anthrax,levofloxacin
 Anthrax,doxycycline
@@ -5065,12 +5065,12 @@ GERD,esomeprazole
 GERD,rabeprazole
 GERD,sucralfate
 GERD,dexlansoprazole
-GERD,omeprazole / sodium bicarbonate
+GERD,omeprazole AND sodium bicarbonate
 Urinary Tract Stones,tamsulosin
 Urinary Tract Stones,allopurinol
 Urinary Tract Stones,magnesium oxide
-Urinary Tract Stones,citric acid / potassium citrate
-Urinary Tract Stones,citric acid / sodium citrate
+Urinary Tract Stones,citric acid AND potassium citrate
+Urinary Tract Stones,citric acid AND sodium citrate
 Renal Cell Carcinoma,pazopanib
 Renal Cell Carcinoma,sunitinib
 Renal Cell Carcinoma,axitinib
@@ -5100,8 +5100,8 @@ Renal Cell Carcinoma,lenvatinib
 Urinary Tract Stones,tamsulosin
 Urinary Tract Stones,allopurinol
 Urinary Tract Stones,magnesium oxide
-Urinary Tract Stones,citric acid / potassium citrate
-Urinary Tract Stones,citric acid / sodium citrate
+Urinary Tract Stones,citric acid AND potassium citrate
+Urinary Tract Stones,citric acid AND sodium citrate
 Schizophrenia,risperidone
 Schizophrenia,clozapine
 Schizophrenia,olanzapine
@@ -5111,7 +5111,7 @@ Schizophrenia,chlorpromazine
 Schizophrenia,paliperidone
 Schizophrenia,ziprasidone
 Schizophrenia,loxapine
-Tinea Corporis,betamethasone / clotrimazole
+Tinea Corporis,betamethasone AND clotrimazole
 Tinea Corporis,ketoconazole
 Tinea Corporis,clotrimazole
 Tinea Corporis,terbinafine
@@ -5124,7 +5124,7 @@ Tinea Corporis,tolnaftate
 Tinea Corporis,terbinafine
 Tinea Corporis,ciclopirox
 Tinea Barbae,griseofulvin
-Tinea Corporis,betamethasone / clotrimazole
+Tinea Corporis,betamethasone AND clotrimazole
 Tinea Corporis,ketoconazole
 Tinea Corporis,clotrimazole
 Tinea Corporis,terbinafine
@@ -5141,12 +5141,12 @@ Tinea Pedis,ketoconazole
 Tinea Pedis,terbinafine
 Tinea Pedis,econazole
 Tinea Pedis,terbinafine
-Tinea Pedis,betamethasone / clotrimazole
+Tinea Pedis,betamethasone AND clotrimazole
 Tinea Pedis,tolnaftate
 Tinea Pedis,ciclopirox
 Tinea Pedis,miconazole
 Tinea Pedis,griseofulvin
-Tinea Cruris,betamethasone / clotrimazole
+Tinea Cruris,betamethasone AND clotrimazole
 Tinea Cruris,ketoconazole
 Tinea Cruris,clotrimazole
 Tinea Cruris,econazole
@@ -5192,7 +5192,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -5268,15 +5268,15 @@ Scleroderma,prednisone
 Scleroderma,cyclophosphamide
 Myelofibrosis,ruxolitinib
 Myelofibrosis,fedratinib
-Seizures (Convulsions),levetiracetam
-Seizures (Convulsions),phenobarbital
-Seizures (Convulsions),phenytoin
-Seizures (Convulsions),diazepam
-Seizures (Convulsions),oxcarbazepine
-Seizures (Convulsions),zonisamide
-Seizures (Convulsions),topiramate
-Seizures (Convulsions),valproic acid
-Seizures (Convulsions),primidone
+Seizures ,levetiracetam
+Seizures ,phenobarbital
+Seizures ,phenytoin
+Seizures ,diazepam
+Seizures ,oxcarbazepine
+Seizures ,zonisamide
+Seizures ,topiramate
+Seizures ,valproic acid
+Seizures ,primidone
 Testicular Cancer,cisplatin
 Testicular Cancer,etoposide
 Testicular Cancer,bleomycin
@@ -5301,17 +5301,17 @@ Reflex Sympathetic Dystrophy Syndrome,milnacipran
 Reflex Sympathetic Dystrophy Syndrome,pregabalin
 Reflex Sympathetic Dystrophy Syndrome,doxepin
 Reflex Sympathetic Dystrophy Syndrome,carbamazepine
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
-"Anemia, Sickle Cell",hydroxyurea
-"Anemia, Sickle Cell",vitamin e
-"Anemia, Sickle Cell",glutamine
-"Anemia, Sickle Cell",crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
+Sickle Cell Anemia,hydroxyurea
+Sickle Cell Anemia,vitamin e
+Sickle Cell Anemia,glutamine
+Sickle Cell Anemia,crizanlizumab
 Sinusitis,amoxicillin
 Sinusitis,prednisone
-Sinusitis,amoxicillin / clavulanate
+Sinusitis,amoxicillin AND clavulanate
 Sinusitis,cefdinir
 Sinusitis,azithromycin
 Sinusitis,levofloxacin
@@ -5319,11 +5319,11 @@ Sinusitis,cefuroxime
 Sinusitis,clarithromycin
 Sinusitis,ciprofloxacin
 Sinusitis,clindamycin
-Sinusitis,sulfamethoxazole / trimethoprim
+Sinusitis,sulfamethoxazole AND trimethoprim
 Sinusitis,moxifloxacin
 Sinusitis,amoxicillin
 Sinusitis,prednisone
-Sinusitis,amoxicillin / clavulanate
+Sinusitis,amoxicillin AND clavulanate
 Sinusitis,cefdinir
 Sinusitis,azithromycin
 Sinusitis,levofloxacin
@@ -5331,11 +5331,11 @@ Sinusitis,cefuroxime
 Sinusitis,clarithromycin
 Sinusitis,ciprofloxacin
 Sinusitis,clindamycin
-Sinusitis,sulfamethoxazole / trimethoprim
+Sinusitis,sulfamethoxazole AND trimethoprim
 Sinusitis,moxifloxacin
 Sinusitis,amoxicillin
 Sinusitis,prednisone
-Sinusitis,amoxicillin / clavulanate
+Sinusitis,amoxicillin AND clavulanate
 Sinusitis,cefdinir
 Sinusitis,azithromycin
 Sinusitis,levofloxacin
@@ -5343,11 +5343,11 @@ Sinusitis,cefuroxime
 Sinusitis,clarithromycin
 Sinusitis,ciprofloxacin
 Sinusitis,clindamycin
-Sinusitis,sulfamethoxazole / trimethoprim
+Sinusitis,sulfamethoxazole AND trimethoprim
 Sinusitis,moxifloxacin
 Sinusitis,amoxicillin
 Sinusitis,prednisone
-Sinusitis,amoxicillin / clavulanate
+Sinusitis,amoxicillin AND clavulanate
 Sinusitis,cefdinir
 Sinusitis,azithromycin
 Sinusitis,levofloxacin
@@ -5355,7 +5355,7 @@ Sinusitis,cefuroxime
 Sinusitis,clarithromycin
 Sinusitis,ciprofloxacin
 Sinusitis,clindamycin
-Sinusitis,sulfamethoxazole / trimethoprim
+Sinusitis,sulfamethoxazole AND trimethoprim
 Sinusitis,moxifloxacin
 Basal Cell Carcinoma,fluorouracil
 Basal Cell Carcinoma,imiquimod
@@ -5366,7 +5366,7 @@ Skin or Soft Tissue Infection,clindamycin
 Skin or Soft Tissue Infection,doxycycline
 Skin or Soft Tissue Infection,amoxicillin
 Skin or Soft Tissue Infection,ciprofloxacin
-Skin or Soft Tissue Infection,amoxicillin / clavulanate
+Skin or Soft Tissue Infection,amoxicillin AND clavulanate
 Skin or Soft Tissue Infection,minocycline
 Skin or Soft Tissue Infection,azithromycin
 Skin or Soft Tissue Infection,metronidazole
@@ -5380,7 +5380,7 @@ Skin or Soft Tissue Infection,clindamycin
 Skin or Soft Tissue Infection,doxycycline
 Skin or Soft Tissue Infection,amoxicillin
 Skin or Soft Tissue Infection,ciprofloxacin
-Skin or Soft Tissue Infection,amoxicillin / clavulanate
+Skin or Soft Tissue Infection,amoxicillin AND clavulanate
 Skin or Soft Tissue Infection,minocycline
 Skin or Soft Tissue Infection,azithromycin
 Skin or Soft Tissue Infection,metronidazole
@@ -5389,10 +5389,10 @@ Skin or Soft Tissue Infection,dicloxacillin
 Skin or Soft Tissue Infection,levofloxacin
 Skin or Soft Tissue Infection,erythromycin
 Skin or Soft Tissue Infection,cefdinir
-Drowsiness (Hypersomnia),caffeine
-Drowsiness (Hypersomnia),modafinil
-Drowsiness (Hypersomnia),dextroamphetamine
-Drowsiness (Hypersomnia),armodafinil
+Drowsiness ,caffeine
+Drowsiness ,modafinil
+Drowsiness ,dextroamphetamine
+Drowsiness ,armodafinil
 Insomnia,trazodone
 Insomnia,zolpidem
 Insomnia,temazepam
@@ -5408,7 +5408,7 @@ Insomnia,gabapentin
 Insomnia,flurazepam
 Back Pain,tramadol
 Back Pain,ibuprofen
-Back Pain,acetaminophen / hydrocodone
+Back Pain,acetaminophen AND hydrocodone
 Back Pain,naproxen
 Back Pain,diclofenac
 Back Pain,duloxetine
@@ -5424,7 +5424,7 @@ Skin or Soft Tissue Infection,clindamycin
 Skin or Soft Tissue Infection,doxycycline
 Skin or Soft Tissue Infection,amoxicillin
 Skin or Soft Tissue Infection,ciprofloxacin
-Skin or Soft Tissue Infection,amoxicillin / clavulanate
+Skin or Soft Tissue Infection,amoxicillin AND clavulanate
 Skin or Soft Tissue Infection,minocycline
 Skin or Soft Tissue Infection,azithromycin
 Skin or Soft Tissue Infection,metronidazole
@@ -5438,10 +5438,10 @@ Soft Tissue Sarcoma,doxorubicin
 Soft Tissue Sarcoma,methotrexate
 Soft Tissue Sarcoma,trabectedin
 Soft Tissue Sarcoma,olaratumab
-Drowsiness (Hypersomnia),caffeine
-Drowsiness (Hypersomnia),modafinil
-Drowsiness (Hypersomnia),dextroamphetamine
-Drowsiness (Hypersomnia),armodafinil
+Drowsiness ,caffeine
+Drowsiness ,modafinil
+Drowsiness ,dextroamphetamine
+Drowsiness ,armodafinil
 Overactive Bladder,darifenacin
 Overactive Bladder,onabotulinumtoxinA
 Dissociative Identity Disorder,sertraline
@@ -5459,13 +5459,13 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Skin or Soft Tissue Infection,cephalexin
 Skin or Soft Tissue Infection,clindamycin
 Skin or Soft Tissue Infection,doxycycline
 Skin or Soft Tissue Infection,amoxicillin
 Skin or Soft Tissue Infection,ciprofloxacin
-Skin or Soft Tissue Infection,amoxicillin / clavulanate
+Skin or Soft Tissue Infection,amoxicillin AND clavulanate
 Skin or Soft Tissue Infection,minocycline
 Skin or Soft Tissue Infection,azithromycin
 Skin or Soft Tissue Infection,metronidazole
@@ -5497,28 +5497,28 @@ Hyperekplexia,valproic acid
 Urinary Tract Stones,tamsulosin
 Urinary Tract Stones,allopurinol
 Urinary Tract Stones,magnesium oxide
-Urinary Tract Stones,citric acid / potassium citrate
-Urinary Tract Stones,citric acid / sodium citrate
+Urinary Tract Stones,citric acid AND potassium citrate
+Urinary Tract Stones,citric acid AND sodium citrate
 Hemangioma,propranolol
 Hemangioma,propranolol
-Strep Throat (Streptococcal Pharyngitis),amoxicillin / clavulanate
-Strep Throat (Streptococcal Pharyngitis),cefdinir
-Strep Throat (Streptococcal Pharyngitis),clarithromycin
-Strep Throat (Streptococcal Pharyngitis),erythromycin
-Strep Throat (Streptococcal Pharyngitis),cefuroxime
-Strep Throat (Streptococcal Pharyngitis),gemifloxacin
-Strep Throat (Streptococcal Pharyngitis),amoxicillin / clavulanate
-Strep Throat (Streptococcal Pharyngitis),cefdinir
-Strep Throat (Streptococcal Pharyngitis),clarithromycin
-Strep Throat (Streptococcal Pharyngitis),erythromycin
-Strep Throat (Streptococcal Pharyngitis),cefuroxime
-Strep Throat (Streptococcal Pharyngitis),gemifloxacin
-Strep Throat (Streptococcal Pharyngitis),amoxicillin / clavulanate
-Strep Throat (Streptococcal Pharyngitis),cefdinir
-Strep Throat (Streptococcal Pharyngitis),clarithromycin
-Strep Throat (Streptococcal Pharyngitis),erythromycin
-Strep Throat (Streptococcal Pharyngitis),cefuroxime
-Strep Throat (Streptococcal Pharyngitis),gemifloxacin
+Strep Throat ,amoxicillin AND clavulanate
+Strep Throat ,cefdinir
+Strep Throat ,clarithromycin
+Strep Throat ,erythromycin
+Strep Throat ,cefuroxime
+Strep Throat ,gemifloxacin
+Strep Throat ,amoxicillin AND clavulanate
+Strep Throat ,cefdinir
+Strep Throat ,clarithromycin
+Strep Throat ,erythromycin
+Strep Throat ,cefuroxime
+Strep Throat ,gemifloxacin
+Strep Throat ,amoxicillin AND clavulanate
+Strep Throat ,cefdinir
+Strep Throat ,clarithromycin
+Strep Throat ,erythromycin
+Strep Throat ,cefuroxime
+Strep Throat ,gemifloxacin
 Ischemic Stroke,clopidogrel
 Ischemic Stroke,aspirin
 Ischemic Stroke,alteplase
@@ -5548,15 +5548,15 @@ Hyperhidrosis,gabapentin
 Hyperhidrosis,amitriptyline
 Hyperhidrosis,glycopyrronium
 Hyperhidrosis,onabotulinumtoxinA
-Otitis Externa,hydrocortisone / neomycin / polymyxin b
-Otitis Externa,ciprofloxacin / dexamethasone
+Otitis Externa,hydrocortisone AND neomycin AND polymyxin b
+Otitis Externa,ciprofloxacin AND dexamethasone
 Otitis Externa,acetic acid
-Otitis Externa,acetic acid / hydrocortisone
+Otitis Externa,acetic acid AND hydrocortisone
 Otitis Externa,ceftazidime
-Otitis Externa,acetic acid / aluminum acetate
-Otitis Externa,colistin sulfate / hydrocortisone / neomycin / thonzonium bromide
-Insulin Resistance Syndrome (Metabolic Syndrome),metformin
-Insulin Resistance Syndrome (Metabolic Syndrome),insulin regular
+Otitis Externa,acetic acid AND aluminum acetate
+Otitis Externa,colistin sulfate AND hydrocortisone AND neomycin AND thonzonium bromide
+Insulin Resistance Syndrome ,metformin
+Insulin Resistance Syndrome ,insulin regular
 Chronic Fatigue Syndrome,modafinil
 Chronic Fatigue Syndrome,duloxetine
 Chronic Fatigue Syndrome,lisdexamfetamine
@@ -5590,10 +5590,10 @@ Deep Vein Thrombosis,dabigatran
 Deep Vein Thrombosis,fondaparinux
 Deep Vein Thrombosis,edoxaban
 Deep Vein Thrombosis,urokinase
-Thrombotic/Thromboembolic Disorder,heparin
-Thrombotic/Thromboembolic Disorder,argatroban
-Thrombotic/Thromboembolic Disorder,alteplase
-Thrombotic/Thromboembolic Disorder,urokinase
+ThromboticANDThromboembolic Disorder,heparin
+ThromboticANDThromboembolic Disorder,argatroban
+ThromboticANDThromboembolic Disorder,alteplase
+ThromboticANDThromboembolic Disorder,urokinase
 Vaginal Yeast Infection,fluconazole
 Vaginal Yeast Infection,clotrimazole
 Vaginal Yeast Infection,nystatin
@@ -5626,7 +5626,7 @@ Tinea Barbae,griseofulvin
 Tinea Capitis,terbinafine
 Tinea Capitis,griseofulvin
 Tinea Capitis,itraconazole
-Tinea Corporis,betamethasone / clotrimazole
+Tinea Corporis,betamethasone AND clotrimazole
 Tinea Corporis,ketoconazole
 Tinea Corporis,clotrimazole
 Tinea Corporis,terbinafine
@@ -5638,7 +5638,7 @@ Tinea Corporis,griseofulvin
 Tinea Corporis,tolnaftate
 Tinea Corporis,terbinafine
 Tinea Corporis,ciclopirox
-Tinea Corporis,betamethasone / clotrimazole
+Tinea Corporis,betamethasone AND clotrimazole
 Tinea Corporis,ketoconazole
 Tinea Corporis,clotrimazole
 Tinea Corporis,terbinafine
@@ -5650,7 +5650,7 @@ Tinea Corporis,griseofulvin
 Tinea Corporis,tolnaftate
 Tinea Corporis,terbinafine
 Tinea Corporis,ciclopirox
-Tinea Cruris,betamethasone / clotrimazole
+Tinea Cruris,betamethasone AND clotrimazole
 Tinea Cruris,ketoconazole
 Tinea Cruris,clotrimazole
 Tinea Cruris,econazole
@@ -5662,7 +5662,7 @@ Tinea Cruris,tolnaftate
 Tinea Cruris,ciclopirox
 Tinea Cruris,griseofulvin
 Tinea Cruris,clioquinol
-Tinea Corporis,betamethasone / clotrimazole
+Tinea Corporis,betamethasone AND clotrimazole
 Tinea Corporis,ketoconazole
 Tinea Corporis,clotrimazole
 Tinea Corporis,terbinafine
@@ -5679,12 +5679,12 @@ Tinea Pedis,ketoconazole
 Tinea Pedis,terbinafine
 Tinea Pedis,econazole
 Tinea Pedis,terbinafine
-Tinea Pedis,betamethasone / clotrimazole
+Tinea Pedis,betamethasone AND clotrimazole
 Tinea Pedis,tolnaftate
 Tinea Pedis,ciclopirox
 Tinea Pedis,miconazole
 Tinea Pedis,griseofulvin
-Tinea Cruris,betamethasone / clotrimazole
+Tinea Cruris,betamethasone AND clotrimazole
 Tinea Cruris,ketoconazole
 Tinea Cruris,clotrimazole
 Tinea Cruris,econazole
@@ -5704,13 +5704,13 @@ Tinea Pedis,ketoconazole
 Tinea Pedis,terbinafine
 Tinea Pedis,econazole
 Tinea Pedis,terbinafine
-Tinea Pedis,betamethasone / clotrimazole
+Tinea Pedis,betamethasone AND clotrimazole
 Tinea Pedis,tolnaftate
 Tinea Pedis,ciclopirox
 Tinea Pedis,miconazole
 Tinea Pedis,griseofulvin
 Onychomycosis,undecylenic acid
-Tinea Corporis,betamethasone / clotrimazole
+Tinea Corporis,betamethasone AND clotrimazole
 Tinea Corporis,ketoconazole
 Tinea Corporis,clotrimazole
 Tinea Corporis,terbinafine
@@ -5774,10 +5774,10 @@ Trophoblastic Disease,dactinomycin
 Trophoblastic Disease,methotrexate
 Trophoblastic Disease,dinoprostone
 Trophoblastic Disease,dactinomycin
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
-"Tuberculosis, Extrapulmonary",prednisone
-"Tuberculosis, Extrapulmonary",cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
+Extrapulmonary Tuberculosis,prednisone
+Extrapulmonary Tuberculosis,cycloserine
 Osteosarcoma,methotrexate
 Osteosarcoma,doxorubicin
 Osteosarcoma,cyclophosphamide
@@ -5818,9 +5818,9 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Alkylating Agent Cystitis,sodium bicarbonate
-Alkylating Agent Cystitis,citric acid / sodium citrate
+Alkylating Agent Cystitis,citric acid AND sodium citrate
 Urinary Incontinence,oxybutynin
 Urinary Incontinence,tolterodine
 Urinary Incontinence,amitriptyline
@@ -5843,12 +5843,12 @@ Urinary Incontinence,fesoterodine
 Urinary Incontinence,darifenacin
 Urinary Tract Infection,ciprofloxacin
 Urinary Tract Infection,nitrofurantoin
-Urinary Tract Infection,sulfamethoxazole / trimethoprim
+Urinary Tract Infection,sulfamethoxazole AND trimethoprim
 Urinary Tract Infection,amoxicillin
 Urinary Tract Infection,doxycycline
 Urinary Tract Infection,levofloxacin
 Urinary Tract Infection,ceftriaxone
-Urinary Tract Infection,amoxicillin / clavulanate
+Urinary Tract Infection,amoxicillin AND clavulanate
 Urinary Tract Infection,cefuroxime
 Urinary Tract Infection,trimethoprim
 Urinary Tract Infection,methenamine
@@ -5856,8 +5856,8 @@ Urinary Tract Infection,ampicillin
 Urinary Tract Stones,tamsulosin
 Urinary Tract Stones,allopurinol
 Urinary Tract Stones,magnesium oxide
-Urinary Tract Stones,citric acid / potassium citrate
-Urinary Tract Stones,citric acid / sodium citrate
+Urinary Tract Stones,citric acid AND potassium citrate
+Urinary Tract Stones,citric acid AND sodium citrate
 Endometrial Cancer,megestrol
 Endometrial Cancer,medroxyprogesterone
 Endometrial Cancer,anastrozole
@@ -5878,12 +5878,12 @@ Endometrial Cancer,pembrolizumab
 Endometrial Cancer,lenvatinib
 Urinary Tract Infection,ciprofloxacin
 Urinary Tract Infection,nitrofurantoin
-Urinary Tract Infection,sulfamethoxazole / trimethoprim
+Urinary Tract Infection,sulfamethoxazole AND trimethoprim
 Urinary Tract Infection,amoxicillin
 Urinary Tract Infection,doxycycline
 Urinary Tract Infection,levofloxacin
 Urinary Tract Infection,ceftriaxone
-Urinary Tract Infection,amoxicillin / clavulanate
+Urinary Tract Infection,amoxicillin AND clavulanate
 Urinary Tract Infection,cefuroxime
 Urinary Tract Infection,trimethoprim
 Urinary Tract Infection,methenamine
@@ -5974,12 +5974,12 @@ Acne,benzoyl peroxide
 Acne,adapalene
 Acne,tetracycline
 Acne,cephalexin
-Acne,sulfamethoxazole / trimethoprim
-Wilms' Tumor (Nephroblastoma),paclitaxel
-Wilms' Tumor (Nephroblastoma),vincristine
-Wilms' Tumor (Nephroblastoma),doxorubicin
-Wilms' Tumor (Nephroblastoma),cyclophosphamide
-Wilms' Tumor (Nephroblastoma),dactinomycin
+Acne,sulfamethoxazole AND trimethoprim
+Wilms' Tumor ,paclitaxel
+Wilms' Tumor ,vincristine
+Wilms' Tumor ,doxorubicin
+Wilms' Tumor ,cyclophosphamide
+Wilms' Tumor ,dactinomycin
 Anthrax,ciprofloxacin
 Anthrax,levofloxacin
 Anthrax,doxycycline
@@ -6017,4 +6017,4 @@ Acne,benzoyl peroxide
 Acne,adapalene
 Acne,tetracycline
 Acne,cephalexin
-Acne,sulfamethoxazole / trimethoprim
+Acne,sulfamethoxazole AND trimethoprim

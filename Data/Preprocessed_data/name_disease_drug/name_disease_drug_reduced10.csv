@@ -1,0 +1,1545 @@
+patient name,disease,drug
+Edithe Leggis,Angina,aspirin
+Elwood Catt,Angina,nitroglycerin
+Darby Felgate,Angina,metoprolol
+Dominica Pyle,Angina,amlodipine
+Bay Pencost,Angina,isosorbide mononitrate
+Lora Durbann,Angina,isosorbide dinitrate
+Rand Bram,Angina,enoxaparin
+Perceval Dallosso,Angina,ranolazine
+Aleda Pigram,Angina,atenolol
+Burlie Schustl,Angina,carvedilol
+Porty Jori,Angina,amlodipine AND atorvastatin
+Briant De La Haye,Muscle Pain,ibuprofen
+Kalie Scoble,Muscle Pain,naproxen
+Catriona Beaument,Muscle Pain,acetaminophen
+Amberly Handling,Muscle Pain,diclofenac
+Dyna De'Vere - Hunt,Muscle Pain,nabumetone
+Janella Hardaker,HIV Infection,lamivudine
+Alvin Wenzel,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Jerrine Peeters,HIV Infection,ritonavir
+Warner Driutti,HIV Infection,emtricitabine AND tenofovir
+Paige Hayhow,HIV Infection,tenofovir
+Dorisa Skill,HIV Infection,abacavir
+Bobbye Patmore,HIV Infection,lamivudine
+Jayme Dairton,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Sayre Stroyan,HIV Infection,ritonavir
+Joellyn Stutter,HIV Infection,emtricitabine AND tenofovir
+Julietta Delahunt,HIV Infection,tenofovir
+Halie Jewar,HIV Infection,abacavir
+Jessamyn Buddles,Acute Myeloid Leukemia,cytarabine
+Clevie Clubbe,Acute Myeloid Leukemia,vincristine
+Magdalen Claiden,Acute Myeloid Leukemia,daunorubicin
+Celina Boothebie,Acute Myeloid Leukemia,idarubicin
+Murvyn Duff,Acute Myeloid Leukemia,decitabine
+Lyndsie Dyball,Acute Myeloid Leukemia,gemtuzumab
+Ashlie Rotham,Acute Myeloid Leukemia,midostaurin
+Gardiner Ferbrache,Acute Myeloid Leukemia,venetoclax
+Rudolph Housbie,Acute Myeloid Leukemia,enasidenib
+Dun Craythorn,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Dasha Eppson,Acute Myeloid Leukemia,ivosidenib
+Bibby Evershed,Acute Myeloid Leukemia,gilteritinib
+Ransom Chippindale,Acute Myeloid Leukemia,glasdegib
+Zelig Brinded,HIV Infection,lamivudine
+Rosalyn Vondrys,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Lamond Ahmed,HIV Infection,ritonavir
+Anders Treadger,HIV Infection,emtricitabine AND tenofovir
+Haroun holmes,HIV Infection,tenofovir
+Kristan Metzing,HIV Infection,abacavir
+Willie Netherwood,Acute Myeloid Leukemia,cytarabine
+Aldon Ridsdell,Acute Myeloid Leukemia,vincristine
+Chrotoem Abels,Acute Myeloid Leukemia,daunorubicin
+Andy Kettleson,Acute Myeloid Leukemia,idarubicin
+Dredi Curd,Acute Myeloid Leukemia,decitabine
+Tessy Athelstan,Acute Myeloid Leukemia,gemtuzumab
+Tamas Vigneron,Acute Myeloid Leukemia,midostaurin
+Gnni Chaperling,Acute Myeloid Leukemia,venetoclax
+Margaux Lattin,Acute Myeloid Leukemia,enasidenib
+Anabella Tutchings,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Joeann Gotcliff,Acute Myeloid Leukemia,ivosidenib
+Peri Battram,Acute Myeloid Leukemia,gilteritinib
+Eugenius Headon,Acute Myeloid Leukemia,glasdegib
+Erwin Baise,Acute Myeloid Leukemia,cytarabine
+Leta Tartt,Acute Myeloid Leukemia,vincristine
+Lilli Sarath,Acute Myeloid Leukemia,daunorubicin
+Franz Roset,Acute Myeloid Leukemia,idarubicin
+Natalya Offner,Acute Myeloid Leukemia,decitabine
+Genevra Shipperbottom,Acute Myeloid Leukemia,gemtuzumab
+Francine Adolfsen,Acute Myeloid Leukemia,midostaurin
+Cairistiona Tummond,Acute Myeloid Leukemia,venetoclax
+Kelci Colliver,Acute Myeloid Leukemia,enasidenib
+Denys Endricci,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Findley Godleman,Acute Myeloid Leukemia,ivosidenib
+Fidelio Guerry,Acute Myeloid Leukemia,gilteritinib
+Krishnah Dabels,Acute Myeloid Leukemia,glasdegib
+Diannne Samter,HIV Infection,lamivudine
+Inge Hewins,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Dermot Stainburn,HIV Infection,ritonavir
+Ajay Durward,HIV Infection,emtricitabine AND tenofovir
+Constancy Darke,HIV Infection,tenofovir
+Cy Servante,HIV Infection,abacavir
+Lennard Giorgi,HIV Infection,lamivudine
+Cordie Rosenberger,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Noelyn Penquet,HIV Infection,ritonavir
+Frank Greenhough,HIV Infection,emtricitabine AND tenofovir
+Tan Connold,HIV Infection,tenofovir
+Star Casford,HIV Infection,abacavir
+Travers Selwyne,HIV Infection,lamivudine
+Randie Jankin,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Henryetta Noice,HIV Infection,ritonavir
+Fons Schrieves,HIV Infection,emtricitabine AND tenofovir
+Lissa Thynn,HIV Infection,tenofovir
+Mattias Darrell,HIV Infection,abacavir
+Cirilo Camoletto,Acute Myeloid Leukemia,cytarabine
+Aeriela Clarke,Acute Myeloid Leukemia,vincristine
+Marjory Franz,Acute Myeloid Leukemia,daunorubicin
+Rodolph Grewcock,Acute Myeloid Leukemia,idarubicin
+Justinn Ishchenko,Acute Myeloid Leukemia,decitabine
+Winne Cowland,Acute Myeloid Leukemia,gemtuzumab
+Gabriella Patry,Acute Myeloid Leukemia,midostaurin
+Tann McCroary,Acute Myeloid Leukemia,venetoclax
+Ebony Knappitt,Acute Myeloid Leukemia,enasidenib
+Piggy Hugle,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Lisle Floyd,Acute Myeloid Leukemia,ivosidenib
+Leroi Raeburn,Acute Myeloid Leukemia,gilteritinib
+Nicole Gages,Acute Myeloid Leukemia,glasdegib
+Mariele Lucius,Angina,aspirin
+Sherwood Woolaston,Angina,nitroglycerin
+Ag Gumby,Angina,metoprolol
+Basil Canon,Angina,amlodipine
+Care Kearton,Angina,isosorbide mononitrate
+Violetta Francois,Angina,isosorbide dinitrate
+Adlai Tilmouth,Angina,enoxaparin
+Gwenore Smaridge,Angina,ranolazine
+Kurt Marling,Angina,atenolol
+Artemus Brewitt,Angina,carvedilol
+Sergio Edmonson,Angina,amlodipine AND atorvastatin
+Maia Kidwell,Angina,aspirin
+Reinaldo Caines,Angina,nitroglycerin
+Lincoln Casburn,Angina,metoprolol
+Kelsy Danhel,Angina,amlodipine
+Des Sutehall,Angina,isosorbide mononitrate
+Darnall Comfort,Angina,isosorbide dinitrate
+Bernardo Bigland,Angina,enoxaparin
+Cymbre Steeden,Angina,ranolazine
+Leandra Demer,Angina,atenolol
+Shermy Gatchell,Angina,carvedilol
+Bryn Pratley,Angina,amlodipine AND atorvastatin
+Eran Summerill,Angina,aspirin
+Arlena Ridwood,Angina,nitroglycerin
+Rozelle Neubigin,Angina,metoprolol
+Jacenta Linner,Angina,amlodipine
+Mariann Wilshin,Angina,isosorbide mononitrate
+Jedidiah Malins,Angina,isosorbide dinitrate
+Rory Wank,Angina,enoxaparin
+Modesty Zink,Angina,ranolazine
+Newton Berni,Angina,atenolol
+Sybila Troker,Angina,carvedilol
+Jewel Betteney,Angina,amlodipine AND atorvastatin
+Hobie Skace,Angina,aspirin
+Loree Fishpond,Angina,nitroglycerin
+Gauthier Elsip,Angina,metoprolol
+Gisella Watters,Angina,amlodipine
+Flora Delgardillo,Angina,isosorbide mononitrate
+Dorthea Wealleans,Angina,isosorbide dinitrate
+Arlyn Boole,Angina,enoxaparin
+Jameson Sayce,Angina,ranolazine
+Collin Ciepluch,Angina,atenolol
+Francoise Mustill,Angina,carvedilol
+Peterus Lettson,Angina,amlodipine AND atorvastatin
+Yuri Crossfield,Angina,aspirin
+Kirbee Wrenn,Angina,nitroglycerin
+Rici Rein,Angina,metoprolol
+Anestassia Vauls,Angina,amlodipine
+Virgil Markussen,Angina,isosorbide mononitrate
+Marlin Yegorev,Angina,isosorbide dinitrate
+Clemmie Harbertson,Angina,enoxaparin
+Happy Jaskowicz,Angina,ranolazine
+Quentin Plaschke,Angina,atenolol
+Paulie Dunnet,Angina,carvedilol
+Wilma Burdytt,Angina,amlodipine AND atorvastatin
+Cobbie Imorts,Muscle Pain,ibuprofen
+Murry Entreis,Muscle Pain,naproxen
+George Wildber,Muscle Pain,acetaminophen
+Bethany Corona,Muscle Pain,diclofenac
+Carolann Yves,Muscle Pain,nabumetone
+Benson Hook,Muscle Pain,ibuprofen
+Dunstan Fyrth,Muscle Pain,naproxen
+Rutger Georgeon,Muscle Pain,acetaminophen
+Gearalt Bynold,Muscle Pain,diclofenac
+Ferrel Elphey,Muscle Pain,nabumetone
+Magda Nealand,Muscle Pain,ibuprofen
+Pamella Eaden,Muscle Pain,naproxen
+Nathanil Monan,Muscle Pain,acetaminophen
+Skelly Gopsell,Muscle Pain,diclofenac
+Arel Tyson,Muscle Pain,nabumetone
+Ericha Dressel,Muscle Pain,ibuprofen
+Yasmin Findlow,Muscle Pain,naproxen
+Corby Van Der Straaten,Muscle Pain,acetaminophen
+Herbert Billingsly,Muscle Pain,diclofenac
+Aprilette Veysey,Muscle Pain,nabumetone
+Biddy Rief,Muscle Pain,ibuprofen
+Brunhilda Davley,Muscle Pain,naproxen
+Artair Ondrich,Muscle Pain,acetaminophen
+Marylinda Gussie,Muscle Pain,diclofenac
+Gabrila Speedin,Muscle Pain,nabumetone
+Pavlov Hadye,HIV Infection,lamivudine
+Heath Lackmann,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Michele Olenchenko,HIV Infection,ritonavir
+Mischa Caulwell,HIV Infection,emtricitabine AND tenofovir
+Carlota Llewhellin,HIV Infection,tenofovir
+Edlin Theobald,HIV Infection,abacavir
+Sheridan Casino,Osteoarthritis,meloxicam
+Isidor Rundall,Osteoarthritis,diclofenac
+Heywood Bisp,Osteoarthritis,naproxen
+Allx Fretter,Osteoarthritis,ibuprofen
+Domenico Cadman,Osteoarthritis,celecoxib
+Tansy Symons,Osteoarthritis,chondroitin AND glucosamine
+Con Kaine,Osteoarthritis,diclofenac
+Felizio Kevern,Osteoarthritis,etodolac
+Valle Christoforou,Osteoarthritis,prednisone
+Sydney MacGhee,Osteoarthritis,aspirin
+Ikey Dowty,Osteoarthritis,nabumetone
+Fairleigh Hagger,Osteoarthritis,duloxetine
+Arlee Levine,Tinea Pedis,terbinafine
+Neal Kulver,Tinea Pedis,terbinafine
+Terri Palle,Dermal Ulcer,collagenase
+Lorilyn Annion,Dermal Ulcer,becaplermin
+Vernen Ivakhnov,Dermal Ulcer,cadexomer iodine
+Rufus Bernardini,Chronic Fatigue Syndrome,modafinil
+Dorothea Rogister,Chronic Fatigue Syndrome,duloxetine
+Myrtie MacScherie,Chronic Fatigue Syndrome,lisdexamfetamine
+Carley Gowers,Chronic Fatigue Syndrome,amantadine
+Flin Bordone,Chronic Fatigue Syndrome,armodafinil
+West Kernermann,Tinea Corporis,ketoconazole
+Brien Gatherer,Tinea Corporis,terbinafine
+Ephrayim Bedford,Tinea Corporis,ketoconazole
+Kaitlin Gaven,Tinea Corporis,terbinafine
+Tobe Torrejon,Borderline Personality Disorder,quetiapine
+Trudey Wagge,Borderline Personality Disorder,lamotrigine
+Gene Cottham,Borderline Personality Disorder,lithium
+Seline Garvill,Borderline Personality Disorder,risperidone
+Neil McCory,Borderline Personality Disorder,fluoxetine
+Burty Blurton,Borderline Personality Disorder,olanzapine
+Mead Syer,Borderline Personality Disorder,buspirone
+Adair Spurman,Borderline Personality Disorder,clonazepam
+Elana Heisham,Borderline Personality Disorder,sertraline
+Bryna Monson,Borderline Personality Disorder,aripiprazole
+Cordy Plenderleith,Borderline Personality Disorder,topiramate
+Ransell Evins,Borderline Personality Disorder,diazepam
+Chris Body,Borderline Personality Disorder,lorazepam
+Virginie Vaneev,Borderline Personality Disorder,escitalopram
+Cos Donnel,Borderline Personality Disorder,divalproex sodium
+Averell Shellsheere,Borderline Personality Disorder,alprazolam
+Isador Darrow,Borderline Personality Disorder,clozapine
+Linnell Peepall,Borderline Personality Disorder,oxcarbazepine
+Jedidiah Gercken,Borderline Personality Disorder,citalopram
+Serge Bendon,Borderline Personality Disorder,haloperidol
+Fernando Stuckes,Borderline Personality Disorder,lurasidone
+Joni Rays,Borderline Personality Disorder,l-methylfolate
+Cloris Cunradi,Borderline Personality Disorder,carbamazepine
+Anna-maria Voyce,Borderline Personality Disorder,asenapine
+Earlie Pideon,Borderline Personality Disorder,paliperidone
+Patten Merle,Borderline Personality Disorder,quetiapine
+Lilla Rowden,Borderline Personality Disorder,lamotrigine
+Gwendolyn Jacobowicz,Borderline Personality Disorder,lithium
+Carolynn Blakeslee,Borderline Personality Disorder,risperidone
+Clio Rainford,Borderline Personality Disorder,fluoxetine
+Tann Lever,Borderline Personality Disorder,olanzapine
+Devina Lukehurst,Borderline Personality Disorder,buspirone
+Worden Patkin,Borderline Personality Disorder,clonazepam
+Tammy Blachford,Borderline Personality Disorder,sertraline
+Tam Maysor,Borderline Personality Disorder,aripiprazole
+Dorella Nund,Borderline Personality Disorder,topiramate
+Shaun Doni,Borderline Personality Disorder,diazepam
+Octavius Giblin,Borderline Personality Disorder,lorazepam
+Anastassia Stoggles,Borderline Personality Disorder,escitalopram
+Durand Mitchelhill,Borderline Personality Disorder,divalproex sodium
+Lorene Trustram,Borderline Personality Disorder,alprazolam
+Vitia Cobbled,Borderline Personality Disorder,clozapine
+Simeon Gallanders,Borderline Personality Disorder,oxcarbazepine
+Bridget Dmitriev,Borderline Personality Disorder,citalopram
+Cortie Prestwich,Borderline Personality Disorder,haloperidol
+Wilt Reames,Borderline Personality Disorder,lurasidone
+Myrtie Foystone,Borderline Personality Disorder,l-methylfolate
+Mollie O'Regan,Borderline Personality Disorder,carbamazepine
+Carry Hanbury,Borderline Personality Disorder,asenapine
+Sallyann Jarad,Borderline Personality Disorder,paliperidone
+Dylan Lear,Muscle Pain,ibuprofen
+Joey Carpmile,Muscle Pain,naproxen
+Kissie Joire,Muscle Pain,acetaminophen
+Kassia Demetr,Muscle Pain,diclofenac
+Mason Pineaux,Muscle Pain,nabumetone
+Flossy Brogan,Muscle Pain,ibuprofen
+Titus Meecher,Muscle Pain,naproxen
+Mariann Moogan,Muscle Pain,acetaminophen
+Caria Risdall,Muscle Pain,diclofenac
+Kayle Perrigo,Muscle Pain,nabumetone
+Otis Scotti,Muscle Pain,ibuprofen
+Othelia Lichfield,Muscle Pain,naproxen
+Padget O'Dempsey,Muscle Pain,acetaminophen
+Kristoffer Kitchinham,Muscle Pain,diclofenac
+Lorrayne Koppeck,Muscle Pain,nabumetone
+Gavrielle Sidsaff,Acute Myeloid Leukemia,cytarabine
+Maye De Zamudio,Acute Myeloid Leukemia,vincristine
+Addie Clancey,Acute Myeloid Leukemia,daunorubicin
+Jody Philpin,Acute Myeloid Leukemia,idarubicin
+Palmer Swindley,Acute Myeloid Leukemia,decitabine
+Patty Golden of Ireland,Acute Myeloid Leukemia,gemtuzumab
+Vivian Colicot,Acute Myeloid Leukemia,midostaurin
+Angus Stobbes,Acute Myeloid Leukemia,venetoclax
+Brose Vinten,Acute Myeloid Leukemia,enasidenib
+Horton Yakunin,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Bernardo Andreasen,Acute Myeloid Leukemia,ivosidenib
+Lorene Andrault,Acute Myeloid Leukemia,gilteritinib
+Brooks Braben,Acute Myeloid Leukemia,glasdegib
+Andrea Boutellier,Acute Myeloid Leukemia,cytarabine
+Luigi Kidson,Acute Myeloid Leukemia,vincristine
+Erin Quibell,Acute Myeloid Leukemia,daunorubicin
+Kingsley Westmerland,Acute Myeloid Leukemia,idarubicin
+Chip Deniseau,Acute Myeloid Leukemia,decitabine
+Theobald Posen,Acute Myeloid Leukemia,gemtuzumab
+Luther Guise,Acute Myeloid Leukemia,midostaurin
+Constantia Morison,Acute Myeloid Leukemia,venetoclax
+Asa Wale,Acute Myeloid Leukemia,enasidenib
+Clemens Allington,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Broddy Kelberer,Acute Myeloid Leukemia,ivosidenib
+Thorstein Verecker,Acute Myeloid Leukemia,gilteritinib
+Odelinda Patrick,Acute Myeloid Leukemia,glasdegib
+Gregorio Earle,Acute Myeloid Leukemia,cytarabine
+Peirce Pandya,Acute Myeloid Leukemia,vincristine
+Marlo Walwood,Acute Myeloid Leukemia,daunorubicin
+Whitney McTerlagh,Acute Myeloid Leukemia,idarubicin
+Terri-jo Pestridge,Acute Myeloid Leukemia,decitabine
+Darius Huntly,Acute Myeloid Leukemia,gemtuzumab
+Lombard Rapp,Acute Myeloid Leukemia,midostaurin
+Gaven Goney,Acute Myeloid Leukemia,venetoclax
+Erena Pepperd,Acute Myeloid Leukemia,enasidenib
+Bax Ould,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Braden Eteen,Acute Myeloid Leukemia,ivosidenib
+Alisa Dillintone,Acute Myeloid Leukemia,gilteritinib
+Jordan Fierman,Acute Myeloid Leukemia,glasdegib
+Orin Knevet,Multiple Myeloma,dexamethasone
+Hakeem Vidler,Multiple Myeloma,thalidomide
+Cassie Sudran,Multiple Myeloma,cyclophosphamide
+Gabrila Dorn,Multiple Myeloma,lenalidomide
+Jeniffer Obispo,Multiple Myeloma,bortezomib
+Nance Fildes,Multiple Myeloma,carfilzomib
+Cloe Durtnall,Multiple Myeloma,pomalidomide
+Dinny Sibbit,Multiple Myeloma,daratumumab
+Maryjo Ollarenshaw,Multiple Myeloma,melphalan
+Matelda Collymore,Multiple Myeloma,dexamethasone
+Felicio McCory,Multiple Myeloma,thalidomide
+Devina Vittet,Multiple Myeloma,cyclophosphamide
+Loretta Weblin,Multiple Myeloma,lenalidomide
+Alvie Mitkin,Multiple Myeloma,bortezomib
+Magda Reichelt,Multiple Myeloma,carfilzomib
+Alaine Ace,Multiple Myeloma,pomalidomide
+Clareta Darinton,Multiple Myeloma,daratumumab
+Giorgia Cullotey,Multiple Myeloma,melphalan
+Shalne Malinowski,Non-Hodgkin's Lymphoma,cyclophosphamide
+Joice Blakeway,Non-Hodgkin's Lymphoma,vincristine
+Kathy Marikhin,Non-Hodgkin's Lymphoma,rituximab
+Herb Elnough,Non-Hodgkin's Lymphoma,methotrexate
+Muffin Vanyard,Non-Hodgkin's Lymphoma,bendamustine
+Glyn Bruins,Non-Hodgkin's Lymphoma,cytarabine
+Jena Eck,Non-Hodgkin's Lymphoma,fludarabine
+Reube Biddell,Non-Hodgkin's Lymphoma,bleomycin
+Sylvan Meo,Non-Hodgkin's Lymphoma,carmustine
+Patty Zoppie,Non-Hodgkin's Lymphoma,idelalisib
+Averyl Galia,Non-Hodgkin's Lymphoma,ibritumomab
+Crin Chevis,Non-Hodgkin's Lymphoma,ibrutinib
+Farly Arnet,Non-Hodgkin's Lymphoma,mitoxantrone
+Frankie Spurway,Multiple Myeloma,dexamethasone
+Ebenezer Alyonov,Multiple Myeloma,thalidomide
+Peyter Spacy,Multiple Myeloma,cyclophosphamide
+Carr Wyllcocks,Multiple Myeloma,lenalidomide
+Dore Blondell,Multiple Myeloma,bortezomib
+Galina Almeida,Multiple Myeloma,carfilzomib
+Derwin Jezzard,Multiple Myeloma,pomalidomide
+Jermaine Escott,Multiple Myeloma,daratumumab
+Jeanne Moncreif,Multiple Myeloma,melphalan
+Mordecai Regus,Multiple Myeloma,dexamethasone
+Kingsly Micco,Multiple Myeloma,thalidomide
+Lydia Rathbourne,Multiple Myeloma,cyclophosphamide
+Clayborn Sneller,Multiple Myeloma,lenalidomide
+Claudina Grane,Multiple Myeloma,bortezomib
+Butch Shakelade,Multiple Myeloma,carfilzomib
+Risa Elce,Multiple Myeloma,pomalidomide
+Suki McVie,Multiple Myeloma,daratumumab
+Claudian Whytock,Multiple Myeloma,melphalan
+Fallon Inchley,Oral Thrush,miconazole
+Phelia Feben,Oral Thrush,miconazole
+Borden Cartmael,Schizophrenia,risperidone
+Paten Bonfield,Schizophrenia,clozapine
+Bibi Corbridge,Schizophrenia,olanzapine
+Pet Izachik,Schizophrenia,quetiapine
+Alexandro Curwood,Schizophrenia,aripiprazole
+Ermina Ells,Schizophrenia,chlorpromazine
+Rikki Blaszczyk,Schizophrenia,paliperidone
+Annelise Kinnar,Schizophrenia,ziprasidone
+Allis Cale,Schizophrenia,loxapine
+Adey Treamayne,Chronic Fatigue Syndrome,modafinil
+Nathalie Bilam,Chronic Fatigue Syndrome,duloxetine
+Harmony Gow,Chronic Fatigue Syndrome,lisdexamfetamine
+Glen Hearthfield,Chronic Fatigue Syndrome,amantadine
+Rina Pitrollo,Chronic Fatigue Syndrome,armodafinil
+Reyna Beckinsale,Chronic Fatigue Syndrome,modafinil
+Tessa Bladge,Chronic Fatigue Syndrome,duloxetine
+Lowell Benedit,Chronic Fatigue Syndrome,lisdexamfetamine
+Joyce Bridgman,Chronic Fatigue Syndrome,amantadine
+Stanton Pitrelli,Chronic Fatigue Syndrome,armodafinil
+Kristo Cobbin,High Cholesterol,atorvastatin
+Reggy Rysom,High Cholesterol,simvastatin
+Francyne Shalcros,High Cholesterol,pravastatin
+Normy Dome,High Cholesterol,rosuvastatin
+Bab Ashby,High Cholesterol,lovastatin
+Kale Dunniom,High Cholesterol,ezetimibe
+Constantino Message,High Cholesterol,gemfibrozil
+Cy Mannagh,High Cholesterol,niacin
+Valdemar Whate,High Cholesterol,ezetimibe AND simvastatin
+Dinny Soppit,High Cholesterol,fenofibric acid
+Eldin Manhood,High Cholesterol,atorvastatin
+Cleon De Maine,High Cholesterol,simvastatin
+Kelwin Dorward,High Cholesterol,pravastatin
+Giraud Harlin,High Cholesterol,rosuvastatin
+Prescott Vondruska,High Cholesterol,lovastatin
+Alla Peniman,High Cholesterol,ezetimibe
+Arturo Bonsale,High Cholesterol,gemfibrozil
+Carlen Dives,High Cholesterol,niacin
+Oswell Giercke,High Cholesterol,ezetimibe AND simvastatin
+Ariel Merrill,High Cholesterol,fenofibric acid
+Carol Horry,High Cholesterol,atorvastatin
+Erminie Ipgrave,High Cholesterol,simvastatin
+Carlyle Gallagher,High Cholesterol,pravastatin
+Frederica Joselovitch,High Cholesterol,rosuvastatin
+Toni Aiston,High Cholesterol,lovastatin
+Perrine Danton,High Cholesterol,ezetimibe
+Dominga Denys,High Cholesterol,gemfibrozil
+Fleurette Kenford,High Cholesterol,niacin
+Bryce De Moreno,High Cholesterol,ezetimibe AND simvastatin
+Pavla Matz,High Cholesterol,fenofibric acid
+Abe Santos,High Cholesterol,atorvastatin
+Randy Greystock,High Cholesterol,simvastatin
+Isador Grist,High Cholesterol,pravastatin
+Brendan Bockh,High Cholesterol,rosuvastatin
+Rustin Dilrew,High Cholesterol,lovastatin
+Ammamaria Gladdin,High Cholesterol,ezetimibe
+Keen Gleeson,High Cholesterol,gemfibrozil
+Francklin Witheridge,High Cholesterol,niacin
+Nathanael Brockest,High Cholesterol,ezetimibe AND simvastatin
+Dara Frere,High Cholesterol,fenofibric acid
+Bartholemy Reuther,Chronic Fatigue Syndrome,modafinil
+Arnie Kite,Chronic Fatigue Syndrome,duloxetine
+Candie Spybey,Chronic Fatigue Syndrome,lisdexamfetamine
+Minda Gault,Chronic Fatigue Syndrome,amantadine
+Aileen Olyff,Chronic Fatigue Syndrome,armodafinil
+Yetta Janout,Chronic Fatigue Syndrome,modafinil
+Stanislas Tesauro,Chronic Fatigue Syndrome,duloxetine
+Robenia Troth,Chronic Fatigue Syndrome,lisdexamfetamine
+Marjie Newbigging,Chronic Fatigue Syndrome,amantadine
+Alexandro Christiensen,Chronic Fatigue Syndrome,armodafinil
+Nickolas Raynham,HIV Infection,lamivudine
+Burlie Johnstone,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Glenine Southby,HIV Infection,ritonavir
+Morley Metham,HIV Infection,emtricitabine AND tenofovir
+Griffin Farrent,HIV Infection,tenofovir
+Stearne Arrundale,HIV Infection,abacavir
+Colver O'Loughlin,Dermal Ulcer,collagenase
+Merilee Boothroyd,Dermal Ulcer,becaplermin
+Edouard Coope,Dermal Ulcer,cadexomer iodine
+Marcellina Wealthall,Dermal Ulcer,collagenase
+Albertina Twiname,Dermal Ulcer,becaplermin
+Steffie Vicker,Dermal Ulcer,cadexomer iodine
+Lamar Tebbet,Osteoarthritis,meloxicam
+Shell Calderhead,Osteoarthritis,diclofenac
+Robin Burris,Osteoarthritis,naproxen
+Rawley Bowmen,Osteoarthritis,ibuprofen
+Irma Stutely,Osteoarthritis,celecoxib
+Annora Carmichael,Osteoarthritis,chondroitin AND glucosamine
+Katey Bew,Osteoarthritis,diclofenac
+Heinrik Hemphrey,Osteoarthritis,etodolac
+Chilton Easterling,Osteoarthritis,prednisone
+Rafa Stelfax,Osteoarthritis,aspirin
+Raul Mantha,Osteoarthritis,nabumetone
+Erena Driffe,Osteoarthritis,duloxetine
+Johnnie Trewman,Osteoarthritis,meloxicam
+Tripp Docksey,Osteoarthritis,diclofenac
+Jeni Becker,Osteoarthritis,naproxen
+Freddy Rides,Osteoarthritis,ibuprofen
+Petunia Hanbury-Brown,Osteoarthritis,celecoxib
+Claribel Backshall,Osteoarthritis,chondroitin AND glucosamine
+Stephen Tettley,Osteoarthritis,diclofenac
+Moses Walding,Osteoarthritis,etodolac
+Isaiah St Pierre,Osteoarthritis,prednisone
+Darcee Bilbee,Osteoarthritis,aspirin
+Brinn Crankhorn,Osteoarthritis,nabumetone
+Shanta Learmond,Osteoarthritis,duloxetine
+Nonna Lownsbrough,Dermal Ulcer,collagenase
+Giovanna McKinley,Dermal Ulcer,becaplermin
+D'arcy Carratt,Dermal Ulcer,cadexomer iodine
+Clementina Bernardeschi,Dermal Ulcer,collagenase
+Batsheva Baynes,Dermal Ulcer,becaplermin
+Gabriello Ellerington,Dermal Ulcer,cadexomer iodine
+Granthem Ghion,Dermal Ulcer,collagenase
+Filmore Faich,Dermal Ulcer,becaplermin
+Joice Chadbourne,Dermal Ulcer,cadexomer iodine
+Lief Deaton,Muscle Pain,ibuprofen
+Ephrem Challoner,Muscle Pain,naproxen
+Stacee Dulson,Muscle Pain,acetaminophen
+Channa Aphale,Muscle Pain,diclofenac
+Lon Doogue,Muscle Pain,nabumetone
+Rex Jowsey,Schizophrenia,risperidone
+Neall Zamudio,Schizophrenia,clozapine
+Mace Glashby,Schizophrenia,olanzapine
+Brett Levecque,Schizophrenia,quetiapine
+Sharline Tape,Schizophrenia,aripiprazole
+Darrel Diaper,Schizophrenia,chlorpromazine
+Peggie Stone,Schizophrenia,paliperidone
+Saw Osorio,Schizophrenia,ziprasidone
+Kacey Tilford,Schizophrenia,loxapine
+Luke Gottelier,Osteoarthritis,meloxicam
+Alleyn Facer,Osteoarthritis,diclofenac
+Cele Baiden,Osteoarthritis,naproxen
+Rene Mort,Osteoarthritis,ibuprofen
+Newton Minchinden,Osteoarthritis,celecoxib
+Franklin Bentham3,Osteoarthritis,chondroitin AND glucosamine
+Allyn Waliszewski,Osteoarthritis,diclofenac
+Angel Pettko,Osteoarthritis,etodolac
+Clevie Baynon,Osteoarthritis,prednisone
+Wallis Wones,Osteoarthritis,aspirin
+Allyce Rouby,Osteoarthritis,nabumetone
+Evelina MacDaid,Osteoarthritis,duloxetine
+Deedee Gratten,Borderline Personality Disorder,quetiapine
+Abbye Darville,Borderline Personality Disorder,lamotrigine
+Lesley Statefield,Borderline Personality Disorder,lithium
+Maitilde Bridgstock,Borderline Personality Disorder,risperidone
+Larissa Clemenzo,Borderline Personality Disorder,fluoxetine
+Matilde Mouatt,Borderline Personality Disorder,olanzapine
+Jori Baignard,Borderline Personality Disorder,buspirone
+Ring Faughny,Borderline Personality Disorder,clonazepam
+Kalina Mathen,Borderline Personality Disorder,sertraline
+Marisa Howse,Borderline Personality Disorder,aripiprazole
+Kit Constance,Borderline Personality Disorder,topiramate
+Sargent Renachowski,Borderline Personality Disorder,diazepam
+Hewitt Oakwood,Borderline Personality Disorder,lorazepam
+Fernandina Caress,Borderline Personality Disorder,escitalopram
+Omero Peoples,Borderline Personality Disorder,divalproex sodium
+Elspeth Kinzett,Borderline Personality Disorder,alprazolam
+Virge Tyt,Borderline Personality Disorder,clozapine
+Abram Riddlesden,Borderline Personality Disorder,oxcarbazepine
+Welbie Baldwin,Borderline Personality Disorder,citalopram
+Harper Vlasov,Borderline Personality Disorder,haloperidol
+Fitz Harkus,Borderline Personality Disorder,lurasidone
+Cletus Achromov,Borderline Personality Disorder,l-methylfolate
+Ethan Antowski,Borderline Personality Disorder,carbamazepine
+Rik Coughlan,Borderline Personality Disorder,asenapine
+Kendall Goodrich,Borderline Personality Disorder,paliperidone
+Stevana Mabee,Borderline Personality Disorder,quetiapine
+Cornell Carreck,Borderline Personality Disorder,lamotrigine
+Valdemar Marcone,Borderline Personality Disorder,lithium
+Alleyn Genn,Borderline Personality Disorder,risperidone
+Vlad Betteson,Borderline Personality Disorder,fluoxetine
+Maria Tinkham,Borderline Personality Disorder,olanzapine
+Leshia Sweetenham,Borderline Personality Disorder,buspirone
+Daria Feron,Borderline Personality Disorder,clonazepam
+Wash Itshak,Borderline Personality Disorder,sertraline
+Emmy Tapsell,Borderline Personality Disorder,aripiprazole
+Hillery Roke,Borderline Personality Disorder,topiramate
+Anna-diane Gosnay,Borderline Personality Disorder,diazepam
+Val Bonas,Borderline Personality Disorder,lorazepam
+Renata Fishbourne,Borderline Personality Disorder,escitalopram
+Smitty Wrangle,Borderline Personality Disorder,divalproex sodium
+Monroe Gudd,Borderline Personality Disorder,alprazolam
+Jamaal De-Ville,Borderline Personality Disorder,clozapine
+Sylvester Lea,Borderline Personality Disorder,oxcarbazepine
+Zared Gallego,Borderline Personality Disorder,citalopram
+Gianna Gowen,Borderline Personality Disorder,haloperidol
+Janenna Goozee,Borderline Personality Disorder,lurasidone
+Ros Finnimore,Borderline Personality Disorder,l-methylfolate
+Joeann Kopman,Borderline Personality Disorder,carbamazepine
+Curr Barbara,Borderline Personality Disorder,asenapine
+Isabeau Libbe,Borderline Personality Disorder,paliperidone
+Roddy Bach,Muscle Pain,ibuprofen
+Nicolai Sharrock,Muscle Pain,naproxen
+Brigit Davidsohn,Muscle Pain,acetaminophen
+Melesa Argo,Muscle Pain,diclofenac
+Benny MacAndreis,Muscle Pain,nabumetone
+Sebastiano Shingler,Borderline Personality Disorder,quetiapine
+Itch Zarfai,Borderline Personality Disorder,lamotrigine
+Bertha Faughnan,Borderline Personality Disorder,lithium
+Alysa Hadwen,Borderline Personality Disorder,risperidone
+Foster Trew,Borderline Personality Disorder,fluoxetine
+Whitney Hewins,Borderline Personality Disorder,olanzapine
+Durward Grove,Borderline Personality Disorder,buspirone
+Shayne Tinkler,Borderline Personality Disorder,clonazepam
+Anthea Blodget,Borderline Personality Disorder,sertraline
+Henka Clavering,Borderline Personality Disorder,aripiprazole
+Charmain Genike,Borderline Personality Disorder,topiramate
+Zonnya Grigorian,Borderline Personality Disorder,diazepam
+Edee Fullwood,Borderline Personality Disorder,lorazepam
+Maegan MacRinn,Borderline Personality Disorder,escitalopram
+Agathe Wildman,Borderline Personality Disorder,divalproex sodium
+Flss Keenlyside,Borderline Personality Disorder,alprazolam
+Dietrich Olivera,Borderline Personality Disorder,clozapine
+Renie Cordery,Borderline Personality Disorder,oxcarbazepine
+Lissa Moynihan,Borderline Personality Disorder,citalopram
+Meris Colter,Borderline Personality Disorder,haloperidol
+Meggy Shovell,Borderline Personality Disorder,lurasidone
+Dean Hillock,Borderline Personality Disorder,l-methylfolate
+Clara Robbie,Borderline Personality Disorder,carbamazepine
+Gwenette Stiell,Borderline Personality Disorder,asenapine
+Arline Gabler,Borderline Personality Disorder,paliperidone
+Cordey Tomczykiewicz,Borderline Personality Disorder,quetiapine
+Daria Vile,Borderline Personality Disorder,lamotrigine
+Micky Jaqueme,Borderline Personality Disorder,lithium
+Zenia Craw,Borderline Personality Disorder,risperidone
+Jeramey Lowrance,Borderline Personality Disorder,fluoxetine
+Evered Cutmore,Borderline Personality Disorder,olanzapine
+Cyril McLoney,Borderline Personality Disorder,buspirone
+Reuben Aronstam,Borderline Personality Disorder,clonazepam
+Silvano Derbyshire,Borderline Personality Disorder,sertraline
+Ardenia January,Borderline Personality Disorder,aripiprazole
+Pen Askaw,Borderline Personality Disorder,topiramate
+Cinnamon Levett,Borderline Personality Disorder,diazepam
+Aggi Iredell,Borderline Personality Disorder,lorazepam
+Ringo Willas,Borderline Personality Disorder,escitalopram
+Sutherland Born,Borderline Personality Disorder,divalproex sodium
+Ignacius Basler,Borderline Personality Disorder,alprazolam
+Nicoli Mockford,Borderline Personality Disorder,clozapine
+Cherilynn Gagin,Borderline Personality Disorder,oxcarbazepine
+Wadsworth Walkingshaw,Borderline Personality Disorder,citalopram
+Ruby Andrews,Borderline Personality Disorder,haloperidol
+Brodie Kleinstub,Borderline Personality Disorder,lurasidone
+Morry Jankovsky,Borderline Personality Disorder,l-methylfolate
+Datha Skehens,Borderline Personality Disorder,carbamazepine
+Cobb Garaghan,Borderline Personality Disorder,asenapine
+Filmer Jesson,Borderline Personality Disorder,paliperidone
+Florry Adamthwaite,Borderline Personality Disorder,quetiapine
+Valene Megarry,Borderline Personality Disorder,lamotrigine
+Barbette Eagell,Borderline Personality Disorder,lithium
+Elvera Irnys,Borderline Personality Disorder,risperidone
+Cloe Cheverell,Borderline Personality Disorder,fluoxetine
+Afton Haney`,Borderline Personality Disorder,olanzapine
+Clay Bundock,Borderline Personality Disorder,buspirone
+Cora Malin,Borderline Personality Disorder,clonazepam
+Darbee Dominka,Borderline Personality Disorder,sertraline
+Rodd Greson,Borderline Personality Disorder,aripiprazole
+Olivie Sharpley,Borderline Personality Disorder,topiramate
+Chadd Laverenz,Borderline Personality Disorder,diazepam
+Benji Growcott,Borderline Personality Disorder,lorazepam
+Saunderson Saturley,Borderline Personality Disorder,escitalopram
+Alvan Laste,Borderline Personality Disorder,divalproex sodium
+Beth Kitchin,Borderline Personality Disorder,alprazolam
+Quentin Bondley,Borderline Personality Disorder,clozapine
+Vanni Davydkov,Borderline Personality Disorder,oxcarbazepine
+Henry Grafhom,Borderline Personality Disorder,citalopram
+Daniella Segeswoeth,Borderline Personality Disorder,haloperidol
+Ced Murtell,Borderline Personality Disorder,lurasidone
+Fay Raxworthy,Borderline Personality Disorder,l-methylfolate
+Kial Bestiman,Borderline Personality Disorder,carbamazepine
+Chicky Lovelock,Borderline Personality Disorder,asenapine
+Penny MacMickan,Borderline Personality Disorder,paliperidone
+Thorndike Bartlet,Borderline Personality Disorder,quetiapine
+Aindrea Cazin,Borderline Personality Disorder,lamotrigine
+Orv Cawthery,Borderline Personality Disorder,lithium
+Kimmi Gleadle,Borderline Personality Disorder,risperidone
+Aldus MacDuffie,Borderline Personality Disorder,fluoxetine
+Clem Wyborn,Borderline Personality Disorder,olanzapine
+Benjamin Drover,Borderline Personality Disorder,buspirone
+Gigi Boyles,Borderline Personality Disorder,clonazepam
+Barbe Kinney,Borderline Personality Disorder,sertraline
+Lindon Fautley,Borderline Personality Disorder,aripiprazole
+Tonye Schoffel,Borderline Personality Disorder,topiramate
+Abbe Isted,Borderline Personality Disorder,diazepam
+Rossy Frankish,Borderline Personality Disorder,lorazepam
+Kelvin Yeardsley,Borderline Personality Disorder,escitalopram
+Tiebold Lamperti,Borderline Personality Disorder,divalproex sodium
+Kath Korejs,Borderline Personality Disorder,alprazolam
+Bronny Sefton,Borderline Personality Disorder,clozapine
+Neda Schroter,Borderline Personality Disorder,oxcarbazepine
+Farleigh Brunnen,Borderline Personality Disorder,citalopram
+Wanda Lief,Borderline Personality Disorder,haloperidol
+Adore Girke,Borderline Personality Disorder,lurasidone
+Akim Bugg,Borderline Personality Disorder,l-methylfolate
+Neala Gumm,Borderline Personality Disorder,carbamazepine
+Alika Mateiko,Borderline Personality Disorder,asenapine
+Mallory Greenshiels,Borderline Personality Disorder,paliperidone
+Jinny Brounfield,Borderline Personality Disorder,quetiapine
+Alvinia Maruszewski,Borderline Personality Disorder,lamotrigine
+Aguistin Forsyde,Borderline Personality Disorder,lithium
+Nolie Gatiss,Borderline Personality Disorder,risperidone
+Lizette De Andisie,Borderline Personality Disorder,fluoxetine
+Ashley Caudle,Borderline Personality Disorder,olanzapine
+Fitzgerald Cuthbert,Borderline Personality Disorder,buspirone
+Caralie Billanie,Borderline Personality Disorder,clonazepam
+Lind Kovacs,Borderline Personality Disorder,sertraline
+Daven Marchant,Borderline Personality Disorder,aripiprazole
+Ayn Feacham,Borderline Personality Disorder,topiramate
+Barri Veal,Borderline Personality Disorder,diazepam
+Ardelis Sagrott,Borderline Personality Disorder,lorazepam
+Siward Foukx,Borderline Personality Disorder,escitalopram
+Jannel Somerton,Borderline Personality Disorder,divalproex sodium
+Bernard Collett,Borderline Personality Disorder,alprazolam
+Hunfredo Siggins,Borderline Personality Disorder,clozapine
+Rakel Vargas,Borderline Personality Disorder,oxcarbazepine
+Gloriana Ottewill,Borderline Personality Disorder,citalopram
+Oswell Danford,Borderline Personality Disorder,haloperidol
+Niven Axelbee,Borderline Personality Disorder,lurasidone
+Binky Croisdall,Borderline Personality Disorder,l-methylfolate
+Calla Rapport,Borderline Personality Disorder,carbamazepine
+Giffer Upstone,Borderline Personality Disorder,asenapine
+Josias Carstairs,Borderline Personality Disorder,paliperidone
+Alfy Yu,Borderline Personality Disorder,quetiapine
+Jannelle Riseley,Borderline Personality Disorder,lamotrigine
+Albina Stranger,Borderline Personality Disorder,lithium
+Dela Kitchingman,Borderline Personality Disorder,risperidone
+Gothart Denmead,Borderline Personality Disorder,fluoxetine
+Georgianna Krollmann,Borderline Personality Disorder,olanzapine
+Mychal Kibbee,Borderline Personality Disorder,buspirone
+Juieta Daville,Borderline Personality Disorder,clonazepam
+Norbie Kefford,Borderline Personality Disorder,sertraline
+Ailina Dhillon,Borderline Personality Disorder,aripiprazole
+Hillary Coleyshaw,Borderline Personality Disorder,topiramate
+Tomlin Daughtery,Borderline Personality Disorder,diazepam
+Luce Eassom,Borderline Personality Disorder,lorazepam
+Edmon Killingworth,Borderline Personality Disorder,escitalopram
+Gasparo Pittem,Borderline Personality Disorder,divalproex sodium
+Jobyna Sore,Borderline Personality Disorder,alprazolam
+Oralie Halfhead,Borderline Personality Disorder,clozapine
+Buckie Ivoshin,Borderline Personality Disorder,oxcarbazepine
+Shepperd Tattersdill,Borderline Personality Disorder,citalopram
+Dennison Churn,Borderline Personality Disorder,haloperidol
+Andie Darko,Borderline Personality Disorder,lurasidone
+Giulio Polden,Borderline Personality Disorder,l-methylfolate
+Jeannie Ajean,Borderline Personality Disorder,carbamazepine
+Kyla Scouse,Borderline Personality Disorder,asenapine
+Alexis Gasgarth,Borderline Personality Disorder,paliperidone
+Raddy Ormonde,Psoriasis,triamcinolone
+Constantin Romanetti,Psoriasis,triamcinolone
+Dore Coleiro,Borderline Personality Disorder,quetiapine
+Elmer Drover,Borderline Personality Disorder,lamotrigine
+Shirlene Jaskiewicz,Borderline Personality Disorder,lithium
+Judas Watterson,Borderline Personality Disorder,risperidone
+Hardy Gerardi,Borderline Personality Disorder,fluoxetine
+Liv Roback,Borderline Personality Disorder,olanzapine
+Korella Capoun,Borderline Personality Disorder,buspirone
+Marj Yegorkin,Borderline Personality Disorder,clonazepam
+Ofelia Petrovsky,Borderline Personality Disorder,sertraline
+Vidovik Delves,Borderline Personality Disorder,aripiprazole
+Rooney Fear,Borderline Personality Disorder,topiramate
+Shane Burgoyne,Borderline Personality Disorder,diazepam
+Pebrook Hanse,Borderline Personality Disorder,lorazepam
+Percy Barthrop,Borderline Personality Disorder,escitalopram
+Hunt Geerling,Borderline Personality Disorder,divalproex sodium
+Hirsch Harland,Borderline Personality Disorder,alprazolam
+Shep Pass,Borderline Personality Disorder,clozapine
+Ted Davidovsky,Borderline Personality Disorder,oxcarbazepine
+Latisha Dobey,Borderline Personality Disorder,citalopram
+Kristel Kensy,Borderline Personality Disorder,haloperidol
+Davina MacGibbon,Borderline Personality Disorder,lurasidone
+Sylvia Heyward,Borderline Personality Disorder,l-methylfolate
+Carlye Cawdron,Borderline Personality Disorder,carbamazepine
+Antonius McCourt,Borderline Personality Disorder,asenapine
+Bronny Paute,Borderline Personality Disorder,paliperidone
+Carrol Springthorp,High Cholesterol,atorvastatin
+Rogers Papps,High Cholesterol,simvastatin
+Filbert Melloi,High Cholesterol,pravastatin
+Thorndike Whiteland,High Cholesterol,rosuvastatin
+Carrie Vlasin,High Cholesterol,lovastatin
+Salomone Abbess,High Cholesterol,ezetimibe
+Elwood Fonteyne,High Cholesterol,gemfibrozil
+Hort Seary,High Cholesterol,niacin
+Whitney Branson,High Cholesterol,ezetimibe AND simvastatin
+Tobe Rosenstock,High Cholesterol,fenofibric acid
+Dew Pock,Tinea Corporis,ketoconazole
+Obed Rawstorne,Tinea Corporis,terbinafine
+Corbin Jedraszczyk,Tinea Corporis,ketoconazole
+Annamarie Davydochkin,Tinea Corporis,terbinafine
+Jemmie Wrathmall,Tinea Pedis,terbinafine
+Emmalynne Woolard,Tinea Pedis,terbinafine
+Flin MacGilpatrick,Tinea Cruris,terbinafine
+Britta Ardron,Tinea Cruris,terbinafine
+Maury Fitkin,Osteoarthritis,meloxicam
+My Dutnall,Osteoarthritis,diclofenac
+Sigismundo Faiers,Osteoarthritis,naproxen
+Ted Simcox,Osteoarthritis,ibuprofen
+Carmine Erb,Osteoarthritis,celecoxib
+Georgia Hodcroft,Osteoarthritis,chondroitin AND glucosamine
+Joycelin Rowbrey,Osteoarthritis,diclofenac
+Lucio Bassham,Osteoarthritis,etodolac
+Glenine Winning,Osteoarthritis,prednisone
+Blanca Mustin,Osteoarthritis,aspirin
+Grantley Camm,Osteoarthritis,nabumetone
+Muhammad Furbank,Osteoarthritis,duloxetine
+Ardisj Goodrich,Psoriasis,triamcinolone
+Sheppard Balkwill,Psoriasis,triamcinolone
+Calvin Godwyn,Angina,aspirin
+Durward Bennike,Angina,nitroglycerin
+Phillipe Foxen,Angina,metoprolol
+Herc Taffs,Angina,amlodipine
+Richart Maddinon,Angina,isosorbide mononitrate
+Claybourne Inold,Angina,isosorbide dinitrate
+Marlowe Chagg,Angina,enoxaparin
+Lorenza Spiniello,Angina,ranolazine
+Gayla Minghetti,Angina,atenolol
+Corena Gowen,Angina,carvedilol
+Hew Alekhov,Angina,amlodipine AND atorvastatin
+Pearce Casali,High Cholesterol,atorvastatin
+Jasper Akaster,High Cholesterol,simvastatin
+Tiena Leaf,High Cholesterol,pravastatin
+Timmy Menichino,High Cholesterol,rosuvastatin
+Wilbur Grangier,High Cholesterol,lovastatin
+Cris Youngs,High Cholesterol,ezetimibe
+Erma Lomasna,High Cholesterol,gemfibrozil
+Ahmad Leedal,High Cholesterol,niacin
+Dan Pareman,High Cholesterol,ezetimibe AND simvastatin
+Agosto Chiverton,High Cholesterol,fenofibric acid
+Kinny Farryn,Non-Hodgkin's Lymphoma,cyclophosphamide
+Preston Rochelle,Non-Hodgkin's Lymphoma,vincristine
+Riobard Squibbes,Non-Hodgkin's Lymphoma,rituximab
+Barny Elan,Non-Hodgkin's Lymphoma,methotrexate
+Rosabelle Easun,Non-Hodgkin's Lymphoma,bendamustine
+Jamima Volkers,Non-Hodgkin's Lymphoma,cytarabine
+Pegeen Clementet,Non-Hodgkin's Lymphoma,fludarabine
+Tracey Rickell,Non-Hodgkin's Lymphoma,bleomycin
+Flin Buttwell,Non-Hodgkin's Lymphoma,carmustine
+Del Goldstein,Non-Hodgkin's Lymphoma,idelalisib
+Nathanial Smallpeice,Non-Hodgkin's Lymphoma,ibritumomab
+Kerr Guinane,Non-Hodgkin's Lymphoma,ibrutinib
+Giana Aldren,Non-Hodgkin's Lymphoma,mitoxantrone
+Maximilien Bezant,HIV Infection,lamivudine
+Karlik Bertot,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Felipa Nizet,HIV Infection,ritonavir
+Ceil Gozard,HIV Infection,emtricitabine AND tenofovir
+Rawley Baurerich,HIV Infection,tenofovir
+Barbabas Deekes,HIV Infection,abacavir
+Milty Clemmensen,HIV Infection,lamivudine
+Addi Footitt,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Paco Birks,HIV Infection,ritonavir
+Neala Tacey,HIV Infection,emtricitabine AND tenofovir
+Lawrence Bolderstone,HIV Infection,tenofovir
+Michal Dhennin,HIV Infection,abacavir
+Jerry Leman,HIV Infection,lamivudine
+Alaine Jaye,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Kevyn MacCaughan,HIV Infection,ritonavir
+Ludvig Kelcey,HIV Infection,emtricitabine AND tenofovir
+Samuele Lobell,HIV Infection,tenofovir
+Petronilla Risbrough,HIV Infection,abacavir
+Tanney MacCarter,HIV Infection,lamivudine
+Darrell Devin,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Rhodie Le Galle,HIV Infection,ritonavir
+Abby Maslin,HIV Infection,emtricitabine AND tenofovir
+Merrick Neames,HIV Infection,tenofovir
+Cozmo Jillins,HIV Infection,abacavir
+Barri Barrim,HIV Infection,lamivudine
+Sofia Gaymar,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Amy Castard,HIV Infection,ritonavir
+Philly Charpin,HIV Infection,emtricitabine AND tenofovir
+Danell Bannerman,HIV Infection,tenofovir
+Skipp Andrez,HIV Infection,abacavir
+Zara Armytage,HIV Infection,lamivudine
+Obadiah Brabham,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Bette Kubik,HIV Infection,ritonavir
+Christye Caddens,HIV Infection,emtricitabine AND tenofovir
+Kandy Baylie,HIV Infection,tenofovir
+Carmella Hadlow,HIV Infection,abacavir
+Dmitri Readett,High Cholesterol,atorvastatin
+Concettina Bulcock,High Cholesterol,simvastatin
+Zak Riddles,High Cholesterol,pravastatin
+Barnabas Currier,High Cholesterol,rosuvastatin
+Berrie Jancy,High Cholesterol,lovastatin
+Harold Scarfe,High Cholesterol,ezetimibe
+Daune Mathely,High Cholesterol,gemfibrozil
+Roldan Blaszkiewicz,High Cholesterol,niacin
+Cleavland O'Fairy,High Cholesterol,ezetimibe AND simvastatin
+Wenonah Clover,High Cholesterol,fenofibric acid
+Noelyn Curbishley,High Cholesterol,atorvastatin
+Keri O'Dea,High Cholesterol,simvastatin
+Correy Aldrin,High Cholesterol,pravastatin
+Rachael Kersley,High Cholesterol,rosuvastatin
+Gibb Snoddy,High Cholesterol,lovastatin
+Harper Mullenger,High Cholesterol,ezetimibe
+Georgie Kilcullen,High Cholesterol,gemfibrozil
+Hayes Martinson,High Cholesterol,niacin
+Gwenore Liles,High Cholesterol,ezetimibe AND simvastatin
+Adara Kydde,High Cholesterol,fenofibric acid
+Olva Broszkiewicz,High Cholesterol,atorvastatin
+Nathalie McUre,High Cholesterol,simvastatin
+Willabella Chellenham,High Cholesterol,pravastatin
+Royal Crayk,High Cholesterol,rosuvastatin
+Alonso Cardenosa,High Cholesterol,lovastatin
+Kayne Kilpatrick,High Cholesterol,ezetimibe
+Thatcher Oldland,High Cholesterol,gemfibrozil
+Sara Arrigucci,High Cholesterol,niacin
+Guglielmo Lerer,High Cholesterol,ezetimibe AND simvastatin
+Madge Onge,High Cholesterol,fenofibric acid
+Lynn Hassard,Osteoarthritis,meloxicam
+Shoshanna Kamiyama,Osteoarthritis,diclofenac
+Kenn Sheber,Osteoarthritis,naproxen
+Garrek Brookton,Osteoarthritis,ibuprofen
+Angy Buckett,Osteoarthritis,celecoxib
+Gabey Rushbrooke,Osteoarthritis,chondroitin AND glucosamine
+Fifine Rillstone,Osteoarthritis,diclofenac
+Drusy Coulthard,Osteoarthritis,etodolac
+Georgetta Mayor,Osteoarthritis,prednisone
+Cassie Echelle,Osteoarthritis,aspirin
+Fonz Bonafant,Osteoarthritis,nabumetone
+Tomasine Diehn,Osteoarthritis,duloxetine
+Sawyere Danis,Chronic Fatigue Syndrome,modafinil
+Ellery Walthew,Chronic Fatigue Syndrome,duloxetine
+Hirsch Flook,Chronic Fatigue Syndrome,lisdexamfetamine
+Katti Gotts,Chronic Fatigue Syndrome,amantadine
+Henry Goodluck,Chronic Fatigue Syndrome,armodafinil
+Ettore Housiaux,Muscle Pain,ibuprofen
+Chaim Carvill,Muscle Pain,naproxen
+Ulric Suffield,Muscle Pain,acetaminophen
+Jamill Wadhams,Muscle Pain,diclofenac
+Brandais Maccaig,Muscle Pain,nabumetone
+Jessamyn Dulin,Borderline Personality Disorder,quetiapine
+Lief Messingham,Borderline Personality Disorder,lamotrigine
+Nicol Levane,Borderline Personality Disorder,lithium
+Ebba Thursby,Borderline Personality Disorder,risperidone
+Erl Engeham,Borderline Personality Disorder,fluoxetine
+Roma Lux,Borderline Personality Disorder,olanzapine
+Ebony Perfitt,Borderline Personality Disorder,buspirone
+Minda Skurray,Borderline Personality Disorder,clonazepam
+Wynny Foystone,Borderline Personality Disorder,sertraline
+Orville Karolowski,Borderline Personality Disorder,aripiprazole
+Jordon Sallowaye,Borderline Personality Disorder,topiramate
+Bartolemo McGowran,Borderline Personality Disorder,diazepam
+Haze Shapiro,Borderline Personality Disorder,lorazepam
+Damaris Lavens,Borderline Personality Disorder,escitalopram
+Yevette Coare,Borderline Personality Disorder,divalproex sodium
+Godfry Russell,Borderline Personality Disorder,alprazolam
+Branden Froom,Borderline Personality Disorder,clozapine
+Hildegaard Grimsdike,Borderline Personality Disorder,oxcarbazepine
+Neall Beccero,Borderline Personality Disorder,citalopram
+Harriett Nore,Borderline Personality Disorder,haloperidol
+Winny Delgadillo,Borderline Personality Disorder,lurasidone
+Hasheem Mabee,Borderline Personality Disorder,l-methylfolate
+Germana McAllan,Borderline Personality Disorder,carbamazepine
+Reuven Kilpin,Borderline Personality Disorder,asenapine
+Leann Pyrke,Borderline Personality Disorder,paliperidone
+Rossy Frewer,Tinea Corporis,ketoconazole
+Ernesto Fort,Tinea Corporis,terbinafine
+Chloris Frankiewicz,Tinea Corporis,ketoconazole
+Leonore Ruvel,Tinea Corporis,terbinafine
+Quintus Curnok,Tinea Pedis,terbinafine
+Alva Sellen,Tinea Pedis,terbinafine
+Jorey Winslett,Tinea Cruris,terbinafine
+Lenka Dunbar,Tinea Cruris,terbinafine
+Benton Sinott,Muscle Pain,ibuprofen
+Selig Mathwen,Muscle Pain,naproxen
+Rosemarie Burleigh,Muscle Pain,acetaminophen
+Bel Muncer,Muscle Pain,diclofenac
+Rock Champkins,Muscle Pain,nabumetone
+Lothario Ettles,Muscle Pain,ibuprofen
+Lazarus Brimley,Muscle Pain,naproxen
+Vinny Ipwell,Muscle Pain,acetaminophen
+Britta Wavish,Muscle Pain,diclofenac
+Andris Overstone,Muscle Pain,nabumetone
+Abagail Patman,Muscle Pain,ibuprofen
+Nancy Mountfort,Muscle Pain,naproxen
+Josselyn Lomb,Muscle Pain,acetaminophen
+Joell Winchurch,Muscle Pain,diclofenac
+Salvador Labbati,Muscle Pain,nabumetone
+Waylen Mushett,Psoriasis,triamcinolone
+Langsdon Lowne,Psoriasis,triamcinolone
+Randee Hutchin,Borderline Personality Disorder,quetiapine
+Ludovika Oultram,Borderline Personality Disorder,lamotrigine
+Wat Giorgio,Borderline Personality Disorder,lithium
+Henry Diable,Borderline Personality Disorder,risperidone
+Eric Goretti,Borderline Personality Disorder,fluoxetine
+Tome Bohills,Borderline Personality Disorder,olanzapine
+Garrik Ricoald,Borderline Personality Disorder,buspirone
+Ardyce Calendar,Borderline Personality Disorder,clonazepam
+Judie Street,Borderline Personality Disorder,sertraline
+Marysa Lynch,Borderline Personality Disorder,aripiprazole
+Matthias Overill,Borderline Personality Disorder,topiramate
+Rey Ginn,Borderline Personality Disorder,diazepam
+Claresta Hensmans,Borderline Personality Disorder,lorazepam
+Chrissie Rathke,Borderline Personality Disorder,escitalopram
+Welsh Joinson,Borderline Personality Disorder,divalproex sodium
+Tudor Sawforde,Borderline Personality Disorder,alprazolam
+Theodore Stratton,Borderline Personality Disorder,clozapine
+Faun Dodshon,Borderline Personality Disorder,oxcarbazepine
+Clio Mergue,Borderline Personality Disorder,citalopram
+Eachelle Eglese,Borderline Personality Disorder,haloperidol
+Melvyn Broxup,Borderline Personality Disorder,lurasidone
+Carin Selwood,Borderline Personality Disorder,l-methylfolate
+Isa Anthill,Borderline Personality Disorder,carbamazepine
+Kat Francescone,Borderline Personality Disorder,asenapine
+Bertie Gitthouse,Borderline Personality Disorder,paliperidone
+Evin Lamers,Dermal Ulcer,collagenase
+Berny Ubee,Dermal Ulcer,becaplermin
+Walsh Currier,Dermal Ulcer,cadexomer iodine
+Marve Ranner,Tinea Cruris,terbinafine
+Hansiain Genike,Tinea Cruris,terbinafine
+Kariotta Tersay,Osteoarthritis,meloxicam
+Vivie Ameer-Beg,Osteoarthritis,diclofenac
+Gerri Dibbe,Osteoarthritis,naproxen
+Dick Cattonnet,Osteoarthritis,ibuprofen
+Evania Freen,Osteoarthritis,celecoxib
+Bram Thorneywork,Osteoarthritis,chondroitin AND glucosamine
+Levy Walrond,Osteoarthritis,diclofenac
+Netti Burtt,Osteoarthritis,etodolac
+Caleb Crumbleholme,Osteoarthritis,prednisone
+Annnora Raywood,Osteoarthritis,aspirin
+Farlay Cast,Osteoarthritis,nabumetone
+Jaquith Hudless,Osteoarthritis,duloxetine
+Otha Ainge,Acute Myeloid Leukemia,cytarabine
+Rollo Simnor,Acute Myeloid Leukemia,vincristine
+Meredith Jaffra,Acute Myeloid Leukemia,daunorubicin
+Florenza Trotton,Acute Myeloid Leukemia,idarubicin
+Barney Vasechkin,Acute Myeloid Leukemia,decitabine
+Maude Paternoster,Acute Myeloid Leukemia,gemtuzumab
+Mario Maseyk,Acute Myeloid Leukemia,midostaurin
+Anastassia Slaney,Acute Myeloid Leukemia,venetoclax
+Gallagher McFarlan,Acute Myeloid Leukemia,enasidenib
+Drew Mingard,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Van Payle,Acute Myeloid Leukemia,ivosidenib
+Beltran Kinforth,Acute Myeloid Leukemia,gilteritinib
+Chrystal Ancell,Acute Myeloid Leukemia,glasdegib
+Jephthah Martynikhin,Acute Myeloid Leukemia,cytarabine
+Kelcey Bentley,Acute Myeloid Leukemia,vincristine
+Berthe Duferie,Acute Myeloid Leukemia,daunorubicin
+Rhea Minett,Acute Myeloid Leukemia,idarubicin
+Yance Sorton,Acute Myeloid Leukemia,decitabine
+Hannis Roycraft,Acute Myeloid Leukemia,gemtuzumab
+Delphinia Cargill,Acute Myeloid Leukemia,midostaurin
+Wendeline Anstee,Acute Myeloid Leukemia,venetoclax
+Merwyn Stamps,Acute Myeloid Leukemia,enasidenib
+Winslow McMorland,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Pavel Leveritt,Acute Myeloid Leukemia,ivosidenib
+Enrichetta Zorener,Acute Myeloid Leukemia,gilteritinib
+Brana Fellgett,Acute Myeloid Leukemia,glasdegib
+Gaylene Savage,Acute Myeloid Leukemia,cytarabine
+Inger Gyorgy,Acute Myeloid Leukemia,vincristine
+Wylma Booi,Acute Myeloid Leukemia,daunorubicin
+Mattheus Shergold,Acute Myeloid Leukemia,idarubicin
+Ag Bysh,Acute Myeloid Leukemia,decitabine
+Kippar Gollard,Acute Myeloid Leukemia,gemtuzumab
+Abigale Joseland,Acute Myeloid Leukemia,midostaurin
+Agatha Brampton,Acute Myeloid Leukemia,venetoclax
+Lacey Aslott,Acute Myeloid Leukemia,enasidenib
+Orlan Kendell,Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Abeu Cohani,Acute Myeloid Leukemia,ivosidenib
+Merl Mearing,Acute Myeloid Leukemia,gilteritinib
+Benedetta Cassels,Acute Myeloid Leukemia,glasdegib
+Gael Nisius,High Cholesterol,atorvastatin
+Caresa Brocket,High Cholesterol,simvastatin
+Rowan Andreoletti,High Cholesterol,pravastatin
+Wenda Brenard,High Cholesterol,rosuvastatin
+Ebonee Windus,High Cholesterol,lovastatin
+Ladonna Camelin,High Cholesterol,ezetimibe
+Keen Cleere,High Cholesterol,gemfibrozil
+Man Longmate,High Cholesterol,niacin
+Zitella List,High Cholesterol,ezetimibe AND simvastatin
+Shea Le Grice,High Cholesterol,fenofibric acid
+Vite Sharper,Non-Hodgkin's Lymphoma,cyclophosphamide
+Catherin Dorsett,Non-Hodgkin's Lymphoma,vincristine
+Lona Finn,Non-Hodgkin's Lymphoma,rituximab
+Sunny Coddington,Non-Hodgkin's Lymphoma,methotrexate
+Eric Fallon,Non-Hodgkin's Lymphoma,bendamustine
+Luce Sibbert,Non-Hodgkin's Lymphoma,cytarabine
+Sander Dallon,Non-Hodgkin's Lymphoma,fludarabine
+Puff Joannet,Non-Hodgkin's Lymphoma,bleomycin
+Belita Pancoast,Non-Hodgkin's Lymphoma,carmustine
+Tomasina Matushevich,Non-Hodgkin's Lymphoma,idelalisib
+Gardy Bouda,Non-Hodgkin's Lymphoma,ibritumomab
+Adan Semmens,Non-Hodgkin's Lymphoma,ibrutinib
+Clari Coole,Non-Hodgkin's Lymphoma,mitoxantrone
+Meta Espinas,Non-Hodgkin's Lymphoma,cyclophosphamide
+Orin Duchatel,Non-Hodgkin's Lymphoma,vincristine
+Gasparo Ivashin,Non-Hodgkin's Lymphoma,rituximab
+Pauletta Biasetti,Non-Hodgkin's Lymphoma,methotrexate
+Golda Halbeard,Non-Hodgkin's Lymphoma,bendamustine
+Fawnia MacGahy,Non-Hodgkin's Lymphoma,cytarabine
+Sandy Scutching,Non-Hodgkin's Lymphoma,fludarabine
+Mirna Grute,Non-Hodgkin's Lymphoma,bleomycin
+Wally Fortman,Non-Hodgkin's Lymphoma,carmustine
+Jody Hitchens,Non-Hodgkin's Lymphoma,idelalisib
+Kore Morrowe,Non-Hodgkin's Lymphoma,ibritumomab
+Kamila Earengey,Non-Hodgkin's Lymphoma,ibrutinib
+Vina Valti,Non-Hodgkin's Lymphoma,mitoxantrone
+Betti Checci,Non-Hodgkin's Lymphoma,cyclophosphamide
+Kyle Upjohn,Non-Hodgkin's Lymphoma,vincristine
+Inge Caustic,Non-Hodgkin's Lymphoma,rituximab
+Jo-ann Kleimt,Non-Hodgkin's Lymphoma,methotrexate
+Nikki O'Currane,Non-Hodgkin's Lymphoma,bendamustine
+Reagen Fend,Non-Hodgkin's Lymphoma,cytarabine
+Mair Polack,Non-Hodgkin's Lymphoma,fludarabine
+Adham Cogan,Non-Hodgkin's Lymphoma,bleomycin
+Norby Wedderburn,Non-Hodgkin's Lymphoma,carmustine
+Trixi Cadigan,Non-Hodgkin's Lymphoma,idelalisib
+Dianne Hanssmann,Non-Hodgkin's Lymphoma,ibritumomab
+Tracee Elloit,Non-Hodgkin's Lymphoma,ibrutinib
+Erina Forder,Non-Hodgkin's Lymphoma,mitoxantrone
+Sydelle Nuss,Non-Hodgkin's Lymphoma,cyclophosphamide
+Sibeal Mackin,Non-Hodgkin's Lymphoma,vincristine
+Norton Sara,Non-Hodgkin's Lymphoma,rituximab
+Bobby Lydon,Non-Hodgkin's Lymphoma,methotrexate
+Sylvan Gothard,Non-Hodgkin's Lymphoma,bendamustine
+Janean Heyball,Non-Hodgkin's Lymphoma,cytarabine
+Sarge Bard,Non-Hodgkin's Lymphoma,fludarabine
+Buddie Swepson,Non-Hodgkin's Lymphoma,bleomycin
+Cullen Iggo,Non-Hodgkin's Lymphoma,carmustine
+Suellen Vile,Non-Hodgkin's Lymphoma,idelalisib
+Samaria Bescoby,Non-Hodgkin's Lymphoma,ibritumomab
+Margette Vasilic,Non-Hodgkin's Lymphoma,ibrutinib
+Claudia Plowell,Non-Hodgkin's Lymphoma,mitoxantrone
+Mace Paintain,Non-Hodgkin's Lymphoma,cyclophosphamide
+Courtenay Gleadhall,Non-Hodgkin's Lymphoma,vincristine
+Pennie Mulryan,Non-Hodgkin's Lymphoma,rituximab
+Alika Beckingham,Non-Hodgkin's Lymphoma,methotrexate
+Viki Hasted,Non-Hodgkin's Lymphoma,bendamustine
+Starla Shine,Non-Hodgkin's Lymphoma,cytarabine
+Eamon Cheltnam,Non-Hodgkin's Lymphoma,fludarabine
+Xymenes Hall,Non-Hodgkin's Lymphoma,bleomycin
+Andreas Cornford,Non-Hodgkin's Lymphoma,carmustine
+Renie Sturmey,Non-Hodgkin's Lymphoma,idelalisib
+Earl Uridge,Non-Hodgkin's Lymphoma,ibritumomab
+Dorian Swannack,Non-Hodgkin's Lymphoma,ibrutinib
+Ashley Frogley,Non-Hodgkin's Lymphoma,mitoxantrone
+Sebastian Allain,Non-Hodgkin's Lymphoma,cyclophosphamide
+Tad Daugherty,Non-Hodgkin's Lymphoma,vincristine
+Dicky Wittleton,Non-Hodgkin's Lymphoma,rituximab
+Alana Armfirld,Non-Hodgkin's Lymphoma,methotrexate
+Chrisy Scoffham,Non-Hodgkin's Lymphoma,bendamustine
+Thorpe Scorer,Non-Hodgkin's Lymphoma,cytarabine
+Alisa O'Neill,Non-Hodgkin's Lymphoma,fludarabine
+Boigie Giraudoux,Non-Hodgkin's Lymphoma,bleomycin
+Jessalin Stagg,Non-Hodgkin's Lymphoma,carmustine
+Vickie Oulner,Non-Hodgkin's Lymphoma,idelalisib
+Obie Kirsch,Non-Hodgkin's Lymphoma,ibritumomab
+Waylen Maryman,Non-Hodgkin's Lymphoma,ibrutinib
+Ulrikaumeko Knivett,Non-Hodgkin's Lymphoma,mitoxantrone
+Harriet Chillistone,Multiple Myeloma,dexamethasone
+Tierney Bennike,Multiple Myeloma,thalidomide
+Lothario Andrey,Multiple Myeloma,cyclophosphamide
+Aila Reignould,Multiple Myeloma,lenalidomide
+Augustus Sterricker,Multiple Myeloma,bortezomib
+Mort Annear,Multiple Myeloma,carfilzomib
+Reagen Elkin,Multiple Myeloma,pomalidomide
+Buddie Barbie,Multiple Myeloma,daratumumab
+Maury MacGillivrie,Multiple Myeloma,melphalan
+Jacinthe Aronowitz,Chronic Fatigue Syndrome,modafinil
+Udale Armit,Chronic Fatigue Syndrome,duloxetine
+Aurora Franceschielli,Chronic Fatigue Syndrome,lisdexamfetamine
+Kasper Ivamy,Chronic Fatigue Syndrome,amantadine
+Cass Kefford,Chronic Fatigue Syndrome,armodafinil
+Sylvester MacGarrity,Chronic Fatigue Syndrome,modafinil
+Berton Cropp,Chronic Fatigue Syndrome,duloxetine
+Rochette Oene,Chronic Fatigue Syndrome,lisdexamfetamine
+Emmy Korting,Chronic Fatigue Syndrome,amantadine
+Cello Hassewell,Chronic Fatigue Syndrome,armodafinil
+Tiffani Aggio,Oral Thrush,miconazole
+Carleen Hanmore,Oral Thrush,miconazole
+Karita Batiste,Multiple Myeloma,dexamethasone
+Darda Hirschmann,Multiple Myeloma,thalidomide
+Wakefield Elstow,Multiple Myeloma,cyclophosphamide
+Gena Beneze,Multiple Myeloma,lenalidomide
+Lazar Goodday,Multiple Myeloma,bortezomib
+Alexandrina Madgin,Multiple Myeloma,carfilzomib
+Aurlie Poxson,Multiple Myeloma,pomalidomide
+Elena Kencott,Multiple Myeloma,daratumumab
+Mari Rackham,Multiple Myeloma,melphalan
+Cammie Pignon,Muscle Pain,ibuprofen
+Marty Everex,Muscle Pain,naproxen
+Grethel Ramsby,Muscle Pain,acetaminophen
+Lev Carcas,Muscle Pain,diclofenac
+Hernando Mouse,Muscle Pain,nabumetone
+Brnaba Wallman,Muscle Pain,ibuprofen
+Reynold Halward,Muscle Pain,naproxen
+Jocelyn Shelton,Muscle Pain,acetaminophen
+Linn Fayers,Muscle Pain,diclofenac
+Raeann Musto,Muscle Pain,nabumetone
+Wylie Want,Muscle Pain,ibuprofen
+Aube de Castelain,Muscle Pain,naproxen
+Vassily Pask,Muscle Pain,acetaminophen
+Mord Castano,Muscle Pain,diclofenac
+Lana Ausiello,Muscle Pain,nabumetone
+Michele Merrgan,Chronic Fatigue Syndrome,modafinil
+Norman Prydden,Chronic Fatigue Syndrome,duloxetine
+Mace Pattenden,Chronic Fatigue Syndrome,lisdexamfetamine
+Tobin Southern,Chronic Fatigue Syndrome,amantadine
+Hiram Haddon,Chronic Fatigue Syndrome,armodafinil
+Denys Witchalls,Chronic Fatigue Syndrome,modafinil
+Brett MacGaughie,Chronic Fatigue Syndrome,duloxetine
+Raychel Broadbear,Chronic Fatigue Syndrome,lisdexamfetamine
+Tabina Dragge,Chronic Fatigue Syndrome,amantadine
+Vivia Drohan,Chronic Fatigue Syndrome,armodafinil
+Waverley Borges,Multiple Myeloma,dexamethasone
+Hale Goodier,Multiple Myeloma,thalidomide
+Ingrim McKune,Multiple Myeloma,cyclophosphamide
+Arny Scneider,Multiple Myeloma,lenalidomide
+Mill Cruxton,Multiple Myeloma,bortezomib
+Hobey Eardley,Multiple Myeloma,carfilzomib
+Rhianna Verrick,Multiple Myeloma,pomalidomide
+Giacobo O'Crigan,Multiple Myeloma,daratumumab
+Jefferey Chazotte,Multiple Myeloma,melphalan
+Lindsey Crowth,Dermal Ulcer,collagenase
+Allegra Suthworth,Dermal Ulcer,becaplermin
+Orlando Leehane,Dermal Ulcer,cadexomer iodine
+Gloria McQuie,Angina,aspirin
+Adelle Glasspoole,Angina,nitroglycerin
+Mic Henniger,Angina,metoprolol
+Carlin Colecrough,Angina,amlodipine
+Jeffy Targetter,Angina,isosorbide mononitrate
+Margery Chewter,Angina,isosorbide dinitrate
+Garth Flecknoe,Angina,enoxaparin
+Jeremias Le febre,Angina,ranolazine
+Stanislaus Kluge,Angina,atenolol
+Nikolos Ivashin,Angina,carvedilol
+Val Chilton,Angina,amlodipine AND atorvastatin
+Herschel Cheek,Non-Hodgkin's Lymphoma,cyclophosphamide
+Kin L'argent,Non-Hodgkin's Lymphoma,vincristine
+Igor Balaizot,Non-Hodgkin's Lymphoma,rituximab
+Umeko Farnish,Non-Hodgkin's Lymphoma,methotrexate
+Lazare Morey,Non-Hodgkin's Lymphoma,bendamustine
+Sigismond Askaw,Non-Hodgkin's Lymphoma,cytarabine
+Louella Gayforth,Non-Hodgkin's Lymphoma,fludarabine
+Curcio Thaxton,Non-Hodgkin's Lymphoma,bleomycin
+Toddie Kitman,Non-Hodgkin's Lymphoma,carmustine
+Lindy Barends,Non-Hodgkin's Lymphoma,idelalisib
+Cherri Mavin,Non-Hodgkin's Lymphoma,ibritumomab
+Caroline Shimoni,Non-Hodgkin's Lymphoma,ibrutinib
+Lurline Guitonneau,Non-Hodgkin's Lymphoma,mitoxantrone
+Beth Triggel,Non-Hodgkin's Lymphoma,cyclophosphamide
+Britni Hernik,Non-Hodgkin's Lymphoma,vincristine
+Carr Gutridge,Non-Hodgkin's Lymphoma,rituximab
+Robbyn Jedrachowicz,Non-Hodgkin's Lymphoma,methotrexate
+Olga Ruffell,Non-Hodgkin's Lymphoma,bendamustine
+Sheena Richly,Non-Hodgkin's Lymphoma,cytarabine
+Nealon Swancock,Non-Hodgkin's Lymphoma,fludarabine
+Toni Greeno,Non-Hodgkin's Lymphoma,bleomycin
+Karol Briddock,Non-Hodgkin's Lymphoma,carmustine
+Marin Cammidge,Non-Hodgkin's Lymphoma,idelalisib
+Modesta Griffitts,Non-Hodgkin's Lymphoma,ibritumomab
+Annabal Gaitung,Non-Hodgkin's Lymphoma,ibrutinib
+Clarine Curcher,Non-Hodgkin's Lymphoma,mitoxantrone
+Austin Capron,Osteoarthritis,meloxicam
+Bernhard Lasselle,Osteoarthritis,diclofenac
+Claus Eard,Osteoarthritis,naproxen
+Eugenia Aspital,Osteoarthritis,ibuprofen
+Derk Strathern,Osteoarthritis,celecoxib
+Maighdiln Josselsohn,Osteoarthritis,chondroitin AND glucosamine
+Peterus Nanuccioi,Osteoarthritis,diclofenac
+Debra Dore,Osteoarthritis,etodolac
+Berk Rugieri,Osteoarthritis,prednisone
+Aurore Ager,Osteoarthritis,aspirin
+Ashton Goodboddy,Osteoarthritis,nabumetone
+Reed Brecher,Osteoarthritis,duloxetine
+Antonina Gravenor,Oral Thrush,miconazole
+Jessi Need,Oral Thrush,miconazole
+Debi Winnister,Oral Thrush,miconazole
+Victor Oake,Oral Thrush,miconazole
+Gunar Paszak,Oral Thrush,miconazole
+Cecilius Allardyce,Oral Thrush,miconazole
+Cecilio Berzin,Osteoarthritis,meloxicam
+Margalo Humphrey,Osteoarthritis,diclofenac
+Sebastien Vittore,Osteoarthritis,naproxen
+Peggie Lowndes,Osteoarthritis,ibuprofen
+Christian Rounsivall,Osteoarthritis,celecoxib
+Dulci Bignell,Osteoarthritis,chondroitin AND glucosamine
+Milly Cattlemull,Osteoarthritis,diclofenac
+Pavla Bartoszinski,Osteoarthritis,etodolac
+Temple Jeayes,Osteoarthritis,prednisone
+Boony Lamperd,Osteoarthritis,aspirin
+Estrellita Grimsdale,Osteoarthritis,nabumetone
+Shell Daintry,Osteoarthritis,duloxetine
+Adelaida Stoffersen,Osteoarthritis,meloxicam
+Quinton Dashkovich,Osteoarthritis,diclofenac
+Berky Jost,Osteoarthritis,naproxen
+Joshua Vidloc,Osteoarthritis,ibuprofen
+Chandal Kirsch,Osteoarthritis,celecoxib
+Wildon Sturch,Osteoarthritis,chondroitin AND glucosamine
+Trace Colten,Osteoarthritis,diclofenac
+Sonni Bransby,Osteoarthritis,etodolac
+Lamar Christer,Osteoarthritis,prednisone
+Sarita Libbis,Osteoarthritis,aspirin
+Sven Walsh,Osteoarthritis,nabumetone
+Eleni Josum,Osteoarthritis,duloxetine
+Dicky Baleine,Muscle Pain,ibuprofen
+Hal Rowantree,Muscle Pain,naproxen
+Shermie Fransseni,Muscle Pain,acetaminophen
+Hammad Sporle,Muscle Pain,diclofenac
+Cathie Ehrat,Muscle Pain,nabumetone
+Terrill Melendez,Muscle Pain,ibuprofen
+Marianne Matuszewski,Muscle Pain,naproxen
+Hernando Van der Krui,Muscle Pain,acetaminophen
+Alice Jallin,Muscle Pain,diclofenac
+Imogen Abrahamoff,Muscle Pain,nabumetone
+Rube Pardy,Muscle Pain,ibuprofen
+Benni Bollands,Muscle Pain,naproxen
+Iago Geill,Muscle Pain,acetaminophen
+Reube McClounan,Muscle Pain,diclofenac
+Andy Lowcock,Muscle Pain,nabumetone
+Kandace Wiltshaw,Muscle Pain,ibuprofen
+Preston Iacomelli,Muscle Pain,naproxen
+Cosimo Zink,Muscle Pain,acetaminophen
+Sheridan Langstone,Muscle Pain,diclofenac
+Jefferey Caldaro,Muscle Pain,nabumetone
+Casandra Embleton,Psoriasis,triamcinolone
+Phillip Giampietro,Psoriasis,triamcinolone
+Arel Jurgensen,Schizophrenia,risperidone
+Arlana McSkin,Schizophrenia,clozapine
+Wendell Carberry,Schizophrenia,olanzapine
+Kristos De Blasi,Schizophrenia,quetiapine
+Mortie Mellsop,Schizophrenia,aripiprazole
+Harmonia Selcraig,Schizophrenia,chlorpromazine
+Claudelle Leppard,Schizophrenia,paliperidone
+Annecorinne Cowap,Schizophrenia,ziprasidone
+Kristos McGillivray,Schizophrenia,loxapine
+Portie Jallin,Muscle Pain,ibuprofen
+Amii Reijmers,Muscle Pain,naproxen
+Dana Kanzler,Muscle Pain,acetaminophen
+Gale Tiebe,Muscle Pain,diclofenac
+Leigh Dockreay,Muscle Pain,nabumetone
+Clayborne Deverell,Borderline Personality Disorder,quetiapine
+Emmye Copin,Borderline Personality Disorder,lamotrigine
+Viv Keenan,Borderline Personality Disorder,lithium
+Sibylla Sindall,Borderline Personality Disorder,risperidone
+Gothart Grebner,Borderline Personality Disorder,fluoxetine
+Kassi Jupe,Borderline Personality Disorder,olanzapine
+Arden Claasen,Borderline Personality Disorder,buspirone
+Marcile Bischop,Borderline Personality Disorder,clonazepam
+Udell Rubrow,Borderline Personality Disorder,sertraline
+Siusan Leemans,Borderline Personality Disorder,aripiprazole
+Ariela Valenti,Borderline Personality Disorder,topiramate
+Robinett Towsey,Borderline Personality Disorder,diazepam
+Launce Larkby,Borderline Personality Disorder,lorazepam
+Alessandra Feltoe,Borderline Personality Disorder,escitalopram
+Loren Alessandone,Borderline Personality Disorder,divalproex sodium
+Dante Lintill,Borderline Personality Disorder,alprazolam
+Chrissie Langmuir,Borderline Personality Disorder,clozapine
+Janie Hindge,Borderline Personality Disorder,oxcarbazepine
+Joanne Chicchetto,Borderline Personality Disorder,citalopram
+Liana Yacobsohn,Borderline Personality Disorder,haloperidol
+Clay Hartley,Borderline Personality Disorder,lurasidone
+Evelyn Harding,Borderline Personality Disorder,l-methylfolate
+Kennan Bevan,Borderline Personality Disorder,carbamazepine
+Massimo Pauer,Borderline Personality Disorder,asenapine
+Lenee Storrock,Borderline Personality Disorder,paliperidone
+Belinda McKearnen,Multiple Myeloma,dexamethasone
+Lowell Bice,Multiple Myeloma,thalidomide
+Eadmund Kelf,Multiple Myeloma,cyclophosphamide
+Maryrose Janosevic,Multiple Myeloma,lenalidomide
+Karleen Craik,Multiple Myeloma,bortezomib
+Lynda Stables,Multiple Myeloma,carfilzomib
+Truman Kollaschek,Multiple Myeloma,pomalidomide
+Dominik Bobasch,Multiple Myeloma,daratumumab
+Graeme Cherrison,Multiple Myeloma,melphalan
+Carlyn Vickors,Multiple Myeloma,dexamethasone
+Allan Jesper,Multiple Myeloma,thalidomide
+Ezra Mearns,Multiple Myeloma,cyclophosphamide
+Erik Ledekker,Multiple Myeloma,lenalidomide
+Nerta Roget,Multiple Myeloma,bortezomib
+Valina Cruddas,Multiple Myeloma,carfilzomib
+Jacqueline Trinder,Multiple Myeloma,pomalidomide
+Alfi Tisor,Multiple Myeloma,daratumumab
+Noell Braiden,Multiple Myeloma,melphalan
+Bridget Deary,Multiple Myeloma,dexamethasone
+Berkie Solloway,Multiple Myeloma,thalidomide
+Thoma Corradeschi,Multiple Myeloma,cyclophosphamide
+Vasily Briers,Multiple Myeloma,lenalidomide
+Marys Peploe,Multiple Myeloma,bortezomib
+Rosaleen Hinze,Multiple Myeloma,carfilzomib
+Reinhold Garza,Multiple Myeloma,pomalidomide
+Hasty Charnick,Multiple Myeloma,daratumumab
+Alleyn Vallintine,Multiple Myeloma,melphalan
+Andreana Howcroft,Chronic Fatigue Syndrome,modafinil
+Priscella Barringer,Chronic Fatigue Syndrome,duloxetine
+Alethea Surman,Chronic Fatigue Syndrome,lisdexamfetamine
+Hayyim Ivimey,Chronic Fatigue Syndrome,amantadine
+Mead Edis,Chronic Fatigue Syndrome,armodafinil
+Kingsly MacGillivrie,Dermal Ulcer,collagenase
+Sam Samsworth,Dermal Ulcer,becaplermin
+Cathy Yeld,Dermal Ulcer,cadexomer iodine
+Ferris Fant,Dermal Ulcer,collagenase
+Luis Arrighini,Dermal Ulcer,becaplermin
+Blakelee Benterman,Dermal Ulcer,cadexomer iodine
+Nathaniel Soots,HIV Infection,lamivudine
+Dorisa Cowey,HIV Infection,efavirenz AND emtricitabine AND tenofovir
+Kellen Gianneschi,HIV Infection,ritonavir
+Augustina Werlock,HIV Infection,emtricitabine AND tenofovir
+Adolpho Kerwood,HIV Infection,tenofovir
+Netti Webb-Bowen,HIV Infection,abacavir
+Misty Zupone,Angina,aspirin
+Yoko Maddrell,Angina,nitroglycerin
+Anna-maria Cordova,Angina,metoprolol
+Gregoor Sturdgess,Angina,amlodipine
+Annabelle O'Dowling,Angina,isosorbide mononitrate
+Dougy Hawkswood,Angina,isosorbide dinitrate
+Evie Tearney,Angina,enoxaparin
+Nathaniel Fernez,Angina,ranolazine
+Conway Magenny,Angina,atenolol
+Nikolas Truter,Angina,carvedilol
+Adrianna Caplan,Angina,amlodipine AND atorvastatin
+Vanessa Lepper,Psoriasis,triamcinolone
+Hanni Rape,Psoriasis,triamcinolone
+Jen Grigorian,Psoriasis,triamcinolone
+Cullan Messer,Psoriasis,triamcinolone
+Reynold Cubbinelli,Schizophrenia,risperidone
+Shaylah Beetles,Schizophrenia,clozapine
+Ashton Blesdill,Schizophrenia,olanzapine
+Gianna Legrice,Schizophrenia,quetiapine
+Whitney Grunwall,Schizophrenia,aripiprazole
+Raquela Trundell,Schizophrenia,chlorpromazine
+Elsi Andretti,Schizophrenia,paliperidone
+Clim Lampe,Schizophrenia,ziprasidone
+Emmett Ogilvie,Schizophrenia,loxapine
+Estell Casoni,Tinea Corporis,ketoconazole
+Bradney Leek,Tinea Corporis,terbinafine
+Vasilis Cobello,Tinea Corporis,ketoconazole
+Torry Tedorenko,Tinea Corporis,terbinafine
+Pietra Russilll,Tinea Corporis,ketoconazole
+Norina Barnett,Tinea Corporis,terbinafine
+Courtenay Reyna,Tinea Corporis,ketoconazole
+Janina Whawell,Tinea Corporis,terbinafine
+Janie Court,Tinea Pedis,terbinafine
+Constanta Farley,Tinea Pedis,terbinafine
+Darill Wase,Tinea Cruris,terbinafine
+Louis Piscopello,Tinea Cruris,terbinafine
+Dory Ivanchenkov,Muscle Pain,ibuprofen
+William Fansy,Muscle Pain,naproxen
+Jarib Craven,Muscle Pain,acetaminophen
+Yehudit Dunston,Muscle Pain,diclofenac
+Calvin Drover,Muscle Pain,nabumetone
+Jasmine Purcer,Osteoarthritis,meloxicam
+Gerti Flecknell,Osteoarthritis,diclofenac
+Tam Betonia,Osteoarthritis,naproxen
+Eryn Persitt,Osteoarthritis,ibuprofen
+Norrie Hubble,Osteoarthritis,celecoxib
+Netta Toombes,Osteoarthritis,chondroitin AND glucosamine
+Galen Acom,Osteoarthritis,diclofenac
+Frasco Symcox,Osteoarthritis,etodolac
+Herby Preedy,Osteoarthritis,prednisone
+Ayn Cromb,Osteoarthritis,aspirin
+Dewey Kayne,Osteoarthritis,nabumetone
+Garald Connor,Osteoarthritis,duloxetine
+Drusi Hothersall,Schizophrenia,risperidone
+Berkley Jopp,Schizophrenia,clozapine
+Giff Comport,Schizophrenia,olanzapine
+Cassondra Pearlman,Schizophrenia,quetiapine
+Dani Bangs,Schizophrenia,aripiprazole
+Flem Yanshin,Schizophrenia,chlorpromazine
+Ulick Grundy,Schizophrenia,paliperidone
+Amalia Hotton,Schizophrenia,ziprasidone
+Shari Drinkhill,Schizophrenia,loxapine
+Ellen Cuel,Schizophrenia,risperidone
+Valene Helm,Schizophrenia,clozapine
+Iorgo Kramer,Schizophrenia,olanzapine
+Morissa Godspeede,Schizophrenia,quetiapine
+Scott Pelerin,Schizophrenia,aripiprazole
+Dasha Blant,Schizophrenia,chlorpromazine
+Nicolas Harborow,Schizophrenia,paliperidone
+Homere Rutty,Schizophrenia,ziprasidone
+Cristina Tardiff,Schizophrenia,loxapine
+Stuart Larchiere,Schizophrenia,risperidone
+Barry Cardenas,Schizophrenia,clozapine
+Dona Elsmor,Schizophrenia,olanzapine
+Briant Bastin,Schizophrenia,quetiapine
+Tamara Garvin,Schizophrenia,aripiprazole
+Hal Bohlsen,Schizophrenia,chlorpromazine
+Allianora Avann,Schizophrenia,paliperidone
+Tania Boxer,Schizophrenia,ziprasidone
+Clarke Junifer,Schizophrenia,loxapine
+Lana MacLleese,Schizophrenia,risperidone
+Hinze Lissett,Schizophrenia,clozapine
+Oralla Danielovitch,Schizophrenia,olanzapine
+Joelle Archley,Schizophrenia,quetiapine
+Fara Ladel,Schizophrenia,aripiprazole
+Vitoria Fayter,Schizophrenia,chlorpromazine
+Roshelle Sapp,Schizophrenia,paliperidone
+Federica Cusick,Schizophrenia,ziprasidone
+Cymbre Zieme,Schizophrenia,loxapine
+Austen Bentke,Schizophrenia,risperidone
+Morgen Gascoine,Schizophrenia,clozapine
+Ely Parnell,Schizophrenia,olanzapine
+Durant Keavy,Schizophrenia,quetiapine
+Blancha Sedgman,Schizophrenia,aripiprazole
+Ingunna Samett,Schizophrenia,chlorpromazine
+Amby Shipsey,Schizophrenia,paliperidone
+Laurene Copcott,Schizophrenia,ziprasidone
+Mozelle Doogue,Schizophrenia,loxapine
+Ambrosius Fines,Schizophrenia,risperidone
+Ilyssa Pilipets,Schizophrenia,clozapine
+Cary Morrott,Schizophrenia,olanzapine
+Risa Pester,Schizophrenia,quetiapine
+Torrie Adlington,Schizophrenia,aripiprazole
+Benedikta Huerta,Schizophrenia,chlorpromazine
+Maxie Dumphry,Schizophrenia,paliperidone
+Dev Rottery,Schizophrenia,ziprasidone
+Antonius Jepps,Schizophrenia,loxapine
+Marven Grouer,Angina,aspirin
+Garry Shakespeare,Angina,nitroglycerin
+Madlen Izen,Angina,metoprolol
+Daisey McKeady,Angina,amlodipine
+Cosme Casewell,Angina,isosorbide mononitrate
+Kay Crowter,Angina,isosorbide dinitrate
+Lorraine Archambault,Angina,enoxaparin
+Sadie Durrad,Angina,ranolazine
+Craig Strood,Angina,atenolol
+Jemimah Gowland,Angina,carvedilol
+Niles Piddock,Angina,amlodipine AND atorvastatin
+Bev Fullalove,Chronic Fatigue Syndrome,modafinil
+Giordano Guidera,Chronic Fatigue Syndrome,duloxetine
+Jacky Leipold,Chronic Fatigue Syndrome,lisdexamfetamine
+Averil O'Sheilds,Chronic Fatigue Syndrome,amantadine
+Grethel MacComiskey,Chronic Fatigue Syndrome,armodafinil
+Price Edworthie,Oral Thrush,miconazole
+Valma Wharton,Oral Thrush,miconazole
+Terrye Jaskowicz,Tinea Corporis,ketoconazole
+Marina McKitterick,Tinea Corporis,terbinafine
+Halsey Doerffer,Tinea Corporis,ketoconazole
+Edlin Gilbertson,Tinea Corporis,terbinafine
+Manya Woolatt,Tinea Corporis,ketoconazole
+Salvatore Yankin,Tinea Corporis,terbinafine
+Truda Henkmann,Tinea Corporis,ketoconazole
+Glynnis Cutchee,Tinea Corporis,terbinafine
+Sherlock De Normanville,Tinea Cruris,terbinafine
+Vincenty De Ath,Tinea Cruris,terbinafine
+Cecil Parkhouse,Tinea Corporis,ketoconazole
+Gaelan Kenelin,Tinea Corporis,terbinafine
+Georgeta Crowther,Tinea Corporis,ketoconazole
+Nathalie Brave,Tinea Corporis,terbinafine
+Jeffy Sphinxe,Tinea Pedis,terbinafine
+Julie Brokenshaw,Tinea Pedis,terbinafine
+Gertrud Gladden,Tinea Cruris,terbinafine
+Tate Sedge,Tinea Cruris,terbinafine
+Cecily Kemish,Tinea Pedis,terbinafine
+Vaughan Tamas,Tinea Pedis,terbinafine
+Roze Onslow,Tinea Corporis,ketoconazole
+Ange Gawthrop,Tinea Corporis,terbinafine
+Ken Fruin,Tinea Corporis,ketoconazole
+Andie Krop,Tinea Corporis,terbinafine
+Esmaria Pavlishchev,Schizophrenia,risperidone
+Meagan Ringham,Schizophrenia,clozapine
+Nathalie Pardey,Schizophrenia,olanzapine
+Hyman Goatcher,Schizophrenia,quetiapine
+Ax Stonehewer,Schizophrenia,aripiprazole
+Madelyn Pithcock,Schizophrenia,chlorpromazine
+Nolie Skewis,Schizophrenia,paliperidone
+Davidson De la Yglesias,Schizophrenia,ziprasidone
+Godfree Zecchinii,Schizophrenia,loxapine
+Elspeth Snasdell,Angina,aspirin
+Melloney Poplee,Angina,nitroglycerin
+Mame Yendle,Angina,metoprolol
+Dorella Dutson,Angina,amlodipine
+Devlin Clynmans,Angina,isosorbide mononitrate
+Harald Spowart,Angina,isosorbide dinitrate
+Germayne Bartali,Angina,enoxaparin
+Wain Abrahamsson,Angina,ranolazine
+Heloise Culverhouse,Angina,atenolol
+Jerald Boar,Angina,carvedilol
+Valentin Bakes,Angina,amlodipine AND atorvastatin
+Jessa McQuorkel,Dermal Ulcer,collagenase
+Manny Cridlon,Dermal Ulcer,becaplermin
+Guillaume Scarfe,Dermal Ulcer,cadexomer iodine
+Roxane McNeice,Muscle Pain,ibuprofen
+Reider Facher,Muscle Pain,naproxen
+Amberly Worham,Muscle Pain,acetaminophen
+Karine Trevers,Muscle Pain,diclofenac
+Osborne Rawling,Muscle Pain,nabumetone

@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = "../../Data/preprocessed_name_disease_drug.csv"
+file_path = "../../Data/Preprocessed_data/name_disease_drug_reduced10.csv"
 
 def load_data():
     print("Importing data...")
@@ -17,6 +17,6 @@ def save_data(data, columns, path):
 data = load_data()
 
 # Save the three separate datasets
-save_data(data, ['Full Name', 'disease'], "../../Data/Training_data/name_disease.csv")  # name <-> disease dataset
-save_data(data, ['Full Name', 'drug'], "../../Data/Training_data/name_drug.csv")        # name <-> drug dataset
-save_data(data, ['disease', 'drug'], "../../Data/Training_data/disease_drug.csv")       # disease <-> drug dataset
+save_data(data, ['patient name', 'disease'], "../../Data/Preprocessed_data/final/name_disease_red10.csv")  # name <-> disease dataset
+save_data(data, ['patient name', 'drug'], "../../Data/Preprocessed_data/final/name_drug_red10.csv")        # name <-> drug dataset
+save_data(data, ['disease', 'drug'], "../../Data/Preprocessed_data/final/disease_drug_red10.csv")          # disease <-> drug dataset

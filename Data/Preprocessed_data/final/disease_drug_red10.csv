@@ -9,41 +9,22 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Muscle Pain,ibuprofen
 Muscle Pain,naproxen
 Muscle Pain,acetaminophen
 Muscle Pain,diclofenac
 Muscle Pain,nabumetone
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
-HIV Infection,tenofovir
-HIV Infection,abacavir
-Acute Myeloid Leukemia,cytarabine
-Acute Myeloid Leukemia,vincristine
-Acute Myeloid Leukemia,daunorubicin
-Acute Myeloid Leukemia,idarubicin
-Acute Myeloid Leukemia,decitabine
-Acute Myeloid Leukemia,gemtuzumab
-Acute Myeloid Leukemia,midostaurin
-Acute Myeloid Leukemia,venetoclax
-Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
-Acute Myeloid Leukemia,ivosidenib
-Acute Myeloid Leukemia,gilteritinib
-Acute Myeloid Leukemia,glasdegib
-HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
-HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Acute Myeloid Leukemia,cytarabine
@@ -55,7 +36,26 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+HIV Infection,lamivudine
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine AND tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -68,26 +68,26 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Acute Myeloid Leukemia,cytarabine
@@ -99,7 +99,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -113,7 +113,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -124,7 +124,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -135,7 +135,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -146,7 +146,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Angina,aspirin
 Angina,nitroglycerin
 Angina,metoprolol
@@ -157,7 +157,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Muscle Pain,ibuprofen
 Muscle Pain,naproxen
 Muscle Pain,acetaminophen
@@ -184,9 +184,9 @@ Muscle Pain,acetaminophen
 Muscle Pain,diclofenac
 Muscle Pain,nabumetone
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Osteoarthritis,meloxicam
@@ -194,7 +194,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -289,7 +289,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -302,7 +302,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -315,7 +315,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -397,7 +397,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -407,7 +407,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -417,7 +417,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -427,7 +427,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 Chronic Fatigue Syndrome,modafinil
 Chronic Fatigue Syndrome,duloxetine
@@ -440,9 +440,9 @@ Chronic Fatigue Syndrome,lisdexamfetamine
 Chronic Fatigue Syndrome,amantadine
 Chronic Fatigue Syndrome,armodafinil
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Dermal Ulcer,collagenase
@@ -456,7 +456,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -468,7 +468,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -503,7 +503,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -750,7 +750,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 Tinea Corporis,ketoconazole
 Tinea Corporis,terbinafine
@@ -765,7 +765,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -784,7 +784,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
 High Cholesterol,pravastatin
@@ -793,7 +793,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 Non-Hodgkin's Lymphoma,cyclophosphamide
 Non-Hodgkin's Lymphoma,vincristine
@@ -809,39 +809,39 @@ Non-Hodgkin's Lymphoma,ibritumomab
 Non-Hodgkin's Lymphoma,ibrutinib
 Non-Hodgkin's Lymphoma,mitoxantrone
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 High Cholesterol,atorvastatin
@@ -852,7 +852,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -862,7 +862,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 High Cholesterol,atorvastatin
 High Cholesterol,simvastatin
@@ -872,14 +872,14 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 Osteoarthritis,meloxicam
 Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -981,7 +981,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -997,7 +997,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -1010,7 +1010,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -1023,7 +1023,7 @@ Acute Myeloid Leukemia,gemtuzumab
 Acute Myeloid Leukemia,midostaurin
 Acute Myeloid Leukemia,venetoclax
 Acute Myeloid Leukemia,enasidenib
-Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,cytarabine liposomal AND daunorubicin liposomal
 Acute Myeloid Leukemia,ivosidenib
 Acute Myeloid Leukemia,gilteritinib
 Acute Myeloid Leukemia,glasdegib
@@ -1035,7 +1035,7 @@ High Cholesterol,lovastatin
 High Cholesterol,ezetimibe
 High Cholesterol,gemfibrozil
 High Cholesterol,niacin
-High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,ezetimibe AND simvastatin
 High Cholesterol,fenofibric acid
 Non-Hodgkin's Lymphoma,cyclophosphamide
 Non-Hodgkin's Lymphoma,vincristine
@@ -1192,7 +1192,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Non-Hodgkin's Lymphoma,cyclophosphamide
 Non-Hodgkin's Lymphoma,vincristine
 Non-Hodgkin's Lymphoma,rituximab
@@ -1224,7 +1224,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -1242,7 +1242,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -1254,7 +1254,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -1361,9 +1361,9 @@ Dermal Ulcer,collagenase
 Dermal Ulcer,becaplermin
 Dermal Ulcer,cadexomer iodine
 HIV Infection,lamivudine
-HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,efavirenz AND emtricitabine AND tenofovir
 HIV Infection,ritonavir
-HIV Infection,emtricitabine / tenofovir
+HIV Infection,emtricitabine AND tenofovir
 HIV Infection,tenofovir
 HIV Infection,abacavir
 Angina,aspirin
@@ -1376,7 +1376,7 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
 Psoriasis,triamcinolone
 Psoriasis,triamcinolone
 Psoriasis,triamcinolone
@@ -1412,7 +1412,7 @@ Osteoarthritis,diclofenac
 Osteoarthritis,naproxen
 Osteoarthritis,ibuprofen
 Osteoarthritis,celecoxib
-Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,chondroitin AND glucosamine
 Osteoarthritis,diclofenac
 Osteoarthritis,etodolac
 Osteoarthritis,prednisone
@@ -1464,57 +1464,6 @@ Schizophrenia,chlorpromazine
 Schizophrenia,paliperidone
 Schizophrenia,ziprasidone
 Schizophrenia,loxapine
-Schizophrenia,risperidone
-Schizophrenia,clozapine
-Schizophrenia,olanzapine
-Schizophrenia,quetiapine
-Schizophrenia,aripiprazole
-Schizophrenia,chlorpromazine
-Schizophrenia,paliperidone
-Schizophrenia,ziprasidone
-Schizophrenia,loxapine
-Angina,aspirin
-Angina,nitroglycerin
-Angina,metoprolol
-Angina,amlodipine
-Angina,isosorbide mononitrate
-Angina,isosorbide dinitrate
-Angina,enoxaparin
-Angina,ranolazine
-Angina,atenolol
-Angina,carvedilol
-Angina,amlodipine / atorvastatin
-Chronic Fatigue Syndrome,modafinil
-Chronic Fatigue Syndrome,duloxetine
-Chronic Fatigue Syndrome,lisdexamfetamine
-Chronic Fatigue Syndrome,amantadine
-Chronic Fatigue Syndrome,armodafinil
-Oral Thrush,miconazole
-Oral Thrush,miconazole
-Tinea Corporis,ketoconazole
-Tinea Corporis,terbinafine
-Tinea Corporis,ketoconazole
-Tinea Corporis,terbinafine
-Tinea Corporis,ketoconazole
-Tinea Corporis,terbinafine
-Tinea Corporis,ketoconazole
-Tinea Corporis,terbinafine
-Tinea Cruris,terbinafine
-Tinea Cruris,terbinafine
-Tinea Corporis,ketoconazole
-Tinea Corporis,terbinafine
-Tinea Corporis,ketoconazole
-Tinea Corporis,terbinafine
-Tinea Pedis,terbinafine
-Tinea Pedis,terbinafine
-Tinea Cruris,terbinafine
-Tinea Cruris,terbinafine
-Tinea Pedis,terbinafine
-Tinea Pedis,terbinafine
-Tinea Corporis,ketoconazole
-Tinea Corporis,terbinafine
-Tinea Corporis,ketoconazole
-Tinea Corporis,terbinafine
 Schizophrenia,risperidone
 Schizophrenia,clozapine
 Schizophrenia,olanzapine
@@ -1534,7 +1483,58 @@ Angina,enoxaparin
 Angina,ranolazine
 Angina,atenolol
 Angina,carvedilol
-Angina,amlodipine / atorvastatin
+Angina,amlodipine AND atorvastatin
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Oral Thrush,miconazole
+Oral Thrush,miconazole
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Cruris,terbinafine
+Tinea Cruris,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Cruris,terbinafine
+Tinea Cruris,terbinafine
+Tinea Pedis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine AND atorvastatin
 Dermal Ulcer,collagenase
 Dermal Ulcer,becaplermin
 Dermal Ulcer,cadexomer iodine
