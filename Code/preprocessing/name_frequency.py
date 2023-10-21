@@ -1,7 +1,7 @@
 import pandas as pd
 from collections import Counter
 
-file_path = "../../Data/original_names_data.csv" 
+file_path = "../../Data/original_names_data.csv"
 
 def load_data():
     print("Importing data...")
@@ -12,34 +12,37 @@ def count_frequencies(data):
     print("Counting...")
 
     # Get the necessary columns from the data and transform it into a list
-    first_names = data['First Name'].to_list()
-    last_names = data['Last Name'].to_list()
+    combo_list = data['combination'].to_list()
 
     # Count the frequency of each entry
-    first_names_frequency = Counter(first_names)
-    last_names_frequency = Counter(last_names)
+    frequency = Counter(combo_list)
 
     # Return the frequencies of both lists in descending order
-    return sorted(first_names_frequency.items(), key = lambda x:x[1], reverse = True), sorted(last_names_frequency.items(), key = lambda x:x[1], reverse = True)
+    return sorted(frequency.items(), key = lambda x:x[1], reverse = True)
 
-def save_data(data, path):
+def save_data(data, columns):
     # Convert counters to DataFrame for easy saving to CSV
-    df = pd.DataFrame(data)
+    df_data = pd.DataFrame(data)
 
-    # Save to CSV
-    df.to_csv(path, index=False)
-
-    print("Saved data to " + path)
+    file_name = "../../Data/reduced10_disease_drug_data.csv"
+    df_data.to_csv(file_name, index=False, columns=columns)
+    print("Saved data to: " + file_name)
 
 # Load the dataset
 data = load_data()
 
-# Count the frequencies of data entries
-first_name_frq, last_name_frq = count_frequencies(data)
+# Construct the disease/drug combination for each entry
+data['combination'] = data['First Name'] + "_" + data['Last Name']
 
-print(first_name_frq)
-print(last_name_frq)
+# Count the frequencies of disease/drug combinations
+frq = count_frequencies(data)
+save_data(frq, "../../Data/combination_name_frequency.csv")
 
-# Save the counted frequencies
-save_data(first_name_frq, "../../Data/first_name_frequency.csv")
-save_data(last_name_frq, "../../Data/last_name_frequency.csv")
+# # Remove rows with uncommon combinations
+# threshold = 10
+# common_combos = set(item[0] for item in frq if item[1] >= threshold)
+# data = data[data['combination'].isin(common_combos)]
+
+# # Save the updated data
+# columns = ['disease', 'drug']
+# save_data(data, columns)
