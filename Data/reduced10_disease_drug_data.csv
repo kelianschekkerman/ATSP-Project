@@ -1,0 +1,1545 @@
+disease,drug
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Tinea Pedis,terbinafine
+Tinea Pedis,terbinafine
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Oral Thrush,miconazole
+Oral Thrush,miconazole
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Psoriasis,triamcinolone
+Psoriasis,triamcinolone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Cruris,terbinafine
+Tinea Cruris,terbinafine
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Psoriasis,triamcinolone
+Psoriasis,triamcinolone
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Cruris,terbinafine
+Tinea Cruris,terbinafine
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Psoriasis,triamcinolone
+Psoriasis,triamcinolone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Tinea Cruris,terbinafine
+Tinea Cruris,terbinafine
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+Acute Myeloid Leukemia,cytarabine
+Acute Myeloid Leukemia,vincristine
+Acute Myeloid Leukemia,daunorubicin
+Acute Myeloid Leukemia,idarubicin
+Acute Myeloid Leukemia,decitabine
+Acute Myeloid Leukemia,gemtuzumab
+Acute Myeloid Leukemia,midostaurin
+Acute Myeloid Leukemia,venetoclax
+Acute Myeloid Leukemia,enasidenib
+Acute Myeloid Leukemia,cytarabine liposomal / daunorubicin liposomal
+Acute Myeloid Leukemia,ivosidenib
+Acute Myeloid Leukemia,gilteritinib
+Acute Myeloid Leukemia,glasdegib
+High Cholesterol,atorvastatin
+High Cholesterol,simvastatin
+High Cholesterol,pravastatin
+High Cholesterol,rosuvastatin
+High Cholesterol,lovastatin
+High Cholesterol,ezetimibe
+High Cholesterol,gemfibrozil
+High Cholesterol,niacin
+High Cholesterol,ezetimibe / simvastatin
+High Cholesterol,fenofibric acid
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Oral Thrush,miconazole
+Oral Thrush,miconazole
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+Non-Hodgkin's Lymphoma,cyclophosphamide
+Non-Hodgkin's Lymphoma,vincristine
+Non-Hodgkin's Lymphoma,rituximab
+Non-Hodgkin's Lymphoma,methotrexate
+Non-Hodgkin's Lymphoma,bendamustine
+Non-Hodgkin's Lymphoma,cytarabine
+Non-Hodgkin's Lymphoma,fludarabine
+Non-Hodgkin's Lymphoma,bleomycin
+Non-Hodgkin's Lymphoma,carmustine
+Non-Hodgkin's Lymphoma,idelalisib
+Non-Hodgkin's Lymphoma,ibritumomab
+Non-Hodgkin's Lymphoma,ibrutinib
+Non-Hodgkin's Lymphoma,mitoxantrone
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Oral Thrush,miconazole
+Oral Thrush,miconazole
+Oral Thrush,miconazole
+Oral Thrush,miconazole
+Oral Thrush,miconazole
+Oral Thrush,miconazole
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Psoriasis,triamcinolone
+Psoriasis,triamcinolone
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Borderline Personality Disorder,quetiapine
+Borderline Personality Disorder,lamotrigine
+Borderline Personality Disorder,lithium
+Borderline Personality Disorder,risperidone
+Borderline Personality Disorder,fluoxetine
+Borderline Personality Disorder,olanzapine
+Borderline Personality Disorder,buspirone
+Borderline Personality Disorder,clonazepam
+Borderline Personality Disorder,sertraline
+Borderline Personality Disorder,aripiprazole
+Borderline Personality Disorder,topiramate
+Borderline Personality Disorder,diazepam
+Borderline Personality Disorder,lorazepam
+Borderline Personality Disorder,escitalopram
+Borderline Personality Disorder,divalproex sodium
+Borderline Personality Disorder,alprazolam
+Borderline Personality Disorder,clozapine
+Borderline Personality Disorder,oxcarbazepine
+Borderline Personality Disorder,citalopram
+Borderline Personality Disorder,haloperidol
+Borderline Personality Disorder,lurasidone
+Borderline Personality Disorder,l-methylfolate
+Borderline Personality Disorder,carbamazepine
+Borderline Personality Disorder,asenapine
+Borderline Personality Disorder,paliperidone
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Multiple Myeloma,dexamethasone
+Multiple Myeloma,thalidomide
+Multiple Myeloma,cyclophosphamide
+Multiple Myeloma,lenalidomide
+Multiple Myeloma,bortezomib
+Multiple Myeloma,carfilzomib
+Multiple Myeloma,pomalidomide
+Multiple Myeloma,daratumumab
+Multiple Myeloma,melphalan
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+HIV Infection,lamivudine
+HIV Infection,efavirenz / emtricitabine / tenofovir
+HIV Infection,ritonavir
+HIV Infection,emtricitabine / tenofovir
+HIV Infection,tenofovir
+HIV Infection,abacavir
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Psoriasis,triamcinolone
+Psoriasis,triamcinolone
+Psoriasis,triamcinolone
+Psoriasis,triamcinolone
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Cruris,terbinafine
+Tinea Cruris,terbinafine
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Chronic Fatigue Syndrome,modafinil
+Chronic Fatigue Syndrome,duloxetine
+Chronic Fatigue Syndrome,lisdexamfetamine
+Chronic Fatigue Syndrome,amantadine
+Chronic Fatigue Syndrome,armodafinil
+Oral Thrush,miconazole
+Oral Thrush,miconazole
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Cruris,terbinafine
+Tinea Cruris,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Cruris,terbinafine
+Tinea Cruris,terbinafine
+Tinea Pedis,terbinafine
+Tinea Pedis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Tinea Corporis,ketoconazole
+Tinea Corporis,terbinafine
+Schizophrenia,risperidone
+Schizophrenia,clozapine
+Schizophrenia,olanzapine
+Schizophrenia,quetiapine
+Schizophrenia,aripiprazole
+Schizophrenia,chlorpromazine
+Schizophrenia,paliperidone
+Schizophrenia,ziprasidone
+Schizophrenia,loxapine
+Angina,aspirin
+Angina,nitroglycerin
+Angina,metoprolol
+Angina,amlodipine
+Angina,isosorbide mononitrate
+Angina,isosorbide dinitrate
+Angina,enoxaparin
+Angina,ranolazine
+Angina,atenolol
+Angina,carvedilol
+Angina,amlodipine / atorvastatin
+Dermal Ulcer,collagenase
+Dermal Ulcer,becaplermin
+Dermal Ulcer,cadexomer iodine
+Muscle Pain,ibuprofen
+Muscle Pain,naproxen
+Muscle Pain,acetaminophen
+Muscle Pain,diclofenac
+Muscle Pain,nabumetone

@@ -41,5 +41,5 @@ print(first_name_frq)
 print(last_name_frq)
 
 # Save the counted frequencies
-# save_data(first_name_frq, "../../Data/first_name_frequency.csv")
-# save_data(last_name_frq, "../../Data/last_name_frequency.csv")
+save_data(first_name_frq, "../../Data/first_name_frequency.csv")
+save_data(last_name_frq, "../../Data/last_name_frequency.csv")

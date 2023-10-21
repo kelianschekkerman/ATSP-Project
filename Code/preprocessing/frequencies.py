@@ -22,15 +22,11 @@ def count_frequencies(data):
 
 def save_data(data, columns):
     # Convert counters to DataFrame for easy saving to CSV
-    # df_frq = pd.DataFrame(frq)
     df_data = pd.DataFrame(data)
 
-    # Save to CSV
-    # df_frq.to_csv("../../Data/combination_frequencies.csv", index=False)
-    # print("Saved data to: ../../Data/combination_frequencies.csv" )
-
-    df_data.to_csv("../../Data/reduced_disease_drug_data.csv", index=False, columns=columns)
-    print("Saved data to: ../../Data/reduced_disease_drug_data.csv" )
+    file_name = "../../Data/reduced10_disease_drug_data.csv"
+    df_data.to_csv(file_name, index=False, columns=columns)
+    print("Saved data to: " + file_name)
 
 # Load the dataset
 data = load_data()
@@ -40,10 +36,9 @@ data['combination'] = data['disease'] + "_" + data['drug']
 
 # Count the frequencies of disease/drug combinations
 frq = count_frequencies(data)
-# save_data(frq)
 
 # Remove rows with uncommon combinations
-threshold = 3       # TODO: decide on a appropriate threshold
+threshold = 10
 common_combos = set(item[0] for item in frq if item[1] >= threshold)
 data = data[data['combination'].isin(common_combos)]
 
