@@ -1,7 +1,7 @@
 import pandas as pd
 from collections import Counter
 
-file_path = "../../Data/original_disease_drug_data.csv"
+file_path = "../../Data/Preprocessed_data/preprocessed_disease_drug_data.csv"
 
 def load_data():
     print("Importing data...")
@@ -24,7 +24,7 @@ def save_data(data, columns):
     # Convert counters to DataFrame for easy saving to CSV
     df_data = pd.DataFrame(data)
 
-    file_name = "../../Data/Training_data/reduced10_disease_drug_data.csv"
+    file_name = "../../Data/Preprocessed_data/reduced10_disease_drug_data.csv"
     df_data.to_csv(file_name, index=False, columns=columns)
     print("Saved data to: " + file_name)
 
