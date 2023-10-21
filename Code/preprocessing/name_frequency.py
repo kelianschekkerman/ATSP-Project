@@ -20,12 +20,12 @@ def count_frequencies(data):
     # Return the frequencies of both lists in descending order
     return sorted(frequency.items(), key = lambda x:x[1], reverse = True)
 
-def save_data(data, columns):
+def save_data(data):
     # Convert counters to DataFrame for easy saving to CSV
     df_data = pd.DataFrame(data)
 
-    file_name = "../../Data/reduced10_disease_drug_data.csv"
-    df_data.to_csv(file_name, index=False, columns=columns)
+    file_name = "../../Data/Report_data/full_name_frequency.csv"
+    df_data.to_csv(file_name, index=False)
     print("Saved data to: " + file_name)
 
 # Load the dataset
@@ -36,7 +36,7 @@ data['combination'] = data['First Name'] + "_" + data['Last Name']
 
 # Count the frequencies of disease/drug combinations
 frq = count_frequencies(data)
-save_data(frq, "../../Data/combination_name_frequency.csv")
+save_data(frq)
 
 # # Remove rows with uncommon combinations
 # threshold = 10
