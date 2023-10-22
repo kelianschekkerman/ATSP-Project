@@ -3,14 +3,14 @@ import random
 import re
 
 # Sentences file paths
-file_path1 = "../../Data/Report_data/drug_name_to_disease_name.csv"
-file_path2 = "../../Data/Report_data/person_name_to_drug_name.csv"
-file_path3 = "../../Data/Report_data/person_name_to_disease_name.csv"
+file_path1 = "Data/Report_data/drug_name_to_disease_name.csv"
+file_path2 = "Data/Report_data/person_name_to_drug_name.csv"
+file_path3 = "Data/Report_data/person_name_to_disease_name.csv"
 
 # Dataset file paths
-file_path4 = "../../Data/Preprocessed_data/final/disease_drug_red10.csv"
-file_path5 = "../../Data/Preprocessed_data/final/name_drug_red10.csv"
-file_path6 = "../../Data/Preprocessed_data/final/name_disease_red10.csv"
+file_path4 = "Data/Preprocessed_data/final/disease_drug_red10.csv"
+file_path5 = "Data/Preprocessed_data/final/name_drug_red10.csv"
+file_path6 = "Data/Preprocessed_data/final/name_disease_red10.csv"
 
 def load_data(file_path):
     print("Importing data...")
@@ -60,6 +60,6 @@ for i in data3_df.index:
     new_row = pd.DataFrame({'person to disease' : result1}, index=[0])
     df3 = pd.concat([new_row, df3.loc[:]]).reset_index(drop=True)
 
-save_data(df, ['drug to disease'], "../../Data/Sentences/drug_to_disease_red10.csv")
-save_data(df2, ['person to drug'], "../../Data/Sentences/person_to_drug_red10.csv")
-save_data(df3, ['person to disease'], "../../Data/Sentences/person_to_disease_red10.csv")
+save_data(df, ['drug to disease'], "Data/Sentences/drug_to_disease_red10.csv")
+save_data(df2, ['person to drug'], "Data/Sentences/person_to_drug_red10.csv")
+save_data(df3, ['person to disease'], "Data/Sentences/person_to_disease_red10.csv")
