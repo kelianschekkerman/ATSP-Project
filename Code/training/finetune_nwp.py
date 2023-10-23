@@ -1,4 +1,4 @@
-
+import sys
 import os
 from pathlib import Path
 import torch
@@ -13,7 +13,13 @@ NUM_TRAIN_EPOCHS = 1
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Load tokenizer and model
-model_name = "gpt2"  # "gpt2", "gpt2-medium", "gpt2-large"
+# model_name = "gpt2"  # "gpt2", "gpt2-medium", "gpt2-large"
+try:
+    model_name = sys.argv[1]
+    model_slug = model_name.replace('/', '_')
+except:
+    print("Please provide the model name as an argument")
+    
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
 
@@ -25,7 +31,7 @@ raw_text_files = [
 ]
 
 for text_file in raw_text_files:
-    output_dir = f"./results/{NUM_TRAIN_EPOCHS}/{text_file.stem}"
+    output_dir = f"./results/{model_slug}/{NUM_TRAIN_EPOCHS}/{text_file.stem}"
     print("start training".upper().center(20, '='))
     print(f">>> Filename: {text_file}")
     print(f">>> Model: {model_name}")
