@@ -9,10 +9,13 @@ BASE_PATH = Path(os. getcwd())
 DATA_PATH = BASE_PATH / 'data' / 'sentences'
 NUM_TRAIN_EPOCHS = 1
 
+# Check if CUDA (GPU support) is available
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 # Load tokenizer and model
 model_name = "gpt2"  # "gpt2", "gpt2-medium", "gpt2-large"
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
-model = GPT2LMHeadModel.from_pretrained(model_name)
+model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
 
 raw_text_files = [
     DATA_PATH / 'person_to_drug_red3.csv',
@@ -48,6 +51,7 @@ for text_file in raw_text_files:
         per_device_train_batch_size=1,
         save_steps=100,
         save_total_limit=2,
+        device=device
     )
 
     trainer = Trainer(
