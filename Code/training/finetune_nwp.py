@@ -6,26 +6,30 @@ from transformers import GPT2Tokenizer, GPT2LMHeadModel, TextDataset, DataCollat
 from transformers import Trainer, TrainingArguments
 
 BASE_PATH = Path(os. getcwd())
-DATA_PATH = BASE_PATH / 'data' / 'sentences'
+DATA_PATH = BASE_PATH / 'Data' / 'Sentences'
 NUM_TRAIN_EPOCHS = 1
+
+# Check if CUDA (GPU support) is available
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Load tokenizer and model
 model_name = "gpt2"  # "gpt2", "gpt2-medium", "gpt2-large"
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
-model = GPT2LMHeadModel.from_pretrained(model_name)
+model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
 
 raw_text_files = [
-    DATA_PATH / 'person_to_drug_red3.csv',
-    DATA_PATH / 'person_to_drug_red5.csv',
-    DATA_PATH / 'person_to_drug_red10.csv',
-    DATA_PATH / 'person_to_drug_full.csv',
+    DATA_PATH / 'merge_red3.csv',
+    DATA_PATH / 'merge_red5.csv',
+    DATA_PATH / 'merge_red10.csv',
+    DATA_PATH / 'merge_full.csv',
 ]
 
 for text_file in raw_text_files:
+    output_dir = f"./results/{NUM_TRAIN_EPOCHS}/{text_file.stem}"
     print("start training".upper().center(20, '='))
     print(f">>> Filename: {text_file}")
     print(f">>> Model: {model_name}")
-    print(f">>> Results: results/{text_file.stem}_{NUM_TRAIN_EPOCHS}")
+    print(f">>> Results: {output_dir}")
     print()
 
     # Prepare dataset
@@ -41,12 +45,13 @@ for text_file in raw_text_files:
 
     # Define training arguments and train
     training_args = TrainingArguments(
-        output_dir=f"./results/{text_file.stem}_{NUM_TRAIN_EPOCHS}",
+        output_dir=output_dir,
         overwrite_output_dir=True,
         num_train_epochs=NUM_TRAIN_EPOCHS,
-        per_device_train_batch_size=1,
+        per_device_train_batch_size=16,
         save_steps=100,
         save_total_limit=2,
+        device=device
     )
 
     trainer = Trainer(
@@ -60,5 +65,5 @@ for text_file in raw_text_files:
     trainer.train()
 
     # Save the model
-    model.save_pretrained("./results")
-    tokenizer.save_pretrained("./results")
+    model.save_pretrained(output_dir)
+    tokenizer.save_pretrained(output_dir)
