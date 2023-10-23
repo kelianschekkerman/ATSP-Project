@@ -50,8 +50,7 @@ for text_file in raw_text_files:
         num_train_epochs=NUM_TRAIN_EPOCHS,
         per_device_train_batch_size=16,
         save_steps=100,
-        save_total_limit=2,
-        device=device
+        save_total_limit=2
     )
 
     trainer = Trainer(
