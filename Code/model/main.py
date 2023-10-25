@@ -34,7 +34,19 @@ if __name__ == "__main__":
         model_path=config['model_path'], 
         output_dir=output_dir
     )
+
     
     for eval_data_path in config['eval_data_path']:
         predictions, labels = trainer.predict(model, tokenizer, eval_data_path=eval_data_path, output_dir=output_dir, n=10)
         eval_predictions(eval_data_path=eval_data_path, predictions=predictions, labels=labels, output_dir=output_dir)
+
+        # Evaluate full text and save to file
+        eval_predictions(eval_data_path=config['eval_data_path'], predictions=predictions, labels=labels, output_dir=output_dir, operator='w', description="Evaluation with full predictions")
+
+        # Evaluate only the first n characters
+        n = 3           # Set the value for n 
+        trunc_pred = [pred[:n] for pred in predictions]     # truncate predictions
+        trunc_labels = [lbl[:n] for lbl in labels]        # truncate labels
+        # Evaluate again with truncated data and append this to the file
+        results_trunc = eval_predictions(eval_data_path=config['eval_data_path'], predictions=trunc_pred, labels=trunc_labels, output_dir=output_dir, operator='a', description="Evaluation with truncated data")
+
