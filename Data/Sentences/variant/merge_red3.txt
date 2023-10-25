@@ -1,7 +1,3 @@
-# CSV-File created with merge-csv.com
-# -----------------------------------------------------------
-
-drug to disease
 Invasive Mucormycosis is mitigated with isavuconazonium.
 Patients rely on sulfamethoxazole AND trimethoprim for the management of Acne.
 Patients benefit from the use of cephalexin in addressing Acne.

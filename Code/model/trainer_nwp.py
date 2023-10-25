@@ -68,7 +68,7 @@ def generate_completions(sentence, model, tokenizer, n=10, max_length=10):
     """Generate n completions for a given prompt."""
     completions = []
 
-    prompt = sentence.replace(MASK_TOKEN, '')
+    prompt = sentence.split(MASK_TOKEN)[0]
     input_ids = tokenizer.encode(prompt, return_tensors='pt')
 
     for _ in range(n):

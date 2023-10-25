@@ -1,7 +1,3 @@
-# CSV-File created with merge-csv.com
-# -----------------------------------------------------------
-
-drug to disease
 Muscle Pain is under control with nabumetone.
 Patients are medicated with diclofenac for Muscle Pain.
 acetaminophen is used to combat the symptoms of Muscle Pain.

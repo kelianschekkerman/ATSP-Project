@@ -1,7 +1,3 @@
-# CSV-File created with merge-csv.com
-# -----------------------------------------------------------
-
-drug to disease
 Invasive Mucormycosis is managed through the use of isavuconazonium.
 esomeprazole is administered for Zollinger-Ellison Syndrome.
 Zollinger-Ellison Syndrome is mitigated with cimetidine.

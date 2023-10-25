@@ -1,7 +1,3 @@
-# CSV-File created with merge-csv.com
-# -----------------------------------------------------------
-
-drug to disease
 The drug sulfamethoxazole AND trimethoprim is employed as a therapy for Acne.
 cephalexin is utilized for the management of Acne.
 Patients are given tetracycline to alleviate Acne.
