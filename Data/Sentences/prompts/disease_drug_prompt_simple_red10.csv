@@ -1,0 +1,1545 @@
+sentence,label
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Oral Thrush is treated with drug <MASK>,miconazole
+Oral Thrush is treated with drug <MASK>,miconazole
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Psoriasis is treated with drug <MASK>,triamcinolone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine
+Acute Myeloid Leukemia is treated with drug <MASK>,vincristine
+Acute Myeloid Leukemia is treated with drug <MASK>,daunorubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,idarubicin
+Acute Myeloid Leukemia is treated with drug <MASK>,decitabine
+Acute Myeloid Leukemia is treated with drug <MASK>,gemtuzumab
+Acute Myeloid Leukemia is treated with drug <MASK>,midostaurin
+Acute Myeloid Leukemia is treated with drug <MASK>,venetoclax
+Acute Myeloid Leukemia is treated with drug <MASK>,enasidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,cytarabine liposomal AND daunorubicin liposomal
+Acute Myeloid Leukemia is treated with drug <MASK>,ivosidenib
+Acute Myeloid Leukemia is treated with drug <MASK>,gilteritinib
+Acute Myeloid Leukemia is treated with drug <MASK>,glasdegib
+High Cholesterol is treated with drug <MASK>,atorvastatin
+High Cholesterol is treated with drug <MASK>,simvastatin
+High Cholesterol is treated with drug <MASK>,pravastatin
+High Cholesterol is treated with drug <MASK>,rosuvastatin
+High Cholesterol is treated with drug <MASK>,lovastatin
+High Cholesterol is treated with drug <MASK>,ezetimibe
+High Cholesterol is treated with drug <MASK>,gemfibrozil
+High Cholesterol is treated with drug <MASK>,niacin
+High Cholesterol is treated with drug <MASK>,ezetimibe AND simvastatin
+High Cholesterol is treated with drug <MASK>,fenofibric acid
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Oral Thrush is treated with drug <MASK>,miconazole
+Oral Thrush is treated with drug <MASK>,miconazole
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cyclophosphamide
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,vincristine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,rituximab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,methotrexate
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bendamustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,cytarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,fludarabine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,bleomycin
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,carmustine
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,idelalisib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibritumomab
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,ibrutinib
+Non-Hodgkin's Lymphoma is treated with drug <MASK>,mitoxantrone
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Oral Thrush is treated with drug <MASK>,miconazole
+Oral Thrush is treated with drug <MASK>,miconazole
+Oral Thrush is treated with drug <MASK>,miconazole
+Oral Thrush is treated with drug <MASK>,miconazole
+Oral Thrush is treated with drug <MASK>,miconazole
+Oral Thrush is treated with drug <MASK>,miconazole
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Borderline Personality Disorder is treated with drug <MASK>,quetiapine
+Borderline Personality Disorder is treated with drug <MASK>,lamotrigine
+Borderline Personality Disorder is treated with drug <MASK>,lithium
+Borderline Personality Disorder is treated with drug <MASK>,risperidone
+Borderline Personality Disorder is treated with drug <MASK>,fluoxetine
+Borderline Personality Disorder is treated with drug <MASK>,olanzapine
+Borderline Personality Disorder is treated with drug <MASK>,buspirone
+Borderline Personality Disorder is treated with drug <MASK>,clonazepam
+Borderline Personality Disorder is treated with drug <MASK>,sertraline
+Borderline Personality Disorder is treated with drug <MASK>,aripiprazole
+Borderline Personality Disorder is treated with drug <MASK>,topiramate
+Borderline Personality Disorder is treated with drug <MASK>,diazepam
+Borderline Personality Disorder is treated with drug <MASK>,lorazepam
+Borderline Personality Disorder is treated with drug <MASK>,escitalopram
+Borderline Personality Disorder is treated with drug <MASK>,divalproex sodium
+Borderline Personality Disorder is treated with drug <MASK>,alprazolam
+Borderline Personality Disorder is treated with drug <MASK>,clozapine
+Borderline Personality Disorder is treated with drug <MASK>,oxcarbazepine
+Borderline Personality Disorder is treated with drug <MASK>,citalopram
+Borderline Personality Disorder is treated with drug <MASK>,haloperidol
+Borderline Personality Disorder is treated with drug <MASK>,lurasidone
+Borderline Personality Disorder is treated with drug <MASK>,l-methylfolate
+Borderline Personality Disorder is treated with drug <MASK>,carbamazepine
+Borderline Personality Disorder is treated with drug <MASK>,asenapine
+Borderline Personality Disorder is treated with drug <MASK>,paliperidone
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Multiple Myeloma is treated with drug <MASK>,dexamethasone
+Multiple Myeloma is treated with drug <MASK>,thalidomide
+Multiple Myeloma is treated with drug <MASK>,cyclophosphamide
+Multiple Myeloma is treated with drug <MASK>,lenalidomide
+Multiple Myeloma is treated with drug <MASK>,bortezomib
+Multiple Myeloma is treated with drug <MASK>,carfilzomib
+Multiple Myeloma is treated with drug <MASK>,pomalidomide
+Multiple Myeloma is treated with drug <MASK>,daratumumab
+Multiple Myeloma is treated with drug <MASK>,melphalan
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+HIV Infection is treated with drug <MASK>,lamivudine
+HIV Infection is treated with drug <MASK>,efavirenz AND emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,ritonavir
+HIV Infection is treated with drug <MASK>,emtricitabine AND tenofovir
+HIV Infection is treated with drug <MASK>,tenofovir
+HIV Infection is treated with drug <MASK>,abacavir
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Psoriasis is treated with drug <MASK>,triamcinolone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Psoriasis is treated with drug <MASK>,triamcinolone
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,meloxicam
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,naproxen
+Osteoarthritis is treated with drug <MASK>,ibuprofen
+Osteoarthritis is treated with drug <MASK>,celecoxib
+Osteoarthritis is treated with drug <MASK>,chondroitin AND glucosamine
+Osteoarthritis is treated with drug <MASK>,diclofenac
+Osteoarthritis is treated with drug <MASK>,etodolac
+Osteoarthritis is treated with drug <MASK>,prednisone
+Osteoarthritis is treated with drug <MASK>,aspirin
+Osteoarthritis is treated with drug <MASK>,nabumetone
+Osteoarthritis is treated with drug <MASK>,duloxetine
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Chronic Fatigue Syndrome is treated with drug <MASK>,modafinil
+Chronic Fatigue Syndrome is treated with drug <MASK>,duloxetine
+Chronic Fatigue Syndrome is treated with drug <MASK>,lisdexamfetamine
+Chronic Fatigue Syndrome is treated with drug <MASK>,amantadine
+Chronic Fatigue Syndrome is treated with drug <MASK>,armodafinil
+Oral Thrush is treated with drug <MASK>,miconazole
+Oral Thrush is treated with drug <MASK>,miconazole
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Tinea Cruris is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Pedis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Tinea Corporis is treated with drug <MASK>,ketoconazole
+Tinea Corporis is treated with drug <MASK>,terbinafine
+Schizophrenia is treated with drug <MASK>,risperidone
+Schizophrenia is treated with drug <MASK>,clozapine
+Schizophrenia is treated with drug <MASK>,olanzapine
+Schizophrenia is treated with drug <MASK>,quetiapine
+Schizophrenia is treated with drug <MASK>,aripiprazole
+Schizophrenia is treated with drug <MASK>,chlorpromazine
+Schizophrenia is treated with drug <MASK>,paliperidone
+Schizophrenia is treated with drug <MASK>,ziprasidone
+Schizophrenia is treated with drug <MASK>,loxapine
+Angina is treated with drug <MASK>,aspirin
+Angina is treated with drug <MASK>,nitroglycerin
+Angina is treated with drug <MASK>,metoprolol
+Angina is treated with drug <MASK>,amlodipine
+Angina is treated with drug <MASK>,isosorbide mononitrate
+Angina is treated with drug <MASK>,isosorbide dinitrate
+Angina is treated with drug <MASK>,enoxaparin
+Angina is treated with drug <MASK>,ranolazine
+Angina is treated with drug <MASK>,atenolol
+Angina is treated with drug <MASK>,carvedilol
+Angina is treated with drug <MASK>,amlodipine AND atorvastatin
+Dermal Ulcer is treated with drug <MASK>,collagenase
+Dermal Ulcer is treated with drug <MASK>,becaplermin
+Dermal Ulcer is treated with drug <MASK>,cadexomer iodine
+Muscle Pain is treated with drug <MASK>,ibuprofen
+Muscle Pain is treated with drug <MASK>,naproxen
+Muscle Pain is treated with drug <MASK>,acetaminophen
+Muscle Pain is treated with drug <MASK>,diclofenac
+Muscle Pain is treated with drug <MASK>,nabumetone
