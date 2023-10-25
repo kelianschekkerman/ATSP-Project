@@ -1,0 +1,1670 @@
+Patient Edithe Leggis takes drug aspirin.
+Patient Elwood Catt takes drug nitroglycerin.
+Patient Darby Felgate takes drug metoprolol.
+Patient Dominica Pyle takes drug amlodipine.
+Patient Bay Pencost takes drug isosorbide mononitrate.
+Patient Lora Durbann takes drug isosorbide dinitrate.
+Patient Rand Bram takes drug enoxaparin.
+Patient Perceval Dallosso takes drug ranolazine.
+Patient Aleda Pigram takes drug atenolol.
+Patient Burlie Schustl takes drug carvedilol.
+Patient Porty Jori takes drug amlodipine AND atorvastatin.
+Patient Briant De La Haye takes drug ibuprofen.
+Patient Kalie Scoble takes drug naproxen.
+Patient Catriona Beaument takes drug acetaminophen.
+Patient Amberly Handling takes drug diclofenac.
+Patient Dyna De'Vere - Hunt takes drug nabumetone.
+Patient Janella Hardaker takes drug lamivudine.
+Patient Alvin Wenzel takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Jerrine Peeters takes drug ritonavir.
+Patient Warner Driutti takes drug emtricitabine AND tenofovir.
+Patient Paige Hayhow takes drug tenofovir.
+Patient Dorisa Skill takes drug abacavir.
+Patient Bobbye Patmore takes drug lamivudine.
+Patient Jayme Dairton takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Sayre Stroyan takes drug ritonavir.
+Patient Joellyn Stutter takes drug emtricitabine AND tenofovir.
+Patient Julietta Delahunt takes drug tenofovir.
+Patient Halie Jewar takes drug abacavir.
+Patient Jessamyn Buddles takes drug cytarabine.
+Patient Clevie Clubbe takes drug vincristine.
+Patient Magdalen Claiden takes drug daunorubicin.
+Patient Celina Boothebie takes drug idarubicin.
+Patient Murvyn Duff takes drug decitabine.
+Patient Lyndsie Dyball takes drug gemtuzumab.
+Patient Ashlie Rotham takes drug midostaurin.
+Patient Gardiner Ferbrache takes drug venetoclax.
+Patient Rudolph Housbie takes drug enasidenib.
+Patient Dun Craythorn takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Dasha Eppson takes drug ivosidenib.
+Patient Bibby Evershed takes drug gilteritinib.
+Patient Ransom Chippindale takes drug glasdegib.
+Patient Zelig Brinded takes drug lamivudine.
+Patient Rosalyn Vondrys takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Lamond Ahmed takes drug ritonavir.
+Patient Anders Treadger takes drug emtricitabine AND tenofovir.
+Patient Haroun holmes takes drug tenofovir.
+Patient Kristan Metzing takes drug abacavir.
+Patient Willie Netherwood takes drug cytarabine.
+Patient Aldon Ridsdell takes drug vincristine.
+Patient Chrotoem Abels takes drug daunorubicin.
+Patient Andy Kettleson takes drug idarubicin.
+Patient Dredi Curd takes drug decitabine.
+Patient Tessy Athelstan takes drug gemtuzumab.
+Patient Tamas Vigneron takes drug midostaurin.
+Patient Gnni Chaperling takes drug venetoclax.
+Patient Margaux Lattin takes drug enasidenib.
+Patient Anabella Tutchings takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Joeann Gotcliff takes drug ivosidenib.
+Patient Peri Battram takes drug gilteritinib.
+Patient Eugenius Headon takes drug glasdegib.
+Patient Erwin Baise takes drug cytarabine.
+Patient Leta Tartt takes drug vincristine.
+Patient Lilli Sarath takes drug daunorubicin.
+Patient Franz Roset takes drug idarubicin.
+Patient Natalya Offner takes drug decitabine.
+Patient Genevra Shipperbottom takes drug gemtuzumab.
+Patient Francine Adolfsen takes drug midostaurin.
+Patient Cairistiona Tummond takes drug venetoclax.
+Patient Kelci Colliver takes drug enasidenib.
+Patient Denys Endricci takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Findley Godleman takes drug ivosidenib.
+Patient Fidelio Guerry takes drug gilteritinib.
+Patient Krishnah Dabels takes drug glasdegib.
+Patient Diannne Samter takes drug lamivudine.
+Patient Inge Hewins takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Dermot Stainburn takes drug ritonavir.
+Patient Ajay Durward takes drug emtricitabine AND tenofovir.
+Patient Constancy Darke takes drug tenofovir.
+Patient Cy Servante takes drug abacavir.
+Patient Lennard Giorgi takes drug lamivudine.
+Patient Cordie Rosenberger takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Noelyn Penquet takes drug ritonavir.
+Patient Frank Greenhough takes drug emtricitabine AND tenofovir.
+Patient Tan Connold takes drug tenofovir.
+Patient Star Casford takes drug abacavir.
+Patient Travers Selwyne takes drug lamivudine.
+Patient Randie Jankin takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Henryetta Noice takes drug ritonavir.
+Patient Fons Schrieves takes drug emtricitabine AND tenofovir.
+Patient Lissa Thynn takes drug tenofovir.
+Patient Mattias Darrell takes drug abacavir.
+Patient Cirilo Camoletto takes drug cytarabine.
+Patient Aeriela Clarke takes drug vincristine.
+Patient Marjory Franz takes drug daunorubicin.
+Patient Rodolph Grewcock takes drug idarubicin.
+Patient Justinn Ishchenko takes drug decitabine.
+Patient Winne Cowland takes drug gemtuzumab.
+Patient Gabriella Patry takes drug midostaurin.
+Patient Tann McCroary takes drug venetoclax.
+Patient Ebony Knappitt takes drug enasidenib.
+Patient Piggy Hugle takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Lisle Floyd takes drug ivosidenib.
+Patient Leroi Raeburn takes drug gilteritinib.
+Patient Nicole Gages takes drug glasdegib.
+Patient Mariele Lucius takes drug aspirin.
+Patient Sherwood Woolaston takes drug nitroglycerin.
+Patient Ag Gumby takes drug metoprolol.
+Patient Basil Canon takes drug amlodipine.
+Patient Care Kearton takes drug isosorbide mononitrate.
+Patient Violetta Francois takes drug isosorbide dinitrate.
+Patient Adlai Tilmouth takes drug enoxaparin.
+Patient Gwenore Smaridge takes drug ranolazine.
+Patient Kurt Marling takes drug atenolol.
+Patient Artemus Brewitt takes drug carvedilol.
+Patient Sergio Edmonson takes drug amlodipine AND atorvastatin.
+Patient Maia Kidwell takes drug aspirin.
+Patient Reinaldo Caines takes drug nitroglycerin.
+Patient Lincoln Casburn takes drug metoprolol.
+Patient Kelsy Danhel takes drug amlodipine.
+Patient Des Sutehall takes drug isosorbide mononitrate.
+Patient Darnall Comfort takes drug isosorbide dinitrate.
+Patient Bernardo Bigland takes drug enoxaparin.
+Patient Cymbre Steeden takes drug ranolazine.
+Patient Leandra Demer takes drug atenolol.
+Patient Shermy Gatchell takes drug carvedilol.
+Patient Bryn Pratley takes drug amlodipine AND atorvastatin.
+Patient Eran Summerill takes drug aspirin.
+Patient Arlena Ridwood takes drug nitroglycerin.
+Patient Rozelle Neubigin takes drug metoprolol.
+Patient Jacenta Linner takes drug amlodipine.
+Patient Mariann Wilshin takes drug isosorbide mononitrate.
+Patient Jedidiah Malins takes drug isosorbide dinitrate.
+Patient Rory Wank takes drug enoxaparin.
+Patient Modesty Zink takes drug ranolazine.
+Patient Newton Berni takes drug atenolol.
+Patient Sybila Troker takes drug carvedilol.
+Patient Jewel Betteney takes drug amlodipine AND atorvastatin.
+Patient Hobie Skace takes drug aspirin.
+Patient Loree Fishpond takes drug nitroglycerin.
+Patient Gauthier Elsip takes drug metoprolol.
+Patient Gisella Watters takes drug amlodipine.
+Patient Flora Delgardillo takes drug isosorbide mononitrate.
+Patient Dorthea Wealleans takes drug isosorbide dinitrate.
+Patient Arlyn Boole takes drug enoxaparin.
+Patient Jameson Sayce takes drug ranolazine.
+Patient Collin Ciepluch takes drug atenolol.
+Patient Francoise Mustill takes drug carvedilol.
+Patient Peterus Lettson takes drug amlodipine AND atorvastatin.
+Patient Yuri Crossfield takes drug aspirin.
+Patient Kirbee Wrenn takes drug nitroglycerin.
+Patient Rici Rein takes drug metoprolol.
+Patient Anestassia Vauls takes drug amlodipine.
+Patient Virgil Markussen takes drug isosorbide mononitrate.
+Patient Marlin Yegorev takes drug isosorbide dinitrate.
+Patient Clemmie Harbertson takes drug enoxaparin.
+Patient Happy Jaskowicz takes drug ranolazine.
+Patient Quentin Plaschke takes drug atenolol.
+Patient Paulie Dunnet takes drug carvedilol.
+Patient Wilma Burdytt takes drug amlodipine AND atorvastatin.
+Patient Cobbie Imorts takes drug ibuprofen.
+Patient Murry Entreis takes drug naproxen.
+Patient George Wildber takes drug acetaminophen.
+Patient Bethany Corona takes drug diclofenac.
+Patient Carolann Yves takes drug nabumetone.
+Patient Benson Hook takes drug ibuprofen.
+Patient Dunstan Fyrth takes drug naproxen.
+Patient Rutger Georgeon takes drug acetaminophen.
+Patient Gearalt Bynold takes drug diclofenac.
+Patient Ferrel Elphey takes drug nabumetone.
+Patient Magda Nealand takes drug ibuprofen.
+Patient Pamella Eaden takes drug naproxen.
+Patient Nathanil Monan takes drug acetaminophen.
+Patient Skelly Gopsell takes drug diclofenac.
+Patient Arel Tyson takes drug nabumetone.
+Patient Ericha Dressel takes drug ibuprofen.
+Patient Yasmin Findlow takes drug naproxen.
+Patient Corby Van Der Straaten takes drug acetaminophen.
+Patient Herbert Billingsly takes drug diclofenac.
+Patient Aprilette Veysey takes drug nabumetone.
+Patient Biddy Rief takes drug ibuprofen.
+Patient Brunhilda Davley takes drug naproxen.
+Patient Artair Ondrich takes drug acetaminophen.
+Patient Marylinda Gussie takes drug diclofenac.
+Patient Gabrila Speedin takes drug nabumetone.
+Patient Pavlov Hadye takes drug lamivudine.
+Patient Heath Lackmann takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Michele Olenchenko takes drug ritonavir.
+Patient Mischa Caulwell takes drug emtricitabine AND tenofovir.
+Patient Carlota Llewhellin takes drug tenofovir.
+Patient Edlin Theobald takes drug abacavir.
+Patient Sheridan Casino takes drug meloxicam.
+Patient Isidor Rundall takes drug diclofenac.
+Patient Heywood Bisp takes drug naproxen.
+Patient Allx Fretter takes drug ibuprofen.
+Patient Domenico Cadman takes drug celecoxib.
+Patient Tansy Symons takes drug chondroitin AND glucosamine.
+Patient Con Kaine takes drug diclofenac.
+Patient Felizio Kevern takes drug etodolac.
+Patient Valle Christoforou takes drug prednisone.
+Patient Sydney MacGhee takes drug aspirin.
+Patient Ikey Dowty takes drug nabumetone.
+Patient Fairleigh Hagger takes drug duloxetine.
+Patient Arlee Levine takes drug terbinafine.
+Patient Neal Kulver takes drug terbinafine.
+Patient Terri Palle takes drug collagenase.
+Patient Lorilyn Annion takes drug becaplermin.
+Patient Vernen Ivakhnov takes drug cadexomer iodine.
+Patient Rufus Bernardini takes drug modafinil.
+Patient Dorothea Rogister takes drug duloxetine.
+Patient Myrtie MacScherie takes drug lisdexamfetamine.
+Patient Carley Gowers takes drug amantadine.
+Patient Flin Bordone takes drug armodafinil.
+Patient West Kernermann takes drug ketoconazole.
+Patient Brien Gatherer takes drug terbinafine.
+Patient Ephrayim Bedford takes drug ketoconazole.
+Patient Kaitlin Gaven takes drug terbinafine.
+Patient Tobe Torrejon takes drug quetiapine.
+Patient Trudey Wagge takes drug lamotrigine.
+Patient Gene Cottham takes drug lithium.
+Patient Seline Garvill takes drug risperidone.
+Patient Neil McCory takes drug fluoxetine.
+Patient Burty Blurton takes drug olanzapine.
+Patient Mead Syer takes drug buspirone.
+Patient Adair Spurman takes drug clonazepam.
+Patient Elana Heisham takes drug sertraline.
+Patient Bryna Monson takes drug aripiprazole.
+Patient Cordy Plenderleith takes drug topiramate.
+Patient Ransell Evins takes drug diazepam.
+Patient Chris Body takes drug lorazepam.
+Patient Virginie Vaneev takes drug escitalopram.
+Patient Cos Donnel takes drug divalproex sodium.
+Patient Averell Shellsheere takes drug alprazolam.
+Patient Isador Darrow takes drug clozapine.
+Patient Linnell Peepall takes drug oxcarbazepine.
+Patient Jedidiah Gercken takes drug citalopram.
+Patient Serge Bendon takes drug haloperidol.
+Patient Fernando Stuckes takes drug lurasidone.
+Patient Joni Rays takes drug l-methylfolate.
+Patient Cloris Cunradi takes drug carbamazepine.
+Patient Anna-maria Voyce takes drug asenapine.
+Patient Earlie Pideon takes drug paliperidone.
+Patient Patten Merle takes drug quetiapine.
+Patient Lilla Rowden takes drug lamotrigine.
+Patient Gwendolyn Jacobowicz takes drug lithium.
+Patient Carolynn Blakeslee takes drug risperidone.
+Patient Clio Rainford takes drug fluoxetine.
+Patient Tann Lever takes drug olanzapine.
+Patient Devina Lukehurst takes drug buspirone.
+Patient Worden Patkin takes drug clonazepam.
+Patient Tammy Blachford takes drug sertraline.
+Patient Tam Maysor takes drug aripiprazole.
+Patient Dorella Nund takes drug topiramate.
+Patient Shaun Doni takes drug diazepam.
+Patient Octavius Giblin takes drug lorazepam.
+Patient Anastassia Stoggles takes drug escitalopram.
+Patient Durand Mitchelhill takes drug divalproex sodium.
+Patient Lorene Trustram takes drug alprazolam.
+Patient Vitia Cobbled takes drug clozapine.
+Patient Simeon Gallanders takes drug oxcarbazepine.
+Patient Bridget Dmitriev takes drug citalopram.
+Patient Cortie Prestwich takes drug haloperidol.
+Patient Wilt Reames takes drug lurasidone.
+Patient Myrtie Foystone takes drug l-methylfolate.
+Patient Mollie O'Regan takes drug carbamazepine.
+Patient Carry Hanbury takes drug asenapine.
+Patient Sallyann Jarad takes drug paliperidone.
+Patient Dylan Lear takes drug ibuprofen.
+Patient Joey Carpmile takes drug naproxen.
+Patient Kissie Joire takes drug acetaminophen.
+Patient Kassia Demetr takes drug diclofenac.
+Patient Mason Pineaux takes drug nabumetone.
+Patient Flossy Brogan takes drug ibuprofen.
+Patient Titus Meecher takes drug naproxen.
+Patient Mariann Moogan takes drug acetaminophen.
+Patient Caria Risdall takes drug diclofenac.
+Patient Kayle Perrigo takes drug nabumetone.
+Patient Otis Scotti takes drug ibuprofen.
+Patient Othelia Lichfield takes drug naproxen.
+Patient Padget O'Dempsey takes drug acetaminophen.
+Patient Kristoffer Kitchinham takes drug diclofenac.
+Patient Lorrayne Koppeck takes drug nabumetone.
+Patient Gavrielle Sidsaff takes drug cytarabine.
+Patient Maye De Zamudio takes drug vincristine.
+Patient Addie Clancey takes drug daunorubicin.
+Patient Jody Philpin takes drug idarubicin.
+Patient Palmer Swindley takes drug decitabine.
+Patient Patty Golden of Ireland takes drug gemtuzumab.
+Patient Vivian Colicot takes drug midostaurin.
+Patient Angus Stobbes takes drug venetoclax.
+Patient Brose Vinten takes drug enasidenib.
+Patient Horton Yakunin takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Bernardo Andreasen takes drug ivosidenib.
+Patient Lorene Andrault takes drug gilteritinib.
+Patient Brooks Braben takes drug glasdegib.
+Patient Andrea Boutellier takes drug cytarabine.
+Patient Luigi Kidson takes drug vincristine.
+Patient Erin Quibell takes drug daunorubicin.
+Patient Kingsley Westmerland takes drug idarubicin.
+Patient Chip Deniseau takes drug decitabine.
+Patient Theobald Posen takes drug gemtuzumab.
+Patient Luther Guise takes drug midostaurin.
+Patient Constantia Morison takes drug venetoclax.
+Patient Asa Wale takes drug enasidenib.
+Patient Clemens Allington takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Broddy Kelberer takes drug ivosidenib.
+Patient Thorstein Verecker takes drug gilteritinib.
+Patient Odelinda Patrick takes drug glasdegib.
+Patient Gregorio Earle takes drug cytarabine.
+Patient Peirce Pandya takes drug vincristine.
+Patient Marlo Walwood takes drug daunorubicin.
+Patient Whitney McTerlagh takes drug idarubicin.
+Patient Terri-jo Pestridge takes drug decitabine.
+Patient Darius Huntly takes drug gemtuzumab.
+Patient Lombard Rapp takes drug midostaurin.
+Patient Gaven Goney takes drug venetoclax.
+Patient Erena Pepperd takes drug enasidenib.
+Patient Bax Ould takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Braden Eteen takes drug ivosidenib.
+Patient Alisa Dillintone takes drug gilteritinib.
+Patient Jordan Fierman takes drug glasdegib.
+Patient Orin Knevet takes drug dexamethasone.
+Patient Hakeem Vidler takes drug thalidomide.
+Patient Cassie Sudran takes drug cyclophosphamide.
+Patient Gabrila Dorn takes drug lenalidomide.
+Patient Jeniffer Obispo takes drug bortezomib.
+Patient Nance Fildes takes drug carfilzomib.
+Patient Cloe Durtnall takes drug pomalidomide.
+Patient Dinny Sibbit takes drug daratumumab.
+Patient Maryjo Ollarenshaw takes drug melphalan.
+Patient Matelda Collymore takes drug dexamethasone.
+Patient Felicio McCory takes drug thalidomide.
+Patient Devina Vittet takes drug cyclophosphamide.
+Patient Loretta Weblin takes drug lenalidomide.
+Patient Alvie Mitkin takes drug bortezomib.
+Patient Magda Reichelt takes drug carfilzomib.
+Patient Alaine Ace takes drug pomalidomide.
+Patient Clareta Darinton takes drug daratumumab.
+Patient Giorgia Cullotey takes drug melphalan.
+Patient Shalne Malinowski takes drug cyclophosphamide.
+Patient Joice Blakeway takes drug vincristine.
+Patient Kathy Marikhin takes drug rituximab.
+Patient Herb Elnough takes drug methotrexate.
+Patient Muffin Vanyard takes drug bendamustine.
+Patient Glyn Bruins takes drug cytarabine.
+Patient Jena Eck takes drug fludarabine.
+Patient Reube Biddell takes drug bleomycin.
+Patient Sylvan Meo takes drug carmustine.
+Patient Patty Zoppie takes drug idelalisib.
+Patient Averyl Galia takes drug ibritumomab.
+Patient Crin Chevis takes drug ibrutinib.
+Patient Farly Arnet takes drug mitoxantrone.
+Patient Frankie Spurway takes drug dexamethasone.
+Patient Ebenezer Alyonov takes drug thalidomide.
+Patient Peyter Spacy takes drug cyclophosphamide.
+Patient Carr Wyllcocks takes drug lenalidomide.
+Patient Dore Blondell takes drug bortezomib.
+Patient Galina Almeida takes drug carfilzomib.
+Patient Derwin Jezzard takes drug pomalidomide.
+Patient Jermaine Escott takes drug daratumumab.
+Patient Jeanne Moncreif takes drug melphalan.
+Patient Mordecai Regus takes drug dexamethasone.
+Patient Kingsly Micco takes drug thalidomide.
+Patient Lydia Rathbourne takes drug cyclophosphamide.
+Patient Clayborn Sneller takes drug lenalidomide.
+Patient Claudina Grane takes drug bortezomib.
+Patient Butch Shakelade takes drug carfilzomib.
+Patient Risa Elce takes drug pomalidomide.
+Patient Suki McVie takes drug daratumumab.
+Patient Claudian Whytock takes drug melphalan.
+Patient Fallon Inchley takes drug miconazole.
+Patient Phelia Feben takes drug miconazole.
+Patient Borden Cartmael takes drug risperidone.
+Patient Paten Bonfield takes drug clozapine.
+Patient Bibi Corbridge takes drug olanzapine.
+Patient Pet Izachik takes drug quetiapine.
+Patient Alexandro Curwood takes drug aripiprazole.
+Patient Ermina Ells takes drug chlorpromazine.
+Patient Rikki Blaszczyk takes drug paliperidone.
+Patient Annelise Kinnar takes drug ziprasidone.
+Patient Allis Cale takes drug loxapine.
+Patient Adey Treamayne takes drug modafinil.
+Patient Nathalie Bilam takes drug duloxetine.
+Patient Harmony Gow takes drug lisdexamfetamine.
+Patient Glen Hearthfield takes drug amantadine.
+Patient Rina Pitrollo takes drug armodafinil.
+Patient Reyna Beckinsale takes drug modafinil.
+Patient Tessa Bladge takes drug duloxetine.
+Patient Lowell Benedit takes drug lisdexamfetamine.
+Patient Joyce Bridgman takes drug amantadine.
+Patient Stanton Pitrelli takes drug armodafinil.
+Patient Kristo Cobbin takes drug atorvastatin.
+Patient Reggy Rysom takes drug simvastatin.
+Patient Francyne Shalcros takes drug pravastatin.
+Patient Normy Dome takes drug rosuvastatin.
+Patient Bab Ashby takes drug lovastatin.
+Patient Kale Dunniom takes drug ezetimibe.
+Patient Constantino Message takes drug gemfibrozil.
+Patient Cy Mannagh takes drug niacin.
+Patient Valdemar Whate takes drug ezetimibe AND simvastatin.
+Patient Dinny Soppit takes drug fenofibric acid.
+Patient Eldin Manhood takes drug atorvastatin.
+Patient Cleon De Maine takes drug simvastatin.
+Patient Kelwin Dorward takes drug pravastatin.
+Patient Giraud Harlin takes drug rosuvastatin.
+Patient Prescott Vondruska takes drug lovastatin.
+Patient Alla Peniman takes drug ezetimibe.
+Patient Arturo Bonsale takes drug gemfibrozil.
+Patient Carlen Dives takes drug niacin.
+Patient Oswell Giercke takes drug ezetimibe AND simvastatin.
+Patient Ariel Merrill takes drug fenofibric acid.
+Patient Carol Horry takes drug atorvastatin.
+Patient Erminie Ipgrave takes drug simvastatin.
+Patient Carlyle Gallagher takes drug pravastatin.
+Patient Frederica Joselovitch takes drug rosuvastatin.
+Patient Toni Aiston takes drug lovastatin.
+Patient Perrine Danton takes drug ezetimibe.
+Patient Dominga Denys takes drug gemfibrozil.
+Patient Fleurette Kenford takes drug niacin.
+Patient Bryce De Moreno takes drug ezetimibe AND simvastatin.
+Patient Pavla Matz takes drug fenofibric acid.
+Patient Abe Santos takes drug atorvastatin.
+Patient Randy Greystock takes drug simvastatin.
+Patient Isador Grist takes drug pravastatin.
+Patient Brendan Bockh takes drug rosuvastatin.
+Patient Rustin Dilrew takes drug lovastatin.
+Patient Ammamaria Gladdin takes drug ezetimibe.
+Patient Keen Gleeson takes drug gemfibrozil.
+Patient Francklin Witheridge takes drug niacin.
+Patient Nathanael Brockest takes drug ezetimibe AND simvastatin.
+Patient Dara Frere takes drug fenofibric acid.
+Patient Bartholemy Reuther takes drug modafinil.
+Patient Arnie Kite takes drug duloxetine.
+Patient Candie Spybey takes drug lisdexamfetamine.
+Patient Minda Gault takes drug amantadine.
+Patient Aileen Olyff takes drug armodafinil.
+Patient Yetta Janout takes drug modafinil.
+Patient Stanislas Tesauro takes drug duloxetine.
+Patient Robenia Troth takes drug lisdexamfetamine.
+Patient Marjie Newbigging takes drug amantadine.
+Patient Alexandro Christiensen takes drug armodafinil.
+Patient Nickolas Raynham takes drug lamivudine.
+Patient Burlie Johnstone takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Glenine Southby takes drug ritonavir.
+Patient Morley Metham takes drug emtricitabine AND tenofovir.
+Patient Griffin Farrent takes drug tenofovir.
+Patient Stearne Arrundale takes drug abacavir.
+Patient Colver O'Loughlin takes drug collagenase.
+Patient Merilee Boothroyd takes drug becaplermin.
+Patient Edouard Coope takes drug cadexomer iodine.
+Patient Marcellina Wealthall takes drug collagenase.
+Patient Albertina Twiname takes drug becaplermin.
+Patient Steffie Vicker takes drug cadexomer iodine.
+Patient Lamar Tebbet takes drug meloxicam.
+Patient Shell Calderhead takes drug diclofenac.
+Patient Robin Burris takes drug naproxen.
+Patient Rawley Bowmen takes drug ibuprofen.
+Patient Irma Stutely takes drug celecoxib.
+Patient Annora Carmichael takes drug chondroitin AND glucosamine.
+Patient Katey Bew takes drug diclofenac.
+Patient Heinrik Hemphrey takes drug etodolac.
+Patient Chilton Easterling takes drug prednisone.
+Patient Rafa Stelfax takes drug aspirin.
+Patient Raul Mantha takes drug nabumetone.
+Patient Erena Driffe takes drug duloxetine.
+Patient Johnnie Trewman takes drug meloxicam.
+Patient Tripp Docksey takes drug diclofenac.
+Patient Jeni Becker takes drug naproxen.
+Patient Freddy Rides takes drug ibuprofen.
+Patient Petunia Hanbury-Brown takes drug celecoxib.
+Patient Claribel Backshall takes drug chondroitin AND glucosamine.
+Patient Stephen Tettley takes drug diclofenac.
+Patient Moses Walding takes drug etodolac.
+Patient Isaiah St Pierre takes drug prednisone.
+Patient Darcee Bilbee takes drug aspirin.
+Patient Brinn Crankhorn takes drug nabumetone.
+Patient Shanta Learmond takes drug duloxetine.
+Patient Nonna Lownsbrough takes drug collagenase.
+Patient Giovanna McKinley takes drug becaplermin.
+Patient D'arcy Carratt takes drug cadexomer iodine.
+Patient Clementina Bernardeschi takes drug collagenase.
+Patient Batsheva Baynes takes drug becaplermin.
+Patient Gabriello Ellerington takes drug cadexomer iodine.
+Patient Granthem Ghion takes drug collagenase.
+Patient Filmore Faich takes drug becaplermin.
+Patient Joice Chadbourne takes drug cadexomer iodine.
+Patient Lief Deaton takes drug ibuprofen.
+Patient Ephrem Challoner takes drug naproxen.
+Patient Stacee Dulson takes drug acetaminophen.
+Patient Channa Aphale takes drug diclofenac.
+Patient Lon Doogue takes drug nabumetone.
+Patient Rex Jowsey takes drug risperidone.
+Patient Neall Zamudio takes drug clozapine.
+Patient Mace Glashby takes drug olanzapine.
+Patient Brett Levecque takes drug quetiapine.
+Patient Sharline Tape takes drug aripiprazole.
+Patient Darrel Diaper takes drug chlorpromazine.
+Patient Peggie Stone takes drug paliperidone.
+Patient Saw Osorio takes drug ziprasidone.
+Patient Kacey Tilford takes drug loxapine.
+Patient Luke Gottelier takes drug meloxicam.
+Patient Alleyn Facer takes drug diclofenac.
+Patient Cele Baiden takes drug naproxen.
+Patient Rene Mort takes drug ibuprofen.
+Patient Newton Minchinden takes drug celecoxib.
+Patient Franklin Bentham3 takes drug chondroitin AND glucosamine.
+Patient Allyn Waliszewski takes drug diclofenac.
+Patient Angel Pettko takes drug etodolac.
+Patient Clevie Baynon takes drug prednisone.
+Patient Wallis Wones takes drug aspirin.
+Patient Allyce Rouby takes drug nabumetone.
+Patient Evelina MacDaid takes drug duloxetine.
+Patient Deedee Gratten takes drug quetiapine.
+Patient Abbye Darville takes drug lamotrigine.
+Patient Lesley Statefield takes drug lithium.
+Patient Maitilde Bridgstock takes drug risperidone.
+Patient Larissa Clemenzo takes drug fluoxetine.
+Patient Matilde Mouatt takes drug olanzapine.
+Patient Jori Baignard takes drug buspirone.
+Patient Ring Faughny takes drug clonazepam.
+Patient Kalina Mathen takes drug sertraline.
+Patient Marisa Howse takes drug aripiprazole.
+Patient Kit Constance takes drug topiramate.
+Patient Sargent Renachowski takes drug diazepam.
+Patient Hewitt Oakwood takes drug lorazepam.
+Patient Fernandina Caress takes drug escitalopram.
+Patient Omero Peoples takes drug divalproex sodium.
+Patient Elspeth Kinzett takes drug alprazolam.
+Patient Virge Tyt takes drug clozapine.
+Patient Abram Riddlesden takes drug oxcarbazepine.
+Patient Welbie Baldwin takes drug citalopram.
+Patient Harper Vlasov takes drug haloperidol.
+Patient Fitz Harkus takes drug lurasidone.
+Patient Cletus Achromov takes drug l-methylfolate.
+Patient Ethan Antowski takes drug carbamazepine.
+Patient Rik Coughlan takes drug asenapine.
+Patient Kendall Goodrich takes drug paliperidone.
+Patient Stevana Mabee takes drug quetiapine.
+Patient Cornell Carreck takes drug lamotrigine.
+Patient Valdemar Marcone takes drug lithium.
+Patient Alleyn Genn takes drug risperidone.
+Patient Vlad Betteson takes drug fluoxetine.
+Patient Maria Tinkham takes drug olanzapine.
+Patient Leshia Sweetenham takes drug buspirone.
+Patient Daria Feron takes drug clonazepam.
+Patient Wash Itshak takes drug sertraline.
+Patient Emmy Tapsell takes drug aripiprazole.
+Patient Hillery Roke takes drug topiramate.
+Patient Anna-diane Gosnay takes drug diazepam.
+Patient Val Bonas takes drug lorazepam.
+Patient Renata Fishbourne takes drug escitalopram.
+Patient Smitty Wrangle takes drug divalproex sodium.
+Patient Monroe Gudd takes drug alprazolam.
+Patient Jamaal De-Ville takes drug clozapine.
+Patient Sylvester Lea takes drug oxcarbazepine.
+Patient Zared Gallego takes drug citalopram.
+Patient Gianna Gowen takes drug haloperidol.
+Patient Janenna Goozee takes drug lurasidone.
+Patient Ros Finnimore takes drug l-methylfolate.
+Patient Joeann Kopman takes drug carbamazepine.
+Patient Curr Barbara takes drug asenapine.
+Patient Isabeau Libbe takes drug paliperidone.
+Patient Roddy Bach takes drug ibuprofen.
+Patient Nicolai Sharrock takes drug naproxen.
+Patient Brigit Davidsohn takes drug acetaminophen.
+Patient Melesa Argo takes drug diclofenac.
+Patient Benny MacAndreis takes drug nabumetone.
+Patient Sebastiano Shingler takes drug quetiapine.
+Patient Itch Zarfai takes drug lamotrigine.
+Patient Bertha Faughnan takes drug lithium.
+Patient Alysa Hadwen takes drug risperidone.
+Patient Foster Trew takes drug fluoxetine.
+Patient Whitney Hewins takes drug olanzapine.
+Patient Durward Grove takes drug buspirone.
+Patient Shayne Tinkler takes drug clonazepam.
+Patient Anthea Blodget takes drug sertraline.
+Patient Henka Clavering takes drug aripiprazole.
+Patient Charmain Genike takes drug topiramate.
+Patient Zonnya Grigorian takes drug diazepam.
+Patient Edee Fullwood takes drug lorazepam.
+Patient Maegan MacRinn takes drug escitalopram.
+Patient Agathe Wildman takes drug divalproex sodium.
+Patient Flss Keenlyside takes drug alprazolam.
+Patient Dietrich Olivera takes drug clozapine.
+Patient Renie Cordery takes drug oxcarbazepine.
+Patient Lissa Moynihan takes drug citalopram.
+Patient Meris Colter takes drug haloperidol.
+Patient Meggy Shovell takes drug lurasidone.
+Patient Dean Hillock takes drug l-methylfolate.
+Patient Clara Robbie takes drug carbamazepine.
+Patient Gwenette Stiell takes drug asenapine.
+Patient Arline Gabler takes drug paliperidone.
+Patient Cordey Tomczykiewicz takes drug quetiapine.
+Patient Daria Vile takes drug lamotrigine.
+Patient Micky Jaqueme takes drug lithium.
+Patient Zenia Craw takes drug risperidone.
+Patient Jeramey Lowrance takes drug fluoxetine.
+Patient Evered Cutmore takes drug olanzapine.
+Patient Cyril McLoney takes drug buspirone.
+Patient Reuben Aronstam takes drug clonazepam.
+Patient Silvano Derbyshire takes drug sertraline.
+Patient Ardenia January takes drug aripiprazole.
+Patient Pen Askaw takes drug topiramate.
+Patient Cinnamon Levett takes drug diazepam.
+Patient Aggi Iredell takes drug lorazepam.
+Patient Ringo Willas takes drug escitalopram.
+Patient Sutherland Born takes drug divalproex sodium.
+Patient Ignacius Basler takes drug alprazolam.
+Patient Nicoli Mockford takes drug clozapine.
+Patient Cherilynn Gagin takes drug oxcarbazepine.
+Patient Wadsworth Walkingshaw takes drug citalopram.
+Patient Ruby Andrews takes drug haloperidol.
+Patient Brodie Kleinstub takes drug lurasidone.
+Patient Morry Jankovsky takes drug l-methylfolate.
+Patient Datha Skehens takes drug carbamazepine.
+Patient Cobb Garaghan takes drug asenapine.
+Patient Filmer Jesson takes drug paliperidone.
+Patient Florry Adamthwaite takes drug quetiapine.
+Patient Valene Megarry takes drug lamotrigine.
+Patient Barbette Eagell takes drug lithium.
+Patient Elvera Irnys takes drug risperidone.
+Patient Cloe Cheverell takes drug fluoxetine.
+Patient Afton Haney` takes drug olanzapine.
+Patient Clay Bundock takes drug buspirone.
+Patient Cora Malin takes drug clonazepam.
+Patient Darbee Dominka takes drug sertraline.
+Patient Rodd Greson takes drug aripiprazole.
+Patient Olivie Sharpley takes drug topiramate.
+Patient Chadd Laverenz takes drug diazepam.
+Patient Benji Growcott takes drug lorazepam.
+Patient Saunderson Saturley takes drug escitalopram.
+Patient Alvan Laste takes drug divalproex sodium.
+Patient Beth Kitchin takes drug alprazolam.
+Patient Quentin Bondley takes drug clozapine.
+Patient Vanni Davydkov takes drug oxcarbazepine.
+Patient Henry Grafhom takes drug citalopram.
+Patient Daniella Segeswoeth takes drug haloperidol.
+Patient Ced Murtell takes drug lurasidone.
+Patient Fay Raxworthy takes drug l-methylfolate.
+Patient Kial Bestiman takes drug carbamazepine.
+Patient Chicky Lovelock takes drug asenapine.
+Patient Penny MacMickan takes drug paliperidone.
+Patient Thorndike Bartlet takes drug quetiapine.
+Patient Aindrea Cazin takes drug lamotrigine.
+Patient Orv Cawthery takes drug lithium.
+Patient Kimmi Gleadle takes drug risperidone.
+Patient Aldus MacDuffie takes drug fluoxetine.
+Patient Clem Wyborn takes drug olanzapine.
+Patient Benjamin Drover takes drug buspirone.
+Patient Gigi Boyles takes drug clonazepam.
+Patient Barbe Kinney takes drug sertraline.
+Patient Lindon Fautley takes drug aripiprazole.
+Patient Tonye Schoffel takes drug topiramate.
+Patient Abbe Isted takes drug diazepam.
+Patient Rossy Frankish takes drug lorazepam.
+Patient Kelvin Yeardsley takes drug escitalopram.
+Patient Tiebold Lamperti takes drug divalproex sodium.
+Patient Kath Korejs takes drug alprazolam.
+Patient Bronny Sefton takes drug clozapine.
+Patient Neda Schroter takes drug oxcarbazepine.
+Patient Farleigh Brunnen takes drug citalopram.
+Patient Wanda Lief takes drug haloperidol.
+Patient Adore Girke takes drug lurasidone.
+Patient Akim Bugg takes drug l-methylfolate.
+Patient Neala Gumm takes drug carbamazepine.
+Patient Alika Mateiko takes drug asenapine.
+Patient Mallory Greenshiels takes drug paliperidone.
+Patient Jinny Brounfield takes drug quetiapine.
+Patient Alvinia Maruszewski takes drug lamotrigine.
+Patient Aguistin Forsyde takes drug lithium.
+Patient Nolie Gatiss takes drug risperidone.
+Patient Lizette De Andisie takes drug fluoxetine.
+Patient Ashley Caudle takes drug olanzapine.
+Patient Fitzgerald Cuthbert takes drug buspirone.
+Patient Caralie Billanie takes drug clonazepam.
+Patient Lind Kovacs takes drug sertraline.
+Patient Daven Marchant takes drug aripiprazole.
+Patient Ayn Feacham takes drug topiramate.
+Patient Barri Veal takes drug diazepam.
+Patient Ardelis Sagrott takes drug lorazepam.
+Patient Siward Foukx takes drug escitalopram.
+Patient Jannel Somerton takes drug divalproex sodium.
+Patient Bernard Collett takes drug alprazolam.
+Patient Hunfredo Siggins takes drug clozapine.
+Patient Rakel Vargas takes drug oxcarbazepine.
+Patient Gloriana Ottewill takes drug citalopram.
+Patient Oswell Danford takes drug haloperidol.
+Patient Niven Axelbee takes drug lurasidone.
+Patient Binky Croisdall takes drug l-methylfolate.
+Patient Calla Rapport takes drug carbamazepine.
+Patient Giffer Upstone takes drug asenapine.
+Patient Josias Carstairs takes drug paliperidone.
+Patient Alfy Yu takes drug quetiapine.
+Patient Jannelle Riseley takes drug lamotrigine.
+Patient Albina Stranger takes drug lithium.
+Patient Dela Kitchingman takes drug risperidone.
+Patient Gothart Denmead takes drug fluoxetine.
+Patient Georgianna Krollmann takes drug olanzapine.
+Patient Mychal Kibbee takes drug buspirone.
+Patient Juieta Daville takes drug clonazepam.
+Patient Norbie Kefford takes drug sertraline.
+Patient Ailina Dhillon takes drug aripiprazole.
+Patient Hillary Coleyshaw takes drug topiramate.
+Patient Tomlin Daughtery takes drug diazepam.
+Patient Luce Eassom takes drug lorazepam.
+Patient Edmon Killingworth takes drug escitalopram.
+Patient Gasparo Pittem takes drug divalproex sodium.
+Patient Jobyna Sore takes drug alprazolam.
+Patient Oralie Halfhead takes drug clozapine.
+Patient Buckie Ivoshin takes drug oxcarbazepine.
+Patient Shepperd Tattersdill takes drug citalopram.
+Patient Dennison Churn takes drug haloperidol.
+Patient Andie Darko takes drug lurasidone.
+Patient Giulio Polden takes drug l-methylfolate.
+Patient Jeannie Ajean takes drug carbamazepine.
+Patient Kyla Scouse takes drug asenapine.
+Patient Alexis Gasgarth takes drug paliperidone.
+Patient Raddy Ormonde takes drug triamcinolone.
+Patient Constantin Romanetti takes drug triamcinolone.
+Patient Dore Coleiro takes drug quetiapine.
+Patient Elmer Drover takes drug lamotrigine.
+Patient Shirlene Jaskiewicz takes drug lithium.
+Patient Judas Watterson takes drug risperidone.
+Patient Hardy Gerardi takes drug fluoxetine.
+Patient Liv Roback takes drug olanzapine.
+Patient Korella Capoun takes drug buspirone.
+Patient Marj Yegorkin takes drug clonazepam.
+Patient Ofelia Petrovsky takes drug sertraline.
+Patient Vidovik Delves takes drug aripiprazole.
+Patient Rooney Fear takes drug topiramate.
+Patient Shane Burgoyne takes drug diazepam.
+Patient Pebrook Hanse takes drug lorazepam.
+Patient Percy Barthrop takes drug escitalopram.
+Patient Hunt Geerling takes drug divalproex sodium.
+Patient Hirsch Harland takes drug alprazolam.
+Patient Shep Pass takes drug clozapine.
+Patient Ted Davidovsky takes drug oxcarbazepine.
+Patient Latisha Dobey takes drug citalopram.
+Patient Kristel Kensy takes drug haloperidol.
+Patient Davina MacGibbon takes drug lurasidone.
+Patient Sylvia Heyward takes drug l-methylfolate.
+Patient Carlye Cawdron takes drug carbamazepine.
+Patient Antonius McCourt takes drug asenapine.
+Patient Bronny Paute takes drug paliperidone.
+Patient Carrol Springthorp takes drug atorvastatin.
+Patient Rogers Papps takes drug simvastatin.
+Patient Filbert Melloi takes drug pravastatin.
+Patient Thorndike Whiteland takes drug rosuvastatin.
+Patient Carrie Vlasin takes drug lovastatin.
+Patient Salomone Abbess takes drug ezetimibe.
+Patient Elwood Fonteyne takes drug gemfibrozil.
+Patient Hort Seary takes drug niacin.
+Patient Whitney Branson takes drug ezetimibe AND simvastatin.
+Patient Tobe Rosenstock takes drug fenofibric acid.
+Patient Dew Pock takes drug ketoconazole.
+Patient Obed Rawstorne takes drug terbinafine.
+Patient Corbin Jedraszczyk takes drug ketoconazole.
+Patient Annamarie Davydochkin takes drug terbinafine.
+Patient Jemmie Wrathmall takes drug terbinafine.
+Patient Emmalynne Woolard takes drug terbinafine.
+Patient Flin MacGilpatrick takes drug terbinafine.
+Patient Britta Ardron takes drug terbinafine.
+Patient Maury Fitkin takes drug meloxicam.
+Patient My Dutnall takes drug diclofenac.
+Patient Sigismundo Faiers takes drug naproxen.
+Patient Ted Simcox takes drug ibuprofen.
+Patient Carmine Erb takes drug celecoxib.
+Patient Georgia Hodcroft takes drug chondroitin AND glucosamine.
+Patient Joycelin Rowbrey takes drug diclofenac.
+Patient Lucio Bassham takes drug etodolac.
+Patient Glenine Winning takes drug prednisone.
+Patient Blanca Mustin takes drug aspirin.
+Patient Grantley Camm takes drug nabumetone.
+Patient Muhammad Furbank takes drug duloxetine.
+Patient Ardisj Goodrich takes drug triamcinolone.
+Patient Sheppard Balkwill takes drug triamcinolone.
+Patient Calvin Godwyn takes drug aspirin.
+Patient Durward Bennike takes drug nitroglycerin.
+Patient Phillipe Foxen takes drug metoprolol.
+Patient Herc Taffs takes drug amlodipine.
+Patient Richart Maddinon takes drug isosorbide mononitrate.
+Patient Claybourne Inold takes drug isosorbide dinitrate.
+Patient Marlowe Chagg takes drug enoxaparin.
+Patient Lorenza Spiniello takes drug ranolazine.
+Patient Gayla Minghetti takes drug atenolol.
+Patient Corena Gowen takes drug carvedilol.
+Patient Hew Alekhov takes drug amlodipine AND atorvastatin.
+Patient Pearce Casali takes drug atorvastatin.
+Patient Jasper Akaster takes drug simvastatin.
+Patient Tiena Leaf takes drug pravastatin.
+Patient Timmy Menichino takes drug rosuvastatin.
+Patient Wilbur Grangier takes drug lovastatin.
+Patient Cris Youngs takes drug ezetimibe.
+Patient Erma Lomasna takes drug gemfibrozil.
+Patient Ahmad Leedal takes drug niacin.
+Patient Dan Pareman takes drug ezetimibe AND simvastatin.
+Patient Agosto Chiverton takes drug fenofibric acid.
+Patient Kinny Farryn takes drug cyclophosphamide.
+Patient Preston Rochelle takes drug vincristine.
+Patient Riobard Squibbes takes drug rituximab.
+Patient Barny Elan takes drug methotrexate.
+Patient Rosabelle Easun takes drug bendamustine.
+Patient Jamima Volkers takes drug cytarabine.
+Patient Pegeen Clementet takes drug fludarabine.
+Patient Tracey Rickell takes drug bleomycin.
+Patient Flin Buttwell takes drug carmustine.
+Patient Del Goldstein takes drug idelalisib.
+Patient Nathanial Smallpeice takes drug ibritumomab.
+Patient Kerr Guinane takes drug ibrutinib.
+Patient Giana Aldren takes drug mitoxantrone.
+Patient Maximilien Bezant takes drug lamivudine.
+Patient Karlik Bertot takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Felipa Nizet takes drug ritonavir.
+Patient Ceil Gozard takes drug emtricitabine AND tenofovir.
+Patient Rawley Baurerich takes drug tenofovir.
+Patient Barbabas Deekes takes drug abacavir.
+Patient Milty Clemmensen takes drug lamivudine.
+Patient Addi Footitt takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Paco Birks takes drug ritonavir.
+Patient Neala Tacey takes drug emtricitabine AND tenofovir.
+Patient Lawrence Bolderstone takes drug tenofovir.
+Patient Michal Dhennin takes drug abacavir.
+Patient Jerry Leman takes drug lamivudine.
+Patient Alaine Jaye takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Kevyn MacCaughan takes drug ritonavir.
+Patient Ludvig Kelcey takes drug emtricitabine AND tenofovir.
+Patient Samuele Lobell takes drug tenofovir.
+Patient Petronilla Risbrough takes drug abacavir.
+Patient Tanney MacCarter takes drug lamivudine.
+Patient Darrell Devin takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Rhodie Le Galle takes drug ritonavir.
+Patient Abby Maslin takes drug emtricitabine AND tenofovir.
+Patient Merrick Neames takes drug tenofovir.
+Patient Cozmo Jillins takes drug abacavir.
+Patient Barri Barrim takes drug lamivudine.
+Patient Sofia Gaymar takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Amy Castard takes drug ritonavir.
+Patient Philly Charpin takes drug emtricitabine AND tenofovir.
+Patient Danell Bannerman takes drug tenofovir.
+Patient Skipp Andrez takes drug abacavir.
+Patient Zara Armytage takes drug lamivudine.
+Patient Obadiah Brabham takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Bette Kubik takes drug ritonavir.
+Patient Christye Caddens takes drug emtricitabine AND tenofovir.
+Patient Kandy Baylie takes drug tenofovir.
+Patient Carmella Hadlow takes drug abacavir.
+Patient Dmitri Readett takes drug atorvastatin.
+Patient Concettina Bulcock takes drug simvastatin.
+Patient Zak Riddles takes drug pravastatin.
+Patient Barnabas Currier takes drug rosuvastatin.
+Patient Berrie Jancy takes drug lovastatin.
+Patient Harold Scarfe takes drug ezetimibe.
+Patient Daune Mathely takes drug gemfibrozil.
+Patient Roldan Blaszkiewicz takes drug niacin.
+Patient Cleavland O'Fairy takes drug ezetimibe AND simvastatin.
+Patient Wenonah Clover takes drug fenofibric acid.
+Patient Noelyn Curbishley takes drug atorvastatin.
+Patient Keri O'Dea takes drug simvastatin.
+Patient Correy Aldrin takes drug pravastatin.
+Patient Rachael Kersley takes drug rosuvastatin.
+Patient Gibb Snoddy takes drug lovastatin.
+Patient Harper Mullenger takes drug ezetimibe.
+Patient Georgie Kilcullen takes drug gemfibrozil.
+Patient Hayes Martinson takes drug niacin.
+Patient Gwenore Liles takes drug ezetimibe AND simvastatin.
+Patient Adara Kydde takes drug fenofibric acid.
+Patient Olva Broszkiewicz takes drug atorvastatin.
+Patient Nathalie McUre takes drug simvastatin.
+Patient Willabella Chellenham takes drug pravastatin.
+Patient Royal Crayk takes drug rosuvastatin.
+Patient Alonso Cardenosa takes drug lovastatin.
+Patient Kayne Kilpatrick takes drug ezetimibe.
+Patient Thatcher Oldland takes drug gemfibrozil.
+Patient Sara Arrigucci takes drug niacin.
+Patient Guglielmo Lerer takes drug ezetimibe AND simvastatin.
+Patient Madge Onge takes drug fenofibric acid.
+Patient Lynn Hassard takes drug meloxicam.
+Patient Shoshanna Kamiyama takes drug diclofenac.
+Patient Kenn Sheber takes drug naproxen.
+Patient Garrek Brookton takes drug ibuprofen.
+Patient Angy Buckett takes drug celecoxib.
+Patient Gabey Rushbrooke takes drug chondroitin AND glucosamine.
+Patient Fifine Rillstone takes drug diclofenac.
+Patient Drusy Coulthard takes drug etodolac.
+Patient Georgetta Mayor takes drug prednisone.
+Patient Cassie Echelle takes drug aspirin.
+Patient Fonz Bonafant takes drug nabumetone.
+Patient Tomasine Diehn takes drug duloxetine.
+Patient Sawyere Danis takes drug modafinil.
+Patient Ellery Walthew takes drug duloxetine.
+Patient Hirsch Flook takes drug lisdexamfetamine.
+Patient Katti Gotts takes drug amantadine.
+Patient Henry Goodluck takes drug armodafinil.
+Patient Ettore Housiaux takes drug ibuprofen.
+Patient Chaim Carvill takes drug naproxen.
+Patient Ulric Suffield takes drug acetaminophen.
+Patient Jamill Wadhams takes drug diclofenac.
+Patient Brandais Maccaig takes drug nabumetone.
+Patient Jessamyn Dulin takes drug quetiapine.
+Patient Lief Messingham takes drug lamotrigine.
+Patient Nicol Levane takes drug lithium.
+Patient Ebba Thursby takes drug risperidone.
+Patient Erl Engeham takes drug fluoxetine.
+Patient Roma Lux takes drug olanzapine.
+Patient Ebony Perfitt takes drug buspirone.
+Patient Minda Skurray takes drug clonazepam.
+Patient Wynny Foystone takes drug sertraline.
+Patient Orville Karolowski takes drug aripiprazole.
+Patient Jordon Sallowaye takes drug topiramate.
+Patient Bartolemo McGowran takes drug diazepam.
+Patient Haze Shapiro takes drug lorazepam.
+Patient Damaris Lavens takes drug escitalopram.
+Patient Yevette Coare takes drug divalproex sodium.
+Patient Godfry Russell takes drug alprazolam.
+Patient Branden Froom takes drug clozapine.
+Patient Hildegaard Grimsdike takes drug oxcarbazepine.
+Patient Neall Beccero takes drug citalopram.
+Patient Harriett Nore takes drug haloperidol.
+Patient Winny Delgadillo takes drug lurasidone.
+Patient Hasheem Mabee takes drug l-methylfolate.
+Patient Germana McAllan takes drug carbamazepine.
+Patient Reuven Kilpin takes drug asenapine.
+Patient Leann Pyrke takes drug paliperidone.
+Patient Rossy Frewer takes drug ketoconazole.
+Patient Ernesto Fort takes drug terbinafine.
+Patient Chloris Frankiewicz takes drug ketoconazole.
+Patient Leonore Ruvel takes drug terbinafine.
+Patient Quintus Curnok takes drug terbinafine.
+Patient Alva Sellen takes drug terbinafine.
+Patient Jorey Winslett takes drug terbinafine.
+Patient Lenka Dunbar takes drug terbinafine.
+Patient Benton Sinott takes drug ibuprofen.
+Patient Selig Mathwen takes drug naproxen.
+Patient Rosemarie Burleigh takes drug acetaminophen.
+Patient Bel Muncer takes drug diclofenac.
+Patient Rock Champkins takes drug nabumetone.
+Patient Lothario Ettles takes drug ibuprofen.
+Patient Lazarus Brimley takes drug naproxen.
+Patient Vinny Ipwell takes drug acetaminophen.
+Patient Britta Wavish takes drug diclofenac.
+Patient Andris Overstone takes drug nabumetone.
+Patient Abagail Patman takes drug ibuprofen.
+Patient Nancy Mountfort takes drug naproxen.
+Patient Josselyn Lomb takes drug acetaminophen.
+Patient Joell Winchurch takes drug diclofenac.
+Patient Salvador Labbati takes drug nabumetone.
+Patient Waylen Mushett takes drug triamcinolone.
+Patient Langsdon Lowne takes drug triamcinolone.
+Patient Randee Hutchin takes drug quetiapine.
+Patient Ludovika Oultram takes drug lamotrigine.
+Patient Wat Giorgio takes drug lithium.
+Patient Henry Diable takes drug risperidone.
+Patient Eric Goretti takes drug fluoxetine.
+Patient Tome Bohills takes drug olanzapine.
+Patient Garrik Ricoald takes drug buspirone.
+Patient Ardyce Calendar takes drug clonazepam.
+Patient Judie Street takes drug sertraline.
+Patient Marysa Lynch takes drug aripiprazole.
+Patient Matthias Overill takes drug topiramate.
+Patient Rey Ginn takes drug diazepam.
+Patient Claresta Hensmans takes drug lorazepam.
+Patient Chrissie Rathke takes drug escitalopram.
+Patient Welsh Joinson takes drug divalproex sodium.
+Patient Tudor Sawforde takes drug alprazolam.
+Patient Theodore Stratton takes drug clozapine.
+Patient Faun Dodshon takes drug oxcarbazepine.
+Patient Clio Mergue takes drug citalopram.
+Patient Eachelle Eglese takes drug haloperidol.
+Patient Melvyn Broxup takes drug lurasidone.
+Patient Carin Selwood takes drug l-methylfolate.
+Patient Isa Anthill takes drug carbamazepine.
+Patient Kat Francescone takes drug asenapine.
+Patient Bertie Gitthouse takes drug paliperidone.
+Patient Evin Lamers takes drug collagenase.
+Patient Berny Ubee takes drug becaplermin.
+Patient Walsh Currier takes drug cadexomer iodine.
+Patient Marve Ranner takes drug terbinafine.
+Patient Hansiain Genike takes drug terbinafine.
+Patient Kariotta Tersay takes drug meloxicam.
+Patient Vivie Ameer-Beg takes drug diclofenac.
+Patient Gerri Dibbe takes drug naproxen.
+Patient Dick Cattonnet takes drug ibuprofen.
+Patient Evania Freen takes drug celecoxib.
+Patient Bram Thorneywork takes drug chondroitin AND glucosamine.
+Patient Levy Walrond takes drug diclofenac.
+Patient Netti Burtt takes drug etodolac.
+Patient Caleb Crumbleholme takes drug prednisone.
+Patient Annnora Raywood takes drug aspirin.
+Patient Farlay Cast takes drug nabumetone.
+Patient Jaquith Hudless takes drug duloxetine.
+Patient Otha Ainge takes drug cytarabine.
+Patient Rollo Simnor takes drug vincristine.
+Patient Meredith Jaffra takes drug daunorubicin.
+Patient Florenza Trotton takes drug idarubicin.
+Patient Barney Vasechkin takes drug decitabine.
+Patient Maude Paternoster takes drug gemtuzumab.
+Patient Mario Maseyk takes drug midostaurin.
+Patient Anastassia Slaney takes drug venetoclax.
+Patient Gallagher McFarlan takes drug enasidenib.
+Patient Drew Mingard takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Van Payle takes drug ivosidenib.
+Patient Beltran Kinforth takes drug gilteritinib.
+Patient Chrystal Ancell takes drug glasdegib.
+Patient Jephthah Martynikhin takes drug cytarabine.
+Patient Kelcey Bentley takes drug vincristine.
+Patient Berthe Duferie takes drug daunorubicin.
+Patient Rhea Minett takes drug idarubicin.
+Patient Yance Sorton takes drug decitabine.
+Patient Hannis Roycraft takes drug gemtuzumab.
+Patient Delphinia Cargill takes drug midostaurin.
+Patient Wendeline Anstee takes drug venetoclax.
+Patient Merwyn Stamps takes drug enasidenib.
+Patient Winslow McMorland takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Pavel Leveritt takes drug ivosidenib.
+Patient Enrichetta Zorener takes drug gilteritinib.
+Patient Brana Fellgett takes drug glasdegib.
+Patient Gaylene Savage takes drug cytarabine.
+Patient Inger Gyorgy takes drug vincristine.
+Patient Wylma Booi takes drug daunorubicin.
+Patient Mattheus Shergold takes drug idarubicin.
+Patient Ag Bysh takes drug decitabine.
+Patient Kippar Gollard takes drug gemtuzumab.
+Patient Abigale Joseland takes drug midostaurin.
+Patient Agatha Brampton takes drug venetoclax.
+Patient Lacey Aslott takes drug enasidenib.
+Patient Orlan Kendell takes drug cytarabine liposomal AND daunorubicin liposomal.
+Patient Abeu Cohani takes drug ivosidenib.
+Patient Merl Mearing takes drug gilteritinib.
+Patient Benedetta Cassels takes drug glasdegib.
+Patient Gael Nisius takes drug atorvastatin.
+Patient Caresa Brocket takes drug simvastatin.
+Patient Rowan Andreoletti takes drug pravastatin.
+Patient Wenda Brenard takes drug rosuvastatin.
+Patient Ebonee Windus takes drug lovastatin.
+Patient Ladonna Camelin takes drug ezetimibe.
+Patient Keen Cleere takes drug gemfibrozil.
+Patient Man Longmate takes drug niacin.
+Patient Zitella List takes drug ezetimibe AND simvastatin.
+Patient Shea Le Grice takes drug fenofibric acid.
+Patient Vite Sharper takes drug cyclophosphamide.
+Patient Catherin Dorsett takes drug vincristine.
+Patient Lona Finn takes drug rituximab.
+Patient Sunny Coddington takes drug methotrexate.
+Patient Eric Fallon takes drug bendamustine.
+Patient Luce Sibbert takes drug cytarabine.
+Patient Sander Dallon takes drug fludarabine.
+Patient Puff Joannet takes drug bleomycin.
+Patient Belita Pancoast takes drug carmustine.
+Patient Tomasina Matushevich takes drug idelalisib.
+Patient Gardy Bouda takes drug ibritumomab.
+Patient Adan Semmens takes drug ibrutinib.
+Patient Clari Coole takes drug mitoxantrone.
+Patient Meta Espinas takes drug cyclophosphamide.
+Patient Orin Duchatel takes drug vincristine.
+Patient Gasparo Ivashin takes drug rituximab.
+Patient Pauletta Biasetti takes drug methotrexate.
+Patient Golda Halbeard takes drug bendamustine.
+Patient Fawnia MacGahy takes drug cytarabine.
+Patient Sandy Scutching takes drug fludarabine.
+Patient Mirna Grute takes drug bleomycin.
+Patient Wally Fortman takes drug carmustine.
+Patient Jody Hitchens takes drug idelalisib.
+Patient Kore Morrowe takes drug ibritumomab.
+Patient Kamila Earengey takes drug ibrutinib.
+Patient Vina Valti takes drug mitoxantrone.
+Patient Betti Checci takes drug cyclophosphamide.
+Patient Kyle Upjohn takes drug vincristine.
+Patient Inge Caustic takes drug rituximab.
+Patient Jo-ann Kleimt takes drug methotrexate.
+Patient Nikki O'Currane takes drug bendamustine.
+Patient Reagen Fend takes drug cytarabine.
+Patient Mair Polack takes drug fludarabine.
+Patient Adham Cogan takes drug bleomycin.
+Patient Norby Wedderburn takes drug carmustine.
+Patient Trixi Cadigan takes drug idelalisib.
+Patient Dianne Hanssmann takes drug ibritumomab.
+Patient Tracee Elloit takes drug ibrutinib.
+Patient Erina Forder takes drug mitoxantrone.
+Patient Sydelle Nuss takes drug cyclophosphamide.
+Patient Sibeal Mackin takes drug vincristine.
+Patient Norton Sara takes drug rituximab.
+Patient Bobby Lydon takes drug methotrexate.
+Patient Sylvan Gothard takes drug bendamustine.
+Patient Janean Heyball takes drug cytarabine.
+Patient Sarge Bard takes drug fludarabine.
+Patient Buddie Swepson takes drug bleomycin.
+Patient Cullen Iggo takes drug carmustine.
+Patient Suellen Vile takes drug idelalisib.
+Patient Samaria Bescoby takes drug ibritumomab.
+Patient Margette Vasilic takes drug ibrutinib.
+Patient Claudia Plowell takes drug mitoxantrone.
+Patient Mace Paintain takes drug cyclophosphamide.
+Patient Courtenay Gleadhall takes drug vincristine.
+Patient Pennie Mulryan takes drug rituximab.
+Patient Alika Beckingham takes drug methotrexate.
+Patient Viki Hasted takes drug bendamustine.
+Patient Starla Shine takes drug cytarabine.
+Patient Eamon Cheltnam takes drug fludarabine.
+Patient Xymenes Hall takes drug bleomycin.
+Patient Andreas Cornford takes drug carmustine.
+Patient Renie Sturmey takes drug idelalisib.
+Patient Earl Uridge takes drug ibritumomab.
+Patient Dorian Swannack takes drug ibrutinib.
+Patient Ashley Frogley takes drug mitoxantrone.
+Patient Sebastian Allain takes drug cyclophosphamide.
+Patient Tad Daugherty takes drug vincristine.
+Patient Dicky Wittleton takes drug rituximab.
+Patient Alana Armfirld takes drug methotrexate.
+Patient Chrisy Scoffham takes drug bendamustine.
+Patient Thorpe Scorer takes drug cytarabine.
+Patient Alisa O'Neill takes drug fludarabine.
+Patient Boigie Giraudoux takes drug bleomycin.
+Patient Jessalin Stagg takes drug carmustine.
+Patient Vickie Oulner takes drug idelalisib.
+Patient Obie Kirsch takes drug ibritumomab.
+Patient Waylen Maryman takes drug ibrutinib.
+Patient Ulrikaumeko Knivett takes drug mitoxantrone.
+Patient Harriet Chillistone takes drug dexamethasone.
+Patient Tierney Bennike takes drug thalidomide.
+Patient Lothario Andrey takes drug cyclophosphamide.
+Patient Aila Reignould takes drug lenalidomide.
+Patient Augustus Sterricker takes drug bortezomib.
+Patient Mort Annear takes drug carfilzomib.
+Patient Reagen Elkin takes drug pomalidomide.
+Patient Buddie Barbie takes drug daratumumab.
+Patient Maury MacGillivrie takes drug melphalan.
+Patient Jacinthe Aronowitz takes drug modafinil.
+Patient Udale Armit takes drug duloxetine.
+Patient Aurora Franceschielli takes drug lisdexamfetamine.
+Patient Kasper Ivamy takes drug amantadine.
+Patient Cass Kefford takes drug armodafinil.
+Patient Sylvester MacGarrity takes drug modafinil.
+Patient Berton Cropp takes drug duloxetine.
+Patient Rochette Oene takes drug lisdexamfetamine.
+Patient Emmy Korting takes drug amantadine.
+Patient Cello Hassewell takes drug armodafinil.
+Patient Tiffani Aggio takes drug miconazole.
+Patient Carleen Hanmore takes drug miconazole.
+Patient Karita Batiste takes drug dexamethasone.
+Patient Darda Hirschmann takes drug thalidomide.
+Patient Wakefield Elstow takes drug cyclophosphamide.
+Patient Gena Beneze takes drug lenalidomide.
+Patient Lazar Goodday takes drug bortezomib.
+Patient Alexandrina Madgin takes drug carfilzomib.
+Patient Aurlie Poxson takes drug pomalidomide.
+Patient Elena Kencott takes drug daratumumab.
+Patient Mari Rackham takes drug melphalan.
+Patient Cammie Pignon takes drug ibuprofen.
+Patient Marty Everex takes drug naproxen.
+Patient Grethel Ramsby takes drug acetaminophen.
+Patient Lev Carcas takes drug diclofenac.
+Patient Hernando Mouse takes drug nabumetone.
+Patient Brnaba Wallman takes drug ibuprofen.
+Patient Reynold Halward takes drug naproxen.
+Patient Jocelyn Shelton takes drug acetaminophen.
+Patient Linn Fayers takes drug diclofenac.
+Patient Raeann Musto takes drug nabumetone.
+Patient Wylie Want takes drug ibuprofen.
+Patient Aube de Castelain takes drug naproxen.
+Patient Vassily Pask takes drug acetaminophen.
+Patient Mord Castano takes drug diclofenac.
+Patient Lana Ausiello takes drug nabumetone.
+Patient Michele Merrgan takes drug modafinil.
+Patient Norman Prydden takes drug duloxetine.
+Patient Mace Pattenden takes drug lisdexamfetamine.
+Patient Tobin Southern takes drug amantadine.
+Patient Hiram Haddon takes drug armodafinil.
+Patient Denys Witchalls takes drug modafinil.
+Patient Brett MacGaughie takes drug duloxetine.
+Patient Raychel Broadbear takes drug lisdexamfetamine.
+Patient Tabina Dragge takes drug amantadine.
+Patient Vivia Drohan takes drug armodafinil.
+Patient Waverley Borges takes drug dexamethasone.
+Patient Hale Goodier takes drug thalidomide.
+Patient Ingrim McKune takes drug cyclophosphamide.
+Patient Arny Scneider takes drug lenalidomide.
+Patient Mill Cruxton takes drug bortezomib.
+Patient Hobey Eardley takes drug carfilzomib.
+Patient Rhianna Verrick takes drug pomalidomide.
+Patient Giacobo O'Crigan takes drug daratumumab.
+Patient Jefferey Chazotte takes drug melphalan.
+Patient Lindsey Crowth takes drug collagenase.
+Patient Allegra Suthworth takes drug becaplermin.
+Patient Orlando Leehane takes drug cadexomer iodine.
+Patient Gloria McQuie takes drug aspirin.
+Patient Adelle Glasspoole takes drug nitroglycerin.
+Patient Mic Henniger takes drug metoprolol.
+Patient Carlin Colecrough takes drug amlodipine.
+Patient Jeffy Targetter takes drug isosorbide mononitrate.
+Patient Margery Chewter takes drug isosorbide dinitrate.
+Patient Garth Flecknoe takes drug enoxaparin.
+Patient Jeremias Le febre takes drug ranolazine.
+Patient Stanislaus Kluge takes drug atenolol.
+Patient Nikolos Ivashin takes drug carvedilol.
+Patient Val Chilton takes drug amlodipine AND atorvastatin.
+Patient Herschel Cheek takes drug cyclophosphamide.
+Patient Kin L'argent takes drug vincristine.
+Patient Igor Balaizot takes drug rituximab.
+Patient Umeko Farnish takes drug methotrexate.
+Patient Lazare Morey takes drug bendamustine.
+Patient Sigismond Askaw takes drug cytarabine.
+Patient Louella Gayforth takes drug fludarabine.
+Patient Curcio Thaxton takes drug bleomycin.
+Patient Toddie Kitman takes drug carmustine.
+Patient Lindy Barends takes drug idelalisib.
+Patient Cherri Mavin takes drug ibritumomab.
+Patient Caroline Shimoni takes drug ibrutinib.
+Patient Lurline Guitonneau takes drug mitoxantrone.
+Patient Beth Triggel takes drug cyclophosphamide.
+Patient Britni Hernik takes drug vincristine.
+Patient Carr Gutridge takes drug rituximab.
+Patient Robbyn Jedrachowicz takes drug methotrexate.
+Patient Olga Ruffell takes drug bendamustine.
+Patient Sheena Richly takes drug cytarabine.
+Patient Nealon Swancock takes drug fludarabine.
+Patient Toni Greeno takes drug bleomycin.
+Patient Karol Briddock takes drug carmustine.
+Patient Marin Cammidge takes drug idelalisib.
+Patient Modesta Griffitts takes drug ibritumomab.
+Patient Annabal Gaitung takes drug ibrutinib.
+Patient Clarine Curcher takes drug mitoxantrone.
+Patient Austin Capron takes drug meloxicam.
+Patient Bernhard Lasselle takes drug diclofenac.
+Patient Claus Eard takes drug naproxen.
+Patient Eugenia Aspital takes drug ibuprofen.
+Patient Derk Strathern takes drug celecoxib.
+Patient Maighdiln Josselsohn takes drug chondroitin AND glucosamine.
+Patient Peterus Nanuccioi takes drug diclofenac.
+Patient Debra Dore takes drug etodolac.
+Patient Berk Rugieri takes drug prednisone.
+Patient Aurore Ager takes drug aspirin.
+Patient Ashton Goodboddy takes drug nabumetone.
+Patient Reed Brecher takes drug duloxetine.
+Patient Antonina Gravenor takes drug miconazole.
+Patient Jessi Need takes drug miconazole.
+Patient Debi Winnister takes drug miconazole.
+Patient Victor Oake takes drug miconazole.
+Patient Gunar Paszak takes drug miconazole.
+Patient Cecilius Allardyce takes drug miconazole.
+Patient Cecilio Berzin takes drug meloxicam.
+Patient Margalo Humphrey takes drug diclofenac.
+Patient Sebastien Vittore takes drug naproxen.
+Patient Peggie Lowndes takes drug ibuprofen.
+Patient Christian Rounsivall takes drug celecoxib.
+Patient Dulci Bignell takes drug chondroitin AND glucosamine.
+Patient Milly Cattlemull takes drug diclofenac.
+Patient Pavla Bartoszinski takes drug etodolac.
+Patient Temple Jeayes takes drug prednisone.
+Patient Boony Lamperd takes drug aspirin.
+Patient Estrellita Grimsdale takes drug nabumetone.
+Patient Shell Daintry takes drug duloxetine.
+Patient Adelaida Stoffersen takes drug meloxicam.
+Patient Quinton Dashkovich takes drug diclofenac.
+Patient Berky Jost takes drug naproxen.
+Patient Joshua Vidloc takes drug ibuprofen.
+Patient Chandal Kirsch takes drug celecoxib.
+Patient Wildon Sturch takes drug chondroitin AND glucosamine.
+Patient Trace Colten takes drug diclofenac.
+Patient Sonni Bransby takes drug etodolac.
+Patient Lamar Christer takes drug prednisone.
+Patient Sarita Libbis takes drug aspirin.
+Patient Sven Walsh takes drug nabumetone.
+Patient Eleni Josum takes drug duloxetine.
+Patient Dicky Baleine takes drug ibuprofen.
+Patient Hal Rowantree takes drug naproxen.
+Patient Shermie Fransseni takes drug acetaminophen.
+Patient Hammad Sporle takes drug diclofenac.
+Patient Cathie Ehrat takes drug nabumetone.
+Patient Terrill Melendez takes drug ibuprofen.
+Patient Marianne Matuszewski takes drug naproxen.
+Patient Hernando Van der Krui takes drug acetaminophen.
+Patient Alice Jallin takes drug diclofenac.
+Patient Imogen Abrahamoff takes drug nabumetone.
+Patient Rube Pardy takes drug ibuprofen.
+Patient Benni Bollands takes drug naproxen.
+Patient Iago Geill takes drug acetaminophen.
+Patient Reube McClounan takes drug diclofenac.
+Patient Andy Lowcock takes drug nabumetone.
+Patient Kandace Wiltshaw takes drug ibuprofen.
+Patient Preston Iacomelli takes drug naproxen.
+Patient Cosimo Zink takes drug acetaminophen.
+Patient Sheridan Langstone takes drug diclofenac.
+Patient Jefferey Caldaro takes drug nabumetone.
+Patient Casandra Embleton takes drug triamcinolone.
+Patient Phillip Giampietro takes drug triamcinolone.
+Patient Arel Jurgensen takes drug risperidone.
+Patient Arlana McSkin takes drug clozapine.
+Patient Wendell Carberry takes drug olanzapine.
+Patient Kristos De Blasi takes drug quetiapine.
+Patient Mortie Mellsop takes drug aripiprazole.
+Patient Harmonia Selcraig takes drug chlorpromazine.
+Patient Claudelle Leppard takes drug paliperidone.
+Patient Annecorinne Cowap takes drug ziprasidone.
+Patient Kristos McGillivray takes drug loxapine.
+Patient Portie Jallin takes drug ibuprofen.
+Patient Amii Reijmers takes drug naproxen.
+Patient Dana Kanzler takes drug acetaminophen.
+Patient Gale Tiebe takes drug diclofenac.
+Patient Leigh Dockreay takes drug nabumetone.
+Patient Clayborne Deverell takes drug quetiapine.
+Patient Emmye Copin takes drug lamotrigine.
+Patient Viv Keenan takes drug lithium.
+Patient Sibylla Sindall takes drug risperidone.
+Patient Gothart Grebner takes drug fluoxetine.
+Patient Kassi Jupe takes drug olanzapine.
+Patient Arden Claasen takes drug buspirone.
+Patient Marcile Bischop takes drug clonazepam.
+Patient Udell Rubrow takes drug sertraline.
+Patient Siusan Leemans takes drug aripiprazole.
+Patient Ariela Valenti takes drug topiramate.
+Patient Robinett Towsey takes drug diazepam.
+Patient Launce Larkby takes drug lorazepam.
+Patient Alessandra Feltoe takes drug escitalopram.
+Patient Loren Alessandone takes drug divalproex sodium.
+Patient Dante Lintill takes drug alprazolam.
+Patient Chrissie Langmuir takes drug clozapine.
+Patient Janie Hindge takes drug oxcarbazepine.
+Patient Joanne Chicchetto takes drug citalopram.
+Patient Liana Yacobsohn takes drug haloperidol.
+Patient Clay Hartley takes drug lurasidone.
+Patient Evelyn Harding takes drug l-methylfolate.
+Patient Kennan Bevan takes drug carbamazepine.
+Patient Massimo Pauer takes drug asenapine.
+Patient Lenee Storrock takes drug paliperidone.
+Patient Belinda McKearnen takes drug dexamethasone.
+Patient Lowell Bice takes drug thalidomide.
+Patient Eadmund Kelf takes drug cyclophosphamide.
+Patient Maryrose Janosevic takes drug lenalidomide.
+Patient Karleen Craik takes drug bortezomib.
+Patient Lynda Stables takes drug carfilzomib.
+Patient Truman Kollaschek takes drug pomalidomide.
+Patient Dominik Bobasch takes drug daratumumab.
+Patient Graeme Cherrison takes drug melphalan.
+Patient Carlyn Vickors takes drug dexamethasone.
+Patient Allan Jesper takes drug thalidomide.
+Patient Ezra Mearns takes drug cyclophosphamide.
+Patient Erik Ledekker takes drug lenalidomide.
+Patient Nerta Roget takes drug bortezomib.
+Patient Valina Cruddas takes drug carfilzomib.
+Patient Jacqueline Trinder takes drug pomalidomide.
+Patient Alfi Tisor takes drug daratumumab.
+Patient Noell Braiden takes drug melphalan.
+Patient Bridget Deary takes drug dexamethasone.
+Patient Berkie Solloway takes drug thalidomide.
+Patient Thoma Corradeschi takes drug cyclophosphamide.
+Patient Vasily Briers takes drug lenalidomide.
+Patient Marys Peploe takes drug bortezomib.
+Patient Rosaleen Hinze takes drug carfilzomib.
+Patient Reinhold Garza takes drug pomalidomide.
+Patient Hasty Charnick takes drug daratumumab.
+Patient Alleyn Vallintine takes drug melphalan.
+Patient Andreana Howcroft takes drug modafinil.
+Patient Priscella Barringer takes drug duloxetine.
+Patient Alethea Surman takes drug lisdexamfetamine.
+Patient Hayyim Ivimey takes drug amantadine.
+Patient Mead Edis takes drug armodafinil.
+Patient Kingsly MacGillivrie takes drug collagenase.
+Patient Sam Samsworth takes drug becaplermin.
+Patient Cathy Yeld takes drug cadexomer iodine.
+Patient Ferris Fant takes drug collagenase.
+Patient Luis Arrighini takes drug becaplermin.
+Patient Blakelee Benterman takes drug cadexomer iodine.
+Patient Nathaniel Soots takes drug lamivudine.
+Patient Dorisa Cowey takes drug efavirenz AND emtricitabine AND tenofovir.
+Patient Kellen Gianneschi takes drug ritonavir.
+Patient Augustina Werlock takes drug emtricitabine AND tenofovir.
+Patient Adolpho Kerwood takes drug tenofovir.
+Patient Netti Webb-Bowen takes drug abacavir.
+Patient Misty Zupone takes drug aspirin.
+Patient Yoko Maddrell takes drug nitroglycerin.
+Patient Anna-maria Cordova takes drug metoprolol.
+Patient Gregoor Sturdgess takes drug amlodipine.
+Patient Annabelle O'Dowling takes drug isosorbide mononitrate.
+Patient Dougy Hawkswood takes drug isosorbide dinitrate.
+Patient Evie Tearney takes drug enoxaparin.
+Patient Nathaniel Fernez takes drug ranolazine.
+Patient Conway Magenny takes drug atenolol.
+Patient Nikolas Truter takes drug carvedilol.
+Patient Adrianna Caplan takes drug amlodipine AND atorvastatin.
+Patient Vanessa Lepper takes drug triamcinolone.
+Patient Hanni Rape takes drug triamcinolone.
+Patient Jen Grigorian takes drug triamcinolone.
+Patient Cullan Messer takes drug triamcinolone.
+Patient Reynold Cubbinelli takes drug risperidone.
+Patient Shaylah Beetles takes drug clozapine.
+Patient Ashton Blesdill takes drug olanzapine.
+Patient Gianna Legrice takes drug quetiapine.
+Patient Whitney Grunwall takes drug aripiprazole.
+Patient Raquela Trundell takes drug chlorpromazine.
+Patient Elsi Andretti takes drug paliperidone.
+Patient Clim Lampe takes drug ziprasidone.
+Patient Emmett Ogilvie takes drug loxapine.
+Patient Estell Casoni takes drug ketoconazole.
+Patient Bradney Leek takes drug terbinafine.
+Patient Vasilis Cobello takes drug ketoconazole.
+Patient Torry Tedorenko takes drug terbinafine.
+Patient Pietra Russilll takes drug ketoconazole.
+Patient Norina Barnett takes drug terbinafine.
+Patient Courtenay Reyna takes drug ketoconazole.
+Patient Janina Whawell takes drug terbinafine.
+Patient Janie Court takes drug terbinafine.
+Patient Constanta Farley takes drug terbinafine.
+Patient Darill Wase takes drug terbinafine.
+Patient Louis Piscopello takes drug terbinafine.
+Patient Dory Ivanchenkov takes drug ibuprofen.
+Patient William Fansy takes drug naproxen.
+Patient Jarib Craven takes drug acetaminophen.
+Patient Yehudit Dunston takes drug diclofenac.
+Patient Calvin Drover takes drug nabumetone.
+Patient Jasmine Purcer takes drug meloxicam.
+Patient Gerti Flecknell takes drug diclofenac.
+Patient Tam Betonia takes drug naproxen.
+Patient Eryn Persitt takes drug ibuprofen.
+Patient Norrie Hubble takes drug celecoxib.
+Patient Netta Toombes takes drug chondroitin AND glucosamine.
+Patient Galen Acom takes drug diclofenac.
+Patient Frasco Symcox takes drug etodolac.
+Patient Herby Preedy takes drug prednisone.
+Patient Ayn Cromb takes drug aspirin.
+Patient Dewey Kayne takes drug nabumetone.
+Patient Garald Connor takes drug duloxetine.
+Patient Drusi Hothersall takes drug risperidone.
+Patient Berkley Jopp takes drug clozapine.
+Patient Giff Comport takes drug olanzapine.
+Patient Cassondra Pearlman takes drug quetiapine.
+Patient Dani Bangs takes drug aripiprazole.
+Patient Flem Yanshin takes drug chlorpromazine.
+Patient Ulick Grundy takes drug paliperidone.
+Patient Amalia Hotton takes drug ziprasidone.
+Patient Shari Drinkhill takes drug loxapine.
+Patient Ellen Cuel takes drug risperidone.
+Patient Valene Helm takes drug clozapine.
+Patient Iorgo Kramer takes drug olanzapine.
+Patient Morissa Godspeede takes drug quetiapine.
+Patient Scott Pelerin takes drug aripiprazole.
+Patient Dasha Blant takes drug chlorpromazine.
+Patient Nicolas Harborow takes drug paliperidone.
+Patient Homere Rutty takes drug ziprasidone.
+Patient Cristina Tardiff takes drug loxapine.
+Patient Stuart Larchiere takes drug risperidone.
+Patient Barry Cardenas takes drug clozapine.
+Patient Dona Elsmor takes drug olanzapine.
+Patient Briant Bastin takes drug quetiapine.
+Patient Tamara Garvin takes drug aripiprazole.
+Patient Hal Bohlsen takes drug chlorpromazine.
+Patient Allianora Avann takes drug paliperidone.
+Patient Tania Boxer takes drug ziprasidone.
+Patient Clarke Junifer takes drug loxapine.
+Patient Lana MacLleese takes drug risperidone.
+Patient Hinze Lissett takes drug clozapine.
+Patient Oralla Danielovitch takes drug olanzapine.
+Patient Joelle Archley takes drug quetiapine.
+Patient Fara Ladel takes drug aripiprazole.
+Patient Vitoria Fayter takes drug chlorpromazine.
+Patient Roshelle Sapp takes drug paliperidone.
+Patient Federica Cusick takes drug ziprasidone.
+Patient Cymbre Zieme takes drug loxapine.
+Patient Austen Bentke takes drug risperidone.
+Patient Morgen Gascoine takes drug clozapine.
+Patient Ely Parnell takes drug olanzapine.
+Patient Durant Keavy takes drug quetiapine.
+Patient Blancha Sedgman takes drug aripiprazole.
+Patient Ingunna Samett takes drug chlorpromazine.
+Patient Amby Shipsey takes drug paliperidone.
+Patient Laurene Copcott takes drug ziprasidone.
+Patient Mozelle Doogue takes drug loxapine.
+Patient Ambrosius Fines takes drug risperidone.
+Patient Ilyssa Pilipets takes drug clozapine.
+Patient Cary Morrott takes drug olanzapine.
+Patient Risa Pester takes drug quetiapine.
+Patient Torrie Adlington takes drug aripiprazole.
+Patient Benedikta Huerta takes drug chlorpromazine.
+Patient Maxie Dumphry takes drug paliperidone.
+Patient Dev Rottery takes drug ziprasidone.
+Patient Antonius Jepps takes drug loxapine.
+Patient Marven Grouer takes drug aspirin.
+Patient Garry Shakespeare takes drug nitroglycerin.
+Patient Madlen Izen takes drug metoprolol.
+Patient Daisey McKeady takes drug amlodipine.
+Patient Cosme Casewell takes drug isosorbide mononitrate.
+Patient Kay Crowter takes drug isosorbide dinitrate.
+Patient Lorraine Archambault takes drug enoxaparin.
+Patient Sadie Durrad takes drug ranolazine.
+Patient Craig Strood takes drug atenolol.
+Patient Jemimah Gowland takes drug carvedilol.
+Patient Niles Piddock takes drug amlodipine AND atorvastatin.
+Patient Bev Fullalove takes drug modafinil.
+Patient Giordano Guidera takes drug duloxetine.
+Patient Jacky Leipold takes drug lisdexamfetamine.
+Patient Averil O'Sheilds takes drug amantadine.
+Patient Grethel MacComiskey takes drug armodafinil.
+Patient Price Edworthie takes drug miconazole.
+Patient Valma Wharton takes drug miconazole.
+Patient Terrye Jaskowicz takes drug ketoconazole.
+Patient Marina McKitterick takes drug terbinafine.
+Patient Halsey Doerffer takes drug ketoconazole.
+Patient Edlin Gilbertson takes drug terbinafine.
+Patient Manya Woolatt takes drug ketoconazole.
+Patient Salvatore Yankin takes drug terbinafine.
+Patient Truda Henkmann takes drug ketoconazole.
+Patient Glynnis Cutchee takes drug terbinafine.
+Patient Sherlock De Normanville takes drug terbinafine.
+Patient Vincenty De Ath takes drug terbinafine.
+Patient Cecil Parkhouse takes drug ketoconazole.
+Patient Gaelan Kenelin takes drug terbinafine.
+Patient Georgeta Crowther takes drug ketoconazole.
+Patient Nathalie Brave takes drug terbinafine.
+Patient Jeffy Sphinxe takes drug terbinafine.
+Patient Julie Brokenshaw takes drug terbinafine.
+Patient Gertrud Gladden takes drug terbinafine.
+Patient Tate Sedge takes drug terbinafine.
+Patient Cecily Kemish takes drug terbinafine.
+Patient Vaughan Tamas takes drug terbinafine.
+Patient Roze Onslow takes drug ketoconazole.
+Patient Ange Gawthrop takes drug terbinafine.
+Patient Ken Fruin takes drug ketoconazole.
+Patient Andie Krop takes drug terbinafine.
+Patient Esmaria Pavlishchev takes drug risperidone.
+Patient Meagan Ringham takes drug clozapine.
+Patient Nathalie Pardey takes drug olanzapine.
+Patient Hyman Goatcher takes drug quetiapine.
+Patient Ax Stonehewer takes drug aripiprazole.
+Patient Madelyn Pithcock takes drug chlorpromazine.
+Patient Nolie Skewis takes drug paliperidone.
+Patient Davidson De la Yglesias takes drug ziprasidone.
+Patient Godfree Zecchinii takes drug loxapine.
+Patient Elspeth Snasdell takes drug aspirin.
+Patient Melloney Poplee takes drug nitroglycerin.
+Patient Mame Yendle takes drug metoprolol.
+Patient Dorella Dutson takes drug amlodipine.
+Patient Devlin Clynmans takes drug isosorbide mononitrate.
+Patient Harald Spowart takes drug isosorbide dinitrate.
+Patient Germayne Bartali takes drug enoxaparin.
+Patient Wain Abrahamsson takes drug ranolazine.
+Patient Heloise Culverhouse takes drug atenolol.
+Patient Jerald Boar takes drug carvedilol.
+Patient Valentin Bakes takes drug amlodipine AND atorvastatin.
+Patient Jessa McQuorkel takes drug collagenase.
+Patient Manny Cridlon takes drug becaplermin.
+Patient Guillaume Scarfe takes drug cadexomer iodine.
+Patient Roxane McNeice takes drug ibuprofen.
+Patient Reider Facher takes drug naproxen.
+Patient Amberly Worham takes drug acetaminophen.
+Patient Karine Trevers takes drug diclofenac.
+Patient Osborne Rawling takes drug nabumetone.
+Drug aspirin is prescribed for disease Osteoarthritis.
+Drug idelalisib is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug ibritumomab is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug duloxetine is prescribed for disease Chronic Fatigue Syndrome.
+Drug fluoxetine is prescribed for disease Borderline Personality Disorder.
+Drug methotrexate is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug niacin is prescribed for disease High Cholesterol.
+Drug naproxen is prescribed for disease Osteoarthritis.
+Drug ibuprofen is prescribed for disease Osteoarthritis.
+Drug ezetimibe is prescribed for disease High Cholesterol.
+Drug chlorpromazine is prescribed for disease Schizophrenia.
+Drug paliperidone is prescribed for disease Borderline Personality Disorder.
+Drug nabumetone is prescribed for disease Muscle Pain.
+Drug diclofenac is prescribed for disease Osteoarthritis.
+Drug clozapine is prescribed for disease Schizophrenia.
+Drug pomalidomide is prescribed for disease Multiple Myeloma.
+Drug amlodipine AND atorvastatin is prescribed for disease Angina.
+Drug tenofovir is prescribed for disease HIV Infection.
+Drug modafinil is prescribed for disease Chronic Fatigue Syndrome.
+Drug armodafinil is prescribed for disease Chronic Fatigue Syndrome.
+Drug cyclophosphamide is prescribed for disease Multiple Myeloma.
+Drug lamotrigine is prescribed for disease Borderline Personality Disorder.
+Drug efavirenz AND emtricitabine AND tenofovir is prescribed for disease HIV Infection.
+Drug enasidenib is prescribed for disease Acute Myeloid Leukemia.
+Drug divalproex sodium is prescribed for disease Borderline Personality Disorder.
+Drug diazepam is prescribed for disease Borderline Personality Disorder.
+Drug metoprolol is prescribed for disease Angina.
+Drug bendamustine is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug clonazepam is prescribed for disease Borderline Personality Disorder.
+Drug aripiprazole is prescribed for disease Borderline Personality Disorder.
+Drug idarubicin is prescribed for disease Acute Myeloid Leukemia.
+Drug terbinafine is prescribed for disease Tinea Corporis.
+Drug lovastatin is prescribed for disease High Cholesterol.
+Drug citalopram is prescribed for disease Borderline Personality Disorder.
+Drug ketoconazole is prescribed for disease Tinea Corporis.
+Drug cyclophosphamide is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug terbinafine is prescribed for disease Tinea Pedis.
+Drug oxcarbazepine is prescribed for disease Borderline Personality Disorder.
+Drug risperidone is prescribed for disease Schizophrenia.
+Drug olanzapine is prescribed for disease Schizophrenia.
+Drug alprazolam is prescribed for disease Borderline Personality Disorder.
+Drug decitabine is prescribed for disease Acute Myeloid Leukemia.
+Drug lorazepam is prescribed for disease Borderline Personality Disorder.
+Drug ivosidenib is prescribed for disease Acute Myeloid Leukemia.
+Drug meloxicam is prescribed for disease Osteoarthritis.
+Drug gemfibrozil is prescribed for disease High Cholesterol.
+Drug enoxaparin is prescribed for disease Angina.
+Drug celecoxib is prescribed for disease Osteoarthritis.
+Drug duloxetine is prescribed for disease Osteoarthritis.
+Drug atenolol is prescribed for disease Angina.
+Drug gilteritinib is prescribed for disease Acute Myeloid Leukemia.
+Drug aspirin is prescribed for disease Angina.
+Drug melphalan is prescribed for disease Multiple Myeloma.
+Drug ranolazine is prescribed for disease Angina.
+Drug lamivudine is prescribed for disease HIV Infection.
+Drug fenofibric acid is prescribed for disease High Cholesterol.
+Drug fludarabine is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug loxapine is prescribed for disease Schizophrenia.
+Drug daratumumab is prescribed for disease Multiple Myeloma.
+Drug pravastatin is prescribed for disease High Cholesterol.
+Drug asenapine is prescribed for disease Borderline Personality Disorder.
+Drug venetoclax is prescribed for disease Acute Myeloid Leukemia.
+Drug naproxen is prescribed for disease Muscle Pain.
+Drug prednisone is prescribed for disease Osteoarthritis.
+Drug ibuprofen is prescribed for disease Muscle Pain.
+Drug nabumetone is prescribed for disease Osteoarthritis.
+Drug bleomycin is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug paliperidone is prescribed for disease Schizophrenia.
+Drug carbamazepine is prescribed for disease Borderline Personality Disorder.
+Drug vincristine is prescribed for disease Acute Myeloid Leukemia.
+Drug bortezomib is prescribed for disease Multiple Myeloma.
+Drug topiramate is prescribed for disease Borderline Personality Disorder.
+Drug lisdexamfetamine is prescribed for disease Chronic Fatigue Syndrome.
+Drug becaplermin is prescribed for disease Dermal Ulcer.
+Drug etodolac is prescribed for disease Osteoarthritis.
+Drug escitalopram is prescribed for disease Borderline Personality Disorder.
+Drug lithium is prescribed for disease Borderline Personality Disorder.
+Drug thalidomide is prescribed for disease Multiple Myeloma.
+Drug simvastatin is prescribed for disease High Cholesterol.
+Drug cytarabine liposomal AND daunorubicin liposomal is prescribed for disease Acute Myeloid Leukemia.
+Drug ibrutinib is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug isosorbide mononitrate is prescribed for disease Angina.
+Drug atorvastatin is prescribed for disease High Cholesterol.
+Drug rosuvastatin is prescribed for disease High Cholesterol.
+Drug triamcinolone is prescribed for disease Psoriasis.
+Drug quetiapine is prescribed for disease Borderline Personality Disorder.
+Drug amantadine is prescribed for disease Chronic Fatigue Syndrome.
+Drug ziprasidone is prescribed for disease Schizophrenia.
+Drug chondroitin AND glucosamine is prescribed for disease Osteoarthritis.
+Drug nitroglycerin is prescribed for disease Angina.
+Drug carmustine is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug sertraline is prescribed for disease Borderline Personality Disorder.
+Drug aripiprazole is prescribed for disease Schizophrenia.
+Drug cadexomer iodine is prescribed for disease Dermal Ulcer.
+Drug l-methylfolate is prescribed for disease Borderline Personality Disorder.
+Drug emtricitabine AND tenofovir is prescribed for disease HIV Infection.
+Drug rituximab is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug quetiapine is prescribed for disease Schizophrenia.
+Drug lurasidone is prescribed for disease Borderline Personality Disorder.
+Drug cytarabine is prescribed for disease Acute Myeloid Leukemia.
+Drug amlodipine is prescribed for disease Angina.
+Drug isosorbide dinitrate is prescribed for disease Angina.
+Drug clozapine is prescribed for disease Borderline Personality Disorder.
+Drug vincristine is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug buspirone is prescribed for disease Borderline Personality Disorder.
+Drug diclofenac is prescribed for disease Muscle Pain.
+Drug lenalidomide is prescribed for disease Multiple Myeloma.
+Drug dexamethasone is prescribed for disease Multiple Myeloma.
+Drug terbinafine is prescribed for disease Tinea Cruris.
+Drug haloperidol is prescribed for disease Borderline Personality Disorder.
+Drug midostaurin is prescribed for disease Acute Myeloid Leukemia.
+Drug ezetimibe AND simvastatin is prescribed for disease High Cholesterol.
+Drug carfilzomib is prescribed for disease Multiple Myeloma.
+Drug carvedilol is prescribed for disease Angina.
+Drug collagenase is prescribed for disease Dermal Ulcer.
+Drug gemtuzumab is prescribed for disease Acute Myeloid Leukemia.
+Drug miconazole is prescribed for disease Oral Thrush.
+Drug ritonavir is prescribed for disease HIV Infection.
+Drug acetaminophen is prescribed for disease Muscle Pain.
+Drug cytarabine is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug abacavir is prescribed for disease HIV Infection.
+Drug risperidone is prescribed for disease Borderline Personality Disorder.
+Drug olanzapine is prescribed for disease Borderline Personality Disorder.
+Drug mitoxantrone is prescribed for disease Non-Hodgkin's Lymphoma.
+Drug daunorubicin is prescribed for disease Acute Myeloid Leukemia.
+Drug glasdegib is prescribed for disease Acute Myeloid Leukemia.
