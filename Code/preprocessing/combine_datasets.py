@@ -18,13 +18,13 @@ data = load_data(file_path1)
 data['patient name'] = data['First Name'] + " " + data['Last Name']
 
 # Load in the dataset
-data2 = load_data(file_path2)
-df = pd.DataFrame(data2)
+# data2 = load_data(file_path2)
+df = pd.DataFrame(data)
 
-# Add the Full Name column to the dataset
-dataLength = len(df)
-data = data[:dataLength]
-df['patient name'] = data['patient name']
+# # Add the Full Name column to the dataset
+# dataLength = len(df)
+# data = data[:dataLength]
+# df['patient name'] = data['patient name']
 
-columns = ['patient name', 'disease', 'drug']
-save_data(df, columns, "../../Data/Preprocessed_data/name_disease_drug/name_disease_drug_reduced10.csv")
+# columns = ['patient name', 'disease', 'drug']
+save_data(df, ['patient name'], "../../Data/Preprocessed_data/names/full_uniques_names.csv")

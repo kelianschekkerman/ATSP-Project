@@ -1,0 +1,1545 @@
+sentence,label
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+miconazole is taken for disease <MASK>,Oral Thrush
+miconazole is taken for disease <MASK>,Oral Thrush
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+triamcinolone is taken for disease <MASK>,Psoriasis
+triamcinolone is taken for disease <MASK>,Psoriasis
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Cruris
+terbinafine is taken for disease <MASK>,Tinea Cruris
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+triamcinolone is taken for disease <MASK>,Psoriasis
+triamcinolone is taken for disease <MASK>,Psoriasis
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Cruris
+terbinafine is taken for disease <MASK>,Tinea Cruris
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+triamcinolone is taken for disease <MASK>,Psoriasis
+triamcinolone is taken for disease <MASK>,Psoriasis
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+terbinafine is taken for disease <MASK>,Tinea Cruris
+terbinafine is taken for disease <MASK>,Tinea Cruris
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine is taken for disease <MASK>,Acute Myeloid Leukemia
+vincristine is taken for disease <MASK>,Acute Myeloid Leukemia
+daunorubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+idarubicin is taken for disease <MASK>,Acute Myeloid Leukemia
+decitabine is taken for disease <MASK>,Acute Myeloid Leukemia
+gemtuzumab is taken for disease <MASK>,Acute Myeloid Leukemia
+midostaurin is taken for disease <MASK>,Acute Myeloid Leukemia
+venetoclax is taken for disease <MASK>,Acute Myeloid Leukemia
+enasidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+cytarabine liposomal AND daunorubicin liposomal is taken for disease <MASK>,Acute Myeloid Leukemia
+ivosidenib is taken for disease <MASK>,Acute Myeloid Leukemia
+gilteritinib is taken for disease <MASK>,Acute Myeloid Leukemia
+glasdegib is taken for disease <MASK>,Acute Myeloid Leukemia
+atorvastatin is taken for disease <MASK>,High Cholesterol
+simvastatin is taken for disease <MASK>,High Cholesterol
+pravastatin is taken for disease <MASK>,High Cholesterol
+rosuvastatin is taken for disease <MASK>,High Cholesterol
+lovastatin is taken for disease <MASK>,High Cholesterol
+ezetimibe is taken for disease <MASK>,High Cholesterol
+gemfibrozil is taken for disease <MASK>,High Cholesterol
+niacin is taken for disease <MASK>,High Cholesterol
+ezetimibe AND simvastatin is taken for disease <MASK>,High Cholesterol
+fenofibric acid is taken for disease <MASK>,High Cholesterol
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+miconazole is taken for disease <MASK>,Oral Thrush
+miconazole is taken for disease <MASK>,Oral Thrush
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cyclophosphamide is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+vincristine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+rituximab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+methotrexate is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bendamustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+cytarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+fludarabine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+bleomycin is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+carmustine is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+idelalisib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibritumomab is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+ibrutinib is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+mitoxantrone is taken for disease <MASK>,Non-Hodgkin's Lymphoma
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+miconazole is taken for disease <MASK>,Oral Thrush
+miconazole is taken for disease <MASK>,Oral Thrush
+miconazole is taken for disease <MASK>,Oral Thrush
+miconazole is taken for disease <MASK>,Oral Thrush
+miconazole is taken for disease <MASK>,Oral Thrush
+miconazole is taken for disease <MASK>,Oral Thrush
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+triamcinolone is taken for disease <MASK>,Psoriasis
+triamcinolone is taken for disease <MASK>,Psoriasis
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+quetiapine is taken for disease <MASK>,Borderline Personality Disorder
+lamotrigine is taken for disease <MASK>,Borderline Personality Disorder
+lithium is taken for disease <MASK>,Borderline Personality Disorder
+risperidone is taken for disease <MASK>,Borderline Personality Disorder
+fluoxetine is taken for disease <MASK>,Borderline Personality Disorder
+olanzapine is taken for disease <MASK>,Borderline Personality Disorder
+buspirone is taken for disease <MASK>,Borderline Personality Disorder
+clonazepam is taken for disease <MASK>,Borderline Personality Disorder
+sertraline is taken for disease <MASK>,Borderline Personality Disorder
+aripiprazole is taken for disease <MASK>,Borderline Personality Disorder
+topiramate is taken for disease <MASK>,Borderline Personality Disorder
+diazepam is taken for disease <MASK>,Borderline Personality Disorder
+lorazepam is taken for disease <MASK>,Borderline Personality Disorder
+escitalopram is taken for disease <MASK>,Borderline Personality Disorder
+divalproex sodium is taken for disease <MASK>,Borderline Personality Disorder
+alprazolam is taken for disease <MASK>,Borderline Personality Disorder
+clozapine is taken for disease <MASK>,Borderline Personality Disorder
+oxcarbazepine is taken for disease <MASK>,Borderline Personality Disorder
+citalopram is taken for disease <MASK>,Borderline Personality Disorder
+haloperidol is taken for disease <MASK>,Borderline Personality Disorder
+lurasidone is taken for disease <MASK>,Borderline Personality Disorder
+l-methylfolate is taken for disease <MASK>,Borderline Personality Disorder
+carbamazepine is taken for disease <MASK>,Borderline Personality Disorder
+asenapine is taken for disease <MASK>,Borderline Personality Disorder
+paliperidone is taken for disease <MASK>,Borderline Personality Disorder
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+dexamethasone is taken for disease <MASK>,Multiple Myeloma
+thalidomide is taken for disease <MASK>,Multiple Myeloma
+cyclophosphamide is taken for disease <MASK>,Multiple Myeloma
+lenalidomide is taken for disease <MASK>,Multiple Myeloma
+bortezomib is taken for disease <MASK>,Multiple Myeloma
+carfilzomib is taken for disease <MASK>,Multiple Myeloma
+pomalidomide is taken for disease <MASK>,Multiple Myeloma
+daratumumab is taken for disease <MASK>,Multiple Myeloma
+melphalan is taken for disease <MASK>,Multiple Myeloma
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+lamivudine is taken for disease <MASK>,HIV Infection
+efavirenz AND emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+ritonavir is taken for disease <MASK>,HIV Infection
+emtricitabine AND tenofovir is taken for disease <MASK>,HIV Infection
+tenofovir is taken for disease <MASK>,HIV Infection
+abacavir is taken for disease <MASK>,HIV Infection
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+triamcinolone is taken for disease <MASK>,Psoriasis
+triamcinolone is taken for disease <MASK>,Psoriasis
+triamcinolone is taken for disease <MASK>,Psoriasis
+triamcinolone is taken for disease <MASK>,Psoriasis
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Cruris
+terbinafine is taken for disease <MASK>,Tinea Cruris
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
+meloxicam is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+naproxen is taken for disease <MASK>,Osteoarthritis
+ibuprofen is taken for disease <MASK>,Osteoarthritis
+celecoxib is taken for disease <MASK>,Osteoarthritis
+chondroitin AND glucosamine is taken for disease <MASK>,Osteoarthritis
+diclofenac is taken for disease <MASK>,Osteoarthritis
+etodolac is taken for disease <MASK>,Osteoarthritis
+prednisone is taken for disease <MASK>,Osteoarthritis
+aspirin is taken for disease <MASK>,Osteoarthritis
+nabumetone is taken for disease <MASK>,Osteoarthritis
+duloxetine is taken for disease <MASK>,Osteoarthritis
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+modafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+duloxetine is taken for disease <MASK>,Chronic Fatigue Syndrome
+lisdexamfetamine is taken for disease <MASK>,Chronic Fatigue Syndrome
+amantadine is taken for disease <MASK>,Chronic Fatigue Syndrome
+armodafinil is taken for disease <MASK>,Chronic Fatigue Syndrome
+miconazole is taken for disease <MASK>,Oral Thrush
+miconazole is taken for disease <MASK>,Oral Thrush
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Cruris
+terbinafine is taken for disease <MASK>,Tinea Cruris
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Cruris
+terbinafine is taken for disease <MASK>,Tinea Cruris
+terbinafine is taken for disease <MASK>,Tinea Pedis
+terbinafine is taken for disease <MASK>,Tinea Pedis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+ketoconazole is taken for disease <MASK>,Tinea Corporis
+terbinafine is taken for disease <MASK>,Tinea Corporis
+risperidone is taken for disease <MASK>,Schizophrenia
+clozapine is taken for disease <MASK>,Schizophrenia
+olanzapine is taken for disease <MASK>,Schizophrenia
+quetiapine is taken for disease <MASK>,Schizophrenia
+aripiprazole is taken for disease <MASK>,Schizophrenia
+chlorpromazine is taken for disease <MASK>,Schizophrenia
+paliperidone is taken for disease <MASK>,Schizophrenia
+ziprasidone is taken for disease <MASK>,Schizophrenia
+loxapine is taken for disease <MASK>,Schizophrenia
+aspirin is taken for disease <MASK>,Angina
+nitroglycerin is taken for disease <MASK>,Angina
+metoprolol is taken for disease <MASK>,Angina
+amlodipine is taken for disease <MASK>,Angina
+isosorbide mononitrate is taken for disease <MASK>,Angina
+isosorbide dinitrate is taken for disease <MASK>,Angina
+enoxaparin is taken for disease <MASK>,Angina
+ranolazine is taken for disease <MASK>,Angina
+atenolol is taken for disease <MASK>,Angina
+carvedilol is taken for disease <MASK>,Angina
+amlodipine AND atorvastatin is taken for disease <MASK>,Angina
+collagenase is taken for disease <MASK>,Dermal Ulcer
+becaplermin is taken for disease <MASK>,Dermal Ulcer
+cadexomer iodine is taken for disease <MASK>,Dermal Ulcer
+ibuprofen is taken for disease <MASK>,Muscle Pain
+naproxen is taken for disease <MASK>,Muscle Pain
+acetaminophen is taken for disease <MASK>,Muscle Pain
+diclofenac is taken for disease <MASK>,Muscle Pain
+nabumetone is taken for disease <MASK>,Muscle Pain
