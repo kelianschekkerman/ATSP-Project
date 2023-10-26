@@ -26,8 +26,8 @@ def train(epochs, train_data_path, model_name=None, model_path=None, output_dir=
     training_args = TrainingArguments(
         per_device_train_batch_size=8,
         num_train_epochs=epochs,  # Change epochs as required
-        logging_dir=f'{output_dir}/logs',
-        output_dir=output_dir,
+        logging_dir=str(output_dir/'logs'),
+        output_dir=str(output_dir),
         logging_steps=100,
         save_total_limit=2,
         load_best_model_at_end=True,
@@ -55,8 +55,8 @@ def train(epochs, train_data_path, model_name=None, model_path=None, output_dir=
     trainer.train()
 
     # Save the model
-    model.save_pretrained(output_dir)
-    tokenizer.save_pretrained(output_dir)
+    model.save_pretrained(str(output_dir))
+    tokenizer.save_pretrained(str(output_dir))
 
     return model, tokenizer
 
