@@ -38,10 +38,3 @@ if __name__ == "__main__":
         eval_data_path = Path(_eval_data_path)
         predictions, labels = trainer.predict(model, tokenizer, eval_data_path=eval_data_path, output_dir=output_dir, n=10)
         eval_predictions(eval_data_path=eval_data_path, predictions=predictions, labels=labels, output_dir=output_dir)
-
-        # Evaluate only the first n characters
-        n = 3           # Set the value for n 
-        trunc_pred = [pred[:n] for pred in predictions]     # truncate predictions
-        trunc_labels = [lbl[:n] for lbl in labels]        # truncate labels
-        # Evaluate again with truncated data and append this to the file
-        results_trunc = eval_predictions(eval_data_path=eval_data_path, predictions=trunc_pred, labels=trunc_labels, output_dir=output_dir, operator='a', description="Evaluation with truncated data")
