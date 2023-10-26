@@ -9,7 +9,7 @@ from eval import eval_predictions
 if __name__ == "__main__":
     base_path = Path(os. getcwd())
     if len(sys.argv) == 1:
-        config_path = base_path / 'Code' / 'model' / 'configs' / 'debug' / 'mlm.json'
+        config_path = base_path / 'Code' / 'model' / 'configs' / 'debug' / 'nwp.json'
     else:
         config_path = base_path / 'Code' / 'model' / 'configs' / sys.argv[1]
 
