@@ -13,7 +13,7 @@ def eval_predictions(eval_data_path, predictions, labels, output_dir, operator, 
     recall = recall_score(labels, predictions)
 
     # Calculate the precision @k
-    k_set = {1,3,5,10}      # Set the value for k
+    k_set = [1,3,5,10]      # Set the value for k
     p_at_k = precision_at_k(labels, predictions, k_set)
 
     # Calculate the F1-score
@@ -24,7 +24,10 @@ def eval_predictions(eval_data_path, predictions, labels, output_dir, operator, 
         'Accuracy': acc,
         'Precision': precision,
         'Recall': recall,
-        'Precision@10': p_at_k,
+        'Precision@1': p_at_k[0],
+        'Precision@3': p_at_k[1],
+        'Precision@5': p_at_k[2],
+        'Precision@10': p_at_k[3],
         'F1-Score': F1
     }
 
