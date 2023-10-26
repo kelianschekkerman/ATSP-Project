@@ -5,6 +5,7 @@ import csv
 import torch
 from transformers import GPT2Tokenizer, GPT2LMHeadModel, TextDataset, DataCollatorForLanguageModeling
 from transformers import Trainer, TrainingArguments
+from tqdm.auto import tqdm
 
 from utils import save_predictions
 
@@ -66,18 +67,22 @@ def train(epochs, train_data_path, model_name=None, model_path=None, output_dir=
 
 def generate_completions(sentence, model, tokenizer, n=10, max_length=10):
     """Generate n completions for a given prompt."""
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     completions = []
 
     prompt = sentence.split(MASK_TOKEN)[0]
     input_ids = tokenizer.encode(prompt, return_tensors='pt')
+    input_ids = input_ids.to(device)
 
     for _ in range(n):
         # Generate completion
         with torch.no_grad():
-            output = model.generate(input_ids, max_new_tokens=max_length, num_return_sequences=1, temperature=1.0, top_k=50, top_p=0.95, do_sample=True)
+            output = model.generate(input_ids, max_new_tokens=max_length, num_return_sequences=1, temperature=1.0, top_k=50, top_p=0.95, do_sample=True, pad_token_id=tokenizer.eos_token_id)
         
         completion = tokenizer.decode(output[0], skip_special_tokens=True)
-        completions.append(completion)
+        completion = completion[len(prompt):]
+        completion_word = completion.split()[0]
+        completions.append(completion_word)
 
     return completions
 
@@ -89,11 +94,14 @@ def predict(model, tokenizer, eval_data_path, output_dir, n=10):
     print(">> Generating predictions...")
     with open(eval_data_path, 'r') as csvfile:
         reader = csv.DictReader(csvfile)
-        for row in reader:
-            print(f"Sentence: {row['sentence']}, Label: {row['label']}")
+        i = 0
+        for row in tqdm(reader):
+            i += 1
             completions = generate_completions(row['sentence'], model, tokenizer)
             predictions.append(completions)
             labels.append(row['label'])
+            if i < 10:
+                print(f"Sentence: {row['sentence']}, Label: {row['label']}, Prediction: {completions[0]}")
 
     print(">> Saving and evaluations...")
     save_predictions(eval_data_path, predictions, labels, output_dir)
