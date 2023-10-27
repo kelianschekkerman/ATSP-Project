@@ -1,0 +1,10 @@
+{
+    "task": "nwp",
+    "train_data_path": "Data/Sentences/single/merge_red10.txt",
+    "eval_data_path": [
+        "Data/Sentences/single/merge_red10.txt"
+    ],
+    "epochs": 10,
+    "model_name": "gpt2",
+    "model_path": ""
+}
