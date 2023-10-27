@@ -76,7 +76,7 @@ def generate_completions(sentences, model, tokenizer, n=10, max_length=5):
     with torch.no_grad():
         outputs = model.generate(input_ids, max_new_tokens=max_length, num_return_sequences=n, temperature=1.0, top_k=50, top_p=0.95, do_sample=True, pad_token_id=tokenizer.eos_token_id)
     completes = [tokenizer.decode(o, skip_special_tokens=True) for o in outputs]
-    completions = [completes[i][len(prompts[i]):] for i in range(len(prompts))]
+    completions = [completes[i][len(prompts[i//batch_size]):] for i in range(len(completes))]
     completions = [' '.join(c.replace(',', ' ').replace('.', ' ').split()[:2]) for c in completions]
     completions = [completions[i:i+n] for i in range(0, len(completions), batch_size)]
     completes = [completes[i:i+n] for i in range(0, len(completes), batch_size)]
