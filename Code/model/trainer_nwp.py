@@ -75,11 +75,12 @@ def generate_completions(sentences, model, tokenizer, n=10, max_length=5):
     input_ids = input_ids.to(device)
     with torch.no_grad():
         outputs = model.generate(input_ids, max_new_tokens=max_length, num_return_sequences=n, temperature=1.0, top_k=50, top_p=0.95, do_sample=True, pad_token_id=tokenizer.eos_token_id)
-    completions = [tokenizer.decode(o, skip_special_tokens=True) for o in outputs]
-    completions = [completions[i][len(prompts[i]):] for i in range(len(prompts))]
+    completes = [tokenizer.decode(o, skip_special_tokens=True) for o in outputs]
+    completions = [completes[i][len(prompts[i]):] for i in range(len(prompts))]
     completions = [' '.join(c.replace(',', ' ').replace('.', ' ').split()[:2]) for c in completions]
     completions = [completions[i:i+n] for i in range(0, len(completions), batch_size)]
-    return completions
+    completes = [completes[i:i+n] for i in range(0, len(completes), batch_size)]
+    return completions, completes
 
 
 def predict(model, tokenizer, eval_data_path, output_dir, n=10, batch_size=16):
@@ -87,6 +88,7 @@ def predict(model, tokenizer, eval_data_path, output_dir, n=10, batch_size=16):
     model.to(device)
     
     predictions = []
+    complete_predictions = []
     labels = []
 
     if not tokenizer.pad_token:
@@ -101,11 +103,12 @@ def predict(model, tokenizer, eval_data_path, output_dir, n=10, batch_size=16):
             labels_batch.append(row['label'])
 
             if len(sentences_batch) == batch_size:
-                completions = generate_completions(sentences_batch, model, tokenizer)
+                completions, completes = generate_completions(sentences_batch, model, tokenizer)
                 predictions.extend(completions)
+                complete_predictions.extend(completes)
                 labels.extend(labels_batch)
                 sentences_batch, labels_batch = [], []
 
     print(">> Saving and evaluations...")
-    save_predictions(eval_data_path, predictions, labels, output_dir)
+    save_predictions(eval_data_path, predictions, labels, output_dir, complete_predictions)
     return predictions, labels
