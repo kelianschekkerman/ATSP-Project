@@ -1,0 +1,201 @@
+sentence,label
+Angina is treated with drug aspirin.
+Angina is treated with drug nitroglycerin.
+Angina is treated with drug metoprolol.
+Angina is treated with drug amlodipine.
+Angina is treated with drug amlodipine AND atorvastatin.
+Muscle Pain is treated with drug ibuprofen.
+Muscle Pain is treated with drug nabumetone.
+HIV Infection is treated with drug lamivudine.
+HIV Infection is treated with drug efavirenz AND emtricitabine AND tenofovir.
+HIV Infection is treated with drug ritonavir.
+Acute Myeloid Leukemia is treated with drug cytarabine.
+Acute Myeloid Leukemia is treated with drug vincristine.
+Acute Myeloid Leukemia is treated with drug glasdegib.
+HIV Infection is treated with drug lamivudine.
+HIV Infection is treated with drug abacavir.
+Acute Myeloid Leukemia is treated with drug cytarabine.
+Acute Myeloid Leukemia is treated with drug vincristine.
+Acute Myeloid Leukemia is treated with drug daunorubicin.
+Acute Myeloid Leukemia is treated with drug gilteritinib.
+Acute Myeloid Leukemia is treated with drug glasdegib.
+HIV Infection is treated with drug lamivudine.
+HIV Infection is treated with drug tenofovir.
+HIV Infection is treated with drug abacavir.
+Acute Myeloid Leukemia is treated with drug cytarabine.
+Acute Myeloid Leukemia is treated with drug vincristine.
+Acute Myeloid Leukemia is treated with drug daunorubicin.
+Acute Myeloid Leukemia is treated with drug idarubicin.
+Acute Myeloid Leukemia is treated with drug glasdegib.
+Angina is treated with drug aspirin.
+Angina is treated with drug nitroglycerin.
+Angina is treated with drug metoprolol.
+Angina is treated with drug amlodipine.
+Angina is treated with drug isosorbide mononitrate.
+Angina is treated with drug isosorbide dinitrate.
+Angina is treated with drug enoxaparin.
+Angina is treated with drug carvedilol.
+Angina is treated with drug amlodipine AND atorvastatin.
+Muscle Pain is treated with drug ibuprofen.
+Muscle Pain is treated with drug naproxen.
+Muscle Pain is treated with drug acetaminophen.
+Muscle Pain is treated with drug diclofenac.
+Muscle Pain is treated with drug nabumetone.
+Muscle Pain is treated with drug ibuprofen.
+Muscle Pain is treated with drug naproxen.
+Muscle Pain is treated with drug nabumetone.
+HIV Infection is treated with drug lamivudine.
+HIV Infection is treated with drug efavirenz AND emtricitabine AND tenofovir.
+HIV Infection is treated with drug ritonavir.
+HIV Infection is treated with drug abacavir.
+Osteoarthritis is treated with drug meloxicam.
+Osteoarthritis is treated with drug diclofenac.
+Osteoarthritis is treated with drug duloxetine.
+Tinea Pedis is treated with drug terbinafine.
+Tinea Pedis is treated with drug terbinafine.
+Dermal Ulcer is treated with drug collagenase.
+Dermal Ulcer is treated with drug becaplermin.
+Dermal Ulcer is treated with drug cadexomer iodine.
+Chronic Fatigue Syndrome is treated with drug modafinil.
+Chronic Fatigue Syndrome is treated with drug duloxetine.
+Chronic Fatigue Syndrome is treated with drug lisdexamfetamine.
+Chronic Fatigue Syndrome is treated with drug amantadine.
+Chronic Fatigue Syndrome is treated with drug armodafinil.
+Tinea Corporis is treated with drug ketoconazole.
+Tinea Corporis is treated with drug terbinafine.
+Tinea Corporis is treated with drug ketoconazole.
+Tinea Corporis is treated with drug terbinafine.
+Borderline Personality Disorder is treated with drug quetiapine.
+Borderline Personality Disorder is treated with drug lamotrigine.
+Borderline Personality Disorder is treated with drug lithium.
+Borderline Personality Disorder is treated with drug asenapine.
+Borderline Personality Disorder is treated with drug paliperidone.
+Muscle Pain is treated with drug ibuprofen.
+Muscle Pain is treated with drug naproxen.
+Muscle Pain is treated with drug diclofenac.
+Muscle Pain is treated with drug nabumetone.
+Acute Myeloid Leukemia is treated with drug cytarabine.
+Acute Myeloid Leukemia is treated with drug vincristine.
+Acute Myeloid Leukemia is treated with drug gilteritinib.
+Acute Myeloid Leukemia is treated with drug glasdegib.
+Multiple Myeloma is treated with drug dexamethasone.
+Multiple Myeloma is treated with drug thalidomide.
+Multiple Myeloma is treated with drug cyclophosphamide.
+Multiple Myeloma is treated with drug daratumumab.
+Multiple Myeloma is treated with drug melphalan.
+Non-Hodgkin's Lymphoma is treated with drug cyclophosphamide.
+Non-Hodgkin's Lymphoma is treated with drug mitoxantrone.
+Multiple Myeloma is treated with drug dexamethasone.
+Multiple Myeloma is treated with drug thalidomide.
+Multiple Myeloma is treated with drug cyclophosphamide.
+Multiple Myeloma is treated with drug lenalidomide.
+Oral Thrush is treated with drug miconazole.
+Oral Thrush is treated with drug miconazole.
+Schizophrenia is treated with drug risperidone.
+Schizophrenia is treated with drug clozapine.
+Chronic Fatigue Syndrome is treated with drug modafinil.
+Chronic Fatigue Syndrome is treated with drug duloxetine.
+Chronic Fatigue Syndrome is treated with drug lisdexamfetamine.
+Chronic Fatigue Syndrome is treated with drug armodafinil.
+High Cholesterol is treated with drug atorvastatin.
+High Cholesterol is treated with drug simvastatin.
+High Cholesterol is treated with drug pravastatin.
+High Cholesterol is treated with drug rosuvastatin.
+High Cholesterol is treated with drug fenofibric acid.
+Chronic Fatigue Syndrome is treated with drug modafinil.
+Chronic Fatigue Syndrome is treated with drug duloxetine.
+Chronic Fatigue Syndrome is treated with drug lisdexamfetamine.
+Chronic Fatigue Syndrome is treated with drug armodafinil.
+HIV Infection is treated with drug lamivudine.
+HIV Infection is treated with drug efavirenz AND emtricitabine AND tenofovir.
+HIV Infection is treated with drug ritonavir.
+Dermal Ulcer is treated with drug collagenase.
+Dermal Ulcer is treated with drug becaplermin.
+Osteoarthritis is treated with drug meloxicam.
+Osteoarthritis is treated with drug diclofenac.
+Osteoarthritis is treated with drug duloxetine.
+Dermal Ulcer is treated with drug collagenase.
+Dermal Ulcer is treated with drug becaplermin.
+Dermal Ulcer is treated with drug cadexomer iodine.
+Muscle Pain is treated with drug ibuprofen.
+Muscle Pain is treated with drug nabumetone.
+Schizophrenia is treated with drug risperidone.
+Schizophrenia is treated with drug loxapine.
+Osteoarthritis is treated with drug meloxicam.
+Osteoarthritis is treated with drug diclofenac.
+Osteoarthritis is treated with drug duloxetine.
+Borderline Personality Disorder is treated with drug quetiapine.
+Borderline Personality Disorder is treated with drug lamotrigine.
+Borderline Personality Disorder is treated with drug lithium.
+Borderline Personality Disorder is treated with drug paliperidone.
+Muscle Pain is treated with drug ibuprofen.
+Muscle Pain is treated with drug nabumetone.
+Borderline Personality Disorder is treated with drug quetiapine.
+Borderline Personality Disorder is treated with drug lamotrigine.
+Borderline Personality Disorder is treated with drug lithium.
+Borderline Personality Disorder is treated with drug paliperidone.
+Psoriasis is treated with drug triamcinolone.
+Psoriasis is treated with drug triamcinolone.
+Borderline Personality Disorder is treated with drug quetiapine.
+Borderline Personality Disorder is treated with drug lamotrigine.
+Borderline Personality Disorder is treated with drug paliperidone.
+High Cholesterol is treated with drug atorvastatin.
+High Cholesterol is treated with drug simvastatin.
+Tinea Corporis is treated with drug ketoconazole.
+Tinea Corporis is treated with drug terbinafine.
+Tinea Cruris is treated with drug terbinafine.
+Osteoarthritis is treated with drug meloxicam.
+Osteoarthritis is treated with drug aspirin.
+Osteoarthritis is treated with drug nabumetone.
+Osteoarthritis is treated with drug duloxetine.
+Psoriasis is treated with drug triamcinolone.
+Psoriasis is treated with drug triamcinolone.
+Angina is treated with drug aspirin.
+Angina is treated with drug amlodipine AND atorvastatin.
+High Cholesterol is treated with drug atorvastatin.
+High Cholesterol is treated with drug simvastatin.
+High Cholesterol is treated with drug pravastatin.
+High Cholesterol is treated with drug rosuvastatin.
+High Cholesterol is treated with drug lovastatin.
+High Cholesterol is treated with drug fenofibric acid.
+Non-Hodgkin's Lymphoma is treated with drug cyclophosphamide.
+Non-Hodgkin's Lymphoma is treated with drug vincristine.
+Non-Hodgkin's Lymphoma is treated with drug rituximab.
+Non-Hodgkin's Lymphoma is treated with drug mitoxantrone.
+HIV Infection is treated with drug lamivudine.
+HIV Infection is treated with drug efavirenz AND emtricitabine AND tenofovir.
+HIV Infection is treated with drug ritonavir.
+HIV Infection is treated with drug abacavir.
+High Cholesterol is treated with drug atorvastatin.
+High Cholesterol is treated with drug simvastatin.
+High Cholesterol is treated with drug ezetimibe AND simvastatin.
+High Cholesterol is treated with drug fenofibric acid.
+Osteoarthritis is treated with drug meloxicam.
+Osteoarthritis is treated with drug diclofenac.
+Osteoarthritis is treated with drug nabumetone.
+Osteoarthritis is treated with drug duloxetine.
+Chronic Fatigue Syndrome is treated with drug modafinil.
+Chronic Fatigue Syndrome is treated with drug duloxetine.
+Muscle Pain is treated with drug ibuprofen.
+Muscle Pain is treated with drug naproxen.
+Borderline Personality Disorder is treated with drug quetiapine.
+Borderline Personality Disorder is treated with drug lamotrigine.
+Borderline Personality Disorder is treated with drug paliperidone.
+Tinea Corporis is treated with drug ketoconazole.
+Tinea Corporis is treated with drug terbinafine.
+Tinea Corporis is treated with drug ketoconazole.
+Muscle Pain is treated with drug ibuprofen.
+Muscle Pain is treated with drug naproxen.
+Muscle Pain is treated with drug acetaminophen.
+Muscle Pain is treated with drug nabumetone.
+Psoriasis is treated with drug triamcinolone.
+Psoriasis is treated with drug triamcinolone.
+Borderline Personality Disorder is treated with drug quetiapine.
+Borderline Personality Disorder is treated with drug lamotrigine.
+Borderline Personality Disorder is treated with drug lithium.
+Dermal Ulcer is treated with drug cadexomer iodine.
+Tinea Cruris is treated with drug terbinafine.
+Tinea Cruris is treated with drug terbinafine.
+Osteoarthritis is treated with drug meloxicam.
+Osteoarthritis is treated with drug diclofenac.
+Osteoarthritis is treated with drug ibuprofen.

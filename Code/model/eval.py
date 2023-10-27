@@ -10,11 +10,11 @@ def eval_predictions(eval_data_path, predictions, labels, output_dir):
     # Condition checks
     def full_string(pred, label):
         # only considering the first two words
-        return [p.split()[:2].lower() for p in pred], label.split()[:2].lower()
+        return [p.lower().split()[:2] for p in pred], label.lower().split()[:2]
 
     def first_word(pred, label):
         # only considering the first words
-        return [p.split()[0].lower() for p in pred], label.split()[0].lower()
+        return [p.lower().split()[0] if p.strip() else p for p in pred], label.lower().split()[0]
 
     def first_three_chars(pred, label):
         # only considering the first three chars

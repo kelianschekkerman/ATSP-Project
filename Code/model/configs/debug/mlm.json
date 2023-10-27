@@ -1,0 +1,10 @@
+{
+    "task": "mlm",
+    "train_data_path": "Data/debug/raw.txt",
+    "eval_data_path": [
+        "Data/debug/eval.csv"
+    ],
+    "epochs": 1,
+    "model_name": "smallbenchnlp/roberta-small",
+    "model_path": ""
+}

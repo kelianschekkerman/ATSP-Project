@@ -83,6 +83,9 @@ def generate_completions(sentences, model, tokenizer, n=10, max_length=5):
 
 
 def predict(model, tokenizer, eval_data_path, output_dir, n=10, batch_size=16):
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)
+    
     predictions = []
     labels = []
 
