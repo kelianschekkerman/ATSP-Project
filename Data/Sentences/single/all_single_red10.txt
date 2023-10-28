@@ -1,0 +1,1545 @@
+patient name,disease,drug
+Edithe Leggis is a patient name.,Angina is a disease.,aspirin is a drug.
+Elwood Catt is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Darby Felgate is a patient name.,Angina is a disease.,metoprolol is a drug.
+Dominica Pyle is a patient name.,Angina is a disease.,amlodipine is a drug.
+Bay Pencost is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Lora Durbann is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Rand Bram is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Perceval Dallosso is a patient name.,Angina is a disease.,ranolazine is a drug.
+Aleda Pigram is a patient name.,Angina is a disease.,atenolol is a drug.
+Burlie Schustl is a patient name.,Angina is a disease.,carvedilol is a drug.
+Porty Jori is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Briant De La Haye is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Kalie Scoble is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Catriona Beaument is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Amberly Handling is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Dyna De'Vere - Hunt is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Janella Hardaker is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Alvin Wenzel is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Jerrine Peeters is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Warner Driutti is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Paige Hayhow is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Dorisa Skill is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Bobbye Patmore is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Jayme Dairton is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Sayre Stroyan is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Joellyn Stutter is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Julietta Delahunt is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Halie Jewar is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Jessamyn Buddles is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Clevie Clubbe is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Magdalen Claiden is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Celina Boothebie is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Murvyn Duff is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Lyndsie Dyball is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Ashlie Rotham is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Gardiner Ferbrache is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Rudolph Housbie is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Dun Craythorn is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Dasha Eppson is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Bibby Evershed is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Ransom Chippindale is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Zelig Brinded is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Rosalyn Vondrys is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Lamond Ahmed is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Anders Treadger is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Haroun holmes is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Kristan Metzing is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Willie Netherwood is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Aldon Ridsdell is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Chrotoem Abels is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Andy Kettleson is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Dredi Curd is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Tessy Athelstan is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Tamas Vigneron is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Gnni Chaperling is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Margaux Lattin is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Anabella Tutchings is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Joeann Gotcliff is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Peri Battram is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Eugenius Headon is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Erwin Baise is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Leta Tartt is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Lilli Sarath is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Franz Roset is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Natalya Offner is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Genevra Shipperbottom is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Francine Adolfsen is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Cairistiona Tummond is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Kelci Colliver is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Denys Endricci is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Findley Godleman is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Fidelio Guerry is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Krishnah Dabels is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Diannne Samter is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Inge Hewins is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Dermot Stainburn is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Ajay Durward is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Constancy Darke is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Cy Servante is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Lennard Giorgi is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Cordie Rosenberger is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Noelyn Penquet is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Frank Greenhough is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Tan Connold is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Star Casford is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Travers Selwyne is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Randie Jankin is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Henryetta Noice is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Fons Schrieves is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Lissa Thynn is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Mattias Darrell is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Cirilo Camoletto is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Aeriela Clarke is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Marjory Franz is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Rodolph Grewcock is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Justinn Ishchenko is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Winne Cowland is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Gabriella Patry is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Tann McCroary is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Ebony Knappitt is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Piggy Hugle is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Lisle Floyd is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Leroi Raeburn is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Nicole Gages is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Mariele Lucius is a patient name.,Angina is a disease.,aspirin is a drug.
+Sherwood Woolaston is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Ag Gumby is a patient name.,Angina is a disease.,metoprolol is a drug.
+Basil Canon is a patient name.,Angina is a disease.,amlodipine is a drug.
+Care Kearton is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Violetta Francois is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Adlai Tilmouth is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Gwenore Smaridge is a patient name.,Angina is a disease.,ranolazine is a drug.
+Kurt Marling is a patient name.,Angina is a disease.,atenolol is a drug.
+Artemus Brewitt is a patient name.,Angina is a disease.,carvedilol is a drug.
+Sergio Edmonson is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Maia Kidwell is a patient name.,Angina is a disease.,aspirin is a drug.
+Reinaldo Caines is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Lincoln Casburn is a patient name.,Angina is a disease.,metoprolol is a drug.
+Kelsy Danhel is a patient name.,Angina is a disease.,amlodipine is a drug.
+Des Sutehall is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Darnall Comfort is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Bernardo Bigland is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Cymbre Steeden is a patient name.,Angina is a disease.,ranolazine is a drug.
+Leandra Demer is a patient name.,Angina is a disease.,atenolol is a drug.
+Shermy Gatchell is a patient name.,Angina is a disease.,carvedilol is a drug.
+Bryn Pratley is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Eran Summerill is a patient name.,Angina is a disease.,aspirin is a drug.
+Arlena Ridwood is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Rozelle Neubigin is a patient name.,Angina is a disease.,metoprolol is a drug.
+Jacenta Linner is a patient name.,Angina is a disease.,amlodipine is a drug.
+Mariann Wilshin is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Jedidiah Malins is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Rory Wank is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Modesty Zink is a patient name.,Angina is a disease.,ranolazine is a drug.
+Newton Berni is a patient name.,Angina is a disease.,atenolol is a drug.
+Sybila Troker is a patient name.,Angina is a disease.,carvedilol is a drug.
+Jewel Betteney is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Hobie Skace is a patient name.,Angina is a disease.,aspirin is a drug.
+Loree Fishpond is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Gauthier Elsip is a patient name.,Angina is a disease.,metoprolol is a drug.
+Gisella Watters is a patient name.,Angina is a disease.,amlodipine is a drug.
+Flora Delgardillo is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Dorthea Wealleans is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Arlyn Boole is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Jameson Sayce is a patient name.,Angina is a disease.,ranolazine is a drug.
+Collin Ciepluch is a patient name.,Angina is a disease.,atenolol is a drug.
+Francoise Mustill is a patient name.,Angina is a disease.,carvedilol is a drug.
+Peterus Lettson is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Yuri Crossfield is a patient name.,Angina is a disease.,aspirin is a drug.
+Kirbee Wrenn is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Rici Rein is a patient name.,Angina is a disease.,metoprolol is a drug.
+Anestassia Vauls is a patient name.,Angina is a disease.,amlodipine is a drug.
+Virgil Markussen is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Marlin Yegorev is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Clemmie Harbertson is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Happy Jaskowicz is a patient name.,Angina is a disease.,ranolazine is a drug.
+Quentin Plaschke is a patient name.,Angina is a disease.,atenolol is a drug.
+Paulie Dunnet is a patient name.,Angina is a disease.,carvedilol is a drug.
+Wilma Burdytt is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Cobbie Imorts is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Murry Entreis is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+George Wildber is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Bethany Corona is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Carolann Yves is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Benson Hook is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Dunstan Fyrth is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Rutger Georgeon is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Gearalt Bynold is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Ferrel Elphey is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Magda Nealand is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Pamella Eaden is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Nathanil Monan is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Skelly Gopsell is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Arel Tyson is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Ericha Dressel is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Yasmin Findlow is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Corby Van Der Straaten is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Herbert Billingsly is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Aprilette Veysey is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Biddy Rief is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Brunhilda Davley is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Artair Ondrich is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Marylinda Gussie is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Gabrila Speedin is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Pavlov Hadye is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Heath Lackmann is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Michele Olenchenko is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Mischa Caulwell is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Carlota Llewhellin is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Edlin Theobald is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Sheridan Casino is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Isidor Rundall is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Heywood Bisp is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Allx Fretter is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Domenico Cadman is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Tansy Symons is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Con Kaine is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Felizio Kevern is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Valle Christoforou is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Sydney MacGhee is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Ikey Dowty is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Fairleigh Hagger is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Arlee Levine is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Neal Kulver is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Terri Palle is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Lorilyn Annion is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Vernen Ivakhnov is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Rufus Bernardini is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Dorothea Rogister is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Myrtie MacScherie is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Carley Gowers is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Flin Bordone is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+West Kernermann is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Brien Gatherer is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Ephrayim Bedford is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Kaitlin Gaven is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Tobe Torrejon is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Trudey Wagge is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Gene Cottham is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Seline Garvill is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Neil McCory is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Burty Blurton is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Mead Syer is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Adair Spurman is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Elana Heisham is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Bryna Monson is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Cordy Plenderleith is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Ransell Evins is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Chris Body is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Virginie Vaneev is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Cos Donnel is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Averell Shellsheere is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Isador Darrow is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Linnell Peepall is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Jedidiah Gercken is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Serge Bendon is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Fernando Stuckes is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Joni Rays is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Cloris Cunradi is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Anna-maria Voyce is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Earlie Pideon is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Patten Merle is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Lilla Rowden is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Gwendolyn Jacobowicz is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Carolynn Blakeslee is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Clio Rainford is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Tann Lever is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Devina Lukehurst is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Worden Patkin is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Tammy Blachford is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Tam Maysor is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Dorella Nund is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Shaun Doni is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Octavius Giblin is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Anastassia Stoggles is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Durand Mitchelhill is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Lorene Trustram is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Vitia Cobbled is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Simeon Gallanders is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Bridget Dmitriev is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Cortie Prestwich is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Wilt Reames is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Myrtie Foystone is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Mollie O'Regan is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Carry Hanbury is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Sallyann Jarad is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Dylan Lear is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Joey Carpmile is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Kissie Joire is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Kassia Demetr is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Mason Pineaux is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Flossy Brogan is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Titus Meecher is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Mariann Moogan is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Caria Risdall is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Kayle Perrigo is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Otis Scotti is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Othelia Lichfield is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Padget O'Dempsey is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Kristoffer Kitchinham is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Lorrayne Koppeck is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Gavrielle Sidsaff is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Maye De Zamudio is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Addie Clancey is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Jody Philpin is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Palmer Swindley is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Patty Golden of Ireland is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Vivian Colicot is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Angus Stobbes is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Brose Vinten is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Horton Yakunin is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Bernardo Andreasen is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Lorene Andrault is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Brooks Braben is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Andrea Boutellier is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Luigi Kidson is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Erin Quibell is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Kingsley Westmerland is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Chip Deniseau is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Theobald Posen is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Luther Guise is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Constantia Morison is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Asa Wale is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Clemens Allington is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Broddy Kelberer is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Thorstein Verecker is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Odelinda Patrick is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Gregorio Earle is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Peirce Pandya is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Marlo Walwood is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Whitney McTerlagh is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Terri-jo Pestridge is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Darius Huntly is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Lombard Rapp is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Gaven Goney is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Erena Pepperd is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Bax Ould is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Braden Eteen is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Alisa Dillintone is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Jordan Fierman is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Orin Knevet is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Hakeem Vidler is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Cassie Sudran is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Gabrila Dorn is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Jeniffer Obispo is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Nance Fildes is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Cloe Durtnall is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Dinny Sibbit is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Maryjo Ollarenshaw is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Matelda Collymore is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Felicio McCory is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Devina Vittet is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Loretta Weblin is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Alvie Mitkin is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Magda Reichelt is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Alaine Ace is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Clareta Darinton is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Giorgia Cullotey is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Shalne Malinowski is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Joice Blakeway is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Kathy Marikhin is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Herb Elnough is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Muffin Vanyard is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Glyn Bruins is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Jena Eck is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Reube Biddell is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Sylvan Meo is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Patty Zoppie is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Averyl Galia is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Crin Chevis is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Farly Arnet is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Frankie Spurway is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Ebenezer Alyonov is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Peyter Spacy is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Carr Wyllcocks is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Dore Blondell is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Galina Almeida is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Derwin Jezzard is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Jermaine Escott is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Jeanne Moncreif is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Mordecai Regus is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Kingsly Micco is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Lydia Rathbourne is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Clayborn Sneller is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Claudina Grane is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Butch Shakelade is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Risa Elce is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Suki McVie is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Claudian Whytock is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Fallon Inchley is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Phelia Feben is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Borden Cartmael is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Paten Bonfield is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Bibi Corbridge is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Pet Izachik is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Alexandro Curwood is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Ermina Ells is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Rikki Blaszczyk is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Annelise Kinnar is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Allis Cale is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Adey Treamayne is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Nathalie Bilam is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Harmony Gow is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Glen Hearthfield is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Rina Pitrollo is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Reyna Beckinsale is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Tessa Bladge is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Lowell Benedit is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Joyce Bridgman is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Stanton Pitrelli is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Kristo Cobbin is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Reggy Rysom is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Francyne Shalcros is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Normy Dome is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Bab Ashby is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Kale Dunniom is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Constantino Message is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Cy Mannagh is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Valdemar Whate is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Dinny Soppit is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Eldin Manhood is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Cleon De Maine is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Kelwin Dorward is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Giraud Harlin is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Prescott Vondruska is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Alla Peniman is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Arturo Bonsale is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Carlen Dives is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Oswell Giercke is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Ariel Merrill is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Carol Horry is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Erminie Ipgrave is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Carlyle Gallagher is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Frederica Joselovitch is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Toni Aiston is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Perrine Danton is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Dominga Denys is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Fleurette Kenford is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Bryce De Moreno is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Pavla Matz is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Abe Santos is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Randy Greystock is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Isador Grist is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Brendan Bockh is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Rustin Dilrew is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Ammamaria Gladdin is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Keen Gleeson is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Francklin Witheridge is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Nathanael Brockest is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Dara Frere is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Bartholemy Reuther is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Arnie Kite is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Candie Spybey is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Minda Gault is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Aileen Olyff is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Yetta Janout is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Stanislas Tesauro is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Robenia Troth is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Marjie Newbigging is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Alexandro Christiensen is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Nickolas Raynham is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Burlie Johnstone is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Glenine Southby is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Morley Metham is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Griffin Farrent is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Stearne Arrundale is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Colver O'Loughlin is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Merilee Boothroyd is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Edouard Coope is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Marcellina Wealthall is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Albertina Twiname is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Steffie Vicker is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Lamar Tebbet is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Shell Calderhead is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Robin Burris is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Rawley Bowmen is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Irma Stutely is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Annora Carmichael is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Katey Bew is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Heinrik Hemphrey is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Chilton Easterling is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Rafa Stelfax is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Raul Mantha is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Erena Driffe is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Johnnie Trewman is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Tripp Docksey is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Jeni Becker is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Freddy Rides is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Petunia Hanbury-Brown is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Claribel Backshall is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Stephen Tettley is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Moses Walding is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Isaiah St Pierre is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Darcee Bilbee is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Brinn Crankhorn is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Shanta Learmond is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Nonna Lownsbrough is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Giovanna McKinley is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+D'arcy Carratt is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Clementina Bernardeschi is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Batsheva Baynes is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Gabriello Ellerington is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Granthem Ghion is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Filmore Faich is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Joice Chadbourne is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Lief Deaton is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Ephrem Challoner is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Stacee Dulson is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Channa Aphale is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Lon Doogue is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Rex Jowsey is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Neall Zamudio is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Mace Glashby is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Brett Levecque is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Sharline Tape is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Darrel Diaper is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Peggie Stone is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Saw Osorio is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Kacey Tilford is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Luke Gottelier is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Alleyn Facer is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Cele Baiden is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Rene Mort is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Newton Minchinden is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Franklin Bentham3 is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Allyn Waliszewski is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Angel Pettko is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Clevie Baynon is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Wallis Wones is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Allyce Rouby is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Evelina MacDaid is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Deedee Gratten is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Abbye Darville is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Lesley Statefield is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Maitilde Bridgstock is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Larissa Clemenzo is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Matilde Mouatt is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Jori Baignard is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Ring Faughny is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Kalina Mathen is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Marisa Howse is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Kit Constance is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Sargent Renachowski is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Hewitt Oakwood is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Fernandina Caress is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Omero Peoples is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Elspeth Kinzett is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Virge Tyt is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Abram Riddlesden is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Welbie Baldwin is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Harper Vlasov is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Fitz Harkus is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Cletus Achromov is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Ethan Antowski is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Rik Coughlan is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Kendall Goodrich is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Stevana Mabee is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Cornell Carreck is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Valdemar Marcone is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Alleyn Genn is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Vlad Betteson is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Maria Tinkham is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Leshia Sweetenham is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Daria Feron is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Wash Itshak is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Emmy Tapsell is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Hillery Roke is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Anna-diane Gosnay is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Val Bonas is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Renata Fishbourne is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Smitty Wrangle is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Monroe Gudd is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Jamaal De-Ville is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Sylvester Lea is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Zared Gallego is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Gianna Gowen is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Janenna Goozee is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Ros Finnimore is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Joeann Kopman is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Curr Barbara is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Isabeau Libbe is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Roddy Bach is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Nicolai Sharrock is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Brigit Davidsohn is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Melesa Argo is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Benny MacAndreis is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Sebastiano Shingler is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Itch Zarfai is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Bertha Faughnan is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Alysa Hadwen is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Foster Trew is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Whitney Hewins is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Durward Grove is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Shayne Tinkler is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Anthea Blodget is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Henka Clavering is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Charmain Genike is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Zonnya Grigorian is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Edee Fullwood is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Maegan MacRinn is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Agathe Wildman is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Flss Keenlyside is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Dietrich Olivera is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Renie Cordery is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Lissa Moynihan is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Meris Colter is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Meggy Shovell is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Dean Hillock is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Clara Robbie is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Gwenette Stiell is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Arline Gabler is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Cordey Tomczykiewicz is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Daria Vile is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Micky Jaqueme is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Zenia Craw is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Jeramey Lowrance is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Evered Cutmore is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Cyril McLoney is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Reuben Aronstam is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Silvano Derbyshire is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Ardenia January is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Pen Askaw is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Cinnamon Levett is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Aggi Iredell is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Ringo Willas is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Sutherland Born is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Ignacius Basler is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Nicoli Mockford is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Cherilynn Gagin is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Wadsworth Walkingshaw is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Ruby Andrews is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Brodie Kleinstub is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Morry Jankovsky is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Datha Skehens is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Cobb Garaghan is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Filmer Jesson is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Florry Adamthwaite is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Valene Megarry is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Barbette Eagell is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Elvera Irnys is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Cloe Cheverell is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Afton Haney` is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Clay Bundock is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Cora Malin is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Darbee Dominka is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Rodd Greson is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Olivie Sharpley is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Chadd Laverenz is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Benji Growcott is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Saunderson Saturley is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Alvan Laste is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Beth Kitchin is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Quentin Bondley is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Vanni Davydkov is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Henry Grafhom is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Daniella Segeswoeth is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Ced Murtell is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Fay Raxworthy is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Kial Bestiman is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Chicky Lovelock is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Penny MacMickan is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Thorndike Bartlet is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Aindrea Cazin is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Orv Cawthery is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Kimmi Gleadle is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Aldus MacDuffie is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Clem Wyborn is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Benjamin Drover is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Gigi Boyles is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Barbe Kinney is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Lindon Fautley is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Tonye Schoffel is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Abbe Isted is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Rossy Frankish is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Kelvin Yeardsley is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Tiebold Lamperti is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Kath Korejs is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Bronny Sefton is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Neda Schroter is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Farleigh Brunnen is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Wanda Lief is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Adore Girke is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Akim Bugg is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Neala Gumm is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Alika Mateiko is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Mallory Greenshiels is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Jinny Brounfield is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Alvinia Maruszewski is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Aguistin Forsyde is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Nolie Gatiss is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Lizette De Andisie is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Ashley Caudle is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Fitzgerald Cuthbert is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Caralie Billanie is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Lind Kovacs is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Daven Marchant is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Ayn Feacham is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Barri Veal is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Ardelis Sagrott is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Siward Foukx is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Jannel Somerton is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Bernard Collett is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Hunfredo Siggins is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Rakel Vargas is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Gloriana Ottewill is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Oswell Danford is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Niven Axelbee is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Binky Croisdall is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Calla Rapport is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Giffer Upstone is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Josias Carstairs is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Alfy Yu is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Jannelle Riseley is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Albina Stranger is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Dela Kitchingman is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Gothart Denmead is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Georgianna Krollmann is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Mychal Kibbee is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Juieta Daville is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Norbie Kefford is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Ailina Dhillon is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Hillary Coleyshaw is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Tomlin Daughtery is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Luce Eassom is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Edmon Killingworth is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Gasparo Pittem is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Jobyna Sore is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Oralie Halfhead is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Buckie Ivoshin is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Shepperd Tattersdill is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Dennison Churn is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Andie Darko is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Giulio Polden is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Jeannie Ajean is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Kyla Scouse is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Alexis Gasgarth is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Raddy Ormonde is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Constantin Romanetti is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Dore Coleiro is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Elmer Drover is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Shirlene Jaskiewicz is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Judas Watterson is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Hardy Gerardi is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Liv Roback is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Korella Capoun is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Marj Yegorkin is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Ofelia Petrovsky is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Vidovik Delves is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Rooney Fear is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Shane Burgoyne is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Pebrook Hanse is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Percy Barthrop is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Hunt Geerling is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Hirsch Harland is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Shep Pass is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Ted Davidovsky is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Latisha Dobey is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Kristel Kensy is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Davina MacGibbon is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Sylvia Heyward is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Carlye Cawdron is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Antonius McCourt is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Bronny Paute is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Carrol Springthorp is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Rogers Papps is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Filbert Melloi is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Thorndike Whiteland is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Carrie Vlasin is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Salomone Abbess is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Elwood Fonteyne is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Hort Seary is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Whitney Branson is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Tobe Rosenstock is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Dew Pock is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Obed Rawstorne is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Corbin Jedraszczyk is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Annamarie Davydochkin is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Jemmie Wrathmall is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Emmalynne Woolard is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Flin MacGilpatrick is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Britta Ardron is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Maury Fitkin is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+My Dutnall is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Sigismundo Faiers is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Ted Simcox is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Carmine Erb is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Georgia Hodcroft is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Joycelin Rowbrey is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Lucio Bassham is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Glenine Winning is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Blanca Mustin is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Grantley Camm is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Muhammad Furbank is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Ardisj Goodrich is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Sheppard Balkwill is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Calvin Godwyn is a patient name.,Angina is a disease.,aspirin is a drug.
+Durward Bennike is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Phillipe Foxen is a patient name.,Angina is a disease.,metoprolol is a drug.
+Herc Taffs is a patient name.,Angina is a disease.,amlodipine is a drug.
+Richart Maddinon is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Claybourne Inold is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Marlowe Chagg is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Lorenza Spiniello is a patient name.,Angina is a disease.,ranolazine is a drug.
+Gayla Minghetti is a patient name.,Angina is a disease.,atenolol is a drug.
+Corena Gowen is a patient name.,Angina is a disease.,carvedilol is a drug.
+Hew Alekhov is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Pearce Casali is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Jasper Akaster is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Tiena Leaf is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Timmy Menichino is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Wilbur Grangier is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Cris Youngs is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Erma Lomasna is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Ahmad Leedal is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Dan Pareman is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Agosto Chiverton is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Kinny Farryn is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Preston Rochelle is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Riobard Squibbes is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Barny Elan is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Rosabelle Easun is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Jamima Volkers is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Pegeen Clementet is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Tracey Rickell is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Flin Buttwell is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Del Goldstein is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Nathanial Smallpeice is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Kerr Guinane is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Giana Aldren is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Maximilien Bezant is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Karlik Bertot is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Felipa Nizet is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Ceil Gozard is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Rawley Baurerich is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Barbabas Deekes is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Milty Clemmensen is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Addi Footitt is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Paco Birks is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Neala Tacey is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Lawrence Bolderstone is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Michal Dhennin is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Jerry Leman is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Alaine Jaye is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Kevyn MacCaughan is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Ludvig Kelcey is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Samuele Lobell is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Petronilla Risbrough is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Tanney MacCarter is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Darrell Devin is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Rhodie Le Galle is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Abby Maslin is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Merrick Neames is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Cozmo Jillins is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Barri Barrim is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Sofia Gaymar is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Amy Castard is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Philly Charpin is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Danell Bannerman is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Skipp Andrez is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Zara Armytage is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Obadiah Brabham is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Bette Kubik is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Christye Caddens is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Kandy Baylie is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Carmella Hadlow is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Dmitri Readett is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Concettina Bulcock is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Zak Riddles is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Barnabas Currier is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Berrie Jancy is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Harold Scarfe is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Daune Mathely is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Roldan Blaszkiewicz is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Cleavland O'Fairy is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Wenonah Clover is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Noelyn Curbishley is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Keri O'Dea is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Correy Aldrin is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Rachael Kersley is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Gibb Snoddy is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Harper Mullenger is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Georgie Kilcullen is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Hayes Martinson is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Gwenore Liles is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Adara Kydde is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Olva Broszkiewicz is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Nathalie McUre is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Willabella Chellenham is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Royal Crayk is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Alonso Cardenosa is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Kayne Kilpatrick is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Thatcher Oldland is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Sara Arrigucci is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Guglielmo Lerer is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Madge Onge is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Lynn Hassard is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Shoshanna Kamiyama is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Kenn Sheber is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Garrek Brookton is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Angy Buckett is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Gabey Rushbrooke is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Fifine Rillstone is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Drusy Coulthard is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Georgetta Mayor is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Cassie Echelle is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Fonz Bonafant is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Tomasine Diehn is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Sawyere Danis is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Ellery Walthew is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Hirsch Flook is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Katti Gotts is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Henry Goodluck is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Ettore Housiaux is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Chaim Carvill is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Ulric Suffield is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Jamill Wadhams is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Brandais Maccaig is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Jessamyn Dulin is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Lief Messingham is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Nicol Levane is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Ebba Thursby is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Erl Engeham is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Roma Lux is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Ebony Perfitt is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Minda Skurray is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Wynny Foystone is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Orville Karolowski is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Jordon Sallowaye is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Bartolemo McGowran is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Haze Shapiro is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Damaris Lavens is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Yevette Coare is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Godfry Russell is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Branden Froom is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Hildegaard Grimsdike is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Neall Beccero is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Harriett Nore is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Winny Delgadillo is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Hasheem Mabee is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Germana McAllan is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Reuven Kilpin is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Leann Pyrke is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Rossy Frewer is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Ernesto Fort is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Chloris Frankiewicz is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Leonore Ruvel is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Quintus Curnok is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Alva Sellen is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Jorey Winslett is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Lenka Dunbar is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Benton Sinott is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Selig Mathwen is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Rosemarie Burleigh is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Bel Muncer is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Rock Champkins is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Lothario Ettles is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Lazarus Brimley is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Vinny Ipwell is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Britta Wavish is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Andris Overstone is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Abagail Patman is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Nancy Mountfort is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Josselyn Lomb is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Joell Winchurch is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Salvador Labbati is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Waylen Mushett is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Langsdon Lowne is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Randee Hutchin is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Ludovika Oultram is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Wat Giorgio is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Henry Diable is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Eric Goretti is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Tome Bohills is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Garrik Ricoald is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Ardyce Calendar is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Judie Street is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Marysa Lynch is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Matthias Overill is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Rey Ginn is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Claresta Hensmans is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Chrissie Rathke is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Welsh Joinson is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Tudor Sawforde is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Theodore Stratton is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Faun Dodshon is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Clio Mergue is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Eachelle Eglese is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Melvyn Broxup is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Carin Selwood is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Isa Anthill is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Kat Francescone is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Bertie Gitthouse is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Evin Lamers is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Berny Ubee is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Walsh Currier is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Marve Ranner is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Hansiain Genike is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Kariotta Tersay is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Vivie Ameer-Beg is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Gerri Dibbe is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Dick Cattonnet is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Evania Freen is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Bram Thorneywork is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Levy Walrond is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Netti Burtt is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Caleb Crumbleholme is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Annnora Raywood is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Farlay Cast is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Jaquith Hudless is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Otha Ainge is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Rollo Simnor is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Meredith Jaffra is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Florenza Trotton is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Barney Vasechkin is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Maude Paternoster is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Mario Maseyk is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Anastassia Slaney is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Gallagher McFarlan is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Drew Mingard is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Van Payle is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Beltran Kinforth is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Chrystal Ancell is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Jephthah Martynikhin is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Kelcey Bentley is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Berthe Duferie is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Rhea Minett is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Yance Sorton is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Hannis Roycraft is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Delphinia Cargill is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Wendeline Anstee is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Merwyn Stamps is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Winslow McMorland is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Pavel Leveritt is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Enrichetta Zorener is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Brana Fellgett is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Gaylene Savage is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine is a drug.
+Inger Gyorgy is a patient name.,Acute Myeloid Leukemia is a disease.,vincristine is a drug.
+Wylma Booi is a patient name.,Acute Myeloid Leukemia is a disease.,daunorubicin is a drug.
+Mattheus Shergold is a patient name.,Acute Myeloid Leukemia is a disease.,idarubicin is a drug.
+Ag Bysh is a patient name.,Acute Myeloid Leukemia is a disease.,decitabine is a drug.
+Kippar Gollard is a patient name.,Acute Myeloid Leukemia is a disease.,gemtuzumab is a drug.
+Abigale Joseland is a patient name.,Acute Myeloid Leukemia is a disease.,midostaurin is a drug.
+Agatha Brampton is a patient name.,Acute Myeloid Leukemia is a disease.,venetoclax is a drug.
+Lacey Aslott is a patient name.,Acute Myeloid Leukemia is a disease.,enasidenib is a drug.
+Orlan Kendell is a patient name.,Acute Myeloid Leukemia is a disease.,cytarabine liposomal AND daunorubicin liposomal is a drug.
+Abeu Cohani is a patient name.,Acute Myeloid Leukemia is a disease.,ivosidenib is a drug.
+Merl Mearing is a patient name.,Acute Myeloid Leukemia is a disease.,gilteritinib is a drug.
+Benedetta Cassels is a patient name.,Acute Myeloid Leukemia is a disease.,glasdegib is a drug.
+Gael Nisius is a patient name.,High Cholesterol is a disease.,atorvastatin is a drug.
+Caresa Brocket is a patient name.,High Cholesterol is a disease.,simvastatin is a drug.
+Rowan Andreoletti is a patient name.,High Cholesterol is a disease.,pravastatin is a drug.
+Wenda Brenard is a patient name.,High Cholesterol is a disease.,rosuvastatin is a drug.
+Ebonee Windus is a patient name.,High Cholesterol is a disease.,lovastatin is a drug.
+Ladonna Camelin is a patient name.,High Cholesterol is a disease.,ezetimibe is a drug.
+Keen Cleere is a patient name.,High Cholesterol is a disease.,gemfibrozil is a drug.
+Man Longmate is a patient name.,High Cholesterol is a disease.,niacin is a drug.
+Zitella List is a patient name.,High Cholesterol is a disease.,ezetimibe AND simvastatin is a drug.
+Shea Le Grice is a patient name.,High Cholesterol is a disease.,fenofibric acid is a drug.
+Vite Sharper is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Catherin Dorsett is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Lona Finn is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Sunny Coddington is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Eric Fallon is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Luce Sibbert is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Sander Dallon is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Puff Joannet is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Belita Pancoast is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Tomasina Matushevich is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Gardy Bouda is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Adan Semmens is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Clari Coole is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Meta Espinas is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Orin Duchatel is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Gasparo Ivashin is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Pauletta Biasetti is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Golda Halbeard is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Fawnia MacGahy is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Sandy Scutching is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Mirna Grute is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Wally Fortman is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Jody Hitchens is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Kore Morrowe is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Kamila Earengey is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Vina Valti is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Betti Checci is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Kyle Upjohn is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Inge Caustic is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Jo-ann Kleimt is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Nikki O'Currane is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Reagen Fend is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Mair Polack is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Adham Cogan is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Norby Wedderburn is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Trixi Cadigan is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Dianne Hanssmann is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Tracee Elloit is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Erina Forder is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Sydelle Nuss is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Sibeal Mackin is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Norton Sara is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Bobby Lydon is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Sylvan Gothard is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Janean Heyball is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Sarge Bard is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Buddie Swepson is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Cullen Iggo is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Suellen Vile is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Samaria Bescoby is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Margette Vasilic is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Claudia Plowell is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Mace Paintain is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Courtenay Gleadhall is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Pennie Mulryan is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Alika Beckingham is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Viki Hasted is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Starla Shine is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Eamon Cheltnam is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Xymenes Hall is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Andreas Cornford is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Renie Sturmey is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Earl Uridge is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Dorian Swannack is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Ashley Frogley is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Sebastian Allain is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Tad Daugherty is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Dicky Wittleton is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Alana Armfirld is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Chrisy Scoffham is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Thorpe Scorer is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Alisa O'Neill is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Boigie Giraudoux is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Jessalin Stagg is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Vickie Oulner is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Obie Kirsch is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Waylen Maryman is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Ulrikaumeko Knivett is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Harriet Chillistone is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Tierney Bennike is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Lothario Andrey is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Aila Reignould is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Augustus Sterricker is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Mort Annear is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Reagen Elkin is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Buddie Barbie is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Maury MacGillivrie is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Jacinthe Aronowitz is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Udale Armit is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Aurora Franceschielli is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Kasper Ivamy is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Cass Kefford is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Sylvester MacGarrity is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Berton Cropp is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Rochette Oene is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Emmy Korting is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Cello Hassewell is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Tiffani Aggio is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Carleen Hanmore is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Karita Batiste is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Darda Hirschmann is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Wakefield Elstow is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Gena Beneze is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Lazar Goodday is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Alexandrina Madgin is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Aurlie Poxson is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Elena Kencott is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Mari Rackham is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Cammie Pignon is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Marty Everex is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Grethel Ramsby is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Lev Carcas is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Hernando Mouse is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Brnaba Wallman is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Reynold Halward is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Jocelyn Shelton is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Linn Fayers is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Raeann Musto is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Wylie Want is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Aube de Castelain is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Vassily Pask is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Mord Castano is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Lana Ausiello is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Michele Merrgan is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Norman Prydden is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Mace Pattenden is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Tobin Southern is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Hiram Haddon is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Denys Witchalls is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Brett MacGaughie is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Raychel Broadbear is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Tabina Dragge is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Vivia Drohan is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Waverley Borges is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Hale Goodier is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Ingrim McKune is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Arny Scneider is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Mill Cruxton is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Hobey Eardley is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Rhianna Verrick is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Giacobo O'Crigan is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Jefferey Chazotte is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Lindsey Crowth is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Allegra Suthworth is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Orlando Leehane is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Gloria McQuie is a patient name.,Angina is a disease.,aspirin is a drug.
+Adelle Glasspoole is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Mic Henniger is a patient name.,Angina is a disease.,metoprolol is a drug.
+Carlin Colecrough is a patient name.,Angina is a disease.,amlodipine is a drug.
+Jeffy Targetter is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Margery Chewter is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Garth Flecknoe is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Jeremias Le febre is a patient name.,Angina is a disease.,ranolazine is a drug.
+Stanislaus Kluge is a patient name.,Angina is a disease.,atenolol is a drug.
+Nikolos Ivashin is a patient name.,Angina is a disease.,carvedilol is a drug.
+Val Chilton is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Herschel Cheek is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Kin L'argent is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Igor Balaizot is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Umeko Farnish is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Lazare Morey is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Sigismond Askaw is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Louella Gayforth is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Curcio Thaxton is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Toddie Kitman is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Lindy Barends is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Cherri Mavin is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Caroline Shimoni is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Lurline Guitonneau is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Beth Triggel is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cyclophosphamide is a drug.
+Britni Hernik is a patient name.,Non-Hodgkin's Lymphoma is a disease.,vincristine is a drug.
+Carr Gutridge is a patient name.,Non-Hodgkin's Lymphoma is a disease.,rituximab is a drug.
+Robbyn Jedrachowicz is a patient name.,Non-Hodgkin's Lymphoma is a disease.,methotrexate is a drug.
+Olga Ruffell is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bendamustine is a drug.
+Sheena Richly is a patient name.,Non-Hodgkin's Lymphoma is a disease.,cytarabine is a drug.
+Nealon Swancock is a patient name.,Non-Hodgkin's Lymphoma is a disease.,fludarabine is a drug.
+Toni Greeno is a patient name.,Non-Hodgkin's Lymphoma is a disease.,bleomycin is a drug.
+Karol Briddock is a patient name.,Non-Hodgkin's Lymphoma is a disease.,carmustine is a drug.
+Marin Cammidge is a patient name.,Non-Hodgkin's Lymphoma is a disease.,idelalisib is a drug.
+Modesta Griffitts is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibritumomab is a drug.
+Annabal Gaitung is a patient name.,Non-Hodgkin's Lymphoma is a disease.,ibrutinib is a drug.
+Clarine Curcher is a patient name.,Non-Hodgkin's Lymphoma is a disease.,mitoxantrone is a drug.
+Austin Capron is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Bernhard Lasselle is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Claus Eard is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Eugenia Aspital is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Derk Strathern is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Maighdiln Josselsohn is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Peterus Nanuccioi is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Debra Dore is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Berk Rugieri is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Aurore Ager is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Ashton Goodboddy is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Reed Brecher is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Antonina Gravenor is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Jessi Need is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Debi Winnister is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Victor Oake is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Gunar Paszak is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Cecilius Allardyce is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Cecilio Berzin is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Margalo Humphrey is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Sebastien Vittore is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Peggie Lowndes is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Christian Rounsivall is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Dulci Bignell is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Milly Cattlemull is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Pavla Bartoszinski is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Temple Jeayes is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Boony Lamperd is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Estrellita Grimsdale is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Shell Daintry is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Adelaida Stoffersen is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Quinton Dashkovich is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Berky Jost is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Joshua Vidloc is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Chandal Kirsch is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Wildon Sturch is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Trace Colten is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Sonni Bransby is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Lamar Christer is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Sarita Libbis is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Sven Walsh is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Eleni Josum is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Dicky Baleine is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Hal Rowantree is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Shermie Fransseni is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Hammad Sporle is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Cathie Ehrat is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Terrill Melendez is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Marianne Matuszewski is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Hernando Van der Krui is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Alice Jallin is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Imogen Abrahamoff is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Rube Pardy is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Benni Bollands is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Iago Geill is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Reube McClounan is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Andy Lowcock is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Kandace Wiltshaw is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Preston Iacomelli is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Cosimo Zink is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Sheridan Langstone is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Jefferey Caldaro is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Casandra Embleton is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Phillip Giampietro is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Arel Jurgensen is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Arlana McSkin is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Wendell Carberry is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Kristos De Blasi is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Mortie Mellsop is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Harmonia Selcraig is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Claudelle Leppard is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Annecorinne Cowap is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Kristos McGillivray is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Portie Jallin is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Amii Reijmers is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Dana Kanzler is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Gale Tiebe is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Leigh Dockreay is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Clayborne Deverell is a patient name.,Borderline Personality Disorder is a disease.,quetiapine is a drug.
+Emmye Copin is a patient name.,Borderline Personality Disorder is a disease.,lamotrigine is a drug.
+Viv Keenan is a patient name.,Borderline Personality Disorder is a disease.,lithium is a drug.
+Sibylla Sindall is a patient name.,Borderline Personality Disorder is a disease.,risperidone is a drug.
+Gothart Grebner is a patient name.,Borderline Personality Disorder is a disease.,fluoxetine is a drug.
+Kassi Jupe is a patient name.,Borderline Personality Disorder is a disease.,olanzapine is a drug.
+Arden Claasen is a patient name.,Borderline Personality Disorder is a disease.,buspirone is a drug.
+Marcile Bischop is a patient name.,Borderline Personality Disorder is a disease.,clonazepam is a drug.
+Udell Rubrow is a patient name.,Borderline Personality Disorder is a disease.,sertraline is a drug.
+Siusan Leemans is a patient name.,Borderline Personality Disorder is a disease.,aripiprazole is a drug.
+Ariela Valenti is a patient name.,Borderline Personality Disorder is a disease.,topiramate is a drug.
+Robinett Towsey is a patient name.,Borderline Personality Disorder is a disease.,diazepam is a drug.
+Launce Larkby is a patient name.,Borderline Personality Disorder is a disease.,lorazepam is a drug.
+Alessandra Feltoe is a patient name.,Borderline Personality Disorder is a disease.,escitalopram is a drug.
+Loren Alessandone is a patient name.,Borderline Personality Disorder is a disease.,divalproex sodium is a drug.
+Dante Lintill is a patient name.,Borderline Personality Disorder is a disease.,alprazolam is a drug.
+Chrissie Langmuir is a patient name.,Borderline Personality Disorder is a disease.,clozapine is a drug.
+Janie Hindge is a patient name.,Borderline Personality Disorder is a disease.,oxcarbazepine is a drug.
+Joanne Chicchetto is a patient name.,Borderline Personality Disorder is a disease.,citalopram is a drug.
+Liana Yacobsohn is a patient name.,Borderline Personality Disorder is a disease.,haloperidol is a drug.
+Clay Hartley is a patient name.,Borderline Personality Disorder is a disease.,lurasidone is a drug.
+Evelyn Harding is a patient name.,Borderline Personality Disorder is a disease.,l-methylfolate is a drug.
+Kennan Bevan is a patient name.,Borderline Personality Disorder is a disease.,carbamazepine is a drug.
+Massimo Pauer is a patient name.,Borderline Personality Disorder is a disease.,asenapine is a drug.
+Lenee Storrock is a patient name.,Borderline Personality Disorder is a disease.,paliperidone is a drug.
+Belinda McKearnen is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Lowell Bice is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Eadmund Kelf is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Maryrose Janosevic is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Karleen Craik is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Lynda Stables is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Truman Kollaschek is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Dominik Bobasch is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Graeme Cherrison is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Carlyn Vickors is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Allan Jesper is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Ezra Mearns is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Erik Ledekker is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Nerta Roget is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Valina Cruddas is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Jacqueline Trinder is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Alfi Tisor is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Noell Braiden is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Bridget Deary is a patient name.,Multiple Myeloma is a disease.,dexamethasone is a drug.
+Berkie Solloway is a patient name.,Multiple Myeloma is a disease.,thalidomide is a drug.
+Thoma Corradeschi is a patient name.,Multiple Myeloma is a disease.,cyclophosphamide is a drug.
+Vasily Briers is a patient name.,Multiple Myeloma is a disease.,lenalidomide is a drug.
+Marys Peploe is a patient name.,Multiple Myeloma is a disease.,bortezomib is a drug.
+Rosaleen Hinze is a patient name.,Multiple Myeloma is a disease.,carfilzomib is a drug.
+Reinhold Garza is a patient name.,Multiple Myeloma is a disease.,pomalidomide is a drug.
+Hasty Charnick is a patient name.,Multiple Myeloma is a disease.,daratumumab is a drug.
+Alleyn Vallintine is a patient name.,Multiple Myeloma is a disease.,melphalan is a drug.
+Andreana Howcroft is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Priscella Barringer is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Alethea Surman is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Hayyim Ivimey is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Mead Edis is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Kingsly MacGillivrie is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Sam Samsworth is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Cathy Yeld is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Ferris Fant is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Luis Arrighini is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Blakelee Benterman is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Nathaniel Soots is a patient name.,HIV Infection is a disease.,lamivudine is a drug.
+Dorisa Cowey is a patient name.,HIV Infection is a disease.,efavirenz AND emtricitabine AND tenofovir is a drug.
+Kellen Gianneschi is a patient name.,HIV Infection is a disease.,ritonavir is a drug.
+Augustina Werlock is a patient name.,HIV Infection is a disease.,emtricitabine AND tenofovir is a drug.
+Adolpho Kerwood is a patient name.,HIV Infection is a disease.,tenofovir is a drug.
+Netti Webb-Bowen is a patient name.,HIV Infection is a disease.,abacavir is a drug.
+Misty Zupone is a patient name.,Angina is a disease.,aspirin is a drug.
+Yoko Maddrell is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Anna-maria Cordova is a patient name.,Angina is a disease.,metoprolol is a drug.
+Gregoor Sturdgess is a patient name.,Angina is a disease.,amlodipine is a drug.
+Annabelle O'Dowling is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Dougy Hawkswood is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Evie Tearney is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Nathaniel Fernez is a patient name.,Angina is a disease.,ranolazine is a drug.
+Conway Magenny is a patient name.,Angina is a disease.,atenolol is a drug.
+Nikolas Truter is a patient name.,Angina is a disease.,carvedilol is a drug.
+Adrianna Caplan is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Vanessa Lepper is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Hanni Rape is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Jen Grigorian is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Cullan Messer is a patient name.,Psoriasis is a disease.,triamcinolone is a drug.
+Reynold Cubbinelli is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Shaylah Beetles is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Ashton Blesdill is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Gianna Legrice is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Whitney Grunwall is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Raquela Trundell is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Elsi Andretti is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Clim Lampe is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Emmett Ogilvie is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Estell Casoni is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Bradney Leek is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Vasilis Cobello is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Torry Tedorenko is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Pietra Russilll is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Norina Barnett is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Courtenay Reyna is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Janina Whawell is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Janie Court is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Constanta Farley is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Darill Wase is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Louis Piscopello is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Dory Ivanchenkov is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+William Fansy is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Jarib Craven is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Yehudit Dunston is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Calvin Drover is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.
+Jasmine Purcer is a patient name.,Osteoarthritis is a disease.,meloxicam is a drug.
+Gerti Flecknell is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Tam Betonia is a patient name.,Osteoarthritis is a disease.,naproxen is a drug.
+Eryn Persitt is a patient name.,Osteoarthritis is a disease.,ibuprofen is a drug.
+Norrie Hubble is a patient name.,Osteoarthritis is a disease.,celecoxib is a drug.
+Netta Toombes is a patient name.,Osteoarthritis is a disease.,chondroitin AND glucosamine is a drug.
+Galen Acom is a patient name.,Osteoarthritis is a disease.,diclofenac is a drug.
+Frasco Symcox is a patient name.,Osteoarthritis is a disease.,etodolac is a drug.
+Herby Preedy is a patient name.,Osteoarthritis is a disease.,prednisone is a drug.
+Ayn Cromb is a patient name.,Osteoarthritis is a disease.,aspirin is a drug.
+Dewey Kayne is a patient name.,Osteoarthritis is a disease.,nabumetone is a drug.
+Garald Connor is a patient name.,Osteoarthritis is a disease.,duloxetine is a drug.
+Drusi Hothersall is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Berkley Jopp is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Giff Comport is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Cassondra Pearlman is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Dani Bangs is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Flem Yanshin is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Ulick Grundy is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Amalia Hotton is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Shari Drinkhill is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Ellen Cuel is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Valene Helm is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Iorgo Kramer is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Morissa Godspeede is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Scott Pelerin is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Dasha Blant is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Nicolas Harborow is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Homere Rutty is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Cristina Tardiff is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Stuart Larchiere is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Barry Cardenas is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Dona Elsmor is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Briant Bastin is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Tamara Garvin is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Hal Bohlsen is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Allianora Avann is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Tania Boxer is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Clarke Junifer is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Lana MacLleese is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Hinze Lissett is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Oralla Danielovitch is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Joelle Archley is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Fara Ladel is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Vitoria Fayter is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Roshelle Sapp is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Federica Cusick is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Cymbre Zieme is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Austen Bentke is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Morgen Gascoine is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Ely Parnell is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Durant Keavy is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Blancha Sedgman is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Ingunna Samett is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Amby Shipsey is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Laurene Copcott is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Mozelle Doogue is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Ambrosius Fines is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Ilyssa Pilipets is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Cary Morrott is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Risa Pester is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Torrie Adlington is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Benedikta Huerta is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Maxie Dumphry is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Dev Rottery is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Antonius Jepps is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Marven Grouer is a patient name.,Angina is a disease.,aspirin is a drug.
+Garry Shakespeare is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Madlen Izen is a patient name.,Angina is a disease.,metoprolol is a drug.
+Daisey McKeady is a patient name.,Angina is a disease.,amlodipine is a drug.
+Cosme Casewell is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Kay Crowter is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Lorraine Archambault is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Sadie Durrad is a patient name.,Angina is a disease.,ranolazine is a drug.
+Craig Strood is a patient name.,Angina is a disease.,atenolol is a drug.
+Jemimah Gowland is a patient name.,Angina is a disease.,carvedilol is a drug.
+Niles Piddock is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Bev Fullalove is a patient name.,Chronic Fatigue Syndrome is a disease.,modafinil is a drug.
+Giordano Guidera is a patient name.,Chronic Fatigue Syndrome is a disease.,duloxetine is a drug.
+Jacky Leipold is a patient name.,Chronic Fatigue Syndrome is a disease.,lisdexamfetamine is a drug.
+Averil O'Sheilds is a patient name.,Chronic Fatigue Syndrome is a disease.,amantadine is a drug.
+Grethel MacComiskey is a patient name.,Chronic Fatigue Syndrome is a disease.,armodafinil is a drug.
+Price Edworthie is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Valma Wharton is a patient name.,Oral Thrush is a disease.,miconazole is a drug.
+Terrye Jaskowicz is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Marina McKitterick is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Halsey Doerffer is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Edlin Gilbertson is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Manya Woolatt is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Salvatore Yankin is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Truda Henkmann is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Glynnis Cutchee is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Sherlock De Normanville is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Vincenty De Ath is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Cecil Parkhouse is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Gaelan Kenelin is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Georgeta Crowther is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Nathalie Brave is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Jeffy Sphinxe is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Julie Brokenshaw is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Gertrud Gladden is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Tate Sedge is a patient name.,Tinea Cruris is a disease.,terbinafine is a drug.
+Cecily Kemish is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Vaughan Tamas is a patient name.,Tinea Pedis is a disease.,terbinafine is a drug.
+Roze Onslow is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Ange Gawthrop is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Ken Fruin is a patient name.,Tinea Corporis is a disease.,ketoconazole is a drug.
+Andie Krop is a patient name.,Tinea Corporis is a disease.,terbinafine is a drug.
+Esmaria Pavlishchev is a patient name.,Schizophrenia is a disease.,risperidone is a drug.
+Meagan Ringham is a patient name.,Schizophrenia is a disease.,clozapine is a drug.
+Nathalie Pardey is a patient name.,Schizophrenia is a disease.,olanzapine is a drug.
+Hyman Goatcher is a patient name.,Schizophrenia is a disease.,quetiapine is a drug.
+Ax Stonehewer is a patient name.,Schizophrenia is a disease.,aripiprazole is a drug.
+Madelyn Pithcock is a patient name.,Schizophrenia is a disease.,chlorpromazine is a drug.
+Nolie Skewis is a patient name.,Schizophrenia is a disease.,paliperidone is a drug.
+Davidson De la Yglesias is a patient name.,Schizophrenia is a disease.,ziprasidone is a drug.
+Godfree Zecchinii is a patient name.,Schizophrenia is a disease.,loxapine is a drug.
+Elspeth Snasdell is a patient name.,Angina is a disease.,aspirin is a drug.
+Melloney Poplee is a patient name.,Angina is a disease.,nitroglycerin is a drug.
+Mame Yendle is a patient name.,Angina is a disease.,metoprolol is a drug.
+Dorella Dutson is a patient name.,Angina is a disease.,amlodipine is a drug.
+Devlin Clynmans is a patient name.,Angina is a disease.,isosorbide mononitrate is a drug.
+Harald Spowart is a patient name.,Angina is a disease.,isosorbide dinitrate is a drug.
+Germayne Bartali is a patient name.,Angina is a disease.,enoxaparin is a drug.
+Wain Abrahamsson is a patient name.,Angina is a disease.,ranolazine is a drug.
+Heloise Culverhouse is a patient name.,Angina is a disease.,atenolol is a drug.
+Jerald Boar is a patient name.,Angina is a disease.,carvedilol is a drug.
+Valentin Bakes is a patient name.,Angina is a disease.,amlodipine AND atorvastatin is a drug.
+Jessa McQuorkel is a patient name.,Dermal Ulcer is a disease.,collagenase is a drug.
+Manny Cridlon is a patient name.,Dermal Ulcer is a disease.,becaplermin is a drug.
+Guillaume Scarfe is a patient name.,Dermal Ulcer is a disease.,cadexomer iodine is a drug.
+Roxane McNeice is a patient name.,Muscle Pain is a disease.,ibuprofen is a drug.
+Reider Facher is a patient name.,Muscle Pain is a disease.,naproxen is a drug.
+Amberly Worham is a patient name.,Muscle Pain is a disease.,acetaminophen is a drug.
+Karine Trevers is a patient name.,Muscle Pain is a disease.,diclofenac is a drug.
+Osborne Rawling is a patient name.,Muscle Pain is a disease.,nabumetone is a drug.

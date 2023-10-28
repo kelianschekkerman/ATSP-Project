@@ -8,7 +8,7 @@
 - Run the code from the base directory
 
 ## Debug
-- For debugrun the debug config:
+- For debug run the debug config:
 for masked language modeling:
 `python Code/model/main.py debug/mlm.json`
 for next word prediction:

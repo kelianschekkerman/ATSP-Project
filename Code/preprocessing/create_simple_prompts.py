@@ -1,5 +1,4 @@
 import pandas as pd
-import random
 from tqdm import tqdm
 
 columns = ['sentence', 'label']
