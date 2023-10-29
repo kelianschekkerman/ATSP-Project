@@ -1,4 +1,4 @@
-results/
+pytorch_model.bin
 *cached_*
 
 # Byte-compiled / optimized / DLL files
