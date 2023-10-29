@@ -22,5 +22,5 @@ def save_predictions(eval_data_path, predictions, labels, output_dir, complete_p
             writer.writerow(["label"] + [f'w{i}' for i in range(predictions_count)])
         
             # Write the data
-            for label, prediction_list, complete_prediction_list in zip(labels, predictions):
+            for label, prediction_list in zip(labels, predictions):
                 writer.writerow([label] + prediction_list)
