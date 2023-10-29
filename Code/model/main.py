@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     model_slug = config['model_name'].split('/')[-1] if config['model_name'] else \
                  config['model_path'].split('/')[-1] + '_PRE_'
-    output_dir = Path(f"results/{model_slug}_{config['epochs']}_{Path(config['train_data_path']).stem}")
+    output_dir = Path(f"results/{model_slug}_{config['epochs']}_{Path(config['train_data_path']).parent.stem}_{Path(config['train_data_path']).stem}")
 
     trainer = trainer_mlm if config['task']=='mlm' else trainer_nwp
 
