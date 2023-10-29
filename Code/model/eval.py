@@ -23,7 +23,7 @@ def eval_predictions(eval_data_path, predictions, labels, output_dir):
     def in_dataset(pred, label):
         # check if prediction is in dataset
         # return tuple: list of bools, none because labels are not used
-        return [any(any(p.lower() in str(item).lower() for item in label) for p in pred_item) for pred_item in pred], None
+        return [any(any(p.lower() == str(item).lower() for item in label) for p in pred_item) for pred_item in pred], None
 
     conditions = [full_string, first_word, first_three_chars]
 
