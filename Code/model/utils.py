@@ -8,7 +8,7 @@ def myprint(s):
 def save_predictions(eval_data_path, predictions, labels, output_dir, complete_predictions=None):
     output_path = output_dir / f"pred_{eval_data_path.stem}.csv"
     predictions_count = len(predictions[0])
-    with open(output_path, 'w', newline='') as csvfile:
+    with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
 
         if complete_predictions:
