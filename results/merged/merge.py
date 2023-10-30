@@ -38,15 +38,15 @@ for folder in all_folders:
                     with open(full_path, 'r') as f:
                         data = json.load(f)
                         results[inner_folder] = {
-                            "percentage_found_in_dataset": data.get("percentage_found_in_dataset", 0),
-                            "full_string_top_1": data["full_string"].get("top_1", 0),
-                            "full_string_top_3": data["full_string"].get("top_3", 0),
-                            "full_string_top_5": data["full_string"].get("top_5", 0),
-                            "full_string_top_10": data["full_string"].get("top_10", 0),
-                            "first_three_chars_top_1": data["first_three_chars"].get("top_1", 0),
-                            "first_three_chars_top_3": data["first_three_chars"].get("top_3", 0),
-                            "first_three_chars_top_5": data["first_three_chars"].get("top_5", 0),
-                            "first_three_chars_top_10": data["first_three_chars"].get("top_10", 0),
+                            "percentage_found_in_dataset": round(data.get("percentage_found_in_dataset", 0), 2),
+                            "full_string_top_1": round(data["full_string"].get("top_1", 0)*100, 2),
+                            "full_string_top_3": round(data["full_string"].get("top_3", 0)*100, 2),
+                            "full_string_top_5": round(data["full_string"].get("top_5", 0)*100, 2),
+                            "full_string_top_10": round(data["full_string"].get("top_10", 0)*100, 2),
+                            "first_three_chars_top_1": round(data["first_three_chars"].get("top_1", 0)*100, 2),
+                            "first_three_chars_top_3": round(data["first_three_chars"].get("top_3", 0)*100, 2),
+                            "first_three_chars_top_5": round(data["first_three_chars"].get("top_5", 0)*100, 2),
+                            "first_three_chars_top_10": round(data["first_three_chars"].get("top_10", 0)*100, 2),
                         }
 
             with open(eval_file.replace('.json', '.csv'), 'w', newline='') as csvfile:
