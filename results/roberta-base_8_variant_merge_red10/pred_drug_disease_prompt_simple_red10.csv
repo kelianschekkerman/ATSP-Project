@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, ()., management,ina
+Acute Myeloid Leukemia,.,",",</s>,., with, condition,!, management,".""", ().
+Acute Myeloid Leukemia,.,",",</s>,., with,line, ().,!,".""","""."
+Acute Myeloid Leukemia,.,",",</s>, with,., management, condition,line,!, ().
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, condition, management,;,ina
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition,ina,!,%.
+Acute Myeloid Leukemia,.,</s>,",", with,., management, condition, in,!,ina
+Acute Myeloid Leukemia,.,",",</s>, with,.,!, ().,".""", condition, management
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina,line,"."""
+Acute Myeloid Leukemia,.,</s>,",",.,!, with, ().,%.,".,","."""
+Acute Myeloid Leukemia,.,",",</s>, with,., condition, management,ina, ().,"."""
+Acute Myeloid Leukemia,.,</s>,",",., with, condition,ina,line, management,!
+Acute Myeloid Leukemia,.,</s>,",", with,., condition, management, in,ina, ().
+High Cholesterol,.,",",</s>,., with,!, condition,;, ().,"."""
+High Cholesterol,.,",",</s>, with,.,!,".""", management, condition,;
+High Cholesterol,.,",",</s>, with,., condition, management,!,ina,line
+High Cholesterol,.,",",</s>,., with, condition,!, management, ().,ina
+High Cholesterol,.,</s>,",", with,.,!,line, in, ().,"."""
+High Cholesterol,.,",",</s>, with,., condition,!, management,".""",;
+High Cholesterol,.,</s>,",", with,., management, condition, in,!,;
+High Cholesterol,.,</s>,",", with,., in,line, and, Mac, condition
+High Cholesterol,.,",",</s>,.,!, with,line,*.,%.,".,"
+High Cholesterol,.,</s>,",",., with, management, condition, ().,%.,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+Non-Hodgkin's Lymphoma,.,",",</s>,., with,!, condition, management, ().,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!, management,".""", ().
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition,!,ina, ()., management
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., condition, management,!,ina,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., management, condition, in,;,line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, ()., management,ina
+Non-Hodgkin's Lymphoma,.,</s>,",",., with, condition,!, management, ().,ina
+Non-Hodgkin's Lymphoma,.,</s>,",", with,., management, in, condition,ina, ().
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,!, condition, management,line,ina
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, ().,ina,!,"."""
+Non-Hodgkin's Lymphoma,.,",",</s>, with,., condition, management,ina,!,;
+Non-Hodgkin's Lymphoma,.,",",</s>,., with, condition, management,ina,".""",line
+Non-Hodgkin's Lymphoma,.,",",</s>, with,.,ina, condition, management, in,line
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Borderline Personality Disorder,.,",",</s>,., with,!, in, condition,;, ().
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, ().,".""",;
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,!
+Borderline Personality Disorder,.,",",</s>,., with, condition,!,ina, ()., management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition, ().,;, management
+Borderline Personality Disorder,.,",",</s>,., with,!, condition,".""",;, ().
+Borderline Personality Disorder,.,</s>,",", with,., condition,ina, in,line,!
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,%.
+Borderline Personality Disorder,.,",",</s>, with,., management, condition,line,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,line,!
+Borderline Personality Disorder,.,</s>,",", with,.,!,".""", ().,;, and
+Borderline Personality Disorder,.,",",</s>, with,., management, condition, in,!,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management,ina,line
+Borderline Personality Disorder,.,</s>,",", with,., in, condition, of,!,ina
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!, ().,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,ina,!,line
+Borderline Personality Disorder,.,",",</s>, with,.,!, condition,;, ()., management
+Borderline Personality Disorder,.,",",</s>,., with, condition, management,!,line,ina
+Borderline Personality Disorder,.,",",</s>, with,., condition, management, ().,ina,!
+Borderline Personality Disorder,.,",",</s>, with,., condition,!, management, ().,;
+Borderline Personality Disorder,.,",",</s>, with,., condition,!,line,ina, management
+Borderline Personality Disorder,.,",",</s>, with,., condition,line, management,ina,;
+Borderline Personality Disorder,.,",",</s>,., with, condition,!, management,ina,"."""
+Borderline Personality Disorder,.,</s>,",", with,.,line, condition, in, management,;
+Borderline Personality Disorder,.,",",</s>, with,., condition, management,!,ina,line
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Multiple Myeloma,.,",",</s>, with,., condition,ina,line, management,!
+Multiple Myeloma,.,",",</s>, with,., condition, management,ina,!, ().
+Multiple Myeloma,.,",",</s>,., with,!, condition, management, ().,"."""
+Multiple Myeloma,.,",",</s>, with,., condition, management,!,ina, ().
+Multiple Myeloma,.,</s>,",", with,., condition, management,ina,line, ().
+Multiple Myeloma,.,",",</s>, condition,., with, management,ina,%., ().
+Multiple Myeloma,.,",",</s>, with,., management, condition,!,ina,line
+Multiple Myeloma,.,</s>,",",., with, condition, management,ina,line,!
+Multiple Myeloma,.,",",</s>, with,., management, condition,".""",!,ina
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+HIV Infection,.,",",</s>,., with, condition,!, management, ().,"."""
+HIV Infection,.,</s>,",",!,., with,%.,*.,;,"."""
+HIV Infection,.,",",</s>,., with, condition, ().,!,line,ina
+HIV Infection,.,</s>,",",!,., with,line,".,",?,*.
+HIV Infection,.,",",</s>, with,.,line,!, ()., in, condition
+HIV Infection,.,",",</s>, with,., condition, management,line,!,ina
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Psoriasis,.,</s>,",",., with, management, condition, ().,!, in
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,., condition,".""",!, in,;
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition,!,line, management,"."""
+Osteoarthritis,.,</s>,",", with,., condition, management,!, in,;
+Osteoarthritis,.,",",</s>, with,., condition, management,ina, ().,oma
+Osteoarthritis,.,",",</s>,.,!, with, ().,%.,".""",*.
+Osteoarthritis,.,",",</s>,., with,line,ina, ()., management, condition
+Osteoarthritis,.,",",</s>, with,., condition, ().,ina,!, management
+Osteoarthritis,.,",",</s>,., with,!, condition,;, ()., management
+Osteoarthritis,.,",",</s>,., with,!,line, condition,;,".,"
+Osteoarthritis,.,",",</s>, with,., condition, management,line,!,ina
+Osteoarthritis,.,",",</s>, with,.,!, condition, management, ().,line
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", in, management
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition, management, ().,line
+Chronic Fatigue Syndrome,.,",",</s>,., with, management, condition,".""",!, ().
+Chronic Fatigue Syndrome,.,",",</s>, with,.,!, condition,".""", management,;
+Chronic Fatigue Syndrome,.,</s>,",", with,., management, condition,line,ina,!
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Oral Thrush,.,",",</s>, with,., condition, management,!,ina,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Cruris,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Pedis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Tinea Corporis,.,",",</s>, with,.,!, management,line, condition,ina
+Tinea Corporis,.,",",</s>, with,., condition,ina,!,;,line
+Schizophrenia,.,",",</s>,., with, condition,!,ina, ()., management
+Schizophrenia,.,",",</s>, with,.,!, condition,;, ()., management
+Schizophrenia,.,",",</s>,., with,!, condition,".""",;, ().
+Schizophrenia,.,",",</s>,., with,!, in, condition,;, ().
+Schizophrenia,.,",",</s>, with,., condition, management,ina,line,!
+Schizophrenia,.,",",</s>,., with,!, ()., condition,line, management
+Schizophrenia,.,",",</s>, with,., condition, management,!,ina,line
+Schizophrenia,.,</s>,",", with,.,ina, condition, in, management, is
+Schizophrenia,.,",",</s>, with,., condition,!, management,line,;
+Angina,.,",",</s>,., with,!,line, condition,;,".,"
+Angina,.,",",</s>, with,.,!, condition, management,line,ina
+Angina,.,",",</s>, with,., condition,!, management,;, ().
+Angina,.,",",</s>, with,., condition,!, management,".""",;
+Angina,.,",",</s>,., with,!, ().,line,".""","""."
+Angina,.,",",</s>,., with,!,line, ().,".""",?
+Angina,.,",",</s>, with,., condition,!,line, management,ina
+Angina,.,",",</s>, with,., ().,!,;, condition,"."""
+Angina,.,",",</s>,., with, ().,!,;, condition,"."""
+Angina,.,",",</s>, with,., condition,!,ina, management, ().
+Angina,.,",",</s>,.,!, with,line,".""",".,",*.
+Dermal Ulcer,.,</s>,",",., with, management, condition,line,!,ina
+Dermal Ulcer,.,</s>,",", with,., management, condition,-,ina,line
+Dermal Ulcer,.,</s>,",", with,.,-,ina, condition, in,!
+Muscle Pain,.,</s>,",", with,., condition, management,!, in,;
+Muscle Pain,.,",",</s>, with,., condition,!,line, management,"."""
+Muscle Pain,.,",",</s>, with,., condition,!,;,".""",line
+Muscle Pain,.,",",</s>,., with,line,ina, ()., management, condition
+Muscle Pain,.,",",</s>, with,., condition, management,line,!,ina

@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin,., a, is, patient, the,</s>, name, or,', and
+nitroglycerin,., a, is, patient, the, name,</s>, or, with,'
+metoprolol,., a, is, patient, the,</s>, name,', or, with
+amlodipine,., a, is, patient, name,</s>, the,', or,'s
+isosorbide mononitrate,., a, is, patient, name,</s>, the,', or,'s
+isosorbide dinitrate,., a, is, patient,</s>, the, name,', or,'s
+enoxaparin,., a, is, patient, the,</s>, name,', or, with
+ranolazine,., a, is, patient,</s>, the, name,', or, with
+atenolol,., a, is, patient,</s>, the, name,', or,'s
+carvedilol,., a, is, patient, the,</s>, name,', or, with
+amlodipine AND atorvastatin,., a, is, patient, name, the,</s>,', or,'s
+ibuprofen,., a, is, patient,</s>, the, name,', with,'s
+naproxen,., a, is, patient, name, the,</s>,', or, with
+acetaminophen,., a, is, patient, name, the,</s>, or,','s
+diclofenac,., a, is, patient, the,</s>, name, or, with, to
+nabumetone,., a, is, patient,',</s>, the, name,'s, or
+lamivudine,., a, is, patient, the,</s>, name, or,','s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, the,</s>, name,', or, with
+ritonavir,., a, is, patient, name, the,</s>,', or,'s
+emtricitabine AND tenofovir,., a, is, patient, the, name,</s>,', or, with
+tenofovir,., a, is, patient, the,</s>, name,', or,'s
+abacavir,., a, is, patient, the, name,</s>, or,', with
+lamivudine,., a, is, patient,</s>, the, name,', with, or
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient,</s>, name, the,', or, with
+ritonavir,., a, is, patient,</s>, the, name,', or,'s
+emtricitabine AND tenofovir,., a, is, patient, name, the,</s>,', or,'s
+tenofovir,., a, is, patient, name, the,</s>,', or, with
+abacavir,., a, is, patient, the, name,</s>,', or, with
+cytarabine,., a, is, patient, name,</s>, the,', or, with
+vincristine,., a, is, patient, name, the,</s>,', or, with
+daunorubicin,., a, is, patient,</s>, the, name,', or,'s
+idarubicin,., a, is, patient, name,</s>, the,', or,'s
+decitabine,., a, is, patient, the,</s>, name,', or,'s
+gemtuzumab,., a, is, patient, name,</s>, the,','s, or
+midostaurin,., a, is, patient, the,</s>, name, or,', with
+venetoclax,., a, is, patient, the, name,</s>,','s, or
+enasidenib,., a, is, patient, the,</s>, name,', or,'s
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient,</s>, name, the,', or,'s
+ivosidenib,., a, is, patient, the,</s>, name,', or,'s
+gilteritinib,., a, is, patient, the,</s>, name,', with, or
+glasdegib,., a, is, patient, the,</s>, name,', or,'s
+lamivudine,., a, is, patient, the, name,</s>,', or, with
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, name, the,</s>,','s, or
+ritonavir,., a, is, patient, the,</s>, name,', or,'s
+emtricitabine AND tenofovir,., a, is, patient,</s>, the, name,', with,'s
+tenofovir,., a, is, patient, the, name,</s>, or,', with
+abacavir,., a, is, patient, the,</s>, name, or,', with
+cytarabine,., a, is, patient, the,</s>, name,', or, with
+vincristine,., a, is, patient, the,</s>, name,', or, with
+daunorubicin,., a, is, patient, the, name,</s>, with, or,'
+idarubicin,., a, is, patient, the,</s>, name,', or, with
+decitabine,., a, is, patient, the, name,</s>,', or, with
+gemtuzumab,., a, is, patient,</s>, the, name,', or, with
+midostaurin,., a, is, patient,</s>, the, name,', or, with
+venetoclax,., a, is, patient, the,</s>, name,', or,'s
+enasidenib,., a, is, patient,</s>, the, name,', or,'s
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient,</s>, the, name,', or,'s
+ivosidenib,., a, is, patient, the,</s>, name,', or, with
+gilteritinib,., a, is, patient,</s>, the, name,', or,'s
+glasdegib,., a, is, patient, the,</s>, name,', or, with
+cytarabine,., a, is, patient, the,</s>, name, or,', with
+vincristine,., a, is, patient, name,</s>, the, or,', and
+daunorubicin,., a, is, patient, the,</s>, name,', or,'s
+idarubicin,., a, is, patient, the,</s>, name,', or, with
+decitabine,., a, is, patient,</s>, the, name, or,', with
+gemtuzumab,., a, is, patient,</s>, name, the,', or,'s
+midostaurin,., a, is, patient, the, name,</s>,', or, with
+venetoclax,., a, is, patient, name,</s>, the,', with, or
+enasidenib,., a, is, patient, name, the,</s>,', or, with
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient, the,</s>, name,', or, with
+ivosidenib,., a, is, patient, the,</s>, name,', or,'s
+gilteritinib,., a, is, patient, the,</s>, name,', or, with
+glasdegib,., a, is, patient, name, the,</s>,', or, with
+lamivudine,., a, is, patient, the,</s>, name,', or,'s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient,</s>, the, name,', or,'s
+ritonavir,., a, is, patient, the,</s>, name,', or,'s
+emtricitabine AND tenofovir,., a, is, patient,</s>, name, the,', with, or
+tenofovir,., a, is, patient, name,</s>, the,', or,'s
+abacavir,., a, is, patient, name, the,</s>,', or,'s
+lamivudine,., a, is, patient, the,</s>, name,', or,'s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient,</s>, the, name,', or,'s
+ritonavir,., a, is, patient,</s>, the, name,', or,'s
+emtricitabine AND tenofovir,., a, is, patient,</s>, the, name,', or,'s
+tenofovir,., a, is, patient,</s>, the, name,', or,'s
+abacavir,., a, is, patient, the,</s>, name,', or,'s
+lamivudine,., a, is, patient, the, name,</s>,', or,'s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, the,</s>, name,', or,'s
+ritonavir,., a, is, patient, name, the,</s>, or,','s
+emtricitabine AND tenofovir,., a, is, patient, the, name,</s>,', or, and
+tenofovir,., a, is, patient,</s>, the, name,', or,'s
+abacavir,., a, is, patient,</s>, the, name, or,','s
+cytarabine,., a, is, patient, the,</s>, name,', or, with
+vincristine,., a, is, patient, name,</s>, the,', or,'s
+daunorubicin,., a, is, patient, the,</s>, name,', or,'s
+idarubicin,., a, is, patient, the,</s>, name,', or,'s
+decitabine,., a, is, patient,</s>, the, name,', or,'s
+gemtuzumab,., a, is, patient, the,</s>, name,', or, with
+midostaurin,., a, is, patient,</s>, name, the,', or,'s
+venetoclax,., a, is, patient, name, the,</s>,', or, with
+enasidenib,., a, is, patient, the,</s>, name,', with, or
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient,</s>, the, name,', or,'s
+ivosidenib,., a, is, patient, the,</s>, name,', or,'s
+gilteritinib,., a, is, patient, the,</s>, name,', or,'s
+glasdegib,., a, is, patient,</s>, the, name,', or, with
+aspirin,., a, is, patient, name,</s>, the,', or,'s
+nitroglycerin,., a, is, patient, the,</s>, name,', or,'s
+metoprolol,., a, is, patient,</s>, the, name,', or,'s
+amlodipine,., a, is, patient, the,</s>, name,', or, with
+isosorbide mononitrate,., a, is, patient, the, name,</s>, or,','s
+isosorbide dinitrate,., a, is, patient,</s>, the, name,', or, with
+enoxaparin,., a, is, patient, the,</s>, name,', or, with
+ranolazine,., a, is, patient, the,</s>, name,', or,'s
+atenolol,., a, is, patient, name, the,</s>,', or, with
+carvedilol,., a, is, patient, the, name,</s>, or,', and
+amlodipine AND atorvastatin,., a, is, patient, the,</s>, name,', or,'s
+aspirin,., a, is, patient, name,</s>, the, or,','s
+nitroglycerin,., a, is, patient,</s>, the, name,', or, with
+metoprolol,., a, is, patient, the,</s>, name,', or,'s
+amlodipine,., a, is, patient, the, name,</s>,', or, with
+isosorbide mononitrate,., a, is, patient, name,</s>, the,', or, with
+isosorbide dinitrate,., a, is, patient,</s>, the, name,', or, with
+enoxaparin,., a, is, patient,</s>, the, name,', or, with
+ranolazine,., a, is, patient,</s>, the, name,', or,'s
+atenolol,., a, is, patient, name, the,</s>,', or,'s
+carvedilol,., a, is, patient, name, the,</s>,', or,'s
+amlodipine AND atorvastatin,., a, is, patient, name, the,</s>,', or, with
+aspirin,., a, is, patient, the,</s>, name, or,', with
+nitroglycerin,., a, is, patient, the,</s>, name,', or,'s
+metoprolol,., a, is, patient, the,</s>, name,', or,'s
+amlodipine,., a, is, patient, name,</s>, the,', or,'s
+isosorbide mononitrate,., a, is, patient,</s>, the, name,', or,'s
+isosorbide dinitrate,., a, is, patient, the,</s>, name,', or, with
+enoxaparin,., a, is, patient, the, name,</s>, or,','s
+ranolazine,., a, is, patient, the,</s>, name, or,', with
+atenolol,., a, is, patient,</s>, the, name,', or, with
+carvedilol,., a, is, patient, name, the,</s>,', or,'s
+amlodipine AND atorvastatin,., a, is, patient, the, name,</s>,', or, with
+aspirin,., a, is, patient, the,</s>, name, or,','s
+nitroglycerin,., a, is, patient, the,</s>, name,', or, with
+metoprolol,., a, is, patient, the,</s>, name,', or,'s
+amlodipine,., a, is, patient, name, the,</s>, or,','s
+isosorbide mononitrate,., a, is, patient, the, name,</s>,', or, with
+isosorbide dinitrate,., a, is, patient,</s>, name, the,', or,'s
+enoxaparin,., a, is, patient, the,</s>, name,', or, with
+ranolazine,., a, is, patient, the, name,</s>,', or, with
+atenolol,., a, is, patient, the,</s>, name,', or, and
+carvedilol,., a, is, patient, the, name,</s>,', or,'s
+amlodipine AND atorvastatin,., a, is, patient,</s>, the, name,', or, and
+aspirin,., a, is, patient,</s>, the, name,', or, with
+nitroglycerin,., a, is, patient, the,</s>, name,', or, with
+metoprolol,., a, is, patient, name, the,</s>,', or,'s
+amlodipine,., a, is, patient,</s>, the, name,', or,'s
+isosorbide mononitrate,., a, is, patient, the,</s>, name,', or, with
+isosorbide dinitrate,., a, is, patient, the, name,</s>,', or,'s
+enoxaparin,., a, is, patient,</s>, the, name,', or,'s
+ranolazine,., a, is, patient, the,</s>, name,', or, with
+atenolol,., a, is, patient,</s>, name, the,', or, with
+carvedilol,., a, is, patient,</s>, name, the,', or,'s
+amlodipine AND atorvastatin,., a, is, patient, the, name,</s>,', with, or
+ibuprofen,., a, is, patient, the,</s>, name,', or, with
+naproxen,., a, is, patient, the, name,</s>, or,', with
+acetaminophen,., a, is, patient, the,</s>, name,', or,'s
+diclofenac,., a, is, patient, the,</s>, name,', with,'s
+nabumetone,., a, is, patient, name, the,</s>,', or,'s
+ibuprofen,., a, is, patient, the,</s>, name,', or, with
+naproxen,., a, is, patient,</s>, the, name,', or, with
+acetaminophen,., a, is, patient, the,</s>, name,', or, with
+diclofenac,., a, is, patient, the,</s>, name,', or, with
+nabumetone,., a, is, patient, the,</s>, name,','s, or
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+naproxen,., a, is, patient,</s>, the, name,', or,'s
+acetaminophen,., a, is, patient, the,</s>, name,', or, with
+diclofenac,., a, is, patient, the,</s>, name,', or, with
+nabumetone,., a, is, patient, the,</s>, name,', or, with
+ibuprofen,., a, is, patient,</s>, the, name,', or, with
+naproxen,., a, is, patient, name, the,</s>,', with, or
+acetaminophen,., a, is, patient, the,</s>, name,','s, or
+diclofenac,., a, is, patient, the,</s>, name,','s, or
+nabumetone,., a, is, patient,</s>, the, name,', to, or
+ibuprofen,., a, is, patient, the, name,</s>,', or, with
+naproxen,., a, is, patient,</s>, the, name,', with, or
+acetaminophen,., a, is, patient, the,</s>, name,', or, with
+diclofenac,., a, is, patient,</s>, the, name, or,','s
+nabumetone,., a, is, patient,</s>, the, name, or,','s
+lamivudine,., a, is, patient, the,</s>, name,', or,'s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, the,</s>, name, or,','s
+ritonavir,., a, is, patient,</s>, the, name,', or,'s
+emtricitabine AND tenofovir,., a, is, patient,</s>, name, the,', with, or
+tenofovir,., a, is, patient,</s>, the, name,', or,'s
+abacavir,., a, is, patient, the,</s>, name,', or,'s
+meloxicam,., a, is, patient, the,</s>, name,', or, with
+diclofenac,., a, is, patient, the,</s>, name,', or, with
+naproxen,., a, is, patient, the,</s>, name,', or, with
+ibuprofen,., a, is, patient,</s>, the, name, with, or, and
+celecoxib,., a, is, patient,</s>, the, name,', or, with
+chondroitin AND glucosamine,., a, is, patient, name, the,</s>,', with, or
+diclofenac,., a, is, patient,</s>, the, name,', or, with
+etodolac,., a, is, patient, the,</s>, name,', or, with
+prednisone,., a, is, patient, the,</s>, name,', or, and
+aspirin,., a, patient, is, name, the,</s>,','s, or
+nabumetone,., a, is, patient, name, the,</s>, or,', with
+duloxetine,., a, is, patient,</s>, the, name,', or,'s
+terbinafine,., a, is, patient, the,</s>, name,', or, with
+terbinafine,., a, is, patient, the,</s>, name, or,', with
+collagenase,., a, is, patient, name,</s>, the,', or,'s
+becaplermin,., a, is, patient, the,</s>, name,', or,'s
+cadexomer iodine,., a, is, patient, the,</s>, name,', or,'s
+modafinil,., a, is, patient, the,</s>, name, or,', and
+duloxetine,., a, is, patient,</s>, the, name,', or, with
+lisdexamfetamine,., a, is, patient, name, the,</s>,', with, or
+amantadine,., a, is, patient, name, the,</s>,', or,'s
+armodafinil,., a, is, patient,</s>, the, name,', or, with
+ketoconazole,., a, is, patient, the,</s>, name,', or, with
+terbinafine,., a, is, patient,</s>, the, name,', or, with
+ketoconazole,., a, is, patient, the,</s>, name,', or, with
+terbinafine,., a, is, patient, name, the,</s>,', or,'s
+quetiapine,., a, is, patient, the, name,</s>,', or, with
+lamotrigine,., a, is, patient, name, the,</s>,','s, or
+lithium,., a, is, patient, the,</s>, name,', or, with
+risperidone,., a, is, patient, name, the,</s>,', or,'s
+fluoxetine,., a, is, patient,</s>, name, the,', or, with
+olanzapine,., a, is, patient, the, name,</s>,', or, with
+buspirone,., a, is, patient, the,</s>, name, or,','s
+clonazepam,., a, is, patient, the,</s>, name,', or, with
+sertraline,., a, is, patient, the,</s>, name,', or,'s
+aripiprazole,., a, is, patient,</s>, the, name,', with, or
+topiramate,., a, is, patient,</s>, name, the,', or,'s
+diazepam,., a, is, patient, the, name,</s>,', or,'s
+lorazepam,., a, is, patient, the,</s>, name, or,', with
+escitalopram,., a, is, patient, the, name,</s>,', or,'s
+divalproex sodium,., a, is, patient, name,</s>, the,', or,'s
+alprazolam,., a, is, patient,</s>, the, name,'s, or,'
+clozapine,., a, is, patient,</s>, the, name,', or, with
+oxcarbazepine,., a, is, patient, the,</s>, name,', or,'s
+citalopram,., a, patient, is, the, name,</s>,','s, with
+haloperidol,., a, is, patient, the,</s>, name,', or, with
+lurasidone,., a, is, patient, the, name,</s>,', or,'s
+l-methylfolate,., a, is, patient, name, the,</s>,', or,'s
+carbamazepine,., a, is, patient, the,</s>, name,', or, and
+asenapine,., a, is, patient, name, the,</s>,', or,'s
+paliperidone,., a, is, patient, the, name,</s>,', or,'s
+quetiapine,., a, is, patient, name, the,</s>,', or,'s
+lamotrigine,., a, is, patient,</s>, the, name,', or,'s
+lithium,., a, is, patient, the,</s>, name, or,', with
+risperidone,., a, is, patient, the,</s>, name,', with, or
+fluoxetine,., a, is, patient, the,</s>, name,', or, with
+olanzapine,., a, is, patient, name,</s>, the,', or, with
+buspirone,., a, is, patient, the, name,</s>,', or,'s
+clonazepam,., a, is, patient,</s>, the, name,', or, with
+sertraline,., a, is, patient,</s>, name, the,', or, with
+aripiprazole,., a, is, patient, the, name,</s>, or,', with
+topiramate,., a, is, patient, the,</s>, name,', or,'s
+diazepam,., a, is, patient, the,</s>, name,', or, with
+lorazepam,., a, is, patient, the,</s>, name,', or, with
+escitalopram,., a, is, patient,</s>, the, name,', or,'s
+divalproex sodium,., a, is, patient,</s>, the, name,', or, with
+alprazolam,., a, is, patient,</s>, the, name,', or,'s
+clozapine,., a, is, patient, name, the,</s>,', or, and
+oxcarbazepine,., a, is, patient, the,</s>, name,', or, with
+citalopram,., a, is, patient, the, name,</s>,', with, or
+haloperidol,., a, is, patient, name,</s>, the, or,', with
+lurasidone,., a, is, patient, the, name,</s>,', or,'s
+l-methylfolate,., a, is, patient, the, name,</s>,', with, or
+carbamazepine,., a, patient, is,',</s>, the, name,'s,�
+asenapine,., a, is, patient,</s>, the, name,', or,'s
+paliperidone,., a, is, patient, the,</s>, name,', or,'s
+ibuprofen,., a, is, patient,</s>, the, name,', or, with
+naproxen,., a, is, patient, the, name,</s>,', or, with
+acetaminophen,., a, is, patient, name, the,</s>,', or,'s
+diclofenac,., a, is, patient, name, the,</s>,', or,'s
+nabumetone,., a, is, patient, the,</s>, name,', or, with
+ibuprofen,., a, is, patient,</s>, the, name,', or, with
+naproxen,., a, is, patient, name, the,</s>, or, with,'
+acetaminophen,., a, is, patient, the,</s>, name,', or, with
+diclofenac,., a, is, patient,</s>, the, name,', or,'s
+nabumetone,., a, is, patient, name,</s>, the,', or,'s
+ibuprofen,., a, is, patient, the,</s>, name, or,', with
+naproxen,., a, is, patient,</s>, the, name,', or, with
+acetaminophen,., a, is, patient,',</s>, the, name,�,'s
+diclofenac,., a, is, patient, the,</s>, name,', or,'s
+nabumetone,., a, is, patient, the,</s>, name,', or, with
+cytarabine,., a, is, patient, name, the,</s>,', or, with
+vincristine,., a, is, patient, the,</s>, name,', or, with
+daunorubicin,., a, is, patient,</s>, the, name,', or,'s
+idarubicin,., a, is, patient, the, name,</s>,', or, with
+decitabine,., a, is, patient,</s>, the, name,', or,'s
+gemtuzumab,., a, is, patient,</s>, the, name,', or,'s
+midostaurin,., a, is, patient, the, name,</s>,', or,'s
+venetoclax,., a, is, patient, the,</s>, name,', or, and
+enasidenib,., a, is, patient, the,</s>, name,', or, with
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient, the,</s>, name,', or, with
+ivosidenib,., a, is, patient, the,</s>, name,', or,'s
+gilteritinib,., a, is, patient, the,</s>, name,', or,'s
+glasdegib,., a, is, patient, the,</s>, name,', with, or
+cytarabine,., a, is, patient,</s>, the, name, or, with,'
+vincristine,., a, is, patient,</s>, the, name,', or,'s
+daunorubicin,., a, is, patient, the, name,</s>, or,', with
+idarubicin,., a, is, patient, the,</s>, name,', or, with
+decitabine,., a, is, patient,</s>, the, name,', or, with
+gemtuzumab,., a, is, patient, the,</s>, name,', or,'s
+midostaurin,., a, is, patient, the,</s>, name, or,','s
+venetoclax,., a, is, patient,</s>, name, the,','s, or
+enasidenib,., a, is, patient, the, name,</s>, or,','s
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient, name,</s>, the,','s, or
+ivosidenib,., a, is, patient, name, the,</s>,', or, with
+gilteritinib,., a, is, patient, the,</s>, name,', or,'s
+glasdegib,., a, is, patient,</s>, the, name, or,', with
+cytarabine,., a, is, patient, name, the,</s>,', or,'s
+vincristine,., a, is, patient, the,</s>, name,', or,'s
+daunorubicin,., a, is, patient, the,</s>, name, or,', with
+idarubicin,., a, is, patient,</s>, name, the,', or,'s
+decitabine,., a, is, patient, name,</s>, the,', or,'s
+gemtuzumab,., a, is, patient,</s>, the, name,', or, with
+midostaurin,., a, is, patient, the,</s>, name,', or,'s
+venetoclax,., a, is, patient,</s>, the, name,', or,'s
+enasidenib,., a, is, patient, name,</s>, the,', or,'s
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient, the,</s>, name,', with, or
+ivosidenib,., a, is, patient, the,</s>, name,', or, with
+gilteritinib,., a, is, patient,</s>, the, name,', or, with
+glasdegib,., a, is, patient, the,</s>, name,', or,'s
+dexamethasone,., a, is, patient, the,</s>, name, or,','s
+thalidomide,., a, is, patient, the,</s>, name, or,','s
+cyclophosphamide,., a, is, patient, the,</s>, name,', or,'s
+lenalidomide,., a, is, patient,</s>, the, name, or,','s
+bortezomib,., a, is, patient, the, name,</s>, or, with,'
+carfilzomib,., a, is, patient, the,</s>, name,', or,'s
+pomalidomide,., a, is, patient,</s>, the, name,', or, with
+daratumumab,., a, is, patient, the,</s>, name,', or, with
+melphalan,., a, is, patient,</s>, the, name,', with, or
+dexamethasone,., a, is, patient, the,</s>, name,', or,'s
+thalidomide,., a, is, patient, the, name,</s>,', or, with
+cyclophosphamide,., a, is, patient, the, name,</s>,', or,'s
+lenalidomide,., a, is, patient,</s>, the, name,', or,'s
+bortezomib,., a, is, patient, the,</s>, name,', or,'s
+carfilzomib,., a, is, patient, name, the,</s>,', or, with
+pomalidomide,., a, is, patient,</s>, the, name,', or, with
+daratumumab,., a, is, patient,</s>, the, name, or,', with
+melphalan,., a, is, patient, name,</s>, the,','s, or
+cyclophosphamide,., a, is, patient,</s>, the, name,', or, with
+vincristine,., a, is, patient, the,</s>, name,', or,'s
+rituximab,., a, is, patient, the,</s>, name, or,','s
+methotrexate,., a, is, patient, the,</s>, name,', or,'s
+bendamustine,., a, is, patient, the, name,</s>,', or,'s
+cytarabine,., a, is, patient, the,</s>, name,', or, with
+fludarabine,., a, is, patient, the, name,</s>,'s,', or
+bleomycin,., a, is, patient, name, the,</s>,', with, or
+carmustine,., a, is, patient, the,</s>, name,', or,'s
+idelalisib,., a, is, patient,</s>, the, name,', or,'s
+ibritumomab,., a, is, patient, the,</s>, name, or, with,'
+ibrutinib,., a, is, patient, name, the,</s>, or,', with
+mitoxantrone,., a, is, patient, the,</s>, name,', or,'s
+dexamethasone,., a, is, patient,</s>, the, name,', or,'s
+thalidomide,., a, is, patient, the,</s>, name,', with, or
+cyclophosphamide,., a, is, patient,</s>, the, name,', or,'s
+lenalidomide,., a, is, patient, name, the,</s>,', with, or
+bortezomib,., a, is, patient, the,</s>, name,', or, with
+carfilzomib,., a, is, patient, the,</s>, name,', or,'s
+pomalidomide,., a, is, patient, the, name,</s>,', or,'s
+daratumumab,., a, is, patient, the, name,</s>,', or, with
+melphalan,., a, is, patient, the,</s>, name,', or,'s
+dexamethasone,., a, is, patient, name, the,</s>,', or,'s
+thalidomide,., a, is, patient, name, the,</s>, or,', with
+cyclophosphamide,., a, is, patient,</s>, the, name,', or,'s
+lenalidomide,., a, is, patient, the,</s>, name,', or,'s
+bortezomib,., a, is, patient,</s>, the, name,', or,'s
+carfilzomib,., a, is, patient, the,</s>, name,', or, with
+pomalidomide,., a, is, patient, the, name,</s>,', or,'s
+daratumumab,., a, is, patient, name, the,</s>,', or,'s
+melphalan,., a, is, patient,</s>, the, name,', or,'s
+miconazole,., a, is, patient, the,</s>, name,', or, with
+miconazole,., a, is, patient,</s>, the, name,', or,'s
+risperidone,., a, is, patient, the,</s>, name,', or, with
+clozapine,., a, is, patient,</s>, the, name,', or,'s
+olanzapine,., a, is, patient, the,</s>, name,', or, with
+quetiapine,., a, is, patient, the, name,</s>, or,', with
+aripiprazole,., a, is, patient, the,</s>, name,', or, with
+chlorpromazine,., a, is, patient, name, the,</s>,', with, or
+paliperidone,., a, is, patient, the, name,</s>,', or, with
+ziprasidone,., a, is, patient, the, name,</s>,', or,'s
+loxapine,., a, is, patient, the, name,</s>,'s, or, with
+modafinil,., a, is, patient, name, the,</s>,', or, with
+duloxetine,., a, is, patient,</s>, the, name, or,', with
+lisdexamfetamine,., a, is, patient, the,</s>, name,', or, with
+amantadine,., a, is, patient,</s>, the, name,', or,'s
+armodafinil,., a, is, patient, the, name,</s>,', or,'s
+modafinil,., a, is, patient, name,</s>, the,','s, with
+duloxetine,., a, is, patient, name,</s>, the,', or, with
+lisdexamfetamine,., a, is, patient, the,</s>, name,', or, with
+amantadine,., a, is, patient,</s>, name, the,', or,'s
+armodafinil,., a, is, patient,</s>, the, name,', or,'s
+atorvastatin,., a, is, patient, the,</s>, name, or,', with
+simvastatin,., a, is, patient, name, the,</s>,','s, with
+pravastatin,., a, is, patient, name, the,</s>,', or, with
+rosuvastatin,., a, is, patient,</s>, the, name,', or, with
+lovastatin,., a, is, patient, the,</s>, name,', or, with
+ezetimibe,., a, is, patient, the, name,</s>,', or,'s
+gemfibrozil,., a, is, patient,</s>, the, name,', or,'s
+niacin,., a, is, patient,</s>, the, name,', or,'s
+ezetimibe AND simvastatin,., a, is, patient, the,</s>, name,', or,'s
+fenofibric acid,., a, is, patient, the,</s>, name,', or,'s
+atorvastatin,., a, is, patient, the,</s>, name,', or,'s
+simvastatin,., a, is, patient,</s>, the, name,', or, with
+pravastatin,., a, is, patient, the,</s>, name, or,','s
+rosuvastatin,., a, is, patient, the,</s>, name,', or,'s
+lovastatin,., a, is, patient,</s>, the, name,', or, with
+ezetimibe,., a, is, patient,</s>, name, the,','s, or
+gemfibrozil,., a, is, patient, the,</s>, name,', or, with
+niacin,., a, is, patient, name,</s>, the,', or,'s
+ezetimibe AND simvastatin,., a, is, patient, the,</s>, name,', or, with
+fenofibric acid,., a, is, patient, the,</s>, name, or,', with
+atorvastatin,., a, is, patient, the,</s>, name, or,','s
+simvastatin,., a, is, patient, name,</s>, the,', or, and
+pravastatin,., a, is, patient,</s>, name, the,', or,'s
+rosuvastatin,., a, is, patient, the, name,</s>,', or, with
+lovastatin,., a, is, patient,</s>, name, the,', or,'s
+ezetimibe,., a, is, patient,</s>, name, the,', or,'s
+gemfibrozil,., a, is, patient,</s>, the, name,', or,'s
+niacin,., a, is, patient, name,</s>, the,', or, with
+ezetimibe AND simvastatin,., a, is, patient,</s>, the, name,', or, with
+fenofibric acid,., a, is, patient,</s>, name, the, or,', with
+atorvastatin,., a, is, patient,</s>, the, name,', with, or
+simvastatin,., a, is, patient,</s>, the, name,', or,'s
+pravastatin,., a, is, patient, the,</s>, name, or,','s
+rosuvastatin,., a, is, patient, the,</s>, name,', with, or
+lovastatin,., a, is, patient, the, name,</s>,', or, with
+ezetimibe,., a, is, patient,</s>, the, name,', or,'s
+gemfibrozil,., a, is, patient, the,</s>, name,', or,'s
+niacin,., a, is, patient, the,</s>, name,', or, with
+ezetimibe AND simvastatin,., a, is, patient, the,</s>, name,', or,'s
+fenofibric acid,., a, is, patient, the,</s>, name, or,', with
+modafinil,., a, is, patient,</s>, the, name,', with, or
+duloxetine,., a, is, patient, name, the,</s>, or,', with
+lisdexamfetamine,., a, is, patient,</s>, the, name,', or,'s
+amantadine,., a, is, patient, the,</s>, name,', or,'s
+armodafinil,., a, is, patient,</s>, the, name, with, or, to
+modafinil,., a, is, patient, name, the,</s>,', or, with
+duloxetine,., a, is, patient, the,</s>, name,', or, with
+lisdexamfetamine,., a, is, patient, the, name,</s>, or,','s
+amantadine,., a, is, patient, name,</s>, the,', or,'s
+armodafinil,., a, is, patient, the,</s>, name,','s, with
+lamivudine,., a, is, patient,</s>, the, name,', or, with
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, the,</s>, name,', or, with
+ritonavir,., a, is, patient, the,</s>, name,', or,'s
+emtricitabine AND tenofovir,., a, is, patient, the, name,</s>, or,', with
+tenofovir,., a, is, patient, the,</s>, name,', or,'s
+abacavir,., a, is, patient,</s>, the, name,', or,'s
+collagenase,., a, patient, is,',</s>, the, name,�,'s
+becaplermin,., a, is, patient, name, the,</s>,', or, with
+cadexomer iodine,., a, is, patient, the,</s>, name,', or, with
+collagenase,., a, is, patient, name, the,</s>,', or,'s
+becaplermin,., a, is, patient, name, the,</s>,', or,'s
+cadexomer iodine,., a, is, patient, the,</s>, name,', or, and
+meloxicam,., a, is, patient, the, name,</s>,', or, with
+diclofenac,., a, is, patient, the,</s>, name,', or,'s
+naproxen,., a, is, patient, name, the,</s>, or,', with
+ibuprofen,., a, is, patient, the,</s>, name,', or, with
+celecoxib,., a, is, patient, the, name,</s>,', or,'s
+chondroitin AND glucosamine,., a, is, patient,</s>, the, name, or,','s
+diclofenac,., a, is, patient, name,</s>, the,', or, with
+etodolac,., a, is, patient, the,</s>, name,','s, or
+prednisone,., a, is, patient, the, name,</s>,', or, with
+aspirin,., a, is, patient, the,</s>, name,', or, with
+nabumetone,., a, is, patient, the,</s>, name,', or,'s
+duloxetine,., a, is, patient, the,</s>, name,', or,'s
+meloxicam,., a, is, patient, name,</s>, the,', or, with
+diclofenac,., a, is, patient, name, the,</s>,', or,'s
+naproxen,., a, is, patient, the, name,</s>,', or, with
+ibuprofen,., a, is, patient, the, name,</s>,', or, with
+celecoxib,., a, is, patient,</s>, the, name,', or,'s
+chondroitin AND glucosamine,., a, is, patient,</s>, the, name,', with, or
+diclofenac,., a, is, patient, the,</s>, name,', or, with
+etodolac,., a, is, patient, the, name,</s>,', or,'s
+prednisone,., a, is, patient, the,</s>, name,', or,'s
+aspirin,., a, is, patient, name, the,</s>,', with, or
+nabumetone,., a, is, patient, the,</s>, name,', or, with
+duloxetine,., a, is, patient,</s>, the, name,', or,'s
+collagenase,., a, is, patient,</s>, the, name,', or,'s
+becaplermin,., a, is, patient, the,</s>, name,', or,'s
+cadexomer iodine,., a, is, patient,', name, the,</s>, or, with
+collagenase,., a, is, patient, name,</s>, the,', or, with
+becaplermin,., a, is, patient,</s>, the, name,', with, or
+cadexomer iodine,., a, is, patient,</s>, the, name,', or,'s
+collagenase,., a, is, patient, the, name,</s>, or,','s
+becaplermin,., a, is, patient, the,</s>, name,', or, with
+cadexomer iodine,., a, is, patient, the,</s>, name,', or,'s
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+naproxen,., a, is, patient, the,</s>, name,', with, or
+acetaminophen,., a, is, patient,</s>, name, the,', or, with
+diclofenac,., a, is, patient, the, name,</s>,', or, with
+nabumetone,., a, is, patient, the,</s>, name,', or, with
+risperidone,., a, is, patient, the, name,</s>,', or, with
+clozapine,., a, is, patient, the,</s>, name,', or, with
+olanzapine,., a, is, patient, the,</s>, name,', or,'s
+quetiapine,., a, is, patient, the,</s>, name,', or, with
+aripiprazole,., a, is, patient, the,</s>, name,', or, with
+chlorpromazine,., a, is, patient, the, name,</s>, or,', with
+paliperidone,., a, is, patient,</s>, the, name,', or,'s
+ziprasidone,., a, is, patient, the, name,</s>,', or, with
+loxapine,., a, is, patient, name, the,</s>,', or,'s
+meloxicam,., a, is, patient, the,</s>, name,', or, with
+diclofenac,., a, is, patient, the,</s>, name,', or, with
+naproxen,., a, is, patient, name, the,</s>,', or, with
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+celecoxib,., a, is, patient,</s>, the, name,', or, with
+chondroitin AND glucosamine,., a, is, patient, name, the,</s>,', or,'s
+diclofenac,., a, is, patient, the,</s>, name,', or, and
+etodolac,., a, is, patient, the,</s>, name,', or,'s
+prednisone,., a, is, patient, name,</s>, the,', or,'s
+aspirin,., a, is, patient, the,</s>, name,', or, with
+nabumetone,., a, is, patient, name, the,</s>,', with, or
+duloxetine,., a, is, patient, name,</s>, the,', or,'s
+quetiapine,., a, is, patient, name, the,</s>, or,', with
+lamotrigine,., a, is, patient, the,</s>, name,', or, with
+lithium,., a, is, patient, the,</s>, name,', or,'s
+risperidone,., a, is, patient,</s>, name, the,', or,'s
+fluoxetine,., a, is, patient,</s>, the, name,', or,'s
+olanzapine,., a, is, patient, name, the,</s>, or,','s
+buspirone,., a, is, patient, the, name,</s>,', or, with
+clonazepam,., a, is, patient, the, name,</s>,', or, with
+sertraline,., a, is, patient, name,</s>, the,', or,'s
+aripiprazole,., a, is, patient, name,</s>, the, or,','s
+topiramate,., a, is, patient,</s>, the, name,', or, with
+diazepam,., a, is, patient, the,</s>, name,', or,'s
+lorazepam,., a, is, patient, the,</s>, name,', or,'s
+escitalopram,., a, is, patient, name,</s>, the,', or,'s
+divalproex sodium,., a, is, patient, the, name,</s>,', with, or
+alprazolam,., a, is, patient, the,</s>, name,', or,'s
+clozapine,., a, is, patient, name, the,</s>,', or, with
+oxcarbazepine,., a, is, patient, the,</s>, name,', or, with
+citalopram,., a, is, patient, the,</s>, name, or,', with
+haloperidol,., a, is, patient, the,</s>, name,', or,'s
+lurasidone,., a, is, patient, the, name,</s>,', or, with
+l-methylfolate,., a, is, patient, the,</s>, name,', or, with
+carbamazepine,., a, is, patient, the,</s>, name, or,', with
+asenapine,., a, is, patient, the, name,</s>,', or, with
+paliperidone,., a, is, patient,</s>, the, name,', or,'s
+quetiapine,., a, is, patient, the,</s>, name,', or,'s
+lamotrigine,., a, is, patient, name, the,</s>, or,', and
+lithium,., a, is, patient, the,</s>, name,', or, with
+risperidone,., a, is, patient,</s>, the, name,', or,'s
+fluoxetine,., a, is, patient, the,</s>, name,', or, with
+olanzapine,., a, is, patient, name, the,</s>,','s, or
+buspirone,., a, is, patient, the,</s>, name,', or,'s
+clonazepam,., a, is, patient, the,</s>, name,', or,'s
+sertraline,., a, is, patient, the,</s>, name, or,', and
+aripiprazole,., a, is, patient, the,</s>, name,', or, with
+topiramate,., a, is, patient, the,</s>, name,', or,'s
+diazepam,., a, is, patient, name, the,</s>,', with,'s
+lorazepam,., a, is, patient, the, name,</s>,', or, with
+escitalopram,., a, is, patient, the, name,</s>, or,', with
+divalproex sodium,., a, is, patient, name, the,</s>,', or,'s
+alprazolam,., a, is, patient,</s>, the, name,', or,'s
+clozapine,., a, is, patient, the,</s>, name,', or, with
+oxcarbazepine,., a, is, patient, the,</s>, name,', or,'s
+citalopram,., a, is, patient,</s>, the, name,', with, or
+haloperidol,., a, is, patient,</s>, the, name,', or,'s
+lurasidone,., a, is, patient, the,</s>, name, or,', with
+l-methylfolate,., a, is, patient, the,</s>, name,', or,'s
+carbamazepine,., a, is, patient, the,</s>, name,', or,'s
+asenapine,., a, is, patient, the,</s>, name, or,', with
+paliperidone,., a, is, patient, the,</s>, name,', or, with
+ibuprofen,., a, is, patient, the,</s>, name,', or, with
+naproxen,., a, is, patient,</s>, the, name,', or,'s
+acetaminophen,., a, is, patient, the,</s>, name,', with, or
+diclofenac,., a, is, patient, the,</s>, name, with,', or
+nabumetone,., a, is, patient, the,</s>, name,', or, with
+quetiapine,., a, is, patient, the, name,</s>,', or,'s
+lamotrigine,., a, is, patient, the,</s>, name,', or, with
+lithium,., a, is, patient, the, name,</s>,', or,'s
+risperidone,., a, is, patient,</s>, the, name,', or,'s
+fluoxetine,., a, is, patient, name, the,</s>,', or, with
+olanzapine,., a, is, patient,</s>, the, name,', or,'s
+buspirone,., a, is, patient, the,</s>, name, or,', with
+clonazepam,., a, is, patient, the,</s>, name,', or, with
+sertraline,., a, is, patient,</s>, the, name,', or, with
+aripiprazole,., a, is, patient, the,</s>, name, or,','s
+topiramate,., a, is, patient, the,</s>, name,', or,'s
+diazepam,., a, is, patient,</s>, name, the,', or,'s
+lorazepam,., a, is, patient, the,</s>, name, or,', with
+escitalopram,., a, is, patient, the,</s>, name,', or,'s
+divalproex sodium,., a, is, patient,</s>, the, name, or,','s
+alprazolam,., a, is, patient,</s>, the, name, or,', with
+clozapine,., a, is, patient,</s>, the, name,', or,'s
+oxcarbazepine,., a, is, patient, the,</s>, name, or,','s
+citalopram,., a, is, patient,</s>, the, name,', or,'s
+haloperidol,., a, is, patient, name, the,</s>, or,', with
+lurasidone,., a, is, patient, the,</s>, name, with,', or
+l-methylfolate,., a, is, patient,</s>, the, name,', or,'s
+carbamazepine,., a, is, patient,</s>, the, name,', or,'s
+asenapine,., a, is, patient,</s>, the, name,', or,'s
+paliperidone,., a, is, patient, the,</s>, name,', or, with
+quetiapine,., a, is, patient, name,</s>, the,', or, with
+lamotrigine,., a, is, patient, the, name,</s>,', or,'s
+lithium,., a, is, patient, name, the,</s>,', or,'s
+risperidone,., a, is, patient, the,</s>, name, or,','s
+fluoxetine,., a, is, patient, the,</s>, name,', or, with
+olanzapine,., a, is, patient, the,</s>, name, or,', with
+buspirone,., a, is, patient, name, the,</s>,', or, with
+clonazepam,., a, is, patient, the,</s>, name,', or, with
+sertraline,., a, is, patient,</s>, the, name,', or,'s
+aripiprazole,., a, is, patient, the,</s>, name,', or, with
+topiramate,., a, is, patient, name,</s>, the, or,','s
+diazepam,., a, is, patient, name,</s>, the,', or, and
+lorazepam,., a, is, patient,</s>, the, name,', or, with
+escitalopram,., a, is, patient, the, name,</s>,', with, or
+divalproex sodium,., a, is, patient, the, name,</s>,', or,'s
+alprazolam,., a, is, patient, the,</s>, name,', or, with
+clozapine,., a, is, patient,</s>, name, the,', or,'s
+oxcarbazepine,., a, is, patient, name,</s>, the,', or, with
+citalopram,., a, is, patient, the,</s>, name, or,','s
+haloperidol,., a, is, patient, the, name,</s>,', with, or
+lurasidone,., a, is, patient, the,</s>, name,', or, with
+l-methylfolate,., a, is, patient, name, the,</s>,', or,'s
+carbamazepine,., a, is, patient, the, name,</s>, or,','s
+asenapine,., a, is, patient, name,</s>, the,', or,'s
+paliperidone,., a, is, patient, the,</s>, name,', or, with
+quetiapine,., a, is, patient, the,</s>, name,', or, with
+lamotrigine,., a, is, patient, the,</s>, name,', or,'s
+lithium,., a, is, patient, the,</s>, name,', with, or
+risperidone,., a, is, patient, the,</s>, name,', with, or
+fluoxetine,., a, is, patient, the,</s>, name,', or, with
+olanzapine,., a, is, patient, name,</s>, the,', or, with
+buspirone,., a, is, patient, name, the,</s>,', or,'s
+clonazepam,., a, is, patient,</s>, the, name, or,', with
+sertraline,., a, is, patient, name, the,</s>, or,','s
+aripiprazole,., a, is, patient, the,</s>, name,', or,'s
+topiramate,., a, is, patient,</s>, name, the,','s, or
+diazepam,., a, is, patient, the,</s>, name,', or, with
+lorazepam,., a, is, patient, the,</s>, name, or, with,'
+escitalopram,., a, is, patient, the,</s>, name,', or,'s
+divalproex sodium,., a, is, patient, the,</s>, name,', or, with
+alprazolam,., a, is, patient, the, name,</s>, or,','s
+clozapine,., a, is, patient, the,</s>, name,', or,'s
+oxcarbazepine,., a, is, patient, the,</s>, name,', or,'s
+citalopram,., a, is, patient, the, name,</s>, or,','s
+haloperidol,., a, is, patient, the,</s>, name,', or,'s
+lurasidone,., a, is, patient, name, the,</s>,', or, with
+l-methylfolate,., a, is, patient, name, the,</s>,', with, or
+carbamazepine,., a, is, patient, the,</s>, name, or,','s
+asenapine,., a, is, patient, name, the,</s>,', or,'s
+paliperidone,., a, is, patient,</s>, the, name,', or,'s
+quetiapine,., a, is, patient, the,</s>, name,', or, with
+lamotrigine,., a, is, patient,</s>, name, the,', or,'s
+lithium,., a, is, patient, the,</s>, name, or,','s
+risperidone,., a, is, patient, name, the,</s>,', or, with
+fluoxetine,., a, is, patient,</s>, the, name,','s, or
+olanzapine,., a, is, patient, the, name,</s>,', or,'s
+buspirone,., a, is, patient, the,</s>, name,', or, with
+clonazepam,., a, is, patient, name, the,</s>,', or, with
+sertraline,., a, is, patient, name, the,</s>,', or, with
+aripiprazole,., a, is, patient, the,</s>, name,', or, with
+topiramate,., a, is, patient, the, name,</s>, or,', with
+diazepam,., a, is, patient, name, the,</s>,', or, and
+lorazepam,., a, is, patient, name, the,</s>,', or, with
+escitalopram,., a, is, patient, the,</s>, name,', or,'s
+divalproex sodium,., a, is, patient,</s>, the, name,', or, and
+alprazolam,., a, is, patient, name, the,</s>,', or,'s
+clozapine,., a, is, patient, the,</s>, name,', or, with
+oxcarbazepine,., a, is, patient, the,</s>, name, or,','s
+citalopram,., a, is, patient, the,</s>, name,', or, with
+haloperidol,., a, is, patient, the,</s>, name, or,','s
+lurasidone,., a, is, patient, the, name,</s>,', or, with
+l-methylfolate,., a, is, patient, the, name,</s>,', with, or
+carbamazepine,., a, is, patient,</s>, name, the,', or,'s
+asenapine,., a, is, patient, the,</s>, name, or, with,'
+paliperidone,., a, is, patient, the,</s>, name,', or,'s
+quetiapine,., a, is, patient, the,</s>, name,', or, with
+lamotrigine,., a, is, patient,</s>, the, name,', or, and
+lithium,., a, is, patient,</s>, the, name,', or,'s
+risperidone,., a, is, patient, the,</s>, name,', or, with
+fluoxetine,., a, is, patient,</s>, the, name,','s, or
+olanzapine,., a, is, patient, the, name,</s>,', or, with
+buspirone,., a, is, patient, the,</s>, name,', or,'s
+clonazepam,., a, is, patient,</s>, the, name,', or, with
+sertraline,., a, is, patient, the,</s>, name,', or, with
+aripiprazole,., a, is, patient, the,</s>, name,', or, with
+topiramate,., a, is, patient, the,</s>, name,', or, with
+diazepam,., a, is, patient, the,</s>, name,', or,'s
+lorazepam,., a, is, patient, the,</s>, name,', or, with
+escitalopram,., a, is, patient, the, name,</s>, or,', with
+divalproex sodium,., a, is, patient, the,</s>, name,', or,'s
+alprazolam,., a, is, patient, the,</s>, name,', or,'s
+clozapine,., a, is, patient, the,</s>, name,', or,'s
+oxcarbazepine,., a, is, patient, the, name,</s>,', or, with
+citalopram,., a, is, patient,</s>, the, name, or,','s
+haloperidol,., a, is, patient, the,</s>, name,', or, with
+lurasidone,., a, is, patient, the,</s>, name, or,','s
+l-methylfolate,., a, is, patient, the,</s>, name,', or, with
+carbamazepine,., a, is, patient, name,</s>, the,', or, with
+asenapine,., a, is, patient, the,</s>, name, or,', with
+paliperidone,., a, is, patient, name, the,</s>,', or,'s
+quetiapine,., a, is, patient,</s>, the, name,', with,'s
+lamotrigine,., a, is, patient, name, the,</s>,','s, or
+lithium,., a, is, patient, the, name,</s>,', or, with
+risperidone,., a, is, patient, the,</s>, name,', or,'s
+fluoxetine,., a, is, patient,</s>, the, name,', or,'s
+olanzapine,., a, is, patient,</s>, the, name,', or,'s
+buspirone,., a, is, patient, name,</s>, the,', or, with
+clonazepam,., a, is, patient, name, the,</s>,', or,'s
+sertraline,., a, is, patient, the,</s>, name, or,', and
+aripiprazole,., a, is, patient,</s>, name, the,', or,'s
+topiramate,., a, is, patient, the,</s>, name,', or,'s
+diazepam,., a, is, patient, name,</s>, the,', or, with
+lorazepam,., a, is, patient, the,</s>, name,', or, with
+escitalopram,., a, is, patient,</s>, the, name,', or, with
+divalproex sodium,., a, is, patient, the, name,</s>,', or, with
+alprazolam,., a, is, patient, the, name,</s>,', or,'s
+clozapine,., a, is, patient,</s>, the, name,', or, with
+oxcarbazepine,., a, is, patient, the,</s>, name,', or,'s
+citalopram,., a, is, patient,</s>, the, name,', or,'s
+haloperidol,., a, is, patient, the, name,</s>,', or,'s
+lurasidone,., a, is, patient, the,</s>, name,', or,'s
+l-methylfolate,., a, is, patient,</s>, the, name,', or,'s
+carbamazepine,., a, is, patient, name, the,</s>,', or,'s
+asenapine,., a, is, patient, name,</s>, the, or,','s
+paliperidone,., a, is, patient, the,</s>, name,', or,'s
+triamcinolone,., a, is, patient, the,</s>, name,', or,'s
+triamcinolone,., a, is, patient, the,</s>, name,', or, with
+quetiapine,., a, is, patient, the, name,</s>,', or, with
+lamotrigine,., a, is, patient, the,</s>, name,', or, with
+lithium,., a, is, patient, the, name,</s>,', or, with
+risperidone,., a, is, patient, the, name,</s>, or,', with
+fluoxetine,., a, is, patient,</s>, the, name,', or,'s
+olanzapine,., a, is, patient, the,</s>, name,', or,'s
+buspirone,., a, is, patient, name,</s>, the,', or, with
+clonazepam,., a, is, patient, the, name,</s>,', or,'s
+sertraline,., a, is, patient, the,</s>, name,', or, to
+aripiprazole,., a, is, patient, the,</s>, name,', or, and
+topiramate,., a, is, patient, the,</s>, name,', or,'s
+diazepam,., a, is, patient, the,</s>, name,', or, with
+lorazepam,., a, is, patient, the,</s>, name,', or, with
+escitalopram,., a, is, patient,</s>, the, name,', or, with
+divalproex sodium,., a, is, patient, the,</s>, name, with, or,'
+alprazolam,., a, is, patient, the,</s>, name,', or,'s
+clozapine,., a, is, patient, the,</s>, name, or,','s
+oxcarbazepine,., a, is, patient, name, the,</s>,', or,'s
+citalopram,., a, is, patient, name,</s>, the,', or,'s
+haloperidol,., a, is, patient, name, the,</s>, or, with,'s
+lurasidone,., a, is, patient,</s>, name,', the, or,'s
+l-methylfolate,., a, is, patient, the,</s>, name,', or,'s
+carbamazepine,., a, is, patient,</s>, the, name,','s, with
+asenapine,., a, is, patient,</s>, the, name,', or, with
+paliperidone,., a, is, patient, name, the,</s>,', or,'s
+atorvastatin,., a, is, patient, the,</s>, name,', or,'s
+simvastatin,., a, is, patient, the, name,</s>,', or,'s
+pravastatin,., a, is, patient, the,</s>, name,', or, with
+rosuvastatin,., a, is, patient, the,</s>, name,', or, and
+lovastatin,., a, is, patient, the,</s>, name,', or,'s
+ezetimibe,., a, is, patient, the,</s>, name,', or, with
+gemfibrozil,., a, is, patient, the, name,</s>,', or, with
+niacin,., a, is, patient,</s>, the, name, or,','s
+ezetimibe AND simvastatin,., a, is, patient,</s>, the, name,', or, with
+fenofibric acid,., a, is, patient,</s>, the, name,', or, with
+ketoconazole,., a, is, patient, name,</s>, the,', or,'s
+terbinafine,., a, is, patient, the,</s>, name, or,', with
+ketoconazole,., a, is, patient,</s>, the, name,', or, and
+terbinafine,., a, is, patient,</s>, the, name,', or, with
+terbinafine,., a, is, patient, name, the,</s>,', or,'s
+terbinafine,., a, is, patient,</s>, the, name,', or,'s
+terbinafine,., a, is, patient,</s>, name, the,', or,'s
+terbinafine,., a, is, patient, name, the,</s>,', or,'s
+meloxicam,., a, is, patient,</s>, the, name,', or,'s
+diclofenac,., a, is, patient,</s>, the, name,', or,'s
+naproxen,., a, is, patient, the, name,</s>,','s, or
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+celecoxib,., a, is, patient, the,</s>, name,', or,'s
+chondroitin AND glucosamine,., a, is, patient, the,</s>, name,', or,'s
+diclofenac,., a, is, patient, name,</s>, the,', with, or
+etodolac,., a, is, patient, the,</s>, name,', or, with
+prednisone,., a, is, patient, name, the,</s>,', or, with
+aspirin,., a, is, patient,</s>, the, name,', or, with
+nabumetone,., a, is, patient, the,</s>, name, or,', with
+duloxetine,., a, is, patient, the, name,</s>,', or, with
+triamcinolone,., a, is, patient,</s>, the, name,', or, with
+triamcinolone,., a, is, patient, the, name,</s>, or,','s
+aspirin,., a, is, patient,</s>, the, name,', or,'s
+nitroglycerin,., a, is, patient, the,</s>, name, or,', with
+metoprolol,., a, is, patient,</s>, the, name,', or,'s
+amlodipine,., a, is, patient, the,</s>, name,', or, with
+isosorbide mononitrate,., a, is, patient, the,</s>, name,', or, with
+isosorbide dinitrate,., a, is, patient, the,</s>, name,','s, or
+enoxaparin,., a, is, patient, the, name,</s>, or, with,'
+ranolazine,., a, is, patient,</s>, the, name,', or,'s
+atenolol,., a, is, patient, name,</s>, the,', or,'s
+carvedilol,., a, is, patient,</s>, the, name,', or,'s
+amlodipine AND atorvastatin,., a, is, patient, the,</s>, name,', or, with
+atorvastatin,., a, is, patient, name,</s>, the,', or, with
+simvastatin,., a, is, patient, the, name,</s>,', or, with
+pravastatin,., a, is, patient,</s>, the, name, or,','s
+rosuvastatin,., a, is, patient,</s>, the, name,', or,'s
+lovastatin,., a, is, patient, the,</s>, name,', or, with
+ezetimibe,., a, is, patient, name,</s>, the,', or, with
+gemfibrozil,., a, is, patient,</s>, the, name,', or,'s
+niacin,., a, is, patient,</s>, the, name, or,', with
+ezetimibe AND simvastatin,., a, is, patient,</s>, the, name,', or, with
+fenofibric acid,., a, is, patient, the,</s>, name,', or,'s
+cyclophosphamide,., a, is, patient, the,</s>, name,', or,'s
+vincristine,., a, is, patient,</s>, the, name,', or,'s
+rituximab,., a, is, patient, the, name,</s>,', or, and
+methotrexate,., a, is, patient, the,</s>, name,', with, or
+bendamustine,., a, is, patient, the,</s>, name,', or, with
+cytarabine,., a, is, patient, the, name,</s>, or,', and
+fludarabine,., a, is, patient,</s>, the, name,','s, or
+bleomycin,., a, is, patient, name,</s>, the,', or,'s
+carmustine,., a, is, patient, the,</s>, name,', or, with
+idelalisib,., a, is, patient, the,</s>, name,', or, with
+ibritumomab,., a, is, patient, the,</s>, name,', or,'s
+ibrutinib,., a, is, patient, the,</s>, name,', or, with
+mitoxantrone,., a, is, patient, the,</s>, name,', or,'s
+lamivudine,., a, is, patient, the,</s>, name, with, or,'
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, the, name,</s>, or,', with
+ritonavir,., a, is, patient,</s>, the, name,', or,'s
+emtricitabine AND tenofovir,., a, is, patient, the, name,</s>, or,', with
+tenofovir,., a, is, patient, the,</s>, name, or,', with
+abacavir,., a, is, patient, the,</s>, name, with,', or
+lamivudine,., a, is, patient,</s>, the, name,', or,'s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, name, the,</s>, or,', with
+ritonavir,., a, is, patient, name, the,</s>,', or, with
+emtricitabine AND tenofovir,., a, is, patient, name,</s>, the,', or, with
+tenofovir,., a, is, patient, the,</s>, name,', or, with
+abacavir,., a, is, patient,</s>, the, name,', or, with
+lamivudine,., a, is, patient, the,</s>, name,', or,'s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, the,</s>, name,', with, or
+ritonavir,., a, is, patient, name, the,</s>,', or,'s
+emtricitabine AND tenofovir,., a, is, patient, the,</s>, name,','s, or
+tenofovir,., a, is, patient, name, the,</s>,', or, with
+abacavir,., a, is, patient,</s>, the, name,', or,'s
+lamivudine,., a, is, patient,</s>, name, the,', or,'s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient,</s>, the, name,', or,'s
+ritonavir,., a, is, patient, the, name,</s>,','s, or
+emtricitabine AND tenofovir,., a, is, patient,</s>, the, name,', or, with
+tenofovir,., a, is, patient, the,</s>, name,', or, with
+abacavir,., a, is, patient, the,</s>, name,', or, with
+lamivudine,., a, is, patient, the, name,</s>,', or,'s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, the,</s>, name,', or,'s
+ritonavir,., a, is, patient, the,</s>, name,', or,'s
+emtricitabine AND tenofovir,., a, is, patient,</s>, the, name,', or,'s
+tenofovir,., a, is, patient,</s>, the, name,', or,'s
+abacavir,., a, is, patient, the,</s>, name,', or, with
+lamivudine,., a, is, patient, the, name,</s>,', or,'s
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, the,</s>, name,', with, or
+ritonavir,., a, is, patient, the, name,</s>,', or, with
+emtricitabine AND tenofovir,., a, is, patient, name, the,</s>,', with, or
+tenofovir,., a, is, patient, name,</s>, the,', or, with
+abacavir,., a, is, patient,</s>, name, the,', or,'s
+atorvastatin,., a, is, patient,</s>, the, name,', or,'s
+simvastatin,., a, is, patient, name,</s>, the,', or, with
+pravastatin,., a, is, patient, the,</s>, name,', or, with
+rosuvastatin,., a, is, patient, the,</s>, name,', or, with
+lovastatin,., a, is, patient, the,</s>, name,', or, with
+ezetimibe,., a, is, patient, the,</s>, name,', or,'s
+gemfibrozil,., a, is, patient,</s>, the, name,', or,'s
+niacin,., a, is, patient, the,</s>, name,', or, with
+ezetimibe AND simvastatin,., a, is, patient,',</s>, the, name,'s,�
+fenofibric acid,., a, is, patient, the,</s>, name, or,','s
+atorvastatin,., a, is, patient, the,</s>, name,', or,'s
+simvastatin,., a, is, patient,',</s>, the, name,'s,�
+pravastatin,., a, is, patient, the,</s>, name,', or,'s
+rosuvastatin,., a, is, patient, the, name,</s>,', or,'s
+lovastatin,., a, is, patient,</s>, the, name, or,','s
+ezetimibe,., a, is, patient,</s>, the, name,', or,'s
+gemfibrozil,., a, is, patient,</s>, the, name,', or,'s
+niacin,., a, is, patient, name, the,</s>,', or, with
+ezetimibe AND simvastatin,., a, is, patient, name, the,</s>,', or,'s
+fenofibric acid,., a, is, patient, the,</s>, name,', or,'s
+atorvastatin,., a, is, patient, the,</s>, name,', or, with
+simvastatin,., a, is, patient, name,</s>, the,', or,'s
+pravastatin,., a, is, patient, the,</s>, name,', or,'s
+rosuvastatin,., a, is, patient, the, name,</s>,', or, with
+lovastatin,., a, is, patient,</s>, the, name,', or, with
+ezetimibe,., a, is, patient,</s>, name, the,', or,'s
+gemfibrozil,., a, is, patient,</s>, name, the, or,', with
+niacin,., a, is, patient, the, name,</s>,', or,'s
+ezetimibe AND simvastatin,., a, is, patient, the,</s>, name,', or,'s
+fenofibric acid,., a, is, patient,</s>, name, the,', or, with
+meloxicam,., a, is, patient,</s>, the, name,', or,'s
+diclofenac,., a, is, patient,</s>, the, name,', or,'s
+naproxen,., a, is, patient,</s>, the, name, or,','s
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+celecoxib,., a, is, patient, the,</s>, name,', with, or
+chondroitin AND glucosamine,., a, is, patient, the,</s>, name, or,', with
+diclofenac,., a, is, patient, the,</s>, name,', or,'s
+etodolac,., a, is, patient,</s>, name, the,', or,'s
+prednisone,., a, is, patient, name,</s>, the,', or,'s
+aspirin,., a, is, patient,</s>, the, name,', or, with
+nabumetone,., a, is, patient, the,</s>, name,', with, or
+duloxetine,., a, is, patient, the, name,</s>,', or,'s
+modafinil,., a, is, patient, the,</s>, name,', or,'s
+duloxetine,., a, is, patient, the,</s>, name, or,', with
+lisdexamfetamine,., a, is, patient, the,</s>, name, or,','s
+amantadine,., a, is, patient, name, the,</s>, or,', with
+armodafinil,., a, is, patient,</s>, the, name, or,','s
+ibuprofen,., a, is, patient, the,</s>, name, or,', with
+naproxen,., a, is, patient, the, name,</s>,', or,'s
+acetaminophen,., a, is, patient,</s>, the, name,', or, and
+diclofenac,., a, is, patient, the,</s>, name,', or, with
+nabumetone,., a, is, patient, name, the,</s>,','s, or
+quetiapine,., a, is, patient,</s>, name, the,', or,'s
+lamotrigine,., a, is, patient, the,</s>, name, or,','s
+lithium,., a, is, patient, the,</s>, name,', or,'s
+risperidone,., a, is, patient, the,</s>, name,', or, with
+fluoxetine,., a, is, patient, the,</s>, name,', or,'s
+olanzapine,., a, is, patient, the,</s>, name,', or,'s
+buspirone,., a, is, patient, the,</s>, name,', or, with
+clonazepam,., a, is, patient, the, name,</s>,', or,'s
+sertraline,., a, is, patient, the, name,</s>,', or,'s
+aripiprazole,., a, is, patient, the,</s>, name, or,', with
+topiramate,., a, is, patient, name, the,</s>,', or, with
+diazepam,., a, is, patient,</s>, the, name,', or, with
+lorazepam,., a, patient, is, the,</s>,', name, or,'s
+escitalopram,., a, is, patient, the,</s>, name,', or, with
+divalproex sodium,., a, is, patient, name, the,</s>,', or,'s
+alprazolam,., a, is, patient, the, name,</s>,', or, with
+clozapine,., a, is, patient, the,</s>, name,', or, with
+oxcarbazepine,., a, is, patient, the,</s>, name,', or,'s
+citalopram,., a, is, patient, the,</s>, name,', or, with
+haloperidol,., a, is, patient, the,</s>, name,', or,'s
+lurasidone,., a, is, patient, the,</s>, name,', or, with
+l-methylfolate,., a, is, patient, the,</s>, name, or,','s
+carbamazepine,., a, is, patient,</s>, the, name,','s, or
+asenapine,., a, is, patient, the, name,</s>,', or,'s
+paliperidone,., a, is, patient, name, the,</s>,', or, with
+ketoconazole,., a, is, patient, the, name,</s>,', or, with
+terbinafine,., a, is, patient, the, name,</s>,', or,'s
+ketoconazole,., a, is, patient,</s>, the, name, or,', with
+terbinafine,., a, is, patient, the, name,</s>,', or,'s
+terbinafine,., a, is, patient, the, name,</s>,', or, with
+terbinafine,., a, is, patient, the,</s>, name,', or,'s
+terbinafine,., a, is, patient, the, name,</s>,', with, or
+terbinafine,., a, is, patient, name, the,</s>,', or, with
+ibuprofen,., a, is, patient, name, the,</s>,', or, with
+naproxen,., a, is, patient, the, name,</s>,', or, with
+acetaminophen,., a, is, patient, name, the,</s>,', or, with
+diclofenac,., a, is, patient, the, name,</s>,', or, with
+nabumetone,., a, is, patient,</s>, the, name,', or, with
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+naproxen,., a, is, patient, the,</s>, name,','s, or
+acetaminophen,., a, is, patient, name,</s>, the,', or,'s
+diclofenac,., a, is, patient, name, the,</s>,', or, with
+nabumetone,., a, is, patient, the,</s>, name, or,', with
+ibuprofen,., a, is, patient,</s>, the, name,', or, with
+naproxen,., a, is, patient,</s>, name, the,', or,'s
+acetaminophen,., a, is, patient, name, the,</s>,','s, with
+diclofenac,., a, is, patient, the, name,</s>,', or,'s
+nabumetone,., a, is, patient, the,</s>, name,', or, with
+triamcinolone,., a, is, patient, the,</s>, name,', or,'s
+triamcinolone,., a, is, patient, the,</s>, name,', or,'s
+quetiapine,., a, is, patient, the,</s>, name, or,', with
+lamotrigine,., a, is, patient, the,</s>, name,', or, with
+lithium,., a, is, patient, the, name,</s>, or,', with
+risperidone,., a, is, patient, name, the,</s>, or,','s
+fluoxetine,., a, is, patient,</s>, the, name, or,', with
+olanzapine,., a, is, patient, name, the,</s>,', or, with
+buspirone,., a, is, patient, the,</s>, name, or,', with
+clonazepam,., a, is, patient, name, the,</s>,', with, or
+sertraline,., a, is, patient, the, name,</s>,', or,'s
+aripiprazole,., a, is, patient,</s>, the, name,', or,'s
+topiramate,., a, is, patient,</s>, the, name,', or,'s
+diazepam,., a, is, patient, the, name,</s>,', or,'s
+lorazepam,., a, is, patient,</s>, the, name,', or,'s
+escitalopram,., a, is, patient, name,</s>, the,', or,'s
+divalproex sodium,., a, is, patient, the,</s>, name,', or,'s
+alprazolam,., a, is, patient, the,</s>, name,', or, with
+clozapine,., a, is, patient,</s>, the, name,', or,'s
+oxcarbazepine,., a, is, patient, the,</s>, name,', or, with
+citalopram,., a, is, patient, the, name,</s>,', or, with
+haloperidol,., a, is, patient, the,</s>, name,', with, or
+lurasidone,., a, is, patient, the,</s>, name,', with, or
+l-methylfolate,., a, is, patient, the, name,</s>,', or,'s
+carbamazepine,., a, is, patient, the, name,</s>, or,', with
+asenapine,., a, is, patient, the,</s>, name, or,', with
+paliperidone,., a, is, patient, the,</s>, name,', or, with
+collagenase,., a, is, patient, the,</s>, name,', or, with
+becaplermin,., a, is, patient, the, name,</s>,', with, or
+cadexomer iodine,., a, is, patient, the,</s>, name,', or, with
+terbinafine,., a, is, patient, the,</s>, name,', or, with
+terbinafine,., a, is, patient,</s>, the, name,', or,'s
+meloxicam,., a, is, patient, name, the,</s>, with,', or
+diclofenac,., a, is, patient, the, name,</s>,','s, or
+naproxen,., a, is, patient,</s>, the, name,', or,'s
+ibuprofen,., a, is, patient, the,</s>, name, or,', with
+celecoxib,., a, is, patient, the,</s>, name,', or,'s
+chondroitin AND glucosamine,., a, is, patient,</s>, the, name,', or,'s
+diclofenac,., a, is, patient, the, name,</s>,', or, with
+etodolac,., a, is, patient, name, the,</s>, or,', with
+prednisone,., a, is, patient, the, name,</s>,', or, with
+aspirin,., a, is, patient,</s>, the, name,', or, with
+nabumetone,., a, is, patient, name, the,</s>,', with, or
+duloxetine,., a, is, patient, the, name,</s>,', or, with
+cytarabine,., a, is, patient,</s>, the, name,', or,'s
+vincristine,., a, is, patient, the, name,</s>,', or,'s
+daunorubicin,., a, is, patient, name,</s>, the,', or,'s
+idarubicin,., a, is, patient,</s>, the, name,', or, with
+decitabine,., a, is, patient,</s>, the, name,', or, with
+gemtuzumab,., a, is, patient,</s>, name, the,', or,'s
+midostaurin,., a, is, patient, the,</s>, name, or,', with
+venetoclax,., a, is, patient,</s>, the, name,', or, with
+enasidenib,., a, is, patient,</s>, the, name,', or, with
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient, name, the,</s>, or,', with
+ivosidenib,., a, is, patient,</s>, the, name, or,','s
+gilteritinib,., a, is, patient, name, the,</s>,', or,'s
+glasdegib,., a, is, patient,</s>, the, name, or,', with
+cytarabine,., a, is, patient, the, name,</s>,', or,'s
+vincristine,., a, is, patient, name, the,</s>,', with, or
+daunorubicin,., a, is, patient, the,</s>, name,', with, or
+idarubicin,., a, is, patient, the, name,</s>,', or,'s
+decitabine,., a, is, patient, name, the,</s>,', or, with
+gemtuzumab,., a, is, patient,</s>, the, name,', or,'s
+midostaurin,., a, is, patient, the,</s>, name,', or,'s
+venetoclax,., a, is, patient,</s>, the, name,', or,'s
+enasidenib,., a, is, patient, name, the,</s>, or,','s
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient, the,</s>, name,', or, with
+ivosidenib,., a, is, patient,</s>, the, name,', or, with
+gilteritinib,., a, is, patient,</s>, the, name,', or, with
+glasdegib,., a, is, patient, name,</s>, the,', or, with
+cytarabine,., a, is, patient,</s>, the, name,','s, or
+vincristine,., a, is, patient, the, name,</s>,', or,'s
+daunorubicin,., a, is, patient, the,</s>, name, or,', with
+idarubicin,., a, is, patient, the,</s>, name, or,', with
+decitabine,., a, is, patient, the,</s>, name,', with, or
+gemtuzumab,., a, is, patient, name, the,</s>,', or,'s
+midostaurin,., a, is, patient, the, name,</s>,', or, with
+venetoclax,., a, is, patient,</s>, the, name,', or,'s
+enasidenib,., a, is, patient, the,</s>, name,', or,'s
+cytarabine liposomal AND daunorubicin liposomal,., a, is, patient, the,</s>, name, or,', with
+ivosidenib,., a, is, patient,</s>, the, name,', or, with
+gilteritinib,., a, is, patient, name, the,</s>, or,', with
+glasdegib,., a, is, patient, name, the,</s>,', or, with
+atorvastatin,., a, is, patient, the,</s>, name,', or,'s
+simvastatin,., a, is, patient, name,</s>, the,', or, with
+pravastatin,., a, is, patient, the,</s>, name,', or, and
+rosuvastatin,., a, is, patient, the,</s>, name, or,','s
+lovastatin,., a, is, patient, the,</s>, name, or, with,'
+ezetimibe,., a, is, patient, the,</s>, name,', or,'s
+gemfibrozil,., a, is, patient, name, the,</s>,', or,'s
+niacin,., a, is, patient, the,</s>, name,', or,'s
+ezetimibe AND simvastatin,., a, is, patient, the, name,</s>,', or,'s
+fenofibric acid,., a, is, patient, name, the,</s>, or,','s
+cyclophosphamide,., a, is, patient, name, the,</s>,', or,'s
+vincristine,., a, is, patient,</s>, name, the,', or,'s
+rituximab,., a, is, patient,</s>, the, name,', or,'s
+methotrexate,., a, is, patient, the,</s>, name,', with, or
+bendamustine,., a, is, patient, the,</s>, name,', or, with
+cytarabine,., a, is, patient, the,</s>, name,', or, and
+fludarabine,., a, is, patient, the,</s>, name,', or, with
+bleomycin,., a, is, patient,</s>, the, name,', or,'s
+carmustine,., a, is, patient, name, the,</s>,', or, with
+idelalisib,., a, is, patient, the, name,</s>,', or, and
+ibritumomab,., a, is, patient,</s>, the, name,', or,'s
+ibrutinib,., a, is, patient, the, name,</s>,', or, with
+mitoxantrone,., a, is, patient, the,</s>, name,', or, with
+cyclophosphamide,., a, is, patient, the,</s>, name,', or,'s
+vincristine,., a, is, patient, the,</s>, name, or,','s
+rituximab,., a, is, patient, the,</s>, name,', or, with
+methotrexate,., a, is, patient,</s>, name, the,', or,'s
+bendamustine,., a, is, patient, the,</s>, name,', or,'s
+cytarabine,., a, is, patient, name,</s>, the,','s, or
+fludarabine,., a, is, patient, the, name,</s>,', or,'s
+bleomycin,., a, is, patient, name,</s>, the,', or,'s
+carmustine,., a, is, patient, the,</s>, name,', or,'s
+idelalisib,., a, is, patient, name,</s>, the,', with, or
+ibritumomab,., a, is, patient, the, name,</s>,', or, with
+ibrutinib,., a, is, patient,</s>, the, name,', or,'s
+mitoxantrone,., a, is, patient, the,</s>, name,', or, and
+cyclophosphamide,., a, is, patient, the, name,</s>, or,', with
+vincristine,., a, is, patient,</s>, name, the,', or, with
+rituximab,., a, is, patient, the, name,</s>,', with, or
+methotrexate,., a, is, patient, the,</s>, name, or,', with
+bendamustine,., a, is, patient,',</s>, the, name,�, or
+cytarabine,., a, is, patient, name, the,</s>,','s, with
+fludarabine,., a, is, patient, the,</s>, name, or,', with
+bleomycin,., a, is, patient, the, name,</s>,', or, with
+carmustine,., a, is, patient,</s>, the, name,', or,'s
+idelalisib,., a, is, patient, the,</s>, name, or,','s
+ibritumomab,., a, is, patient,</s>, the, name,', or,'s
+ibrutinib,., a, is, patient, the,</s>, name, with,', or
+mitoxantrone,., a, is, patient, name, the,</s>,', or,'s
+cyclophosphamide,., a, is, patient, the, name,</s>,', or,'s
+vincristine,., a, is, patient, the, name,</s>,', or,'s
+rituximab,., a, is, patient, the,</s>, name,', or, with
+methotrexate,., a, is, patient, the,</s>, name,', or, with
+bendamustine,., a, is, patient, the,</s>, name,', or,'s
+cytarabine,., a, is, patient,</s>, the, name,', or, with
+fludarabine,., a, is, patient, the,</s>, name,', or, with
+bleomycin,., a, is, patient,</s>, the, name,', or, with
+carmustine,., a, is, patient,</s>, name, the,', or,'s
+idelalisib,., a, is, patient, the, name,</s>,','s, or
+ibritumomab,., a, is, patient, name, the,</s>,', or,'s
+ibrutinib,., a, is, patient, name, the,</s>,', or,'s
+mitoxantrone,., a, is, patient,</s>, the, name,', or,'s
+cyclophosphamide,., a, is, patient, the, name,</s>,', or,'s
+vincristine,., a, is, patient, name, the,</s>,', or,'s
+rituximab,., a, is, patient,</s>, name, the,', or, with
+methotrexate,., a, is, patient, the,</s>, name, or,', with
+bendamustine,., a, is, patient, the, name,</s>, or,','s
+cytarabine,., a, is, patient,</s>, the, name, or,','s
+fludarabine,., a, is, patient, the,</s>, name,', or, with
+bleomycin,., a, is, patient, the, name,</s>,'s, with, or
+carmustine,., a, is, patient, the,</s>, name,', or, with
+idelalisib,., a, is, patient, the,</s>, name,', or,'s
+ibritumomab,., a, is, patient, the,</s>, name,', with, or
+ibrutinib,., a, is, patient, the,</s>, name,', or, with
+mitoxantrone,., a, is, patient, the,</s>, name,','s, or
+cyclophosphamide,., a, is, patient, the,</s>, name,', or,'s
+vincristine,., a, is, patient,</s>, name, the,', or, with
+rituximab,., a, is, patient, the,</s>, name,', or,'s
+methotrexate,., a, is, patient, the, name,</s>,', with, or
+bendamustine,., a, is, patient,</s>, name, the,', with, or
+cytarabine,., a, is, patient, the,</s>, name,', or, with
+fludarabine,., a, is, patient,',</s>, the, name,'s,�
+bleomycin,., a, is, patient, name, the,</s>,', or, with
+carmustine,., a, is, patient, the, name,</s>,', or, with
+idelalisib,., a, is, patient, the, name,</s>,', or,'s
+ibritumomab,., a, is, patient, the,</s>, name,', or, with
+ibrutinib,., a, is, patient,</s>, the, name,', or,'s
+mitoxantrone,., a, is, patient, the, name,</s>,', or, with
+dexamethasone,., a, is, patient, the,</s>, name, or,','s
+thalidomide,., a, is, patient,</s>, name, the,', or, with
+cyclophosphamide,., a, is, patient,</s>, the, name,', or,'s
+lenalidomide,., a, is, patient,</s>, the, name, or, with, and
+bortezomib,., a, is, patient, the,</s>, name, or,','s
+carfilzomib,., a, is, patient, name, the,</s>, or,','s
+pomalidomide,., a, is, patient,</s>, the, name,', or, with
+daratumumab,., a, is, patient, name,</s>, the,', with, or
+melphalan,., a, is, patient,</s>, name, the,', or,'s
+modafinil,., a, is, patient, the,</s>, name,', or, with
+duloxetine,., a, is, patient, name, the,</s>,', or, with
+lisdexamfetamine,., a, is, patient,</s>, the, name, or,', with
+amantadine,., a, is, patient, name, the,</s>,', or,'s
+armodafinil,., a, is, patient, the,</s>, name, or,', with
+modafinil,., a, is, patient, the, name,</s>,','s, or
+duloxetine,., a, is, patient, the, name,</s>,', or, with
+lisdexamfetamine,., a, is, patient, the,</s>, name,', or,'s
+amantadine,., a, is, patient, the, name,</s>, or,', with
+armodafinil,., a, is, patient, name,</s>, the,', or,'s
+miconazole,., a, is, patient, the,</s>, name,', or, with
+miconazole,., a, is, patient,</s>, the, name,', or,'s
+dexamethasone,., a, is, patient, the,</s>, name,', or,'s
+thalidomide,., a, is, patient,</s>, the, name, or,','s
+cyclophosphamide,., a, is, patient, the,</s>, name,', or, with
+lenalidomide,., a, is, patient,</s>, the, name,', or,'s
+bortezomib,., a, is, patient,</s>, the, name,', or, with
+carfilzomib,., a, is, patient,</s>, name, the,','s, or
+pomalidomide,., a, is, patient, the,</s>, name,', with, or
+daratumumab,., a, is, patient, the,</s>, name, or,','s
+melphalan,., a, is, patient, the, name,</s>,', or, with
+ibuprofen,., a, is, patient,</s>, the, name,', or,'s
+naproxen,., a, is, patient, the, name,</s>,', with, or
+acetaminophen,., a, is, patient,</s>, the, name,', or,'s
+diclofenac,., a, is, patient, name, the,</s>,', or, with
+nabumetone,., a, is, patient, the, name,</s>, or,','s
+ibuprofen,., a, is, patient,</s>, the, name,', or, with
+naproxen,., a, is, patient,</s>, the, name,', or,'s
+acetaminophen,., a, is, patient,</s>, the, name,', or,'s
+diclofenac,., a, is, patient, the, name,</s>,', or,'s
+nabumetone,., a, is, patient, the,</s>, name,', or, with
+ibuprofen,., a, is, patient, the,</s>, name, or,', with
+naproxen,., a, is, patient, the,</s>, name,', with, or
+acetaminophen,., a, is, patient, name, the,</s>,', or,'s
+diclofenac,., a, is, patient, the,</s>, name, or,', with
+nabumetone,., a, is, patient,</s>, the, name,', or,'s
+modafinil,., a, is, patient, the,</s>, name,', or,'s
+duloxetine,., a, is, patient,</s>, the, name,', or,'s
+lisdexamfetamine,., a, is, patient, the,</s>, name,', or,'s
+amantadine,., a, is, patient, name, the,</s>,', or, with
+armodafinil,., a, is, patient,</s>, the, name,', or,'s
+modafinil,., a, is, patient, name, the,</s>,', or, with
+duloxetine,., a, is, patient,</s>, the, name,', or,'s
+lisdexamfetamine,., a, is, patient,</s>, the, name,', or, with
+amantadine,., a, is, patient, the, name,</s>,', or,'s
+armodafinil,., a, is, patient, the, name,</s>,', or,'s
+dexamethasone,., a, is, patient, the,</s>, name,', or, with
+thalidomide,., a, is, patient, the,</s>, name,', or,'s
+cyclophosphamide,., a, is, patient, name, the,</s>,', or,'s
+lenalidomide,., a, is, patient, the, name,</s>,', or, with
+bortezomib,., a, is, patient, the,</s>, name, or,', with
+carfilzomib,., a, is, patient, the,</s>, name,', or,'s
+pomalidomide,., a, is, patient,</s>, the, name,', or,'s
+daratumumab,., a, is, patient,',</s>, the, name,'s,�
+melphalan,., a, is, patient, the, name,</s>,', or, with
+collagenase,., a, is, patient, the, name,</s>,', or,'s
+becaplermin,., a, is, patient,</s>, the, name,', or, with
+cadexomer iodine,., a, is, patient, the,</s>, name,', or,'s
+aspirin,., a, is, patient,</s>, name, the,','s, or
+nitroglycerin,., a, is, patient,</s>, the, name,', or,'s
+metoprolol,., a, is, patient, the, name,</s>, or,','s
+amlodipine,., a, is, patient, name, the,</s>,', or, with
+isosorbide mononitrate,., a, is, patient, the, name,</s>, or,', with
+isosorbide dinitrate,., a, is, patient, the, name,</s>, or, with,'s
+enoxaparin,., a, is, patient,</s>, the, name,', or,'s
+ranolazine,., a, is, patient, the,</s>, name,', or,'s
+atenolol,., a, is, patient, the,</s>, name,', or, with
+carvedilol,., a, is, patient, the,</s>, name,', or, with
+amlodipine AND atorvastatin,., a, is, patient, the, name,</s>,', or, with
+cyclophosphamide,., a, is, patient, the, name,</s>, or,','s
+vincristine,., a, is, patient, the,</s>,', name, or,'s
+rituximab,., a, is, patient, the,</s>, name,', with, or
+methotrexate,., a, is, patient, the,</s>, name, or,', with
+bendamustine,., a, is, patient,</s>, the, name,', or,'s
+cytarabine,., a, is, patient, the, name,</s>,', or,'s
+fludarabine,., a, is, patient, name,</s>, the,','s, or
+bleomycin,., a, is, patient,</s>, the, name,', with, or
+carmustine,., a, is, patient, the,</s>, name,', or,'s
+idelalisib,., a, is, patient, the,</s>, name,', or, with
+ibritumomab,., a, is, patient, name,</s>, the, or,','s
+ibrutinib,., a, is, patient, name, the,</s>,', or,'s
+mitoxantrone,., a, is, patient,</s>, the, name,', or, with
+cyclophosphamide,., a, is, patient, the, name,</s>,', or,'s
+vincristine,., a, is, patient, the, name,</s>, or,', with
+rituximab,., a, is, patient,</s>, name, the,', or,'s
+methotrexate,., a, is, patient, the,</s>, name,', or, with
+bendamustine,., a, is, patient, the,</s>, name,', or,'s
+cytarabine,., a, is, patient,</s>, name, the,'s, or,'
+fludarabine,., a, is, patient, the,</s>, name,', or, with
+bleomycin,., a, is, patient,</s>, the, name,', or, with
+carmustine,., a, is, patient, the, name,</s>,', or, with
+idelalisib,., a, is, patient, the, name,</s>,', or, with
+ibritumomab,., a, is, patient, the,</s>, name,', or, with
+ibrutinib,., a, is, patient, name, the,</s>,', or,'s
+mitoxantrone,., a, is, patient, the,</s>, name, or, with,'
+meloxicam,., a, is, patient,</s>, the, name,', or,'s
+diclofenac,., a, is, patient, the,</s>, name,', or, with
+naproxen,., a, is, patient, the,</s>, name,', or, with
+ibuprofen,., a, is, patient, the,</s>, name, or,','s
+celecoxib,., a, is, patient, the,</s>, name,', or, with
+chondroitin AND glucosamine,., a, is, patient, the, name,</s>,', or,'s
+diclofenac,., a, is, patient, the, name,</s>,', or, and
+etodolac,., a, is, patient, the, name,</s>,', or, with
+prednisone,., a, is, patient, the,</s>, name,', or, with
+aspirin,., a, is, patient,</s>, the, name,', with, or
+nabumetone,., a, is, patient,</s>, the, name,', or, with
+duloxetine,., a, is, patient, the,</s>, name,', or, with
+miconazole,., a, is, patient, the,</s>, name,', or, with
+miconazole,., a, is, patient, name, the,</s>,','s, or
+miconazole,., a, is, patient, the, name,</s>,', or, with
+miconazole,., a, is, patient, the,</s>, name, or,', with
+miconazole,., a, is, patient, the,</s>, name, or,', with
+miconazole,., a, is, patient,</s>, name, the,', or, with
+meloxicam,., a, is, patient, the,</s>, name,', with, or
+diclofenac,., a, is, patient,</s>, the, name,', or,'s
+naproxen,., a, is, patient, the, name,</s>,', or,'s
+ibuprofen,., a, is, patient,</s>, the, name,', or, with
+celecoxib,., a, is, patient, the,</s>, name,', with,'s
+chondroitin AND glucosamine,., a, is, patient, the,</s>, name,', or, with
+diclofenac,., a, is, patient, name,</s>, the,', or,'s
+etodolac,., a, is, patient, the,</s>, name,', or, with
+prednisone,., a, is, patient, the,</s>, name,', or,'s
+aspirin,., a, is, patient, the,</s>, name,','s, with
+nabumetone,., a, is, patient, the,</s>, name,', or, and
+duloxetine,., a, is, patient,</s>, the, name,', or,'s
+meloxicam,., a, is, patient,</s>, the, name,', or, with
+diclofenac,., a, is, patient, the,</s>, name,', or,'s
+naproxen,., a, is, patient, name, the,</s>,', or, with
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+celecoxib,., a, is, patient, the, name,</s>,', or, with
+chondroitin AND glucosamine,., a, is, patient, the,</s>, name,', or, with
+diclofenac,., a, is, patient, the, name,</s>,', or,'s
+etodolac,., a, is, patient,</s>, name, the,', or, with
+prednisone,., a, is, patient, the,</s>, name,', or,'s
+aspirin,., a, is, patient, the,</s>, name,', or,'s
+nabumetone,., a, is, patient, the,</s>, name,', or, with
+duloxetine,., a, is, patient, the,</s>, name,', or,'s
+ibuprofen,., a, is, patient, the,</s>, name, or,', with
+naproxen,., a, is, patient, the,</s>, name,', or, with
+acetaminophen,., a, is, patient, the,</s>, name,', or, and
+diclofenac,., a, is, patient, the,</s>, name,', or, with
+nabumetone,., a, is, patient, name, the,</s>,', or,'s
+ibuprofen,., a, is, patient,</s>, the, name, or,', with
+naproxen,., a, is, patient,</s>, the, name,', or,'s
+acetaminophen,., a, is, patient, the,</s>, name,', or,'s
+diclofenac,., a, is, patient, the, name,</s>,', or, with
+nabumetone,., a, is, patient, the,</s>, name, or,', with
+ibuprofen,., a, is, patient, name,</s>, the,', or,'s
+naproxen,., a, is, patient, the,</s>, name,', or, with
+acetaminophen,., a, is, patient, the, name,</s>,', or, with
+diclofenac,., a, is, patient,</s>, the, name,', or,'s
+nabumetone,., a, is, patient,</s>, the, name,', or, with
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+naproxen,., a, is, patient,</s>, the, name,', or,'s
+acetaminophen,., a, is, patient, the,</s>, name,', or,'s
+diclofenac,., a, is, patient, the,</s>, name,', or,'s
+nabumetone,., a, is, patient, the, name,</s>,', or, with
+triamcinolone,., a, is, patient,</s>, the, name,', or,'s
+triamcinolone,., a, is, patient,</s>, the, name,', or, and
+risperidone,., a, is, patient, the,</s>, name,', with, or
+clozapine,., a, patient, is,</s>, the, name,', or,'s
+olanzapine,., a, is, patient, the,</s>, name,', or,'s
+quetiapine,., a, is, patient,</s>, the, name,', or,'s
+aripiprazole,., a, is, patient, name, the,</s>, or,','s
+chlorpromazine,., a, is, patient, the,</s>, name,', or,'s
+paliperidone,., a, is, patient,</s>, the, name,', or, with
+ziprasidone,., a, is, patient, name, the,</s>,', or,'s
+loxapine,., a, is, patient, the,</s>, name,', or,'s
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+naproxen,., a, is, patient, name, the,</s>,', or,'s
+acetaminophen,., a, is, patient,</s>, the, name, or,', with
+diclofenac,., a, is, patient, the, name,</s>,', or,'s
+nabumetone,., a, is, patient, name, the,</s>,', or, with
+quetiapine,., a, is, patient,</s>, the, name,', or,'s
+lamotrigine,., a, is, patient, the,</s>, name,', with, or
+lithium,., a, is, patient, the,</s>, name,', or,'s
+risperidone,., a, is, patient, name,</s>, the,', or,'s
+fluoxetine,., a, is, patient, the,</s>, name,', or, with
+olanzapine,., a, is, patient, the, name,</s>, or,', with
+buspirone,., a, is, patient, the,</s>, name,', or, with
+clonazepam,., a, is, patient, the, name,</s>,', or, with
+sertraline,., a, is, patient, the,</s>, name,', or, with
+aripiprazole,., a, is, patient, the,</s>, name,', or,'s
+topiramate,., a, is, patient,</s>, the, name,', or, with
+diazepam,., a, is, patient, the, name,</s>,', or,'s
+lorazepam,., a, is, patient, the, name,</s>,', or,'s
+escitalopram,., a, is, patient, the,</s>, name,', or,'s
+divalproex sodium,., a, is, patient,</s>, the, name,', or,'s
+alprazolam,., a, is, patient, the,</s>, name,', or, with
+clozapine,., a, is, patient, name, the,</s>,', or,'s
+oxcarbazepine,., a, is, patient, name, the,</s>,', or,'s
+citalopram,., a, is, patient, the,</s>, name, or,', with
+haloperidol,., a, is, patient, the,</s>, name,', or,'s
+lurasidone,., a, is, patient,</s>, the, name,','s, or
+l-methylfolate,., a, is, patient, the,</s>, name, or,', with
+carbamazepine,., a, is, patient, the,</s>, name,', or, with
+asenapine,., a, is, patient, the,</s>, name,', or,'s
+paliperidone,., a, is, patient, the,</s>, name,', or, with
+dexamethasone,., a, is, patient, name,</s>, the,', or,'s
+thalidomide,., a, is, patient, the,</s>, name,', or, with
+cyclophosphamide,., a, is, patient, the, name,</s>, with,', or
+lenalidomide,., a, is, patient, the,</s>, name,', or, with
+bortezomib,., a, is, patient, name,</s>, the, or,','s
+carfilzomib,., a, is, patient, name, the,</s>,', or,'s
+pomalidomide,., a, is, patient, the,</s>, name,', or, with
+daratumumab,., a, is, patient, the, name,</s>, with,', or
+melphalan,., a, is, patient, name, the,</s>,', or,'s
+dexamethasone,., a, is, patient, name, the,</s>,', or,'s
+thalidomide,., a, is, patient, the,</s>, name,', or, with
+cyclophosphamide,., a, is, patient, the,</s>, name, or,', with
+lenalidomide,., a, is, patient, the,</s>, name, or, with,'
+bortezomib,., a, is, patient,</s>, the, name, or,','s
+carfilzomib,., a, is, patient, name, the,</s>,', or,'s
+pomalidomide,., a, is, patient, name, the,</s>, or,','s
+daratumumab,., a, is, patient, the,</s>, name, or,', with
+melphalan,., a, is, patient,</s>, the, name,','s, with
+dexamethasone,., a, is, patient,</s>, name, the,', with,'s
+thalidomide,., a, is, patient, the,</s>, name,', with,'s
+cyclophosphamide,., a, is, patient,</s>, name, the,', or, with
+lenalidomide,., a, is, patient, the,</s>, name,','s, or
+bortezomib,., a, is, patient, name,</s>, the,', or, with
+carfilzomib,., a, is, patient, the, name,</s>,', or, with
+pomalidomide,., a, is, patient, name, the,</s>,', or,'s
+daratumumab,., a, is, patient, the,</s>, name, or,','s
+melphalan,., a, is, patient, the,</s>, name,', or, with
+modafinil,., a, is, patient,</s>, the, name, or,', with
+duloxetine,., a, is, patient,</s>, name, the,','s, or
+lisdexamfetamine,., a, is, patient, the,</s>, name,', or, with
+amantadine,., a, is, patient, the,</s>, name,', or, with
+armodafinil,., a, is, patient, the, name,</s>, or,', with
+collagenase,., a, is, patient,</s>, name, the,', or,'s
+becaplermin,., a, is, patient,</s>, the, name,', or,'s
+cadexomer iodine,., a, is, patient, name, the,</s>,', or,'s
+collagenase,., a, is, patient, the, name,</s>,', or, with
+becaplermin,., a, is, patient, the,</s>, name,', or,'s
+cadexomer iodine,., a, is, patient, name, the,</s>,', or, with
+lamivudine,., a, is, patient, the, name,</s>,', or, with
+efavirenz AND emtricitabine AND tenofovir,., a, is, patient, the,</s>, name, or,','s
+ritonavir,., a, is, patient, name, the,</s>,', or,'s
+emtricitabine AND tenofovir,., a, is, patient, the,</s>, name,', or,'s
+tenofovir,., a, is, patient, the,</s>, name,', or, with
+abacavir,., a, is, patient, the,</s>, name,', or,'s
+aspirin,., a, is, patient, the,</s>, name,', or, with
+nitroglycerin,., a, is, patient, name,</s>, the,', or,'s
+metoprolol,., a, is, patient,</s>, the, name, or,','s
+amlodipine,., a, is, patient, the,</s>, name,', or,'s
+isosorbide mononitrate,., a, is, patient,',</s>, the, name,'s,�
+isosorbide dinitrate,., a, is, patient, the,</s>, name,', or, with
+enoxaparin,., a, is, patient, the,</s>, name,', or,'s
+ranolazine,., a, is, patient, the,</s>, name,', or, with
+atenolol,., a, is, patient, name,</s>, the,', or,'s
+carvedilol,., a, is, patient, name, the,</s>,', or,'s
+amlodipine AND atorvastatin,., a, is, patient, the,</s>, name,', or, with
+triamcinolone,., a, is, patient, name, the,</s>, or,','s
+triamcinolone,., a, is, patient,</s>, the, name,', or,'s
+triamcinolone,., a, is, patient, the, name,</s>,', or,'s
+triamcinolone,., a, is, patient, the,</s>, name,', or,'s
+risperidone,., a, is, patient,</s>, the, name,', or,'s
+clozapine,., a, is, patient,</s>, name, the,', or,'s
+olanzapine,., a, is, patient,</s>, the, name,', or, with
+quetiapine,., a, is, patient,</s>, name, the,', or,'s
+aripiprazole,., a, is, patient, name, the,</s>,', or, and
+chlorpromazine,., a, is, patient,</s>, the, name,', or,'s
+paliperidone,., a, is, patient, the,</s>, name, or,', with
+ziprasidone,., a, is, patient,</s>, the, name,', or, with
+loxapine,., a, is, patient, the,</s>, name,', or, with
+ketoconazole,., a, is, patient, the,</s>, name, or,','s
+terbinafine,., a, is, patient, the, name,</s>, or,', with
+ketoconazole,., a, is, patient, the,</s>, name,', or, with
+terbinafine,., a, is, patient, the,</s>, name, or,', with
+ketoconazole,., a, is, patient,</s>, name, the,', or, with
+terbinafine,., a, is, patient, name,</s>, the,', or,'s
+ketoconazole,., a, is, patient,</s>, name, the,', with, or
+terbinafine,., a, is, patient, the,</s>, name,', or,'s
+terbinafine,., a, is, patient, name, the,</s>, or,','s
+terbinafine,., a, is, patient, name, the,</s>,', or,'s
+terbinafine,., a, is, patient, the, name,</s>, or,', with
+terbinafine,., a, is, patient, the,</s>, name,', or, with
+ibuprofen,., a, is, patient, the,</s>, name,', or,'s
+naproxen,., a, is, patient, the,</s>, name,', or, with
+acetaminophen,., a, is, patient,</s>, the, name,', or, with
+diclofenac,., a, is, patient, name, the,</s>,','s, or
+nabumetone,., a, is, patient, the, name,</s>,', or,'s
+meloxicam,., a, is, patient, name, the,</s>,', with, or
+diclofenac,., a, is, patient,</s>, the, name,', or,'s
+naproxen,., a, is, patient, name, the,</s>,', or, with
+ibuprofen,., a, is, patient, the,</s>, name, or,', with
+celecoxib,., a, is, patient, the,</s>, name, or,','s
+chondroitin AND glucosamine,., a, is, patient,</s>, the, name,', or, with
+diclofenac,., a, is, patient, the,</s>, name,', with,'s
+etodolac,., a, is, patient, the, name,</s>,', with, or
+prednisone,., a, is, patient, the,</s>, name,', or,'s
+aspirin,., a, is, patient,</s>, the, name,', or, with
+nabumetone,., a, is, patient, the, name,</s>,', or,'s
+duloxetine,., a, is, patient, the,</s>, name,', or, with
+risperidone,., a, is, patient, the,</s>, name,', or,'s
+clozapine,., a, is, patient, the, name,</s>,', with, or
+olanzapine,., a, is, patient, name,</s>, the, or,','s
+quetiapine,., a, is, patient,</s>, name, the,', or,'s
+aripiprazole,., a, is, patient,</s>, name, the,', with, or
+chlorpromazine,., a, is, patient, the, name,</s>,', or,'s
+paliperidone,., a, is, patient,</s>, the, name,', or, with
+ziprasidone,., a, is, patient,</s>, name, the,', or,'s
+loxapine,., a, is, patient,</s>, the, name,', or,'s
+risperidone,., a, is, patient, the,</s>, name,', or, with
+clozapine,., a, is, patient, the,</s>, name,', or,'s
+olanzapine,., a, is, patient, the,</s>, name, or,', with
+quetiapine,., a, is, patient, the,</s>, name,', or, with
+aripiprazole,., a, is, patient, the,</s>, name, or,', with
+chlorpromazine,., a, is, patient,</s>, the, name,', or, with
+paliperidone,., a, is, patient, the, name,</s>, or,', with
+ziprasidone,., a, is, patient,</s>, the, name,', or,'s
+loxapine,., a, is, patient, name,</s>, the,', or,'s
+risperidone,., a, is, patient, the,</s>, name,', or,'s
+clozapine,., a, is, patient, the,</s>, name,', with, or
+olanzapine,., a, is, patient, the,</s>, name,', or, with
+quetiapine,., a, is, patient, the,</s>, name,', with, or
+aripiprazole,., a, is, patient, name,</s>, the,', or,'s
+chlorpromazine,., a, is, patient, the,</s>, name,', or, with
+paliperidone,., a, is, patient,</s>, the, name,', or,'s
+ziprasidone,., a, is, patient,</s>, the, name,', or, with
+loxapine,., a, is, patient, the, name,</s>,', or, with
+risperidone,., a, patient, is,</s>, the, name,', or,'s
+clozapine,., a, is, patient, the,</s>, name,', or,'s
+olanzapine,., a, is, patient, the,</s>, name, or,', with
+quetiapine,., a, is, patient, the, name,</s>,','s, or
+aripiprazole,., a, is, patient, name, the,</s>,', or,'s
+chlorpromazine,., a, is, patient, the, name,</s>,', or,'s
+paliperidone,., a, is, patient, name, the,</s>,', or,'s
+ziprasidone,., a, is, patient, the, name,</s>, or, with,'
+loxapine,., a, is, patient,</s>, the, name,', or, with
+risperidone,., a, is, patient, the,</s>, name,', or,'s
+clozapine,., a, is, patient, the,</s>, name,', or,'s
+olanzapine,., a, is, patient, the,</s>, name, or,', with
+quetiapine,., a, is, patient, the, name,</s>,', or, with
+aripiprazole,., a, is, patient,</s>, the, name,', or, with
+chlorpromazine,., a, is, patient,</s>, name, the,', or,'s
+paliperidone,., a, is, patient, the,</s>, name, or,', to
+ziprasidone,., a, is, patient,</s>, name, the,', or,'s
+loxapine,., a, is, patient, the,</s>, name,', or,'s
+risperidone,., a, is, patient, the, name,</s>,', or, with
+clozapine,., a, is, patient,</s>, name, the,', or,'s
+olanzapine,., a, is, patient, the, name,</s>,', with, or
+quetiapine,., a, is, patient, name, the,</s>,', or,'s
+aripiprazole,., a, is, patient, the,</s>, name, or,', with
+chlorpromazine,., a, is, patient,</s>, the, name, or,','s
+paliperidone,., a, is, patient,</s>, the, name,', or,'s
+ziprasidone,., a, is, patient, the,</s>, name, or,', with
+loxapine,., a, is, patient, the,</s>, name, or,', with
+aspirin,., a, is, patient, the,</s>, name,', or,'s
+nitroglycerin,., a, is, patient,</s>, the, name,','s, or
+metoprolol,., a, is, patient,</s>, name, the,', or,'s
+amlodipine,., a, is, patient, name,</s>, the,','s, with
+isosorbide mononitrate,., a, is, patient,</s>, the, name,', or, with
+isosorbide dinitrate,., a, is, patient, name, the,</s>, or,','s
+enoxaparin,., a, is, patient, the,</s>, name,', or,'s
+ranolazine,., a, is, patient, the,</s>, name,', or,'s
+atenolol,., a, is, patient, the,</s>, name,', or, with
+carvedilol,., a, is, patient, the, name,</s>,', or,'s
+amlodipine AND atorvastatin,., a, is, patient,</s>, the, name,', or,'s
+modafinil,., a, is, patient, the,</s>, name,', with, or
+duloxetine,., a, is, patient,</s>, the, name,', or, with
+lisdexamfetamine,., a, is, patient, the,</s>, name,', or,'s
+amantadine,., a, is, patient,',</s>, the, name,�,'s
+armodafinil,., a, is, patient,</s>, name, the,', or, with
+miconazole,., a, is, patient,</s>, the, name,', or,'s
+miconazole,., a, is, patient,</s>, name, the,', or,'s
+ketoconazole,., a, is, patient, the, name,</s>,', with, or
+terbinafine,., a, is, patient,</s>, the, name, or,','s
+ketoconazole,., a, is, patient, the,</s>, name,', or, with
+terbinafine,., a, is, patient, the,</s>, name,', or,'s
+ketoconazole,., a, is, patient, name,</s>, the,', or, with
+terbinafine,., a, is, patient, the, name,</s>,', or,'s
+ketoconazole,., a, is, patient, the,</s>, name, or,','s
+terbinafine,., a, is, patient, the,</s>, name,', or, with
+terbinafine,., a, is, patient, the,</s>, name,', or, with
+terbinafine,., a, is, patient, the,</s>, name,', or,'s
+ketoconazole,., a, is, patient, the, name,</s>,', or,'s
+terbinafine,., a, is, patient, the,</s>, name,', or,'s
+ketoconazole,., a, is, patient,</s>, name, the,', or,'s
+terbinafine,., a, is, patient, the, name,</s>, or,', with
+terbinafine,., a, is, patient, the, name,</s>,', or, with
+terbinafine,., a, is, patient, the, name,</s>,', or, with
+terbinafine,., a, is, patient,</s>, the, name,', or, with
+terbinafine,., a, is, patient, the, name,</s>,', or, with
+terbinafine,., a, is, patient, name, the,</s>,', or, with
+terbinafine,., a, is, patient, the, name,</s>,', or, with
+ketoconazole,., a, is, patient,</s>, the, name,', or, with
+terbinafine,., a, is, patient, the,</s>, name, or,','s
+ketoconazole,., a, is, patient, the, name,</s>,', or,'s
+terbinafine,., a, is, patient, name, the,</s>, or,','s
+risperidone,., a, is, patient, the,</s>, name,', or, with
+clozapine,., a, is, patient,</s>, the, name,', with,'s
+olanzapine,., a, is, patient, name,</s>, the,', or,'s
+quetiapine,., a, is, patient, the,</s>, name,', or, with
+aripiprazole,., a, is, patient, the,</s>, name, or,','s
+chlorpromazine,., a, is, patient,</s>, the, name,', or,'s
+paliperidone,., a, is, patient, the,</s>, name, or,', with
+ziprasidone,., a, is, patient, the,</s>, name,', or, with
+loxapine,., a, is, patient, the,</s>, name,', or, with
+aspirin,., a, is, patient, the,</s>, name,', with, or
+nitroglycerin,., a, is, patient, the,</s>, name,','s, or
+metoprolol,., a, is, patient, name, the,</s>,', or,'s
+amlodipine,., a, is, patient,</s>, the, name,', or, with
+isosorbide mononitrate,., a, is, patient, the,</s>, name,', or,'s
+isosorbide dinitrate,., a, is, patient, the,</s>, name, or,', for
+enoxaparin,., a, is, patient, the, name,</s>,', or,'s
+ranolazine,., a, is, patient, the,</s>, name,', or,'s
+atenolol,., a, patient, is,</s>, name, the,', or,'s
+carvedilol,., a, is, patient, the, name,</s>,', with, or
+amlodipine AND atorvastatin,., a, is, patient, the,</s>, name,', or, with
+collagenase,., a, is, patient, the,</s>, name,', or,'s
+becaplermin,., a, is, patient, name, the,</s>,', or,'s
+cadexomer iodine,., a, is, patient,</s>, the, name,','s, or
+ibuprofen,., a, patient, is, the,</s>, name,', or,'s
+naproxen,., a, is, patient, the, name,</s>,', or, with
+acetaminophen,., a, is, patient,</s>, the, name,','s, or
+diclofenac,., a, is, patient, name, the,</s>,', or,'s
+nabumetone,., a, is, patient, the, name,</s>,', or,'s

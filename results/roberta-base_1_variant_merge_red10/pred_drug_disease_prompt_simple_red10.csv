@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,".""",?,..,.*,!
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,".""",.*,!,..
+Acute Myeloid Leukemia,.,",",.,</s>,..,:,?,.*,".""",!
+Acute Myeloid Leukemia,.,",",.,</s>,?,:,..,.*,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,..,.*,?,".""", Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Acute Myeloid Leukemia,.,.,",",</s>,?,:, Edit,.*,".""",).
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,..,?,!,"."""
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,!,.*,".""",..,*.
+Acute Myeloid Leukemia,.,.,",",</s>,:,?,.*,".""", Edit,..
+Acute Myeloid Leukemia,.,",",.,</s>,:,.*,".""",?,.., Edit
+Acute Myeloid Leukemia,.,",",.,</s>,:,?,).,".""",.*, Edit
+High Cholesterol,.,.,",",</s>,:,.*,?,".""",.., Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,..,.*,?,".""", Edit
+High Cholesterol,.,",",.,</s>,:,.*,..,".""",?, Edit
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,).
+High Cholesterol,.,",",.,</s>,:,.*,".""",..,?,!
+High Cholesterol,.,",",.,</s>,:,".""",?,.*,..,!
+High Cholesterol,.,.,",",</s>,?,:,".""",!, Edit,.*
+High Cholesterol,.,",",.,</s>,.*,:,!,..,".""",*.
+High Cholesterol,.,",",.,</s>,:,.*,".""",?,..,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,".""",.*,..,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*,!,..
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,".""",..,?, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,?,:,".""",..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,".""",?,.*, Edit
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,".""",?,..,.*,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,..,?,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,".""",.*, Edit,!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,?,..,".""",.*,!
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,?,.*, Edit,".""",).
+Non-Hodgkin's Lymphoma,.,.,",",</s>,.*,:,..,?,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",</s>,:,.*,?,..,".""",!
+Non-Hodgkin's Lymphoma,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""",.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,?,:,..,".""", Edit,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""", Edit,.*,..
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,?,".""",!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,.*,".""", Edit,..
+Borderline Personality Disorder,.,",",.,</s>,..,:,".""",.*,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",..,.*,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,?,".""",.*, Edit,..
+Borderline Personality Disorder,.,",",.,</s>,:,?,..,".""",!,.*
+Borderline Personality Disorder,.,",",.,</s>,:,..,.*,".""",?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,".""",..,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,.*,?, of
+Borderline Personality Disorder,.,",",.,</s>,:,".""",..,?,.*,!
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",..,?,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,?,".""",.., Edit
+Borderline Personality Disorder,.,.,",",</s>,:,.*,".""",?,.., Edit
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,..,.*, Edit
+Borderline Personality Disorder,.,",",.,</s>,:,..,?,".""",.*, ().
+Borderline Personality Disorder,.,",",.,</s>,:,".""",?,.*,..,!
+Borderline Personality Disorder,.,",",.,</s>,:,.*,..,".""",?, Edit
+Borderline Personality Disorder,.,",",.,</s>,".""",:,?,..,.*, Edit
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Multiple Myeloma,.,",",.,</s>,:,".""",..,?,.*,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,",",.,</s>,:,?,".""",.*,..,!
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*,.., Edit
+Multiple Myeloma,.,",",.,</s>,:,?,.*,..,".""", of
+Multiple Myeloma,.,",",.,</s>,.*,".""",..,:,?,!
+Multiple Myeloma,.,",",.,</s>,:,".""",?,.*,.., Edit
+Multiple Myeloma,.,.,",",</s>,:,?,".""",.*, Edit,).
+Multiple Myeloma,.,.,",",</s>,?,:,".""",.*, Edit,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,".""",..,:,!,*.
+HIV Infection,.,",",.,</s>,:,..,.*,".""",?,!
+HIV Infection,.,",",.,</s>,.*,:,..,".""",!,*.
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""",!
+HIV Infection,.,",",.,</s>,:,.*,..,?,".""", Edit
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Psoriasis,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",!,..
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",..,?,.*,!
+Osteoarthritis,.,",",.,</s>,:,.*,?,..,".""",!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""", Edit,).
+Osteoarthritis,.,",",.,</s>,.*,!,:,..,".""",*.
+Osteoarthritis,.,",",.,</s>,:,..,".""",?,.*,!
+Osteoarthritis,.,.,",",</s>,.*,:,..,?,".""",).
+Osteoarthritis,.,",",.,</s>,:,?,".""",..,.*, Edit
+Osteoarthritis,.,",",.,</s>,:,?,..,".""",.*,!
+Osteoarthritis,.,",",.,</s>,:,".""",?,..,.*,!
+Osteoarthritis,.,.,",",</s>,:,?,.*,".""",..,!
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Chronic Fatigue Syndrome,.,",",.,</s>,:,.*,".""",..,?, Edit
+Chronic Fatigue Syndrome,.,.,",",</s>,:,?,.*,".""",..,!
+Chronic Fatigue Syndrome,.,.,",",</s>,:,.*,".""",..,?,!
+Chronic Fatigue Syndrome,.,",",.,</s>,:,..,".""",.*,?, Edit
+Chronic Fatigue Syndrome,.,",",.,</s>,.*,:,".""",..,?,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Oral Thrush,.,",",.,</s>,:,".""",?,.*,..,!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Cruris,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Pedis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Tinea Corporis,.,",",.,</s>,:,..,.*,".""",?, Edit
+Tinea Corporis,.,",",.,</s>,:,.*,..,?,".""",!
+Schizophrenia,.,",",.,</s>,:,?,".""", Edit,.*,..
+Schizophrenia,.,",",.,</s>,:,".""",..,?,.*,!
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,?,.*,".""",.., Edit
+Schizophrenia,.,",",.,</s>,:,.*,".""",..,?,!
+Schizophrenia,.,",",.,</s>,:,".""",?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,".""",:,?,..,.*, Edit
+Schizophrenia,.,",",.,</s>,:,?,".""",.*,!,..
+Schizophrenia,.,.,",",</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,..,".""",.*,!
+Angina,.,",",.,</s>,:,?,.*,..,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",..,!
+Angina,.,.,",",</s>,:,".""",.*,?,.., Edit
+Angina,.,",",.,</s>,.*,..,".""",:,?,*.
+Angina,.,",",.,</s>,.*,..,:,".""",?,!
+Angina,.,",",.,</s>,:,.*,?,..,".""", Edit
+Angina,.,",",.,</s>,:,.*,..,?,".""",!
+Angina,.,",",.,</s>,:,.*,?,".""",.., Edit
+Angina,.,",",.,</s>,:,..,.*,".""",?,!
+Angina,.,",",.,</s>,.*,:,".""",..,!,*.
+Dermal Ulcer,.,",",.,</s>,?,:,".""",..,.*,).
+Dermal Ulcer,.,</s>,",",.,:,".""",.*,?, Edit,..
+Dermal Ulcer,.,",",.,</s>,:,.*,..,?,".""",!
+Muscle Pain,.,",",.,</s>,:,.*,?,..,".""",!
+Muscle Pain,.,",",.,</s>,:,".""",..,?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,..,".""",?,.*,!
+Muscle Pain,.,",",.,</s>,:,".""",?,..,.*,!

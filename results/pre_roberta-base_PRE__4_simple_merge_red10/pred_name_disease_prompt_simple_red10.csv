@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient,</s>, patient,.],"!"".",.},".""","""."
+Angina,.,Pat,ient,.], patient,.},"!"".",</s>,".""","]."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Angina,.,Pat,ient,</s>,.], patient,.},"!"".", is,"."""
+Angina,.,Pat,ient, patient,</s>,.],"!"".",.},""".", disease
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", disease,}.
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Muscle Pain,.,Pat,ient, patient,.},.],"!"".",</s>,".""","""."
+Muscle Pain,.,Pat,ient, patient,"!"".",.], disease,</s>,.},"""."
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],"!"".",.},""".", is
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+HIV Infection,.,Pat,ient,.], patient,</s>,.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,}.
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".","].""","""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+HIV Infection,.,Pat,ient, patient,</s>,.],"!"".",.}, is, disease
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", is,}.
+HIV Infection,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,.],.},</s>,"!"".",".""",.)
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,"!"".",.], is,.},"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.}, disease,"!"".", is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",".""", is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"]."""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,"!"".",.},""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],.},</s>,"!"".","].""","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Acute Myeloid Leukemia,.,Pat,.],ient,.}, patient,</s>,"!"".",".""",.)
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",""".",}.
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",}., disease
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+HIV Infection,.,Pat,ient,</s>,.], patient,.},"!"".",""".","."""
+HIV Infection,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+HIV Infection,.,Pat,.],.},ient, patient,</s>,"!"".",".""""","]."""
+HIV Infection,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"]."""
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+HIV Infection,.,Pat,ient,</s>,.], patient,"!"".",.},".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+HIV Infection,.,Pat,ient, patient,.],.},</s>,"!"".",".""","."""""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.},.],"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient,.],.}, patient,</s>,"!"".",".""""","."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Angina,.,Pat,ient,.], patient,"!"".",</s>,.},".""","]."""
+Angina,.,Pat,ient,.], patient,.},"!"".",</s>,""".","."""""
+Angina,.,Pat,ient,.],.}, patient,"!"".",</s>,"].""","."""""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Angina,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Angina,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".",}.
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".","].""", is
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Angina,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Angina,.,Pat,ient,.], patient,</s>,.},"!"".",".""",}.
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Angina,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"."""
+Angina,.,Pat,ient,.], patient,</s>,.},"!"".",".""""","""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",}.,"""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"]."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Angina,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient,</s>,.], patient,.},"!"".",""".","."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Angina,.,Pat,ient,.], patient,.},"!"".",</s>,".""","""."
+Angina,.,Pat,ient, patient,</s>,"!"".",.], disease,.}, is
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Angina,.,Pat,ient, patient,</s>,.],"!"".",.},""".", disease
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+Muscle Pain,.,Pat,ient, patient,.],.},</s>,"!"".",".""","."""""
+Muscle Pain,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Muscle Pain,.,Pat,.],ient,.}, patient,</s>,"!"".",".""""","."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".", disease,"."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.}, is, disease,"!""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient, patient,.],"!"".",.},</s>,""".","."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Muscle Pain,.,Pat,ient,.], patient,.},</s>,"!"".",".""","]."""
+Muscle Pain,.,Pat,ient,</s>, patient,.},.],"!"".",}.,"""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".","].""","""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+HIV Infection,.,Pat,ient,.},.], patient,</s>,"!"".",".""","""."
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Osteoarthritis,.,Pat,.],ient,.}, patient,"!"".",</s>,"].""","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Osteoarthritis,.,Pat,ient, patient,.],"!"".",.},</s>,".""","""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+Osteoarthritis,.,Pat,ient,</s>,.], patient,.},"].""","!"".", is
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", is,}.
+Osteoarthritis,.,Pat,ient,</s>, patient,.],"!"".",.},""".", disease
+Osteoarthritis,.,Pat, patient,ient,.],.},"!"".",</s>,"].""","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Tinea Pedis,.,Pat,ient, patient,.],.},</s>,"!"".",".""","]."""
+Tinea Pedis,.,Pat,ient,.], patient,.},</s>,"!"".","].""","."""
+Dermal Ulcer,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Dermal Ulcer,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Chronic Fatigue Syndrome,.,Pat,ient,.], patient,</s>,.},"!"".",""".","."""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", disease,}.
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+Tinea Corporis,.,Pat,.],ient,.}, patient,</s>,"!"".",".""""","."""
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"]."""
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.}, disease,"!"".", is
+Tinea Corporis,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Borderline Personality Disorder,.,Pat,ient,.], patient,.},</s>,"!"".",".""",.)
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""", is
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.}, disease,"!"".","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,.],ient, patient,.},"!"".",</s>,".""""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""",}.
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},</s>,"!"".","].""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},</s>,"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,"!"".",.],.},""".", disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.},".""""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient,.],</s>, patient,.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},"!"".",</s>,""".","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,.], patient,.},</s>,"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".", disease,.}, is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Borderline Personality Disorder,.,Pat,ient,.],</s>, patient,.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.},.],"!"".",}.,"."""
+Borderline Personality Disorder,.,Pat,ient,.], patient,.},</s>,"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.},"!"".",.],""".","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""""
+Muscle Pain,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Muscle Pain,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Muscle Pain,.,Pat,ient,.], patient,.},</s>,"!"".",".""","."""""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is,"]."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".","].""", is
+Muscle Pain,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Muscle Pain,.,Pat,ient, patient,</s>,"!"".",.},.],"].""",}.
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",}., is
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".", disease,.}, is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>,.], patient,.},"!"".",""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.}, is, disease
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Acute Myeloid Leukemia,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.},""".", is
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",}.,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],.},</s>,"!"".",".""","."""""
+Acute Myeloid Leukemia,.,Pat,ient,</s>,.], patient,.},"!"".",""".", is
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""", is
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",}., disease
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.},"].""","."""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""",}.
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",""".",}.
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>,.], patient,.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.},""".", is
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""", is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",".""",}.
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",}., disease
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",}., disease
+Multiple Myeloma,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Multiple Myeloma,.,Pat,ient,.], patient,.},</s>,"!"".",".""""","."""
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>, disease,.],"!"".",.},"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],.},</s>,"!"".",".""","."""""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,.},"!"".", disease, is
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",""".","]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"]."""
+Multiple Myeloma,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.}, disease,"!"".", is
+Multiple Myeloma,.,Pat,.],.},ient,"!"".", patient,</s>,".""","""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",".""", disease
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.},""".", is
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Multiple Myeloma,.,Pat,ient,</s>,.], patient,"!"".",.},""".", is
+Oral Thrush,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Oral Thrush,.,Pat,ient,</s>, patient,.],"!"".",.},".""","""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient,.],.},"!"".",</s>, patient,""".","."""
+Schizophrenia,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Schizophrenia,.,Pat,.],ient,.}, patient,</s>,"!"".",".""",.)
+Schizophrenia,.,Pat,ient, patient,.],.},</s>,"!"".",".""","]."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Chronic Fatigue Syndrome,.,Pat,ient, patient,.],</s>,"!"".",.},""".","."""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"."""
+Chronic Fatigue Syndrome,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient, patient,.],.},</s>,"!"".",".""","""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+High Cholesterol,.,Pat,ient, patient,.],.},</s>,"!"".",".""","]."""
+High Cholesterol,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+High Cholesterol,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],"!"".",.},""".", disease
+High Cholesterol,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+High Cholesterol,.,Pat,.],ient, patient,</s>,.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+High Cholesterol,.,Pat,ient, patient,.},.],</s>,"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+High Cholesterol,.,Pat,ient, patient,.},.],</s>,"!"".",".""","."""""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+High Cholesterol,.,Pat,ient, patient,</s>,.},.],"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient,</s>,.], patient,.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],"!"".",.}, is, disease
+High Cholesterol,.,Pat,ient, patient,</s>,.],"!"".",.},}.,"""."
+High Cholesterol,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","]."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+High Cholesterol,.,Pat, patient,ient,.],.},"!"".",".""""",</s>,"."""
+High Cholesterol,.,Pat,ient,.], patient,.},</s>,"!"".",""".","."""
+High Cholesterol,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],"!"".",.},""".", is
+High Cholesterol,.,Pat,ient, patient,</s>,.],"!"".",.},".""","""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", disease,}.
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,.],</s>,"!"".",.},""".","."""
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.], is,.}, disease,"!""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".", is,"]."""
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],"!"".",.},".""","""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Chronic Fatigue Syndrome,.,Pat,ient,</s>,.], patient,.},"!"".",""".","."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+HIV Infection,.,Pat,ient,.], patient,</s>,.},"!"".",.),"."""
+HIV Infection,.,Pat,ient,.], patient,.},</s>,"!"".","].""","."""
+HIV Infection,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Dermal Ulcer,.,Pat,ient, patient,</s>,.},.],"!"".","].""",}.
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Osteoarthritis,.,Pat,ient,.], patient,.},</s>,"!"".",".""","."""""
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,.],ient,.}, patient,</s>,"!"".",".""""","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Osteoarthritis,.,Pat,ient, patient,.],.},</s>,"!"".",".""","."""""
+Osteoarthritis,.,Pat,ient, patient,.],"!"".",</s>,.},""".","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Osteoarthritis,.,Pat,ient,.], patient,.},</s>,"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+Osteoarthritis,.,Pat,ient,.],.}, patient,</s>,"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Dermal Ulcer,.,Pat,ient,</s>, patient,.],"!"".",.},""".",}.
+Dermal Ulcer,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Dermal Ulcer,.,Pat,ient, patient,</s>,"!"".",.],""".",".""",.}
+Dermal Ulcer,.,Pat,ient,</s>, patient,.},.],"!"".", disease,}.
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Dermal Ulcer,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",}.,"]."""
+Dermal Ulcer,.,Pat,ient,.], patient,</s>,.},"!"".",".""","]."""
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",}., is
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Muscle Pain,.,Pat,ient, patient,.},</s>,.],"!"".",".""""","."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Schizophrenia,.,Pat,ient,.], patient,.},</s>,"!"".",".""","]."""
+Schizophrenia,.,Pat,ient,</s>,.], patient,"!"".",.}, is,"."""
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,.],ient,.},"!"".", patient,"].""",".""""","."""
+Schizophrenia,.,Pat,.],ient,.}, patient,</s>,"!"".",".""","."""""
+Schizophrenia,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Schizophrenia,.,Pat,ient,.], patient,</s>,.},"!"".","].""","."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Osteoarthritis,.,Pat,ient,.], patient,</s>,.},"!"".",.),"."""""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Osteoarthritis,.,Pat,ient, patient,.],</s>,"!"".",.},""".","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient,.], patient,.},"!"".",</s>,"].""","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],"!"".",.},""".","]."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""",}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.}, disease,"!"".", is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, disease, is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],"!"".",.},</s>,"].""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Borderline Personality Disorder,.,Pat,ient,"!"".",.], patient,</s>,.},"].""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient,.],</s>, patient,"!"".",.},".""","."""""
+Borderline Personality Disorder,.,Pat,ient,</s>,.], patient,"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,"!"".",.],.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},</s>,"!"".",".""""", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",}.,"."""
+Borderline Personality Disorder,.,Pat,.],.},</s>,ient,"!"".", patient,"].""",.)
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,"!"".",.],.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>,.], patient,.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,.], patient,"!"".",.},</s>,"].""","."""""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".",}.
+Muscle Pain,.,Pat,ient, patient,.],.},</s>,"!"".",".""",.)
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".","].""",}.
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient,.], patient,.},</s>,"!"".",".""""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},</s>,"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},</s>,"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".", is,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},</s>,"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient,.],.}, patient,</s>,"!"".",}.,"."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.},".""","""."
+Borderline Personality Disorder,.,Pat,.],ient,.},"!"".",</s>, patient,"].""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},</s>,"!"".","].""","."""""
+Borderline Personality Disorder,.,Pat,ient,.], patient,.},"!"".",</s>,".""""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",}.,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient,.],.}, patient,"!"".",</s>,"].""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.], disease,.},"!"".", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".", is,.},"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.},""".", disease
+Borderline Personality Disorder,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, disease, is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".", disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,.],ient,.}, patient,</s>,"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,"!"".",.],.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient,</s>,.], patient,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.},.],"!"".",""".",}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.},""".", disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,.],.}, patient,</s>,"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},"!"".",</s>,}.,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,.],ient, patient,.},</s>,"!"".",".""""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""",}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.},.],"!"".",""".",}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.},.],"!"".", disease,}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""",.)
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".", disease,.}, is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat, patient,ient,.],.},"!"".",</s>,".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".", disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""", is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient,.],</s>, patient,.},"!"".",".""", is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""",.)
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.},.],"!"".",""".","."""
+Psoriasis,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Psoriasis,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient,.], patient,.},</s>,"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",""".","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,.],.},"!"".", patient,ient,".""""","].""",</s>
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".","].""","""."
+Borderline Personality Disorder,.,Pat,ient,.],</s>, patient,.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""""","."""
+Borderline Personality Disorder,.,Pat,ient,.},.], patient,</s>,"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},</s>,"!"".",".""", disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",}., is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,"!"".",.],.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,.], patient,.},</s>,"!"".","].""","."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],"!"".",.}, is, disease
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+High Cholesterol,.,Pat,ient,</s>, patient,.],"!"".",.},".""""","."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".","].""","."""
+High Cholesterol,.,Pat,ient, patient,.],.},</s>,"!"".",".""","""."
+Tinea Corporis,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Tinea Corporis,.,Pat,ient,</s>, patient,.],.},"!"".",}.,"""."
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.}, disease,"!"".","""."
+Tinea Pedis,.,Pat,ient,</s>, patient,.],.},"!"".",}.,"""."
+Tinea Pedis,.,Pat,ient, patient,</s>,"!"".",.],.}, disease,"""."
+Tinea Cruris,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Tinea Cruris,.,Pat,ient, patient,</s>,.],.},"!"".",".""",}.
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Osteoarthritis,.,Pat,ient,.],"!"".",.}, patient,</s>,"].""","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,"!"".",.],.}, disease,"""."
+Osteoarthritis,.,Pat,ient,.], patient,.},</s>,"!"".",".""","."""""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Osteoarthritis,.,Pat,ient, patient,.],.},</s>,"!"".",".""","]."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient,.], patient,</s>,.},"!"".",".""""","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Psoriasis,.,Pat,ient, patient,</s>,.],"!"".",.},""".", disease
+Psoriasis,.,Pat,ient,.],.}, patient,</s>,"!"".",".""","""."
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient,.], patient,</s>,.},"!"".",".""","]."""
+Angina,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Angina,.,Pat,ient,.],</s>, patient,.},"!"".",""".","."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Angina,.,Pat,ient,</s>, patient,.},.],"!"".",""".", disease
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+High Cholesterol,.,Pat,ient,</s>,.], patient,.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".","].""","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", is,"]."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"."""
+High Cholesterol,.,Pat,ient,.],</s>, patient,.},"!"".","].""","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,.],</s>,"!"".", patient,.},"].""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+HIV Infection,.,Pat,ient,</s>, patient,.],"!"".",.},""".", disease
+HIV Infection,.,Pat,ient,.], patient,</s>,.},"!"".",".""""","."""
+HIV Infection,.,Pat,ient, patient,</s>,"!"".",.],.},""".", disease
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+HIV Infection,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+HIV Infection,.,Pat,ient, patient,.],</s>,.},"!"".",".""",}.
+HIV Infection,.,Pat,ient,.], patient,"!"".",</s>,.},".""""","]."""
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+HIV Infection,.,Pat,ient,.], patient,.},</s>,"!"".",".""","]."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",".""", is
+HIV Infection,.,Pat,ient, patient,.],</s>,.},"!"".",""".", disease
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+HIV Infection,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+HIV Infection,.,Pat,ient,.], patient,.},</s>,"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,.],.},</s>,"!"".","].""","."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+HIV Infection,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient,.], patient,.},</s>,"!"".",".""","""."
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",}.,"""."
+HIV Infection,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",".""","."""""
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+HIV Infection,.,Pat,ient, patient,</s>,.],"!"".",.},".""","]."""
+HIV Infection,.,Pat,ient, patient,</s>,.],"!"".", disease,.}, is
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".", is,}.
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""""","."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", disease,}.
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+High Cholesterol,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+High Cholesterol,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+High Cholesterol,.,Pat,ient, patient,.],</s>,"!"".",.},".""","."""""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+High Cholesterol,.,Pat,ient, patient,"!"".",</s>,.},.],""".","]."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient,</s>, patient,.],"!"".",.},""".", is
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",}.,"""."
+High Cholesterol,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+High Cholesterol,.,Pat,ient,</s>,.], patient,.},"!"".",}.,"""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+High Cholesterol,.,Pat,ient, patient,</s>,"!"".",.},.], disease,"""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],"!"".",.},""".", is
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+High Cholesterol,.,Pat,.], patient,.},ient,"!"".",</s>,".""","."""""
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+High Cholesterol,.,Pat,ient,.],</s>,.}, patient,"!"".",".""",.)
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", disease,}.
+High Cholesterol,.,Pat,ient, patient,</s>,.},.],"!"".", disease,"""."
+High Cholesterol,.,Pat,ient,</s>, patient,"!"".",.],.},""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Osteoarthritis,.,Pat,ient,.], patient,.},</s>,"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Osteoarthritis,.,Pat,ient,</s>,.], patient,.},"!"".",}.,"."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Osteoarthritis,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Osteoarthritis,.,Pat,ient,.], patient,</s>,.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.},.],"!"".",""".","."""
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"]."""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".",".""", disease
+Chronic Fatigue Syndrome,.,Pat,.], patient,.},ient,"!"".",</s>,".""""","."""
+Chronic Fatigue Syndrome,.,Pat,ient, patient,.],.},</s>,"!"".",".""","]."""
+Chronic Fatigue Syndrome,.,Pat,ient,.],.}, patient,</s>,"!"".",".""","]."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".",".""", is
+Muscle Pain,.,Pat,ient,.], patient,.},</s>,"!"".",".""","]."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Muscle Pain,.,Pat,ient, patient,</s>,.],"!"".",.}, is, disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".",}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,.],.}, patient,ient,</s>,"!"".",".""""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat, patient,ient,.],.},"!"".",</s>,".""""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Borderline Personality Disorder,.,Pat,ient,.},.], patient,</s>,"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>, disease,.},.],"!"".","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Tinea Corporis,.,Pat,ient,</s>, patient,.],.},"!"".",}.,"""."
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Tinea Pedis,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Tinea Pedis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Tinea Cruris,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Tinea Cruris,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Muscle Pain,.,Pat,ient,</s>, patient,.],"!"".",.},""".", is
+Muscle Pain,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"."""""
+Muscle Pain,.,Pat,ient,.],</s>, patient,.},"!"".","].""","."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],"!"".",.}, disease, is
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".",}.
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Muscle Pain,.,Pat,ient,.],</s>, patient,.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",".""", is
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Psoriasis,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Psoriasis,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Borderline Personality Disorder,.,Pat,.],ient,.}, patient,"!"".",</s>,".""","]."""
+Borderline Personality Disorder,.,Pat, patient,ient,.],</s>,.},"!"".",".""""","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,"!"".",.},"].""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",}., is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Borderline Personality Disorder,.,Pat,ient,</s>,.], patient,.},"!"".",".""","]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.},""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient,.],"!"".",.}, patient,</s>,".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,"!"".",.},".""""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".", disease,"]."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Dermal Ulcer,.,Pat,ient, patient,.],</s>,.},"!"".", is,"."""
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Dermal Ulcer,.,Pat,ient,.],.}, patient,"!"".",</s>,"].""","."""
+Tinea Cruris,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Tinea Cruris,.,Pat,ient,</s>, patient,.],.}, disease,"!"".", is
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Osteoarthritis,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Osteoarthritis,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"]."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient,.], patient,</s>,.},"!"".","].""","."""""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".",""".",}.
+Osteoarthritis,.,Pat,ient,.], patient,.},"!"".",</s>,".""",.)
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",".""","]."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],.},</s>,"!"".",".""","]."""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",""".",}.
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""", disease
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],"!"".",.},"].""","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],"!"".",.},".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,.)
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,"!"".",.],.}, disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"]."""
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""""
+Acute Myeloid Leukemia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Acute Myeloid Leukemia,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",}.,"""."
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", is,}.
+High Cholesterol,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+High Cholesterol,.,Pat,ient,.], patient,.},"!"".",</s>,"].""","."""""
+High Cholesterol,.,Pat,ient,.], patient,"!"".",.},</s>,""".","."""
+High Cholesterol,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],.},"!"".",</s>,".""""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,.], patient,.},</s>,"!"".","].""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>,.], patient,"!"".",.},"].""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.},.],"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,.], patient,</s>,"!"".",.},"].""", disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.},"!"".",.], disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Non-Hodgkin's Lymphoma,.,Pat,ient,.],</s>, patient,.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat, patient,ient,.],.},</s>,"!"".",".""""","]."""
+Non-Hodgkin's Lymphoma,.,Pat,.],ient, patient,.},"!"".",</s>,"].""","."""""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,"!"".",.],.},""".","]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,"!"".",.},".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,.], patient,.},</s>,"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,"!"".",.],.}, disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,"!"".",.],.}, is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,.},"!"".", is,"]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,.],.}, patient,</s>,"!"".",".""","."""""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],"!"".",.}, is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient,.], patient,</s>,.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",""".",}.
+Non-Hodgkin's Lymphoma,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".","].""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",".""","]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],"!"".", disease,.},"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient,</s>,.], patient,.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Multiple Myeloma,.,Pat,ient,</s>,.], patient,.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+Multiple Myeloma,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,.],</s>,"!"".",.},"].""","."""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", disease,}.
+Chronic Fatigue Syndrome,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Oral Thrush,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Oral Thrush,.,Pat,ient,</s>, patient,.],.},"!"".",".""",}.
+Multiple Myeloma,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,"!"".",.},.],""".", disease
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.},""".","]."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient,</s>,.], patient,.},"!"".",".""",.)
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Muscle Pain,.,Pat,ient,</s>,.], patient,.},"!"".",""".", is
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Muscle Pain,.,Pat,ient,.], patient,</s>,.},"!"".","].""","."""""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", disease,}.
+Chronic Fatigue Syndrome,.,Pat,ient, patient,.],</s>,.},"!"".","].""","""."
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Chronic Fatigue Syndrome,.,Pat,ient,.],</s>, patient,.},"!"".",".""","""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Multiple Myeloma,.,Pat,ient,.], patient,.},</s>,"!"".","].""","."""""
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],"!"".",.},""".", disease
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",""".","]."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Dermal Ulcer,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Dermal Ulcer,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".", disease,"."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Angina,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Angina,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""""","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,"!"".",.],.},""".","]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],"!"".",.},""".", disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>,.], patient,.},"!"".",".""","""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,.], patient,.},</s>,"!"".",".""","]."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient, patient,</s>,.],.},"!"".",}., is
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Non-Hodgkin's Lymphoma,.,Pat,ient,</s>, patient,.],.},"!"".",}.,"""."
+Osteoarthritis,.,Pat,ient,.], patient,.},</s>,"!"".",".""","]."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Osteoarthritis,.,Pat,ient, patient,</s>,.},"!"".",.], disease,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",".""""","."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],"!"".",.}, is, disease
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",".""",}.
+Oral Thrush,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Oral Thrush,.,Pat,ient, patient,.],.},"!"".",</s>,"].""","."""
+Oral Thrush,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Oral Thrush,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Oral Thrush,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Oral Thrush,.,Pat,ient, patient,</s>,.},.],"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],"!"".",.},""".", disease
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", is,"]."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],"!"".",.},""".", is
+Osteoarthritis,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,}.
+Osteoarthritis,.,Pat,ient,.], patient,</s>,.},"!"".",".""","]."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Osteoarthritis,.,Pat, patient,.],ient,.},</s>,"!"".",".""","."""""
+Osteoarthritis,.,Pat,.],ient, patient,.},"!"".",</s>,".""","."""""
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".",".""", is
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Osteoarthritis,.,Pat,ient,.], patient,.},</s>,"!"".",".""","."""""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient,.},.], patient,"!"".",</s>,".""","."""""
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",".""",.)
+Muscle Pain,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","."""
+Muscle Pain,.,Pat,ient,.], patient,.},</s>,"!"".",".""""","."""
+Muscle Pain,.,Pat,ient,</s>, patient,"!"".",.],.},""".", disease
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Muscle Pain,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,}.
+Muscle Pain,.,Pat,ient, patient,</s>,"!"".",.],.},""".", disease
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Muscle Pain,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient,.], patient,</s>,"!"".",.},".""",.)
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".", disease,"""."
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Muscle Pain,.,Pat,ient,.},.], patient,"!"".",</s>,""".","."""""
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Muscle Pain,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Muscle Pain,.,Pat,ient,.], patient,.},</s>,"!"".",".""",}.
+Psoriasis,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Psoriasis,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],"!"".",.},""".",}.
+Schizophrenia,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",}.,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Schizophrenia,.,Pat,ient, patient,</s>, disease,.],"!"".",.},"""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient,</s>, patient,"!"".",.],.},""".",}.
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Muscle Pain,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient, patient,.],.},</s>,"!"".",".""","""."
+Muscle Pain,.,Pat,ient,</s>, patient,.],"!"".",.}, is, disease
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"."""
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".",}.
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""",}.
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",".""",}.
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.},.],"!"".", disease,}.
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.},.],"!"".", disease,"""."
+Borderline Personality Disorder,.,Pat,ient,.],</s>, patient,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Borderline Personality Disorder,.,Pat,ient,.], patient,.},</s>,"!"".",".""""","."""
+Borderline Personality Disorder,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Multiple Myeloma,.,Pat,ient, patient,.],</s>,.},"!"".",""".", is
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.},""".","]."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".",".""",}.
+Multiple Myeloma,.,Pat,ient,.],.}, patient,</s>,"!"".",".""","""."
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".",}.
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],"!"".",.}, is,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Multiple Myeloma,.,Pat,ient,</s>, patient,"!"".",.],.},""".","."""""
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Multiple Myeloma,.,Pat,ient,</s>, patient,.],.}, disease,"!"".", is
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".",".""",}.
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.},"!"".",.],""".",}.
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".",""".",}.
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],"!"".",.}, is, disease
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""""
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Dermal Ulcer,.,Pat,ient, patient,.],</s>,"!"".",.},"].""","."""
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Dermal Ulcer,.,Pat,.],ient, patient,.},"!"".",</s>,"].""","."""
+Dermal Ulcer,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Dermal Ulcer,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".", is,}.
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+HIV Infection,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+HIV Infection,.,Pat,ient,</s>, patient,.],"!"".",.},""".", disease
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".",}.,"]."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Angina,.,Pat,ient,</s>, patient,.],"!"".",.},}., disease
+Angina,.,Pat,ient, patient,</s>,.], disease,.},"!"".", is
+Angina,.,Pat,ient, patient,</s>,"!"".",.},""".",}.,.]
+Angina,.,Pat,ient, patient,.],.},</s>,"!"".",".""","""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".", disease,"."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Psoriasis,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Psoriasis,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","]."""
+Psoriasis,.,Pat,ient, patient,</s>,.],.},"!"".",".""",}.
+Psoriasis,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".",""".", disease
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Schizophrenia,.,Pat, patient,ient,.],</s>,.},"!"".","].""","."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Tinea Corporis,.,Pat,ient, patient,.],</s>,.},"!"".",".""","""."
+Tinea Corporis,.,Pat,ient, patient,</s>,.],"!"".",.},""".", disease
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.}, disease,"!"".", is
+Tinea Corporis,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Tinea Corporis,.,Pat,ient,</s>,.], patient,.},"!"".", is,"."""
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Tinea Pedis,.,Pat,ient, patient,.],.},</s>,"!"".","].""","."""
+Tinea Pedis,.,Pat,ient, patient,</s>,.],.},"!"".","].""","."""
+Tinea Cruris,.,Pat,ient, patient,</s>,.],"!"".",.},".""","""."
+Tinea Cruris,.,Pat,ient,</s>,.], patient,.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Muscle Pain,.,Pat,ient,.], patient,.},</s>,"!"".",".""""","]."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],"!"".",.}, disease,"""."
+Muscle Pain,.,Pat,ient,.], patient,.},</s>,"!"".",".""",}.
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".","].""",}.
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Osteoarthritis,.,Pat,ient,.],"!"".", patient,</s>,.},"].""","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".", disease,"."""
+Osteoarthritis,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Osteoarthritis,.,Pat,ient, patient,</s>,.],"!"".",.},".""","""."
+Osteoarthritis,.,Pat,ient, patient,.],</s>,"!"".",.},""".","."""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".",".""", disease
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""""
+Osteoarthritis,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Osteoarthritis,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Schizophrenia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".",""".",}.
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Schizophrenia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Schizophrenia,.,Pat,ient, patient,</s>,.],"!"".",.},""".","."""
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"."""
+Schizophrenia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","."""""
+Schizophrenia,.,Pat,ient, patient,.],.},</s>,"!"".",".""","""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Schizophrenia,.,Pat,.],ient,.}, patient,"!"".",</s>,".""","."""""
+Schizophrenia,.,Pat,ient, patient,</s>,.],"!"".",.},".""", is
+Schizophrenia,.,Pat,ient, patient,.],</s>,.},"!"".",""".","."""
+Schizophrenia,.,Pat,ient, patient,.],"!"".",</s>,.},".""","]."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,}.
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".",}.,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Schizophrenia,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+Schizophrenia,.,Pat,ient,</s>,.], patient,"!"".",.},""".","."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"."""
+Schizophrenia,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",""".",}.
+Schizophrenia,.,Pat,ient, patient,</s>,.],"!"".",.},""".", is
+Schizophrenia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"."""""
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Schizophrenia,.,Pat,ient, patient,.],.},</s>,"!"".",".""","""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],"!"".",.}, disease,}.
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Schizophrenia,.,Pat,ient, patient,</s>,"!"".",.],.},""".","."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",".""", is
+Schizophrenia,.,Pat,ient,</s>, patient,.],"!"".",.}, is,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],"!"".",.}, disease, is
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".",".""","""."
+Schizophrenia,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Schizophrenia,.,Pat,ient, patient,</s>,.},.],"!"".", disease,"""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],"!"".",.},""".", is
+Schizophrenia,.,Pat,ient, patient,"!"".",</s>,.],"].""",.}, disease
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Angina,.,Pat,ient, patient,.],.},</s>,"!"".",".""""","]."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Angina,.,Pat,ient, patient,</s>,"!"".",.],.}, is, disease
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".","].""","."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", is,"."""
+Angina,.,Pat,ient,.],.}, patient,"!"".",</s>,".""","""."
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Chronic Fatigue Syndrome,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"."""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".",".""", disease
+Chronic Fatigue Syndrome,.,Pat,ient, patient,"!"".",.},</s>,.],""".",}.
+Chronic Fatigue Syndrome,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Oral Thrush,.,Pat,ient,.], patient,</s>,.},"].""","!"".","."""
+Oral Thrush,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".",".""",}.
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Tinea Corporis,.,Pat,ient,</s>, patient,.],.},"!"".",""".",}.
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".",".""","."""""
+Tinea Corporis,.,Pat,ient, patient,"!"".",</s>,.],.},""".", disease
+Tinea Corporis,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Tinea Cruris,.,Pat,ient, patient,</s>,.],.},"!"".",""".",}.
+Tinea Cruris,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Tinea Corporis,.,Pat,ient, patient,</s>,.],.},"!"".",""".","."""
+Tinea Corporis,.,Pat,ient,</s>, patient,.],.},"!"".",".""", disease
+Tinea Corporis,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Tinea Corporis,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Tinea Pedis,.,Pat,ient, patient,</s>,.],.},"!"".",""".","]."""
+Tinea Pedis,.,Pat,ient,</s>, patient,.],.},"!"".", disease, is
+Tinea Cruris,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Tinea Cruris,.,Pat,ient, patient,.],</s>,.},"!"".","].""", disease
+Tinea Pedis,.,Pat,ient, patient,</s>,.],.},"!"".", is, disease
+Tinea Pedis,.,Pat,ient, patient,</s>,.],.},"!"".", is,"""."
+Tinea Corporis,.,Pat,ient,</s>,.], patient,.},"!"".","].""","."""
+Tinea Corporis,.,Pat,ient,</s>, patient,.},.],"!"".",""".","]."""
+Tinea Corporis,.,Pat,ient,.], patient,</s>,.},"!"".",".""","""."
+Tinea Corporis,.,Pat,ient,</s>, patient,.},.],"!"".", is,"."""
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", disease,"""."
+Schizophrenia,.,Pat,ient, patient,</s>,.],.},"!"".",".""","]."""
+Schizophrenia,.,Pat,ient, patient,.],</s>,.},"!"".",""".",}.
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Schizophrenia,.,Pat,ient,</s>, patient,.],.},"!"".", is,}.
+Schizophrenia,.,Pat,ient, patient,</s>, disease,.],.},"!"".","""."
+Schizophrenia,.,Pat,ient,</s>, patient,.],"!"".",.},""".", disease
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",""".", disease
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", is,"""."
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".","."""
+Angina,.,Pat,ient,</s>, patient,.],"!"".",.},""".", disease
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".", is, disease
+Angina,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Angina,.,Pat,ient, patient,</s>,.],.},"!"".",".""","""."
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".",".""","]."""
+Angina,.,Pat,ient,</s>, patient,.],.},"!"".",""".", is
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".", is,"."""
+Angina,.,Pat,ient, patient,.],</s>,.},"!"".",".""", is
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".",""".",}.
+Dermal Ulcer,.,Pat,ient, patient,</s>,.],.},"!"".", disease, is
+Dermal Ulcer,.,Pat,ient,</s>, patient,.],"!"".",.},""".","."""
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",""".",}.
+Muscle Pain,.,Pat,ient, patient,.],.},</s>,"!"".",".""","]."""
+Muscle Pain,.,Pat,ient,</s>, patient,.],.},"!"".",}., is
+Muscle Pain,.,Pat,ient, patient,</s>,.],.},"!"".",}.,"."""
+Muscle Pain,.,Pat,ient,.],</s>, patient,.},"!"".",""".","."""

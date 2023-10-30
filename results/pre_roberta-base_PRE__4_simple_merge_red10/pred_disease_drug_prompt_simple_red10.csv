@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+vincristine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+daunorubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+idarubicin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+decitabine,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gemtuzumab,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+midostaurin,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+venetoclax,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+enasidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+cytarabine liposomal AND daunorubicin liposomal,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+ivosidenib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+gilteritinib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+glasdegib,.,.},".""""", disease,.,".""",Pat,"!"".", ().,.]
+atorvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+pravastatin,.,.},.),.),.], disease,ient,".""",.,.?
+rosuvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+lovastatin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe,.,.},.),.),.], disease,ient,".""",.,.?
+gemfibrozil,.,.},.),.),.], disease,ient,".""",.,.?
+niacin,.,.},.),.),.], disease,ient,".""",.,.?
+ezetimibe AND simvastatin,.,.},.),.),.], disease,ient,".""",.,.?
+fenofibric acid,.,.},.),.),.], disease,ient,".""",.,.?
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+cyclophosphamide,.,Pat, disease,.},., patient,.),".""",.?,.]
+vincristine,.,Pat, disease,.},., patient,.),".""",.?,.]
+rituximab,.,Pat, disease,.},., patient,.),".""",.?,.]
+methotrexate,.,Pat, disease,.},., patient,.),".""",.?,.]
+bendamustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+cytarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+fludarabine,.,Pat, disease,.},., patient,.),".""",.?,.]
+bleomycin,.,Pat, disease,.},., patient,.),".""",.?,.]
+carmustine,.,Pat, disease,.},., patient,.),".""",.?,.]
+idelalisib,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibritumomab,.,Pat, disease,.},., patient,.),".""",.?,.]
+ibrutinib,.,Pat, disease,.},., patient,.),".""",.?,.]
+mitoxantrone,.,Pat, disease,.},., patient,.),".""",.?,.]
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+quetiapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lamotrigine,.,.},Pat, disease,.,.],".""",.)," "".",:
+lithium,.,.},Pat, disease,.,.],".""",.)," "".",:
+risperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+fluoxetine,.,.},Pat, disease,.,.],".""",.)," "".",:
+olanzapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+buspirone,.,.},Pat, disease,.,.],".""",.)," "".",:
+clonazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+sertraline,.,.},Pat, disease,.,.],".""",.)," "".",:
+aripiprazole,.,.},Pat, disease,.,.],".""",.)," "".",:
+topiramate,.,.},Pat, disease,.,.],".""",.)," "".",:
+diazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+lorazepam,.,.},Pat, disease,.,.],".""",.)," "".",:
+escitalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+divalproex sodium,.,.},Pat, disease,.,.],".""",.)," "".",:
+alprazolam,.,.},Pat, disease,.,.],".""",.)," "".",:
+clozapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+oxcarbazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+citalopram,.,.},Pat, disease,.,.],".""",.)," "".",:
+haloperidol,.,.},Pat, disease,.,.],".""",.)," "".",:
+lurasidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+l-methylfolate,.,.},Pat, disease,.,.],".""",.)," "".",:
+carbamazepine,.,.},Pat, disease,.,.],".""",.)," "".",:
+asenapine,.,.},Pat, disease,.,.],".""",.)," "".",:
+paliperidone,.,.},Pat, disease,.,.],".""",.)," "".",:
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+dexamethasone,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+thalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+cyclophosphamide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+lenalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+bortezomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+carfilzomib,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+pomalidomide,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+daratumumab,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+melphalan,.,Pat,.}, disease,.,.), patient,".""""",".""",.)
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+lamivudine,.,.},.],.),}.,Pat,.),"."")",".""""",.
+efavirenz AND emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+ritonavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+emtricitabine AND tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+tenofovir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+abacavir,.,.},.],.),}.,Pat,.),"."")",".""""",.
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+triamcinolone,.,.},.],.),.),.,}.,".""""",Pat,"."""
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.
+meloxicam,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+naproxen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+ibuprofen,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+celecoxib,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+chondroitin AND glucosamine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+diclofenac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+etodolac,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+prednisone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+aspirin,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+nabumetone,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+duloxetine,.,.),.},Pat,.,.), aspirin,".""""",.], ().
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+modafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+duloxetine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+lisdexamfetamine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+amantadine,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+armodafinil,.,.},.), ().,"!"".", disease,.,.)," "".","."""""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+miconazole,.,.),.},Pat,.],.,".""""",.),}.,"."""
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+terbinafine,.,.),.},.,".""""",Pat,}.,.),.],"!""."
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+terbinafine,.,.},.),.,}.,Pat,.],.),".""""", patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+ketoconazole,.,.},.),.,.],.),".""""",Pat,}., patient
+terbinafine,.,.},.),.,.],.),".""""",Pat,}., patient
+risperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+clozapine,.,.},.],.),.,.?,}.,.),Pat, disease
+olanzapine,.,.},.],.),.,.?,}.,.),Pat, disease
+quetiapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aripiprazole,.,.},.],.),.,.?,}.,.),Pat, disease
+chlorpromazine,.,.},.],.),.,.?,}.,.),Pat, disease
+paliperidone,.,.},.],.),.,.?,}.,.),Pat, disease
+ziprasidone,.,.},.],.),.,.?,}.,.),Pat, disease
+loxapine,.,.},.],.),.,.?,}.,.),Pat, disease
+aspirin,.,.},Pat,.),.,.],ient,.),}., patient
+nitroglycerin,.,.},Pat,.),.,.],ient,.),}., patient
+metoprolol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide mononitrate,.,.},Pat,.),.,.],ient,.),}., patient
+isosorbide dinitrate,.,.},Pat,.),.,.],ient,.),}., patient
+enoxaparin,.,.},Pat,.),.,.],ient,.),}., patient
+ranolazine,.,.},Pat,.),.,.],ient,.),}., patient
+atenolol,.,.},Pat,.),.,.],ient,.),}., patient
+carvedilol,.,.},Pat,.),.,.],ient,.),}., patient
+amlodipine AND atorvastatin,.,.},Pat,.),.,.],ient,.),}., patient
+collagenase,.,.},.),Pat,.],.),.,}.,".""","."""""
+becaplermin,.,.},.),Pat,.],.),.,}.,".""","."""""
+cadexomer iodine,.,.},.),Pat,.],.),.,}.,".""","."""""
+ibuprofen,.,Pat,.},.],.),ient,.), patient, disease,}.
+naproxen,.,Pat,.},.],.),ient,.), patient, disease,}.
+acetaminophen,.,Pat,.},.],.),ient,.), patient, disease,}.
+diclofenac,.,Pat,.},.],.),ient,.), patient, disease,}.
+nabumetone,.,Pat,.},.],.),ient,.), patient, disease,}.

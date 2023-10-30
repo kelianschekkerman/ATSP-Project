@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine,., disease, a, is, patient,</s>, name,iasis,', or
+vincristine,., disease, a, is, patient,</s>, name,iasis,', or
+daunorubicin,., disease, a, is, patient,</s>, name,iasis,', or
+idarubicin,., disease, a, is, patient,</s>, name,iasis,', or
+decitabine,., disease, a, is, patient,</s>, name,iasis,', or
+gemtuzumab,., disease, a, is, patient,</s>, name,iasis,', or
+midostaurin,., disease, a, is, patient,</s>, name,iasis,', or
+venetoclax,., disease, a, is, patient,</s>, name,iasis,', or
+enasidenib,., disease, a, is, patient,</s>, name,iasis,', or
+cytarabine liposomal AND daunorubicin liposomal,., disease, a, is, patient,</s>, name,iasis,', or
+ivosidenib,., disease, a, is, patient,</s>, name,iasis,', or
+gilteritinib,., disease, a, is, patient,</s>, name,iasis,', or
+glasdegib,., disease, a, is, patient,</s>, name,iasis,', or
+atorvastatin,., disease, patient, a, is,</s>, , drug, or, name
+simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+pravastatin,., disease, patient, a, is,</s>, , drug, or, name
+rosuvastatin,., disease, patient, a, is,</s>, , drug, or, name
+lovastatin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe,., disease, patient, a, is,</s>, , drug, or, name
+gemfibrozil,., disease, patient, a, is,</s>, , drug, or, name
+niacin,., disease, patient, a, is,</s>, , drug, or, name
+ezetimibe AND simvastatin,., disease, patient, a, is,</s>, , drug, or, name
+fenofibric acid,., disease, patient, a, is,</s>, , drug, or, name
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+cyclophosphamide,., disease, patient, a, is,</s>, or,'s, name, drug
+vincristine,., disease, patient, a, is,</s>, or,'s, name, drug
+rituximab,., disease, patient, a, is,</s>, or,'s, name, drug
+methotrexate,., disease, patient, a, is,</s>, or,'s, name, drug
+bendamustine,., disease, patient, a, is,</s>, or,'s, name, drug
+cytarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+fludarabine,., disease, patient, a, is,</s>, or,'s, name, drug
+bleomycin,., disease, patient, a, is,</s>, or,'s, name, drug
+carmustine,., disease, patient, a, is,</s>, or,'s, name, drug
+idelalisib,., disease, patient, a, is,</s>, or,'s, name, drug
+ibritumomab,., disease, patient, a, is,</s>, or,'s, name, drug
+ibrutinib,., disease, patient, a, is,</s>, or,'s, name, drug
+mitoxantrone,., disease, patient, a, is,</s>, or,'s, name, drug
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+quetiapine,., disease, is, a, patient,</s>, drug, name,'s,'
+lamotrigine,., disease, is, a, patient,</s>, drug, name,'s,'
+lithium,., disease, is, a, patient,</s>, drug, name,'s,'
+risperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+fluoxetine,., disease, is, a, patient,</s>, drug, name,'s,'
+olanzapine,., disease, is, a, patient,</s>, drug, name,'s,'
+buspirone,., disease, is, a, patient,</s>, drug, name,'s,'
+clonazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+sertraline,., disease, is, a, patient,</s>, drug, name,'s,'
+aripiprazole,., disease, is, a, patient,</s>, drug, name,'s,'
+topiramate,., disease, is, a, patient,</s>, drug, name,'s,'
+diazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+lorazepam,., disease, is, a, patient,</s>, drug, name,'s,'
+escitalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+divalproex sodium,., disease, is, a, patient,</s>, drug, name,'s,'
+alprazolam,., disease, is, a, patient,</s>, drug, name,'s,'
+clozapine,., disease, is, a, patient,</s>, drug, name,'s,'
+oxcarbazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+citalopram,., disease, is, a, patient,</s>, drug, name,'s,'
+haloperidol,., disease, is, a, patient,</s>, drug, name,'s,'
+lurasidone,., disease, is, a, patient,</s>, drug, name,'s,'
+l-methylfolate,., disease, is, a, patient,</s>, drug, name,'s,'
+carbamazepine,., disease, is, a, patient,</s>, drug, name,'s,'
+asenapine,., disease, is, a, patient,</s>, drug, name,'s,'
+paliperidone,., disease, is, a, patient,</s>, drug, name,'s,'
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+dexamethasone,., disease, patient, a, is,</s>, name, or, drug,'s
+thalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+cyclophosphamide,., disease, patient, a, is,</s>, name, or, drug,'s
+lenalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+bortezomib,., disease, patient, a, is,</s>, name, or, drug,'s
+carfilzomib,., disease, patient, a, is,</s>, name, or, drug,'s
+pomalidomide,., disease, patient, a, is,</s>, name, or, drug,'s
+daratumumab,., disease, patient, a, is,</s>, name, or, drug,'s
+melphalan,., disease, patient, a, is,</s>, name, or, drug,'s
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+lamivudine,., disease, patient, is, a,</s>, or, drug, ,iasis
+efavirenz AND emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+ritonavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+emtricitabine AND tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+tenofovir,., disease, patient, is, a,</s>, or, drug, ,iasis
+abacavir,., disease, patient, is, a,</s>, or, drug, ,iasis
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+triamcinolone,., disease, a, patient, is,</s>,iasis, drug, name, or
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name
+meloxicam,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+naproxen,., disease, patient, a, is,</s>, name, or, drug,iasis
+ibuprofen,., disease, patient, a, is,</s>, name, or, drug,iasis
+celecoxib,., disease, patient, a, is,</s>, name, or, drug,iasis
+chondroitin AND glucosamine,., disease, patient, a, is,</s>, name, or, drug,iasis
+diclofenac,., disease, patient, a, is,</s>, name, or, drug,iasis
+etodolac,., disease, patient, a, is,</s>, name, or, drug,iasis
+prednisone,., disease, patient, a, is,</s>, name, or, drug,iasis
+aspirin,., disease, patient, a, is,</s>, name, or, drug,iasis
+nabumetone,., disease, patient, a, is,</s>, name, or, drug,iasis
+duloxetine,., disease, patient, a, is,</s>, name, or, drug,iasis
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+modafinil,., disease, a, patient, is,</s>, drug, , name, or
+duloxetine,., disease, a, patient, is,</s>, drug, , name, or
+lisdexamfetamine,., disease, a, patient, is,</s>, drug, , name, or
+amantadine,., disease, a, patient, is,</s>, drug, , name, or
+armodafinil,., disease, a, patient, is,</s>, drug, , name, or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+miconazole,., disease, a, patient, is,</s>, drug, name, , or
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+terbinafine,., patient, disease, a, is,</s>, drug, name, or,'s
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+terbinafine,., patient, disease, a, is,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+ketoconazole,., patient, disease, is, a,</s>, drug, name, or, 
+terbinafine,., patient, disease, is, a,</s>, drug, name, or, 
+risperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+clozapine,., disease, patient, a, is,</s>, drug, or, ,'s
+olanzapine,., disease, patient, a, is,</s>, drug, or, ,'s
+quetiapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aripiprazole,., disease, patient, a, is,</s>, drug, or, ,'s
+chlorpromazine,., disease, patient, a, is,</s>, drug, or, ,'s
+paliperidone,., disease, patient, a, is,</s>, drug, or, ,'s
+ziprasidone,., disease, patient, a, is,</s>, drug, or, ,'s
+loxapine,., disease, patient, a, is,</s>, drug, or, ,'s
+aspirin,., disease, patient, a, is,</s>, drug, name, or,'s
+nitroglycerin,., disease, patient, a, is,</s>, drug, name, or,'s
+metoprolol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide mononitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+isosorbide dinitrate,., disease, patient, a, is,</s>, drug, name, or,'s
+enoxaparin,., disease, patient, a, is,</s>, drug, name, or,'s
+ranolazine,., disease, patient, a, is,</s>, drug, name, or,'s
+atenolol,., disease, patient, a, is,</s>, drug, name, or,'s
+carvedilol,., disease, patient, a, is,</s>, drug, name, or,'s
+amlodipine AND atorvastatin,., disease, patient, a, is,</s>, drug, name, or,'s
+collagenase,., disease, patient, a, is,</s>, drug, name, or, 
+becaplermin,., disease, patient, a, is,</s>, drug, name, or, 
+cadexomer iodine,., disease, patient, a, is,</s>, drug, name, or, 
+ibuprofen,., disease, patient, is, a,</s>, or, , drug, name
+naproxen,., disease, patient, is, a,</s>, or, , drug, name
+acetaminophen,., disease, patient, is, a,</s>, or, , drug, name
+diclofenac,., disease, patient, is, a,</s>, or, , drug, name
+nabumetone,., disease, patient, is, a,</s>, or, , drug, name

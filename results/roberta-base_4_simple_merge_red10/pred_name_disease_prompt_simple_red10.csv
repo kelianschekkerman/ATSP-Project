@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+Angina, Lyme,., Pain, Alzheimer, Ebola, ALS, Cancer,:, Bone,","
+Angina,., Lyme,:,",", ALS, Alzheimer,., Pain, Bone, Ebola
+Angina,., Lyme, ALS,:, Alzheimer,",", Ebola, Bone, Pain,.
+Angina,., Lyme, ALS, Pain, Ebola, Alzheimer, Bone, Cancer, HIV, MS
+Angina,.,:, Lyme,",",., Bone, Anonymous, Mac, Pain," """
+Angina,., Lyme,:, Alzheimer, ALS,., Bone, Pain,",", Ebola
+Angina,.,:,",",., Lyme, Bone, Mac, Anonymous," """, El
+Angina,., Lyme,:, Bone,",",., ALS, Ebola, Pain, Alzheimer
+Angina,., Lyme,:,",", ALS, Bone, Pain,., C, Ebola
+Angina,., Lyme, Bone,:,",",., Alzheimer, C, ALS, Pain
+Angina,., Lyme, Pain, Alzheimer, Ebola, ALS, Bone, Cancer, MS,","
+Muscle Pain,., Lyme, Bone, Pain, Alzheimer, C,",", ALS, Ebola, Mac
+Muscle Pain,., Lyme, Bone,:,",", Alzheimer, Pain, Ebola, ALS, Heart
+Muscle Pain,., Lyme,:,",", Bone,., Alzheimer, ALS, Pain, Ebola
+Muscle Pain,.,:, Lyme,.,",", Bone, Anonymous,</s>, Pain, C
+Muscle Pain,., Lyme,",",.,:, Bone, C,</s>, Mac, M
+HIV Infection,., Lyme, Ebola, Pain, ALS, Alzheimer, Bone,:, MS,","
+HIV Infection, Lyme,., ALS, Alzheimer, Pain, Ebola, Bone, Cancer, Heart,.
+HIV Infection,., Lyme, Pain, ALS, Ebola, Alzheimer, Bone,:,",", Cancer
+HIV Infection,., Lyme, ALS,:, Pain, Ebola, Alzheimer,",", Bone, Cancer
+HIV Infection,., Lyme, Pain,:, Bone, Ebola, Alzheimer, ALS,",",.
+HIV Infection,., Lyme,:, Pain, Bone,.,",", ALS, Alzheimer, Anonymous
+HIV Infection,., Lyme, Bone, ALS, Pain, Alzheimer,:, Ebola, Mac,","
+HIV Infection, Lyme,., Alzheimer, ALS, Ebola, Pain, Bone, Cancer,:,","
+HIV Infection,., Lyme,:,",", Ebola, Bone, Pain, ALS,., Cancer
+HIV Infection,., Lyme, Bone, Alzheimer, ALS, Pain,:,",", Ebola,.
+HIV Infection,., Lyme, Alzheimer, Bone, ALS,",",:, Ebola, Pain,.
+HIV Infection,., Lyme, Bone,",",:,., Ebola, ALS, Pain," """
+Acute Myeloid Leukemia,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone, MS,",", Cancer
+Acute Myeloid Leukemia,., Lyme,:, Alzheimer, Bone,",", Ebola, ALS, Pain, C
+Acute Myeloid Leukemia,., Lyme, Alzheimer, ALS, Bone, Pain,:, Ebola,",", MS
+Acute Myeloid Leukemia,., Lyme, Bone,:,",",., Alzheimer, Pain, ALS, C
+Acute Myeloid Leukemia,., Lyme, Ebola, ALS, Bone, Alzheimer, Pain,:, Cancer,","
+Acute Myeloid Leukemia,., Lyme, Bone, Alzheimer, ALS, Pain,:, Ebola, C,","
+Acute Myeloid Leukemia,., Lyme,:,",", Ebola, ALS, Pain, Alzheimer, Bone, Cancer
+Acute Myeloid Leukemia,., Lyme,., Bone,:,",", Mac, Pain, Alzheimer, ALS
+Acute Myeloid Leukemia,.,:, Lyme,.,",", Bone," """, Pain, ALS, Anonymous
+Acute Myeloid Leukemia,., Lyme,:, Alzheimer, Pain,",", Bone,., ALS, Ebola
+Acute Myeloid Leukemia,., Lyme, ALS, Pain, Ebola, Alzheimer, Bone,:, Cancer, MS
+Acute Myeloid Leukemia,., Lyme, Bone, Ebola, ALS,:, Pain, Alzheimer,",", Heart
+Acute Myeloid Leukemia,., Lyme, Bone,:,.,",", Pain, Mac, ALS, C
+HIV Infection,., Lyme,:, Bone,",",., ALS, C, Ebola, Pain
+HIV Infection,., Lyme, Alzheimer, ALS, Ebola, Bone,",",:,., Pain
+HIV Infection,., Lyme, Ebola, ALS,., Bone,:, Alzheimer, Pain,","
+HIV Infection,., Lyme,:, Bone,.,",", Pain, ALS, Ebola," """
+HIV Infection,., Lyme,:,",",., Ebola, Bone, Pain," """, ALS
+HIV Infection,., Lyme, Pain, ALS, Bone, Alzheimer, Ebola,:, Cancer,","
+Acute Myeloid Leukemia,., Lyme,:,",", Bone,., ALS, Pain, Ebola, Alzheimer
+Acute Myeloid Leukemia,., Lyme,",",:,., Bone, ALS, Alzheimer, Mac, C
+Acute Myeloid Leukemia,., Lyme,:, Bone,.,",", Pain, Anonymous, Alzheimer, Mac
+Acute Myeloid Leukemia,.,:, Lyme,",", Pain, Bone, ALS, Alzheimer, Heart, Anonymous
+Acute Myeloid Leukemia,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone,:,",",.
+Acute Myeloid Leukemia,., Lyme, Bone, Alzheimer,:, Ebola,",", ALS,., Pain
+Acute Myeloid Leukemia,., Lyme, Bone,:,",",., Pain, Mac, C, Alzheimer
+Acute Myeloid Leukemia,., Lyme,",", Bone,.,:, C, Alzheimer, Anonymous, Mac
+Acute Myeloid Leukemia,., Lyme,:, Bone,",",., C, Pain, Mac, Alzheimer
+Acute Myeloid Leukemia,., Lyme, Bone, Ebola,:, ALS, Alzheimer,",",., Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Bone,",", ALS, Ebola, Pain,.
+Acute Myeloid Leukemia,., Lyme,:, Pain,",", Ebola, ALS, Bone, Cancer," """
+Acute Myeloid Leukemia,., Lyme,:, ALS,.,",", Bone, Ebola, Pain," """
+Acute Myeloid Leukemia,., Lyme,:,",",., Pain, Bone, Alzheimer, ALS, Ebola
+Acute Myeloid Leukemia,.,:, Lyme,",", Bone, Pain,., Ebola, Anonymous, Cancer
+Acute Myeloid Leukemia,., Lyme, Alzheimer, ALS, Pain, Bone, Ebola,.,:,","
+Acute Myeloid Leukemia,.,:, Lyme,",",., Pain, Ebola," """, El, Bone
+Acute Myeloid Leukemia,., Lyme, ALS, Ebola, Alzheimer, Pain,:, Bone,",", MS
+Acute Myeloid Leukemia,., Lyme, Alzheimer, ALS, Ebola, Bone, Pain, MS,",", HIV
+Acute Myeloid Leukemia,.,., Lyme,:,",", Pain, Bone, Ebola, C," """
+Acute Myeloid Leukemia,., Lyme, Bone,:,",",., C, Mac, Alzheimer, Pain
+Acute Myeloid Leukemia,., Lyme, Pain, Alzheimer,:, ALS, Bone, Ebola,",",.
+Acute Myeloid Leukemia,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone, MS, Cancer,:
+Acute Myeloid Leukemia,., Lyme, Alzheimer, ALS, Ebola,:, Bone, Pain,","," """
+Acute Myeloid Leukemia,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone, MS,., Cancer
+Acute Myeloid Leukemia,., Lyme, Pain, Alzheimer, ALS, Ebola, Bone,:,",",.
+HIV Infection,., Lyme, ALS, Alzheimer, Bone, Pain, Ebola,.,:, MS
+HIV Infection,., Lyme,:,",", Bone,., Pain, ALS, C, Mac
+HIV Infection, Lyme,., ALS, Alzheimer, Ebola, Pain, Bone,., Cancer, MS
+HIV Infection,., Lyme, ALS, Bone, Pain, Alzheimer, Ebola,:,",",.
+HIV Infection,., Lyme, Pain, Alzheimer, Ebola,:, ALS,",", Bone, Cancer
+HIV Infection,., El, Pain, Lyme,:, C, T,","," """, Mac
+HIV Infection,., Lyme,:,",",., Alzheimer, Bone, ALS, Pain, C
+HIV Infection,., Lyme, ALS, Alzheimer, Bone, Pain, Ebola,:,",",.
+HIV Infection,., Lyme, Alzheimer, Bone, Pain, ALS, Ebola,., C, Mac
+HIV Infection,., Lyme,:,",", Alzheimer, Pain, Bone,., Ebola, ALS
+HIV Infection,., Lyme, Pain, Cancer, Bone,",", ALS,., Ebola,:
+HIV Infection,., Lyme, Ebola, Bone, Pain, Cancer,:, ALS, Heart, Alzheimer
+HIV Infection,., Lyme, Pain, Bone, ALS, Alzheimer, Ebola,:, MS,","
+HIV Infection,., Lyme, ALS, Pain, Alzheimer,:, Ebola, Bone,",", Cancer
+HIV Infection,.,:, Lyme,",",.," """, Bone, Ebola, Pain, C
+HIV Infection,., Lyme, Alzheimer, Bone, ALS, Pain, Ebola, Mac,.,","
+HIV Infection,., Lyme,:, Bone, Pain, ALS, Alzheimer,",",., Ebola
+HIV Infection,., Lyme, Pain,:,",",., Bone, ALS, Ebola, Cancer
+Acute Myeloid Leukemia,., Lyme,:,.,",", Bone, Alzheimer, C, Ebola, ALS
+Acute Myeloid Leukemia,., Lyme,:, Bone,",", ALS, Pain, Alzheimer,., Ebola
+Acute Myeloid Leukemia,., Lyme, Ebola,., Alzheimer, Bone,",",:, Pain," """
+Acute Myeloid Leukemia,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,:, Cancer,.
+Acute Myeloid Leukemia,., Lyme, Pain,",",:, Bone, Ebola, ALS,.," """
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Pain, ALS, Ebola, Cancer, MS, Bone, C
+Acute Myeloid Leukemia,., Lyme, Ebola, Pain, Bone, Alzheimer, ALS,.,:, C
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Pain, ALS, Bone,:, Ebola,",", Cancer
+Acute Myeloid Leukemia,., Lyme,:, ALS, Bone,",", Alzheimer, Ebola, Pain,.
+Acute Myeloid Leukemia,., Lyme, Pain, Bone, Alzheimer, ALS, Ebola, Mac,",",.
+Acute Myeloid Leukemia,., Lyme,:,., Pain, Bone, Alzheimer,",", Ebola, Cancer
+Acute Myeloid Leukemia,., Lyme,:,",", Bone,., Alzheimer, C, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Pain, ALS, Ebola, Alzheimer, Bone,:,",", MS
+Angina,., Lyme,:,",",., Ebola, Bone, Pain, Cancer," """
+Angina,., Lyme, Alzheimer,:, ALS,",", Bone, Pain, Ebola,.
+Angina,.,:, Lyme,",",., El, Bone, Ebola, Alzheimer, Mac
+Angina,.,:,.,",", Lyme, Bone, Pain, C," """, Anonymous
+Angina,., Lyme,:,",", Pain, Bone,., C, Alzheimer, Ebola
+Angina,., Lyme, Ebola, Pain, Alzheimer, ALS, Bone, MS, Cancer, AIDS
+Angina,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone, MS,",",:
+Angina,., Lyme, Bone, Alzheimer,:,",",., ALS, Pain, C
+Angina,., Lyme,:,., Bone, Pain,","," """, Alzheimer, Mac
+Angina,.,:, Lyme,",", ALS, Bone,., Ebola, Pain, Alzheimer
+Angina,., Lyme, ALS, Alzheimer, Bone,.,:, Ebola, Pain,","
+Angina,., Lyme, Alzheimer, Ebola, ALS, Pain,:, Bone,.,","
+Angina,., Lyme,.,:, Bone,",", C, Pain," """, ALS
+Angina,., Lyme,., ALS,:, Alzheimer, Pain, Ebola, Bone,","
+Angina,., Lyme, Alzheimer, Pain, Bone, Ebola, ALS,:,.,","
+Angina,., Lyme,:, Pain,., C,",", Alzheimer, Mac," """
+Angina,., Lyme, Pain, Bone, Ebola, Cancer,:, Alzheimer,.,","
+Angina,., Lyme, ALS, Bone, Alzheimer,.,:, Ebola, Pain,","
+Angina,., Lyme,:,",", Bone,., Pain, Alzheimer, C, ALS
+Angina,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone, Cancer, MS,.
+Angina, Lyme,., Alzheimer, Ebola, ALS,:, Pain,",", Bone, MS
+Angina,., Lyme, Bone, Pain, ALS, Alzheimer, Mac, Ebola,:, Cancer
+Angina,., Lyme,:, ALS, Bone,",",., Pain, Alzheimer," """
+Angina,., Lyme, Alzheimer, ALS, Ebola, Bone,:, Pain,",",.
+Angina,., Lyme,:, Bone,",",., ALS, C, Pain," """
+Angina,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone, MS,:,","
+Angina,., Lyme,.,:, Bone,",", C, Mac,</s>, M
+Angina,., Lyme, Bone,:, ALS, Alzheimer,",",., Pain, Ebola
+Angina,., Lyme, ALS, Pain,:, Bone, Ebola, Alzheimer,.,","
+Angina,., Lyme, Pain, Bone, ALS,:, Ebola, Alzheimer,",",.
+Angina,., Lyme, ALS, Ebola,:, Pain, Alzheimer,",",., Bone
+Angina,., Lyme, Ebola, Alzheimer, ALS,:, Pain,",", MS, Bone
+Angina,., Lyme, Alzheimer, Bone, Ebola, Pain, ALS,:,",", Cancer
+Angina,., Lyme,:, Bone,",",., ALS," """, Pain, Heart
+Angina,., Lyme,:, Bone,.,",", ALS, Alzheimer, Pain, C
+Angina,.,:,., Lyme,",", Bone, Anonymous, Mac," """, Pain
+Angina,., Lyme, Ebola, ALS,:, Alzheimer, Bone, Pain,",", Cancer
+Angina,., Lyme, Alzheimer, Ebola, ALS, Pain,:,",", MS,.
+Angina,., Lyme, Ebola, Alzheimer, Bone, ALS, Pain,:,",",.
+Angina,., Lyme, ALS, Bone, Pain, Alzheimer,:, Ebola,",",.
+Angina,., Lyme, ALS,:, Ebola, Pain, Bone, Alzheimer,.,","
+Angina,., Lyme,:,",", Bone,., ALS, C, Alzheimer, Pain
+Angina,., Lyme,:,",",., Pain, Bone, Alzheimer, Ebola, El
+Angina,., Lyme,:,",", Ebola, Pain, Bone, ALS,.," """
+Angina,., Lyme, Pain, Ebola, ALS, Alzheimer, Bone,., Cancer,:
+Angina,., Lyme,:, Bone,",",., Pain, Mac, Alzheimer, Heart
+Angina,., Lyme,:, Pain,",", Bone, Alzheimer," """, ALS,.
+Angina,., Lyme,:,",",., Bone, C, Mac, Anonymous, ALS
+Angina,., Lyme, ALS, Pain, Alzheimer, Ebola,.,:, Bone, MS
+Angina,., Lyme, Bone, Pain, ALS, Alzheimer,",",.,:, Ebola
+Angina,., Lyme, Bone,:, Alzheimer,",", ALS, Ebola, Pain,.
+Angina,., Lyme, Pain,:, ALS, Ebola, Alzheimer,",", Bone, Cancer
+Angina,., Lyme, Pain, Bone, Alzheimer,:,",", Ebola,., ALS
+Angina,., Lyme, Pain, Alzheimer, ALS, Bone,:, Ebola,.,","
+Angina,., Lyme,:,",", Bone, Alzheimer,., C, ALS, Ebola
+Muscle Pain,., Lyme,:, Bone, Pain, ALS, Ebola,",",., Alzheimer
+Muscle Pain,., Lyme, Bone, Alzheimer, ALS, Pain, Ebola, Mac,:,","
+Muscle Pain,.,:,",",., Lyme, Bone, Pain, C, Anonymous," """
+Muscle Pain,., Lyme,:, Bone,., Pain, Cancer, Ebola,",", Alzheimer
+Muscle Pain,., Lyme,:, Ebola, Pain,., ALS, Bone, Alzheimer,","
+Muscle Pain,., Lyme,., Bone,:, Pain, ALS," """, Heart, Ebola
+Muscle Pain,., Lyme,:,",", Bone,., Pain, ALS, Ebola, Alzheimer
+Muscle Pain,.,:, Lyme,., Bone,",", Pain, ALS," """, Ebola
+Muscle Pain,., Lyme, ALS,:, Alzheimer, Ebola,",", Bone, Pain,.
+Muscle Pain,., Lyme, ALS, Bone, Pain, Alzheimer,:, Ebola,",", Mac
+Muscle Pain,., Lyme,:, Pain,",", Ebola, Bone, ALS, Alzheimer,.
+Muscle Pain, Lyme,., Ebola, ALS, Pain, Alzheimer, Bone,:, HIV, Cancer
+Muscle Pain, Lyme,., Pain, ALS, Bone, Ebola, Alzheimer, MS, Cancer, Mac
+Muscle Pain,., Lyme, Alzheimer, Bone,., Pain,:,",", Mac, ALS
+Muscle Pain,., Lyme, ALS, Pain, Bone,:,",",., Cancer, Ebola
+Muscle Pain,., Lyme, ALS, Alzheimer, Ebola,:, Pain,",", Bone," """
+Muscle Pain,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone, HIV,:, Cancer
+Muscle Pain,., Lyme,:,",", Bone,., C, Alzheimer, Ebola, Pain
+Muscle Pain,.,",",:, Lyme,., Bone, Alzheimer," """, ALS, C
+Muscle Pain,., Lyme,",",:, Bone,., Anonymous, Pain, Mac, C
+Muscle Pain,., Lyme,:, Pain, ALS, Ebola, Bone,.,",", Alzheimer
+Muscle Pain,., Lyme, Bone, Alzheimer, ALS, Pain, Ebola, Mac, C,.
+Muscle Pain,., Lyme, Pain,:, Alzheimer,",", Bone, ALS, Ebola,.
+Muscle Pain,., Lyme, Alzheimer,:, ALS,",", Ebola, Pain, Bone, MS
+Muscle Pain,., Lyme, Bone, Pain,",", ALS,:, Ebola,., Alzheimer
+HIV Infection,.,:,",",., Lyme, Bone, Pain, C, Ebola, ALS
+HIV Infection,.,:,",", Lyme,., Bone, Heart, Pain," """, Mac
+HIV Infection,., Lyme, ALS,., Pain, Bone, Alzheimer,",",:, Ebola
+HIV Infection, Lyme,., Alzheimer, Ebola, Bone, ALS, Pain, MS, Cancer, Heart
+HIV Infection,.,:,",",., Lyme, Bone, C, Mac," """, Anonymous
+HIV Infection,., Lyme,:, ALS,",", Alzheimer, Ebola, Pain, Bone,.
+Osteoarthritis,., Lyme,:,",", Pain,., Bone, ALS, El, Alzheimer
+Osteoarthritis,., Lyme, Bone,.,",",:, ALS, C, Alzheimer, Mac
+Osteoarthritis,., Lyme,:, Pain, Ebola, Alzheimer, Bone,",", ALS," """
+Osteoarthritis,., Lyme, ALS, Ebola, Bone, Alzheimer,:, Pain,",", Heart
+Osteoarthritis,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone,:,.," """
+Osteoarthritis, Lyme,., Pain, Bone, Alzheimer, Ebola, ALS,:,",", Cancer
+Osteoarthritis,., Lyme,:, Mac,",", Pain, Bone, C, Border, El
+Osteoarthritis,., Lyme, Alzheimer, ALS, Ebola, Pain, Bone, MS, Mac,","
+Osteoarthritis,., Lyme,:,",",., Bone, C, Pain, ALS, Ebola
+Osteoarthritis,., Lyme, Alzheimer, ALS, Pain, Mac, Bone, Ebola,:,.
+Osteoarthritis,.,:,",", Lyme,., Bone, C, Pain," """, Mac
+Osteoarthritis,., Lyme, Bone, Alzheimer, Pain, ALS, Ebola,",",:,.
+Tinea Pedis,., Lyme, ALS, Pain, Alzheimer, Cancer,:, Ebola, Bone,","
+Tinea Pedis,., Lyme, Pain, Bone, ALS,.,:,",", Alzheimer, Anonymous
+Dermal Ulcer,., Lyme,:,",",., Bone, Pain, ALS, Ebola, Alzheimer
+Dermal Ulcer,., Lyme,:, ALS,., Bone, Alzheimer,",", Pain, Ebola
+Dermal Ulcer,., Lyme, ALS,.,:, Alzheimer, Bone,",", Ebola, Pain
+Chronic Fatigue Syndrome,., Lyme, Bone, Ebola, ALS, Pain,:, Alzheimer,.,","
+Chronic Fatigue Syndrome,., Lyme, ALS, Alzheimer, Bone,:, Pain, Ebola,.,","
+Chronic Fatigue Syndrome,., Lyme, Bone,:,.,",", Mac, Alzheimer, C, Pain
+Chronic Fatigue Syndrome,., Lyme,:,",", Bone, Pain, Ebola, Alzheimer,., ALS
+Chronic Fatigue Syndrome,., Lyme, Alzheimer, Pain, ALS, Bone, Ebola, C, MS, Mac
+Tinea Corporis,., Lyme,:, Pain,",", Alzheimer, ALS, Ebola, Bone, MS
+Tinea Corporis,., Lyme, Bone, Ebola,:, Pain, ALS,",", Alzheimer,.
+Tinea Corporis,., Lyme,:, ALS, Bone,",", Ebola, Pain, Alzheimer,.
+Tinea Corporis,., Lyme,:, Bone,.,",", Pain, Mac, Alzheimer," """
+Borderline Personality Disorder,., Lyme, Bone,:, Alzheimer, ALS, Pain,",",., Ebola
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Bone,:,",", Ebola, Pain, C
+Borderline Personality Disorder,., Alzheimer, Lyme, ALS, Gene, Ebola, Bone,",",:, Cancer
+Borderline Personality Disorder,., Lyme,., Pain, Bone, Alzheimer,:, C,",", ALS
+Borderline Personality Disorder,., Lyme,:,",", Pain, Bone,., ALS," """, Alzheimer
+Borderline Personality Disorder,., Lyme, Alzheimer, Ebola, ALS, Bone,:,",", Pain, Cancer
+Borderline Personality Disorder,., Lyme,., Bone, Pain,:, Mac, Alzheimer,",", ALS
+Borderline Personality Disorder,., Lyme, ALS, Pain, Ebola,:, Alzheimer,",",., Bone
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Pain, Ebola,:,",", Bone, MS
+Borderline Personality Disorder,., Lyme, ALS, Bone, Alzheimer,:, Pain, Ebola,",",.
+Borderline Personality Disorder,., Lyme, Bone,:,., Alzheimer,",", ALS, Mac, Ebola
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Pain, Bone, Ebola,:,., MS
+Borderline Personality Disorder,., Lyme,:, Pain, ALS, Ebola, Bone,",", Cancer,.
+Borderline Personality Disorder,., Lyme, Ebola, Pain,",", ALS,:, Alzheimer,., Bone
+Borderline Personality Disorder,., Lyme, Pain, El, C, Alzheimer, T, Mac, M, MS
+Borderline Personality Disorder,., Lyme,:, Bone,",",., Anonymous, Mac, C, Pain
+Borderline Personality Disorder,., Lyme,., Bone,",",:, ALS, Pain, Alzheimer, C
+Borderline Personality Disorder,., Lyme,:, Bone,",",., Pain, ALS, Alzheimer, Mac
+Borderline Personality Disorder,., Lyme,:, Bone,.,",", C, ALS," """, Alzheimer
+Borderline Personality Disorder, Lyme,., ALS, Ebola, Alzheimer, Pain, Bone, Cancer, HIV, C
+Borderline Personality Disorder,., Lyme,., Bone,:,",", Pain, Mac, Alzheimer, ALS
+Borderline Personality Disorder,., Lyme,:, Pain,.,",", Bone, Ebola, C, ALS
+Borderline Personality Disorder,., Lyme, Bone,",",:, Alzheimer,., C, Pain, ALS
+Borderline Personality Disorder,., Lyme,:,",",., Bone, ALS, Pain, Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme,:,",", Bone,., Pain, ALS, Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme,:, Pain, Bone, Alzheimer, ALS,",", Ebola,.
+Borderline Personality Disorder,., Lyme, Alzheimer, Ebola, Pain, ALS,:,., Bone,","
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Pain, Bone, Ebola,.,:,","
+Borderline Personality Disorder,., Lyme, Bone,:, Alzheimer,",", ALS, Ebola,., Pain
+Borderline Personality Disorder, Lyme,., Alzheimer, ALS, Ebola, Pain, Bone, C, MS, Cancer
+Borderline Personality Disorder,., Lyme, Pain, Bone,:, Ebola, Alzheimer,",", ALS,.
+Borderline Personality Disorder,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone, HIV, Cancer, Diabetes
+Borderline Personality Disorder,., Lyme,:,",", Bone, Ebola, Pain, ALS,.," """
+Borderline Personality Disorder, Lyme,., Alzheimer, ALS, Ebola, Bone, Pain,:,",", Heart
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, ALS, Pain,:,",", Ebola,.
+Borderline Personality Disorder,., Lyme,., Bone,:,",", Pain, Alzheimer, ALS, Ebola
+Borderline Personality Disorder,., Lyme, Pain,.,:, ALS, Bone,",", Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme, ALS, Bone, Pain, Ebola, Alzheimer,:,",",.
+Borderline Personality Disorder,., Lyme, Bone,:,",", Alzheimer, ALS, Pain, Ebola,.
+Borderline Personality Disorder,., Lyme, Bone, ALS, Ebola, Pain,:, Alzheimer,",",.
+Borderline Personality Disorder,., Lyme, Pain, ALS, Alzheimer,:, Ebola, Bone,.,","
+Borderline Personality Disorder, Lyme,., Ebola, ALS, Pain, Alzheimer,:, Bone, Cancer,","
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Pain, Bone,., Ebola,:, Mac
+Borderline Personality Disorder,., Lyme, Bone, C, Alzheimer,.,",", ALS,:, Mac
+Borderline Personality Disorder, Lyme,., Alzheimer, ALS, Ebola, Pain, Bone, Cancer, MS, Heart
+Borderline Personality Disorder,., Lyme,:, Alzheimer, ALS, Pain, Ebola, Bone,",",.
+Borderline Personality Disorder,., Lyme, Bone, Alzheimer, ALS, Pain, Ebola,:,.,","
+Borderline Personality Disorder,., Lyme, Bone,:,., Alzheimer, Mac, ALS,",", Pain
+Borderline Personality Disorder,., Lyme, Bone,.,:, Pain, Alzheimer, ALS,",", Ebola
+Borderline Personality Disorder,., Lyme,:,., Bone,",", Pain, Alzheimer, ALS," """
+Muscle Pain,., Lyme, Pain, ALS, Ebola, Cancer,., Bone, Alzheimer,:
+Muscle Pain,., Lyme,:, Alzheimer,",", Ebola, ALS, Pain, Bone, Heart
+Muscle Pain,., Lyme, Pain, Bone,:, Alzheimer,",",., Ebola, ALS
+Muscle Pain,., Lyme, Pain, Bone, Alzheimer, Ebola,:, ALS,",",.
+Muscle Pain,., Lyme,.,:,",", Bone, Pain, ALS, Mac,</s>
+Muscle Pain,., Lyme, Ebola, Alzheimer, ALS, Bone, Pain,:, Cancer,","
+Muscle Pain,., Lyme, ALS, Alzheimer, Ebola, Bone, Pain,:,.,","
+Muscle Pain,., Lyme, Bone, Pain,., Alzheimer,:, ALS,",", Mac
+Muscle Pain,., Lyme, ALS, Ebola, Alzheimer, Pain,:, Bone,",", Cancer
+Muscle Pain,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone,:,",", Cancer
+Muscle Pain,., Lyme, Bone, Pain,:,",",., Alzheimer, Mac, ALS
+Muscle Pain,., Lyme,:, Bone, Pain, Ebola, ALS,",", Alzheimer,.
+Muscle Pain, Lyme,., Alzheimer, ALS, Pain, Bone, Ebola, Mac, MS,","
+Muscle Pain,., Lyme, Bone,:,",", Pain, Alzheimer,., ALS, Ebola
+Muscle Pain,., Lyme,:,",",., Bone, Anonymous, Mac, C, Alzheimer
+Acute Myeloid Leukemia,., Lyme, Bone,.,:,",", ALS, Pain, Alzheimer, Anonymous
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Ebola, Bone, ALS, Pain,:,",",.
+Acute Myeloid Leukemia,., Lyme,:,",", Bone, Alzheimer, Ebola, Pain, ALS,.
+Acute Myeloid Leukemia,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:, Cancer,.
+Acute Myeloid Leukemia,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone, MS, Cancer, Heart
+Acute Myeloid Leukemia,.,:,",", Border, Mac, Bone, Pain, Lyme,.," """
+Acute Myeloid Leukemia,., Lyme, Ebola, ALS, Bone, Pain, Alzheimer,.,:,","
+Acute Myeloid Leukemia,., Lyme,:, Ebola, Bone, ALS, Pain,.,",", Mac
+Acute Myeloid Leukemia,., Lyme, Bone, Alzheimer, Pain, ALS, Ebola,:,",", Mac
+Acute Myeloid Leukemia,., Lyme, ALS,:, Bone,",",., Ebola, Alzheimer, Pain
+Acute Myeloid Leukemia,.,:, Lyme,.,",", Bone, Pain, C, Ebola, ALS
+Acute Myeloid Leukemia,., Lyme, Alzheimer, ALS, Pain, Bone, Ebola,.,:,","
+Acute Myeloid Leukemia,., Lyme, Bone, Pain, ALS,:, Alzheimer,",", Mac, Ebola
+Acute Myeloid Leukemia,., Lyme, Bone,:, ALS, Pain, Alzheimer,",", Ebola,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone, MS, Cancer,","
+Acute Myeloid Leukemia,., Lyme,:,",", Pain, Bone, ALS, Alzheimer,., Ebola
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Pain, Bone,:, ALS, Ebola,","," """
+Acute Myeloid Leukemia,.,:, Lyme,",",., Bone, Pain, Alzheimer, C, Mac
+Acute Myeloid Leukemia,.,:,",", Lyme,.," """, Bone, Anonymous, C, Pain
+Acute Myeloid Leukemia,., Lyme,.,:,",", ALS, Bone, Alzheimer, Pain," """
+Acute Myeloid Leukemia,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone, Cancer,:,.
+Acute Myeloid Leukemia,., Lyme,:,",", Pain,., Bone, ALS, Heart, Mac
+Acute Myeloid Leukemia, Lyme,., Ebola, Bone, Alzheimer, ALS, Pain, Cancer, Heart, MS
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Bone, ALS, Pain,",", Ebola,:, Mac
+Acute Myeloid Leukemia,., Lyme,:,",", ALS, Ebola,., Pain, Alzheimer, Bone
+Acute Myeloid Leukemia,., Lyme, Pain,:, Bone, ALS,",", Ebola, Alzheimer,.
+Acute Myeloid Leukemia,., Lyme, Ebola, Alzheimer,:, Pain, ALS,., Bone,","
+Acute Myeloid Leukemia,., Lyme, Ebola, ALS, Pain, Alzheimer,:, Bone, Cancer, HIV
+Acute Myeloid Leukemia,., Lyme, Bone,., ALS, Alzheimer, Ebola,:,",", Pain
+Acute Myeloid Leukemia,., Lyme,:,",", Bone, Heart,., Pain, Alzheimer, ALS
+Acute Myeloid Leukemia,., Lyme,",", Bone,:,., Alzheimer, C, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, ALS, Bone, Alzheimer, Ebola, Pain,.,:, Cancer
+Acute Myeloid Leukemia,., Lyme, Pain, Ebola,., Alzheimer, Bone, ALS," """, Cancer
+Acute Myeloid Leukemia,., Lyme,., Pain, Bone, Alzheimer,",",:, Mac, ALS
+Acute Myeloid Leukemia,., Lyme,:,",",., Bone, ALS, Pain, Ebola, Alzheimer
+Acute Myeloid Leukemia,., Lyme, Ebola, Pain,:, Bone, ALS,.,",", Cancer
+Acute Myeloid Leukemia,., Lyme,:, Pain, Ebola,",", Bone, ALS, Cancer, Alzheimer
+Acute Myeloid Leukemia, Lyme,., ALS, Alzheimer, Ebola, Pain,:, Bone,",", Cancer
+Acute Myeloid Leukemia,., Lyme, Pain, ALS, Ebola, Bone, Alzheimer, Cancer,:,","
+Multiple Myeloma,.,:, Lyme,",",., Pain, Bone, Ebola, ALS," """
+Multiple Myeloma,., Lyme,:, Bone,",", Pain, ALS,., Alzheimer, Ebola
+Multiple Myeloma,., Lyme,:,",", Bone,., Pain, C, Anonymous, ALS
+Multiple Myeloma,., Lyme, Alzheimer, Bone, Ebola, Pain, ALS,., C,","
+Multiple Myeloma,., Lyme,:,",", Bone, ALS, Ebola, Alzheimer, Pain,.
+Multiple Myeloma,., Lyme, Bone, Pain, ALS, Alzheimer, Ebola,:, Heart,","
+Multiple Myeloma,., Lyme, Alzheimer, Bone,:, ALS,",", Pain, Ebola, C
+Multiple Myeloma,., Lyme, Alzheimer, ALS, Pain, Bone, Ebola,.,:,","
+Multiple Myeloma,., Lyme,:,",", Bone, Alzheimer, Ebola, C, ALS, Pain
+Multiple Myeloma,., Lyme, Bone,., Alzheimer, Pain,:, C, ALS,","
+Multiple Myeloma,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone, MS,., Cancer
+Multiple Myeloma, Lyme,., ALS, Ebola, Pain, Alzheimer, Bone, Cancer, MS, HIV
+Multiple Myeloma,., Lyme,:,.,",", Bone, Pain, Alzheimer, ALS, C
+Multiple Myeloma,., Lyme, ALS, Pain, Alzheimer, Bone,:, Ebola,",",.
+Multiple Myeloma,., Lyme,:, Pain, Ebola, ALS, Alzheimer,",", Bone,.
+Multiple Myeloma,., Lyme,:,",", Pain,., Bone, Ebola, ALS," """
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, ALS,:, Bone, Pain,",", C
+Multiple Myeloma,., Lyme,:, Bone,.,",", Alzheimer, ALS, C, Mac
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Alzheimer, Bone, Ebola, Pain,., C, MS
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone,., Cancer,:
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Pain,:, Bone,",", ALS, Cancer, Ebola
+Non-Hodgkin's Lymphoma,., Lyme,:,",",., Mac, Bone, C," """,</s>
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:,.,",", Pain, Mac, C, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme, Bone,.,",",:, Pain, C, Mac, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme,:,",", Alzheimer,., Pain, Ebola, Bone, C
+Non-Hodgkin's Lymphoma,., Lyme,",", Bone,:, C,., ALS, Alzheimer, Pain
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Pain, Alzheimer, Ebola,:,., Bone,","
+Non-Hodgkin's Lymphoma,.,:, Lyme,",", Bone, Anonymous, Pain,., Mac, Ebola
+Non-Hodgkin's Lymphoma,., Lyme,:,.,",", Bone, ALS, Alzheimer, Pain, Ebola
+Non-Hodgkin's Lymphoma,., Lyme, Pain, Alzheimer, ALS, Bone, Cancer, Ebola, Mac, C
+Non-Hodgkin's Lymphoma,.,., Lyme,:,",", Bone, C," """, Ebola, Pain
+Multiple Myeloma,., Lyme,:,",",., Bone, Ebola, Alzheimer, Pain, ALS
+Multiple Myeloma,.,:, Lyme,., ALS,",", Bone," """, C, Alzheimer
+Multiple Myeloma, Lyme,., ALS, Ebola, Pain, Alzheimer,:, Bone, Cancer,","
+Multiple Myeloma,., Lyme, Bone, ALS, Alzheimer, Ebola,:, Pain, Cancer, Mac
+Multiple Myeloma,., Lyme, Bone, Alzheimer, Pain, ALS,., Ebola,",", Mac
+Multiple Myeloma,., Lyme, ALS, Ebola, Pain, Alzheimer, Cancer, MS, HIV, Bone
+Multiple Myeloma,., Lyme, ALS,:, Alzheimer, Pain, Ebola, Bone,",",.
+Multiple Myeloma,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone,:,",",.
+Multiple Myeloma,., Lyme,:,",",., Pain, Bone, ALS, C, Alzheimer
+Multiple Myeloma,., Lyme,:,., Bone,",", Alzheimer, ALS, Pain, Ebola
+Multiple Myeloma,., Lyme,:,",", Bone, Pain,., C, Ebola, Mac
+Multiple Myeloma,., Lyme, ALS,., Alzheimer, Pain,:, Ebola, Bone,","
+Multiple Myeloma,., Lyme, ALS, Bone, Alzheimer, Ebola,:, Pain,",",.
+Multiple Myeloma,., Lyme, Alzheimer, ALS, Bone, Ebola, Pain, C, MS,.
+Multiple Myeloma,., Lyme,:,",", Bone,., Mac, Pain, Heart, Anonymous
+Multiple Myeloma,., Lyme,:, ALS,., Pain,",", Bone, Alzheimer, Ebola
+Multiple Myeloma,., Lyme, Alzheimer, Pain, ALS, Bone, Ebola,:,., Mac
+Multiple Myeloma,., Lyme, Bone, ALS, Alzheimer, Pain, Ebola,.,:,","
+Oral Thrush,., Lyme, ALS, Ebola, Bone, Alzheimer, Pain,:,",", Heart
+Oral Thrush,., Lyme, Pain, ALS, Ebola, Alzheimer, Bone,:, Cancer,","
+Schizophrenia,., Lyme, Bone, Pain, Alzheimer,:,., Ebola, ALS, Mac
+Schizophrenia,., Lyme, Alzheimer, ALS, Ebola, Bone, Pain, MS,:, Cancer
+Schizophrenia,., Lyme, Ebola, Alzheimer, Bone, Pain,., Cancer,:, ALS
+Schizophrenia,., Lyme, Alzheimer, Pain, Vas, El, Ebola, MS, C, TB
+Schizophrenia,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone,.,:, Cancer
+Schizophrenia,., Lyme,:,",", Pain, Bone, ALS,., Alzheimer, Ebola
+Schizophrenia,., Lyme,:, Bone,",",., ALS, C, Alzheimer, Pain
+Schizophrenia,., Lyme, Bone, Pain, ALS,:,., Alzheimer,",", C
+Schizophrenia,., Lyme,",", Bone,.,:, ALS, Ebola, Alzheimer, Pain
+Chronic Fatigue Syndrome,., Lyme,:, ALS,",", Ebola, Bone, Pain,., Alzheimer
+Chronic Fatigue Syndrome,., Lyme, Bone,.,:,",", Alzheimer, C, Pain, Mac
+Chronic Fatigue Syndrome,., Lyme,:, Bone, Pain,., Mac,",", ALS, Ebola
+Chronic Fatigue Syndrome,.,:,",", Lyme,., Bone, Pain," """, ALS, C
+Chronic Fatigue Syndrome,., Lyme, ALS, Alzheimer, Pain, Bone, Ebola,:, HIV,.
+Chronic Fatigue Syndrome, Lyme,., ALS, Alzheimer, Pain, Ebola, Bone, Cancer, MS,:
+Chronic Fatigue Syndrome,., Lyme, Bone, Pain, Alzheimer, Ebola, ALS,:,",", Cancer
+Chronic Fatigue Syndrome,.,:, Lyme,",",., Bone, Pain, Ebola," """, ALS
+Chronic Fatigue Syndrome, Lyme,., ALS, Alzheimer, Ebola, Pain, Bone, Cancer, MS, HIV
+Chronic Fatigue Syndrome,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone, Cancer,:,","
+High Cholesterol,., Lyme, Pain, Bone, Alzheimer, ALS, Ebola,:, Cancer,","
+High Cholesterol,., Lyme,:, Bone,",", Pain, ALS, Alzheimer,., C
+High Cholesterol,., Lyme, Alzheimer, Bone, Pain,",",:, ALS, Ebola,.
+High Cholesterol,.,:, Lyme,",",., Bone, C, ALS, Alzheimer," """
+High Cholesterol,., Lyme, Ebola, Bone, Pain, ALS,:, Alzheimer, Cancer, Heart
+High Cholesterol,., Lyme,:, Bone, ALS, Pain, Alzheimer,",", Ebola, El
+High Cholesterol,., Lyme, Ebola, Pain,:,., ALS, Alzheimer,",", Cancer
+High Cholesterol,.,:, Lyme, C,",", Mac, Pain, El, Bone," """
+High Cholesterol,., Lyme,:,., Bone,",", Pain, ALS, Ebola, Alzheimer
+High Cholesterol,., Lyme, Bone, Alzheimer, ALS,:, Pain, Ebola,",",.
+High Cholesterol,., Lyme, ALS,:, Bone, Pain, Ebola,",", Alzheimer,.
+High Cholesterol,., Lyme, ALS, Ebola, Alzheimer,:, Bone, Pain,",", Cancer
+High Cholesterol,., Lyme,:, Pain, Bone,",", Alzheimer,.," """, ALS
+High Cholesterol,., Lyme, Bone,., ALS,:, Alzheimer, Pain,",", Ebola
+High Cholesterol,., Lyme,:,",", Bone,., Ebola, Alzheimer, Pain, Anonymous
+High Cholesterol,., Lyme,:,",", Pain,., Bone, ALS, Ebola, Alzheimer
+High Cholesterol,., Lyme,:,",", Pain,., ALS, Bone, Alzheimer, Ebola
+High Cholesterol,., Lyme, ALS,:, Alzheimer, Ebola, Pain,",", Bone,.
+High Cholesterol,., Lyme, Bone,",", Pain,:, ALS,., Mac, Alzheimer
+High Cholesterol,., Lyme,:,.,",", Bone, Pain, Mac, ALS, C
+High Cholesterol,., Lyme,:,.,",", Bone, Pain, Alzheimer, ALS, Ebola
+High Cholesterol,.,:,",", Lyme, Bone,., C, Anonymous, Pain, Mac
+High Cholesterol,., Lyme,:,",",., Pain, Bone, Alzheimer, C, Ebola
+High Cholesterol,., Lyme, Alzheimer, Bone,",",:, ALS, Pain, Ebola,.
+High Cholesterol, Lyme,., Alzheimer, ALS, Pain, Ebola, Bone, Cancer, MS,:
+High Cholesterol,., Lyme, Pain, ALS, Ebola,:, Alzheimer, Bone,",", Cancer
+High Cholesterol,., Lyme, ALS, Alzheimer, Ebola, Pain,., Bone, MS, Cancer
+High Cholesterol,., Lyme, Bone, Pain,:,",", Ebola, Alzheimer, Mac,.
+High Cholesterol,., Lyme, ALS, Pain, Alzheimer, Bone, Ebola,:,., Cancer
+High Cholesterol,., Lyme, Pain, Ebola, ALS,:, Alzheimer, Bone,",",.
+High Cholesterol,., Lyme,:,.,",", Bone, Pain, ALS, Ebola," """
+High Cholesterol,., Lyme, ALS, Alzheimer,:, Pain, Bone,., Ebola,","
+High Cholesterol,., Lyme,., Bone,",",:, ALS, Pain, Alzheimer, Ebola
+High Cholesterol,., Lyme,:, ALS,",", Ebola, Bone, Pain, Alzheimer,.
+High Cholesterol,., Lyme, ALS, Pain, Ebola, Alzheimer,:, Bone,",", Cancer
+High Cholesterol,.,:,",",., Lyme, Bone, Anonymous, C," """, Mac
+High Cholesterol,., Lyme, Pain, Alzheimer, Bone, Cancer, ALS,:,.,","
+High Cholesterol,., Lyme,",",:, Bone,., C, Alzheimer, Mac, Pain
+High Cholesterol,., Lyme, Bone,., ALS, Pain,:, Mac,",", Alzheimer
+High Cholesterol,., Lyme, Pain, ALS, Bone, Alzheimer, Ebola,:,.,","
+Chronic Fatigue Syndrome,.,:, Lyme,",",., Bone, C, Anonymous, Pain, Mac
+Chronic Fatigue Syndrome,., Lyme,:,",",., Bone, Pain, ALS, Alzheimer, Ebola
+Chronic Fatigue Syndrome,., Lyme,:,",", Ebola, Bone, Pain, Alzheimer, ALS, Anonymous
+Chronic Fatigue Syndrome,., Lyme, Alzheimer,., Bone, Pain, ALS,:, Ebola,","
+Chronic Fatigue Syndrome,., Lyme,:,",",., Bone, C,</s>, Mac, ALS
+Chronic Fatigue Syndrome,., Lyme, Ebola, Alzheimer, Pain, ALS, Bone,:,.," """
+Chronic Fatigue Syndrome,., Lyme, Alzheimer, ALS,:, Bone, Pain,.,",", Ebola
+Chronic Fatigue Syndrome,., Lyme, Bone,:, Ebola,.,",", Pain, Alzheimer, ALS
+Chronic Fatigue Syndrome,., Lyme, Bone,",",., Alzheimer,:, ALS, Pain, Ebola
+Chronic Fatigue Syndrome,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:,",", MS
+HIV Infection,., Lyme, Ebola, ALS, Bone, Pain,:, Alzheimer, MS, HIV
+HIV Infection,., Lyme, Bone, Alzheimer, ALS, Ebola, Pain,:,",", Mac
+HIV Infection,., Lyme, ALS, Bone, Ebola, Alzheimer,:, Pain,.,","
+HIV Infection,., Lyme, Bone,:, Ebola, Pain, ALS, Alzheimer,",",.
+HIV Infection,., Lyme,:, Bone,",", Pain,., ALS, Alzheimer, Mac
+HIV Infection,., Lyme,:, Bone,",",., Alzheimer, Mac, Pain, C
+Dermal Ulcer,., Lyme, Bone, ALS, Mac,:, C,",", Alzheimer,.
+Dermal Ulcer,., Lyme, ALS, Ebola, Pain, Bone, Alzheimer,:,",", Cancer
+Dermal Ulcer,., Lyme,:,",", ALS, Bone, Alzheimer,., Ebola, Pain
+Dermal Ulcer,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone, MS, Cancer,:
+Dermal Ulcer,., Lyme, Ebola, ALS, Pain, Alzheimer,:,",", Bone," """
+Dermal Ulcer,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone, Cancer, MS,","
+Osteoarthritis,., Lyme, Alzheimer, ALS, Pain, Bone, Ebola,:,",",.
+Osteoarthritis,., Lyme,:, Ebola, ALS,",", Pain, Cancer, Bone, MS
+Osteoarthritis,., Lyme,:, Bone,",", Pain,., Anonymous, ALS, C
+Osteoarthritis,., Lyme, Ebola, ALS, Alzheimer,",", Pain,:, Bone," """
+Osteoarthritis,.,:,",", Lyme,., Bone, C, Ebola,</s>, Mac
+Osteoarthritis,., Lyme, ALS,:, Alzheimer, Ebola, Pain,",", Bone, Cancer
+Osteoarthritis,., Lyme, Pain, Ebola,:, Alzheimer, Bone,",", ALS, Cancer
+Osteoarthritis,.,:,",", Lyme,., Bone, C, Pain, Ebola," """
+Osteoarthritis,., Lyme,:, Bone,., Pain, Alzheimer,",", ALS, Ebola
+Osteoarthritis,., Lyme, ALS, Ebola, Alzheimer, Pain,:, Bone, Cancer,","
+Osteoarthritis,., Lyme, ALS, Pain, Bone, Ebola, Alzheimer,:,., Cancer
+Osteoarthritis,., Lyme, ALS, Ebola,:, Alzheimer, Pain, Bone,",",.
+Osteoarthritis,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:,",", Cancer
+Osteoarthritis,., Lyme, Bone, Pain, ALS, Alzheimer, Ebola,:,.," """
+Osteoarthritis,., Lyme, Alzheimer, Pain,:,.,",", Bone, ALS, Ebola
+Osteoarthritis,., Lyme, ALS, Pain, Alzheimer, Ebola,:,",", Bone,.
+Osteoarthritis,., Lyme, Alzheimer, Ebola, ALS, Pain, Bone,:, MS, HIV
+Osteoarthritis,., Lyme,:, ALS, Ebola, Bone,",", Pain, Alzheimer,.
+Osteoarthritis,., Lyme,:, Bone, Pain, Alzheimer, ALS,",", Mac, Ebola
+Osteoarthritis,., Lyme, ALS,., Pain, Bone, Ebola, Alzheimer,:, Cancer
+Osteoarthritis,., Lyme,:, Pain, Ebola,",", ALS, Bone,., Cancer
+Osteoarthritis,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:, Cancer,","
+Osteoarthritis,., Lyme, Bone, Alzheimer, Pain,:, Ebola,",", ALS,.
+Osteoarthritis, Lyme,., ALS, Alzheimer, Pain, Ebola, Cancer, Bone,:, MS
+Dermal Ulcer,., Lyme,., Alzheimer, Bone,",", C, Pain,:, ALS
+Dermal Ulcer,., Lyme, ALS, Alzheimer, Bone, Pain, Ebola,:,., MS
+Dermal Ulcer,., Lyme,:, ALS, Bone, Ebola,., Alzheimer,",", Pain
+Dermal Ulcer,., Lyme, Alzheimer, Bone,.,:, C, Pain, ALS,","
+Dermal Ulcer,., Lyme, Bone, Ebola,., ALS, Alzheimer, Pain,",", C
+Dermal Ulcer,., Lyme, Bone, ALS, Alzheimer, Ebola,.,:, Pain,","
+Dermal Ulcer,., Lyme,:, Alzheimer, Ebola, Bone, Pain,",", ALS," """
+Dermal Ulcer,., Lyme,",",., C,:, Alzheimer, Bone, ALS, MS
+Dermal Ulcer,., Lyme, Alzheimer, ALS, Ebola, Pain, Bone, Cancer,., MS
+Muscle Pain,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone,:,.,","
+Muscle Pain, Lyme,., ALS, Ebola, Alzheimer, Pain,:, Bone, MS,","
+Muscle Pain,., Lyme,:, Bone, ALS, Pain,",", Alzheimer,., C
+Muscle Pain,.,:, Lyme,",", Bone,., Pain, C, Heart, Anonymous
+Muscle Pain,., Lyme, Pain,., Alzheimer, Bone,:, Cancer, ALS,","
+Schizophrenia, Lyme,., Pain, ALS, Alzheimer, Ebola, Cancer, MS, Bone, AIDS
+Schizophrenia,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone,:,",", MS
+Schizophrenia,., Lyme, Bone, ALS, Alzheimer, Pain, Ebola, Mac, Heart, MS
+Schizophrenia,., Lyme, ALS, Bone, Pain, Alzheimer,:,., Ebola,","
+Schizophrenia,., Lyme,:,",", Bone,., Pain, Ebola, ALS, Anonymous
+Schizophrenia,., Lyme, ALS, Ebola, Alzheimer, Pain,:, Bone,",", MS
+Schizophrenia,., Lyme, Bone,:, Pain, Cancer,",", ALS,., Ebola
+Schizophrenia,., Lyme,.,:, Bone, Pain, Alzheimer, Mac,",", ALS
+Schizophrenia,., Lyme,:, Pain, Bone,",", Alzheimer, ALS, Ebola,.
+Osteoarthritis,., Lyme, Ebola, ALS, Pain,:, Alzheimer, Bone,",", Cancer
+Osteoarthritis,., Lyme, ALS, Alzheimer, Bone, Ebola, Pain,:,.,","
+Osteoarthritis,., Lyme, Pain,:,",", Bone, ALS, Alzheimer, Ebola, C
+Osteoarthritis,., Lyme,:, Bone,.,",", Pain," """, Ebola, ALS
+Osteoarthritis,., Lyme,:,",", Bone, ALS, Pain,., Ebola, Alzheimer
+Osteoarthritis,.,:,.,","," """, Lyme, Bone, ALS, Alzheimer,</s>
+Osteoarthritis,., Lyme,:, Bone,",", ALS,., Alzheimer, Pain, Ebola
+Osteoarthritis,., Lyme, Pain,:,",", ALS,., Bone, Ebola, MS
+Osteoarthritis,., Lyme, Bone,:,",", Alzheimer, ALS, C, Ebola, Pain
+Osteoarthritis,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,",", MS,:
+Osteoarthritis,., Lyme,:, Bone, ALS,",",., Ebola, Pain, Alzheimer
+Osteoarthritis,., Lyme, ALS, Alzheimer, Pain, Bone,:, Mac, Ebola,.
+Borderline Personality Disorder,., Lyme, Bone, ALS, Pain,:, Alzheimer, Ebola,.,","
+Borderline Personality Disorder,., Lyme,",",:,., Bone, C, ALS, Ebola, Pain
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Pain, Ebola,:, Bone,",", Cancer
+Borderline Personality Disorder,., Lyme, Bone,:,., Alzheimer,",", ALS, Pain, Mac
+Borderline Personality Disorder,., Lyme, Bone, Alzheimer, ALS,:, Pain,., Ebola,","
+Borderline Personality Disorder,., Lyme,:, Bone, Pain, Ebola,., Alzheimer, ALS,","
+Borderline Personality Disorder,., Lyme, Bone, Alzheimer,.,:, Pain,",", ALS, Ebola
+Borderline Personality Disorder, Lyme,., Pain, Bone, ALS, Alzheimer, Ebola, Ring,:, Heart
+Borderline Personality Disorder,., Lyme, Bone, Pain,",",., El,:, C, Alzheimer
+Borderline Personality Disorder,., Lyme,., Pain, Bone,:,",", Ebola, Alzheimer, ALS
+Borderline Personality Disorder,., Lyme, Pain, Bone,:, Heart, Cancer, Diabetes, Mac, ALS
+Borderline Personality Disorder,., Lyme,., Alzheimer, ALS, Bone, Mac,:,",",</s>
+Borderline Personality Disorder,., Lyme,:,",", Bone,.," """, Alzheimer, Heart, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone,., MS, Mac
+Borderline Personality Disorder,.,:, Pain, Lyme,",", Bone,.," """, Mac, Ebola
+Borderline Personality Disorder,., Lyme, ALS,:,",", Alzheimer, Bone, Pain, Ebola,.
+Borderline Personality Disorder,., Lyme,:,",", Bone,., Pain, Ebola, ALS, C
+Borderline Personality Disorder,., Lyme, ALS,:, Pain, Ebola, Bone,.,",", Alzheimer
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone,., ALS, Pain,:,",", Cancer
+Borderline Personality Disorder,., Lyme,:, ALS," """,.,",", Ebola, Pain, Alzheimer
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, Ebola, Pain, ALS, MS, Cancer,","
+Borderline Personality Disorder,., Lyme,.,:, ALS,","," """, Alzheimer, Bone, Pain
+Borderline Personality Disorder,., Lyme, ALS, Pain, Alzheimer, Ebola,:,., Bone,","
+Borderline Personality Disorder,., Lyme, Pain, Bone, Alzheimer, ALS, Ebola,.,",",:
+Borderline Personality Disorder,., Lyme, Alzheimer, Pain, ALS, Bone, Ebola,:,",",.
+Borderline Personality Disorder,., Lyme,",",:,., Bone, Alzheimer, Ebola, Pain, C
+Borderline Personality Disorder,., Lyme, Ebola, ALS,:, Pain, Alzheimer, Bone,",",.
+Borderline Personality Disorder,., Lyme, ALS,:, Pain, Bone, Ebola, Alzheimer,.,","
+Borderline Personality Disorder,., Lyme, Alzheimer, Pain, Bone, ALS,.,:, Ebola,","
+Borderline Personality Disorder,., Lyme, ALS, Pain,:, Alzheimer, Bone,., Ebola,","
+Borderline Personality Disorder,., Lyme,:,",", Pain, Bone, Ebola,., Alzheimer, MS
+Borderline Personality Disorder,., Lyme,:, Bone,",", ALS, Alzheimer,., Pain, Ebola
+Borderline Personality Disorder,., Lyme,:, ALS, Pain, Bone, Ebola, Alzheimer,.,","
+Borderline Personality Disorder,., Lyme, Pain, Ebola,:, Alzheimer,",", Bone, ALS, Heart
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Ebola, Bone, Pain,:, Diabetes,","
+Borderline Personality Disorder,., Lyme,:, Bone,",",., Alzheimer, Pain, Mac," """
+Borderline Personality Disorder,., Lyme,",",:,., Bone, C, Anonymous, Pain, Alzheimer
+Borderline Personality Disorder,.,:, Lyme,",",., Pain, C, Bone, El," """
+Borderline Personality Disorder, Lyme,., ALS, Alzheimer, Ebola, Pain, Bone, Cancer, MS, HIV
+Borderline Personality Disorder,., Lyme,:, Bone, Alzheimer, Pain, ALS,",", Ebola, Cancer
+Borderline Personality Disorder,., Lyme,., Bone,:, Pain,",", Alzheimer, ALS, Ebola
+Borderline Personality Disorder,., Lyme, Bone, Ebola, Alzheimer, ALS,., Pain,:,","
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Pain, Ebola,.,:, Bone,","
+Borderline Personality Disorder,., Lyme, Bone, ALS,:, Pain, Ebola, Alzheimer,.,","
+Borderline Personality Disorder,., Lyme, ALS, Pain, Alzheimer,:,., Bone, Ebola,","
+Borderline Personality Disorder,., Lyme, Alzheimer, Ebola, ALS, Bone, Pain,:,",", MS
+Borderline Personality Disorder,., Lyme, El, MS, Alzheimer, Bone, C, T," """, Ebola
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone,:,",", Cancer
+Borderline Personality Disorder,.,:,",", C, Lyme,.," """, El, Bone, Mac
+Borderline Personality Disorder,., Lyme,:,",",., Bone, ALS, Pain, Alzheimer, Ebola
+Muscle Pain,.,., Lyme,:,",", Pain, Bone, ALS, C, Alzheimer
+Muscle Pain,., Lyme, ALS, Alzheimer, Bone, Ebola, Pain, MS,:,.
+Muscle Pain,., Lyme,., Bone, C, ALS, Alzheimer,:,",", Pain
+Muscle Pain,., Lyme, ALS, Alzheimer, Ebola, Pain,:, Bone,",", MS
+Muscle Pain,., Lyme, Pain, Alzheimer, Bone, ALS, Mac,:, Heart, Ebola
+Borderline Personality Disorder,.,.,:, Lyme,",",</s>, Bone, Mac, C, El
+Borderline Personality Disorder,.,:,",", Lyme, Bone,., Ebola, Pain," """, Anonymous
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, ALS, Ebola, Pain,",",:, Cancer
+Borderline Personality Disorder,., Lyme,:, Bone,",",., Pain, C, Ebola, ALS
+Borderline Personality Disorder,., Lyme, Bone, Pain, Alzheimer, ALS, Ebola,., Mac, Cancer
+Borderline Personality Disorder,., Lyme, ALS, Pain, Ebola, Alzheimer,:, Bone, Cancer,","
+Borderline Personality Disorder,.,:,",", Lyme, Bone,., Pain, ALS, Ebola, Mac
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Pain, Bone, Ebola,:,.,","
+Borderline Personality Disorder,., Lyme, Pain,:, ALS, Bone, Ebola,",", Alzheimer, Cancer
+Borderline Personality Disorder,., Lyme, Alzheimer,",", Ebola, Pain, Bone,:, MS, ALS
+Borderline Personality Disorder,., Lyme,:, Bone, Pain,.,",", ALS, Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme,:,.,",", Bone, C, Alzheimer," """, ALS
+Borderline Personality Disorder,., Lyme,:,",", Bone, Alzheimer, Pain, Ebola, ALS, Heart
+Borderline Personality Disorder,., Lyme, Pain, Alzheimer, Bone, ALS, Mac,., Ebola,:
+Borderline Personality Disorder,., Lyme, Ebola, Pain, Alzheimer, ALS, Bone, Cancer, MS,","
+Borderline Personality Disorder,.,:,",", Lyme,.,</s>, C," """, Bone, Mac
+Borderline Personality Disorder,., Lyme, ALS, Pain, Ebola, Alzheimer, Bone,:," """,.
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,:,",", Cancer
+Borderline Personality Disorder, Lyme,., ALS, Alzheimer, Pain, Ebola, Bone, Cancer, MS,:
+Borderline Personality Disorder, Lyme,., Pain, Ebola, ALS, Bone, Alzheimer, MS, Cancer,","
+Borderline Personality Disorder,., Lyme, Bone, Pain, Alzheimer, ALS,:,",", Ebola,.
+Borderline Personality Disorder,., Lyme,:,",",., ALS, Ebola, Bone, Pain, Cancer
+Borderline Personality Disorder,., Lyme, Bone,:,",", Ebola,., Alzheimer, Pain, C
+Borderline Personality Disorder,., Lyme,:, Bone,.,",", C, Mac, Pain, Anonymous
+Borderline Personality Disorder,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone,",",:,.
+Borderline Personality Disorder,., Lyme,:, Bone,",",., ALS, Alzheimer," """, Mac
+Borderline Personality Disorder,., Lyme, ALS, Pain, Ebola, Alzheimer, Bone,:, MS,.
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, Pain, ALS, Ebola,.,:, Heart
+Borderline Personality Disorder,., Lyme,:,.,",", Bone," """, Pain, Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Ebola,:,",", Pain, Bone,.
+Borderline Personality Disorder,., Lyme, Bone, ALS,:, Pain,., Alzheimer,",", Ebola
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone, Cancer,:, MS
+Borderline Personality Disorder,., Lyme,:,",", Bone,., ALS, Pain, C, Mac
+Borderline Personality Disorder,., Lyme, Alzheimer,:, Ebola, ALS,",", Bone,., MS
+Borderline Personality Disorder,., Lyme,:,., Pain,",", Bone, Ebola, ALS, Alzheimer
+Borderline Personality Disorder,., Lyme, Pain,:, Bone,",", ALS, Alzheimer,., Cancer
+Borderline Personality Disorder,., Lyme, Bone, Alzheimer, Pain, ALS, Ebola, Cancer, Diabetes,.
+Borderline Personality Disorder,., Lyme, Bone,",", Alzheimer,:, Pain, ALS, Heart, C
+Borderline Personality Disorder,., Lyme, Bone,., ALS,:, Pain,",", Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme,.,:,</s>, Bone, Pain,",", Mac," """
+Borderline Personality Disorder,., Lyme,:,",", ALS, Ebola, Pain, Bone,., Alzheimer
+Borderline Personality Disorder, Lyme,., Pain, Ebola, ALS, Alzheimer, Bone, Cancer, MS,:
+Borderline Personality Disorder,., Lyme,:,.,",", Bone, C, Anonymous, Mac, Pain
+Borderline Personality Disorder,., Lyme,:,",", Bone,., ALS, Alzheimer, Pain, Mac
+Borderline Personality Disorder,., Lyme,:, Bone, Pain,",", Ebola, ALS, Cancer, Alzheimer
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Bone, Pain, Ebola,",", C, MS
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Pain, Bone, Ebola,.,:,","
+Borderline Personality Disorder,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone,:, MS, Cancer
+Borderline Personality Disorder,., Lyme, ALS, Bone, Alzheimer, Ebola, Pain, Mac,., TB
+Borderline Personality Disorder,., Lyme, ALS, Bone, Ebola, Alzheimer,., MS, Pain, Mac
+Borderline Personality Disorder,., Lyme, Pain, Alzheimer, Ebola, ALS, Bone,:,",", Mac
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola, Pain,:, Bone,",",.
+Borderline Personality Disorder,., Lyme,:, Bone,",", Pain,., C, Ebola, ALS
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer,",",:, Ebola, Bone,., Pain
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, Ebola, ALS, Pain,:,",", C
+Borderline Personality Disorder,.,.,:,",",</s>," """, Bone, Mac, Lyme," """""
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, ALS, Pain, Ebola,:,",",.
+Borderline Personality Disorder,., Lyme,., Ebola, Bone,:, ALS, Cancer, Alzheimer, Pain
+Borderline Personality Disorder,., Lyme, Ebola, ALS, Alzheimer, Pain,:, Bone,",", Cancer
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Bone, Ebola,:,., Pain,","
+Borderline Personality Disorder,., Lyme,:,",", Bone,., Pain, ALS, Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme,:, Bone,",",., Alzheimer, Mac, Pain, ALS
+Borderline Personality Disorder,., Lyme, ALS, Bone, Pain, Alzheimer, Ebola,:,",", Cancer
+Borderline Personality Disorder,., Lyme,:,., Bone,",", Mac, Alzheimer, ALS, Pain
+Borderline Personality Disorder,., Lyme,:, Pain, ALS, Ebola,",",., Alzheimer, Bone
+Borderline Personality Disorder,., Lyme,:, Bone, Pain, Alzheimer,",", ALS,., Ebola
+Borderline Personality Disorder,., Lyme, Pain, Alzheimer, Bone,:, Ebola, ALS, Cancer,","
+Borderline Personality Disorder,., Lyme, Ebola, ALS, Pain, Alzheimer, Bone, HIV, Cancer, MS
+Borderline Personality Disorder,.,:,",", Lyme, Bone,.," """, Pain, Mac, Ebola
+Borderline Personality Disorder,., Lyme,:,",", Bone,., C, ALS, Pain, Anonymous
+Borderline Personality Disorder,., Lyme, ALS, Ebola, Alzheimer, Cancer, Bone, Pain,:,","
+Borderline Personality Disorder,., Lyme, Pain, Bone, Ebola, ALS, Alzheimer,:, Mac,","
+Borderline Personality Disorder,., Lyme, Alzheimer, Pain, ALS, Bone, Ebola, El," """, Cancer
+Borderline Personality Disorder, Lyme,., Alzheimer, Pain, ALS, Ebola, Bone, Heart,:, Cancer
+Borderline Personality Disorder,., Lyme, Pain, ALS, Bone, Alzheimer, Mac,:,",", Heart
+Borderline Personality Disorder,., Lyme,:,",", Bone,., Pain, Ebola, ALS, Alzheimer
+Borderline Personality Disorder,., Lyme,",", Bone,:, Alzheimer,., ALS, Mac, C
+Borderline Personality Disorder,.,:,",",., Lyme, C," """, Bone, Mac,</s>
+Borderline Personality Disorder,., Lyme, Bone,:, Pain,",",., Alzheimer, ALS, Heart
+Borderline Personality Disorder,.,:, Lyme, Bone,",",., Mac, C, ALS, Anonymous
+Borderline Personality Disorder,., Lyme, Bone, Alzheimer, Ebola, Pain, ALS, Cancer,:, Mac
+Borderline Personality Disorder,., Lyme, Pain, Bone, ALS, Alzheimer, Ebola,., Cancer,:
+Borderline Personality Disorder,., Lyme, Pain, Alzheimer,., Bone,:, ALS, Ebola, Mac
+Borderline Personality Disorder, Lyme,., Alzheimer, ALS, Ebola, Bone, Pain, Cancer,:,","
+Borderline Personality Disorder,., Lyme, ALS, Bone, Ebola, Alzheimer, Pain,",",:, Heart
+Borderline Personality Disorder,., Lyme, Pain, Alzheimer, Bone, ALS, Ebola,:,",", Cancer
+Borderline Personality Disorder,., Lyme,:, Bone,.,",", C, Pain, Mac, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:, Pain, Bone, Ebola, ALS,",", Cancer
+Borderline Personality Disorder,., Lyme,:, Bone,",", Pain, Alzheimer,., ALS, Mac
+Borderline Personality Disorder,., Lyme, Bone, Alzheimer, Ebola,",",:, ALS, Pain,.
+Borderline Personality Disorder,., Lyme,:, Pain, Bone,.,","," """, Mac, Heart
+Borderline Personality Disorder, Lyme,., Alzheimer, ALS, Ebola, Bone, Pain, Cancer, C, MS
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Pain, Bone, Ebola,:,.,","
+Borderline Personality Disorder,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone,.,:,","
+Borderline Personality Disorder,., Lyme,:,.,",", Pain, Alzheimer, Bone, ALS, Ebola
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Pain, Ebola,:,",",., Bone
+Borderline Personality Disorder,., Lyme,",", Pain, ALS,:,., Ebola, Bone, Alzheimer
+Borderline Personality Disorder,., Lyme,:,",",., Pain, Bone, ALS," """, Anonymous
+Borderline Personality Disorder, Lyme,., Pain, Ebola, ALS, Alzheimer, Bone, Cancer,:, MS
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Bone,., Ebola, Pain, Mac, MS
+Borderline Personality Disorder,., Lyme, Bone,.,:,",", Alzheimer, C, ALS, Pain
+Borderline Personality Disorder,., Lyme,:, ALS, Bone, Alzheimer,",",., Ebola, Pain
+Borderline Personality Disorder,.,",",:,., Bone, Lyme, C, Mac, M, Anonymous
+Borderline Personality Disorder,., Lyme, Bone, ALS, Alzheimer, Pain, Ebola,.,:, C
+Borderline Personality Disorder,., Lyme,:,",",., Alzheimer, Bone, C, ALS, Mac
+Borderline Personality Disorder,., Lyme, Pain,:, ALS, Ebola, Alzheimer, Bone,",", Cancer
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, Pain,., ALS, Mac, Ebola,","
+Borderline Personality Disorder,., Lyme,:, ALS, Pain, Ebola, Alzheimer, Bone,",",.
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, MS, Bone, Ebola, C, L, Pain
+Borderline Personality Disorder,., Lyme, Pain, ALS, Ebola, Cancer, Alzheimer, Bone,:,.
+Borderline Personality Disorder,., Lyme, Mac, Bone,:,",", Pain, Alzheimer, ALS,.
+Borderline Personality Disorder,., Lyme, Alzheimer, Ebola, ALS, Pain, Bone, Cancer, MS, HIV
+Borderline Personality Disorder,., Lyme, Bone,:, ALS,",", Alzheimer,., Pain, Ebola
+Borderline Personality Disorder,., Lyme,:, Ebola, ALS, Alzheimer,",", Pain, Bone, Cancer
+Borderline Personality Disorder,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone,:,., Cancer
+Borderline Personality Disorder,., Lyme,:, Bone,.,",", ALS, Pain, Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, ALS, Ebola, Pain,",", C, Mac
+Borderline Personality Disorder,., Lyme, Pain, ALS, Ebola, Bone,:,","," """,.
+Borderline Personality Disorder,., Lyme, Bone, Alzheimer,:,., Pain, ALS,",", Ebola
+Borderline Personality Disorder,., Lyme, Pain, ALS, Bone, Ebola, Alzheimer,",",:,.
+Borderline Personality Disorder,., Lyme, ALS, Pain, Bone, Alzheimer, Ebola, C,., MS
+Borderline Personality Disorder,., Lyme, Pain, ALS, Bone, Ebola, Alzheimer,:,",", Heart
+Borderline Personality Disorder, Lyme,., Ebola, ALS, Pain, Alzheimer, Bone,:, Cancer, MS
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola, Bone, Pain,:,",",.
+Borderline Personality Disorder,., Lyme, Bone,:, Pain, Alzheimer,.,",", Ebola, ALS
+Borderline Personality Disorder,., Lyme,:,",", Bone,., ALS, Alzheimer, Pain," """
+Borderline Personality Disorder, Lyme,., ALS, Alzheimer, Pain, Ebola, Bone, MS, Cancer,:
+Borderline Personality Disorder,., Lyme, Pain, ALS,:,.,","," """, Ebola, Alzheimer
+Borderline Personality Disorder, Lyme,., Alzheimer, ALS, Pain, Ebola, Bone, Cancer,:, MS
+Borderline Personality Disorder,., Lyme,:, Bone, ALS,., Pain,",", Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme,:,",",., Bone, Pain, Alzheimer, Ebola," """
+Borderline Personality Disorder,., Lyme, Bone, Pain,",",:,., Alzheimer, ALS, C
+Borderline Personality Disorder, Lyme,., Alzheimer, ALS, Ebola, Pain, Bone, MS,:,","
+Borderline Personality Disorder,., Lyme,",",:, Bone,., C, Pain, Alzheimer, ALS
+Borderline Personality Disorder,., Lyme,",", Bone,:, Alzheimer,., ALS," """, Pain
+Borderline Personality Disorder,., Lyme, Alzheimer, Ebola,:, ALS, Bone, Pain, Cancer,","
+Borderline Personality Disorder,., Lyme,:, Bone,",", Pain, ALS,., Ebola, Alzheimer
+Borderline Personality Disorder,., Lyme, Bone, Pain,:, Alzheimer, ALS,",", Ebola,.
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola,:, Pain,",", Bone, MS
+Borderline Personality Disorder,., Lyme,:, ALS,",",., Ebola, Alzheimer, Bone, Pain
+Borderline Personality Disorder,., Lyme, Ebola, Alzheimer, Pain, ALS, Bone, MS,",",:
+Borderline Personality Disorder,., Lyme, Bone,:,.,",", Pain, ALS, Alzheimer, Mac
+Borderline Personality Disorder,., Lyme, Bone,:,",",., Mac, C, Alzheimer, ALS
+Borderline Personality Disorder,.,:,",",., Lyme, Bone, C, Mac,</s>, Anonymous
+Borderline Personality Disorder,., Lyme, ALS, Pain, Alzheimer, Bone, Ebola,.,:,","
+Borderline Personality Disorder,., Lyme,:,",",., Bone, Pain, Ebola, Anonymous, Heart
+Borderline Personality Disorder,.,:, Lyme,",",., Bone, Pain, ALS, C, Ebola
+Borderline Personality Disorder,., Lyme, Pain, Bone,:, Alzheimer, Ebola, ALS,",", Cancer
+Borderline Personality Disorder,., Lyme, Alzheimer,:, Pain, Bone, Ebola, ALS,",",.
+Borderline Personality Disorder,., Lyme, ALS, Bone, Alzheimer,.,",",:, Pain, Ebola
+Psoriasis,., Lyme, Bone,:, Pain, ALS,.,",", Alzheimer, Ebola
+Psoriasis,., Lyme, ALS,., Ebola, Pain,:, Bone, Alzheimer,","
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, Pain, Ebola,., ALS, Cancer,:
+Borderline Personality Disorder,., ALS, Lyme, Alzheimer, Ebola, Pain, MS, Bone,:,.
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, ALS, Pain,.,",",:, C
+Borderline Personality Disorder,.,:, Lyme,",",., Bone, Pain, Alzheimer," """, Ebola
+Borderline Personality Disorder,.,:, Lyme,",", Ebola, Pain, Alzheimer, Bone, ALS,.
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone, Cancer,., Heart
+Borderline Personality Disorder,., Lyme, Pain,:, Bone, Ebola, Alzheimer,",", ALS,.
+Borderline Personality Disorder,., Lyme, Bone,., Pain,",", ALS, Ebola,:, Alzheimer
+Borderline Personality Disorder,., Lyme,:,",", ALS, Alzheimer, Ebola,., Bone," """
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola, Pain,.,:, Bone,","
+Borderline Personality Disorder,., Lyme, Bone,:, Pain, Ebola,.,",", Cancer, Alzheimer
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:, Cancer,.
+Borderline Personality Disorder,., Lyme, Bone,:,.,",", Ebola, Pain, ALS, Alzheimer
+Borderline Personality Disorder,., Lyme,:, Pain,",", Ebola, ALS, Bone,., Cancer
+Borderline Personality Disorder,., Lyme,:, Bone,",", Border, El,., The, Ebola
+Borderline Personality Disorder,., Lyme,:,.,",", Bone," """, Pain, ALS, Alzheimer
+Borderline Personality Disorder,.,:,",",., Bone, Mac, Lyme, El, C, Border
+Borderline Personality Disorder,., Lyme, ALS, Cancer, Pain, Alzheimer, Ebola,:,",", Bone
+Borderline Personality Disorder,., Lyme, ALS, Ebola, Bone, Pain, Alzheimer,:,",",.
+Borderline Personality Disorder,., Lyme, Pain, Bone, ALS, Alzheimer, Ebola,",",:, Cancer
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Bone, Pain, Ebola, Mac,:,.
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,:, MS, Cancer
+Borderline Personality Disorder,., Lyme,:,",",., Bone, C, Anonymous, Mac, M
+Borderline Personality Disorder,., Lyme, Pain, ALS, Bone,:, Alzheimer,",", Ebola,.
+Borderline Personality Disorder,., Lyme, Alzheimer, Ebola, ALS, Pain, Bone, Cancer, C, MS
+High Cholesterol,., Lyme,:, ALS, Ebola, Alzheimer,",", Bone, Pain,.
+High Cholesterol,., Lyme, ALS, Bone,:, Pain, Ebola,",",., Alzheimer
+High Cholesterol,., Lyme, Bone,., Alzheimer, ALS, Ebola, Pain,",",:
+High Cholesterol,., Lyme,:,.,",", Bone, Pain, ALS, Ebola, MS
+High Cholesterol,., Lyme,:,",", Bone,., ALS, Alzheimer, Pain, Ebola
+High Cholesterol,., Lyme,:, Ebola, ALS,., Bone, Alzheimer,",", C
+High Cholesterol,., Lyme,:, ALS,",", Alzheimer, Ebola, Pain, Bone, MS
+High Cholesterol,., Lyme, Bone, Pain, Alzheimer, Mac,.,:,",", El
+High Cholesterol,., Lyme, Ebola, ALS,:, Cancer, Pain,",", Bone, Alzheimer
+High Cholesterol,., Lyme, Bone, Alzheimer, Pain, ALS,:,., Ebola,","
+Tinea Corporis,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:,., Cancer
+Tinea Corporis,., Lyme, Bone, Pain, Alzheimer,",",., ALS, C, Ebola
+Tinea Corporis,., Lyme, Bone,",",:,., C, Mac, Alzheimer, Pain
+Tinea Corporis,., Lyme, Bone,:,",",., C, Anonymous, ALS, Pain
+Tinea Pedis,., Lyme, Bone, Alzheimer, Pain, ALS,:, Ebola,",",.
+Tinea Pedis,., Lyme, Bone,:, ALS, Alzheimer,",",., Ebola, Pain
+Tinea Cruris,., Lyme, Alzheimer, ALS, Pain, Mac, Bone, Ebola, MS, Cancer
+Tinea Cruris,., Lyme, Bone, Alzheimer, Ebola, ALS, Pain, Cancer, MS, C
+Osteoarthritis,., Lyme,.,:, Bone, Alzheimer, Pain,",", ALS, Ebola
+Osteoarthritis,., C, El, T, Mac, M, J, Lyme, D, L
+Osteoarthritis,., Lyme,.,:,",", Bone," """, Mac,</s>, C
+Osteoarthritis,., Lyme, ALS, Pain, Alzheimer, Cancer, Ebola,:, Bone,","
+Osteoarthritis,., Lyme, Pain, Alzheimer, Bone,:, ALS,., Ebola,","
+Osteoarthritis,., Lyme,:,",",., Bone, Pain, Ebola, Anonymous," """
+Osteoarthritis,., Lyme, ALS, Alzheimer, Ebola, Bone, Pain,",",:, MS
+Osteoarthritis,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone,., Cancer, HIV
+Osteoarthritis,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone, Cancer,.,:
+Osteoarthritis,., Lyme, Bone, C,., Pain, Ebola,:,",", Alzheimer
+Osteoarthritis,., Lyme,:,",", Bone,., Pain, ALS, Ebola, Alzheimer
+Osteoarthritis,., Lyme,:, Pain,",", Bone, ALS,., Ebola, Alzheimer
+Psoriasis,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,:,",", MS
+Psoriasis,.,:,",", Lyme,., Bone, Mac,</s>," """, C
+Angina,., Lyme,:, ALS, Bone, Alzheimer, Pain, Ebola,",",.
+Angina,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,:,",", Cancer
+Angina,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone,:, Cancer, MS
+Angina,., Lyme,:, Bone,.,",", Pain," """, Mac, Ebola
+Angina,., Lyme,:, ALS, Bone,",", Ebola, Pain, Alzheimer,.
+Angina,., Lyme, ALS, Alzheimer,:, Bone,.,",", Pain, Ebola
+Angina,., Lyme,:,., Bone,",", Pain, Alzheimer, ALS, Ebola
+Angina,., Lyme,:,., Bone, Alzheimer,",", ALS, Pain, C
+Angina,., Lyme, ALS, Alzheimer, Ebola, Pain, Cancer,:,",", MS
+Angina,., Lyme, Alzheimer, Pain, ALS, Bone, Ebola, Cancer, C,:
+Angina,., Lyme, ALS,.,:," """, Bone,",", Alzheimer, Pain
+High Cholesterol, Lyme,., ALS, Ebola, Alzheimer, Pain, Cancer, Bone, MS, AIDS
+High Cholesterol,., Lyme, ALS, Pain, Ebola, Alzheimer, Bone,:,., MS
+High Cholesterol,., Lyme,:, Pain, Bone, Ebola, Alzheimer, ALS,",", Cancer
+High Cholesterol,., Lyme, Alzheimer, ALS, Ebola, Pain, Bone,:, Heart, Cancer
+High Cholesterol,., Lyme,:,",", Bone, ALS, Alzheimer,., Ebola, Pain
+High Cholesterol,., Lyme, Pain, ALS, Cancer, Bone, Ebola, Alzheimer, Mac, MS
+High Cholesterol,., Lyme,:,",",., Alzheimer, Bone, Ebola, Pain, ALS
+High Cholesterol,., Lyme,:, ALS,",", Pain, Bone, Ebola,., Alzheimer
+High Cholesterol,., Lyme, ALS, Pain,:, Ebola, Alzheimer, Cancer,",", MS
+High Cholesterol,., Lyme,:, Bone,",", ALS, Ebola, Alzheimer,., Pain
+Non-Hodgkin's Lymphoma,., Lyme,:,",", Bone, Pain, Alzheimer,., Mac, C
+Non-Hodgkin's Lymphoma,., Lyme, Pain, ALS, Ebola, Alzheimer, Bone, Cancer, Heart, MS
+Non-Hodgkin's Lymphoma,., Lyme,:, Bone,",",., ALS, C, Alzheimer, Pain
+Non-Hodgkin's Lymphoma,., Lyme,:, Bone, Ebola, ALS,",", Pain, Alzheimer,.
+Non-Hodgkin's Lymphoma,., Lyme, ALS,:, Bone,.,",", Ebola, Pain, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme, Ebola, ALS, Alzheimer, Pain, Bone, MS,",",.
+Non-Hodgkin's Lymphoma,., Lyme, Pain, Bone, Alzheimer, Ebola, ALS,:,",", Cancer
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, ALS, Pain,:, Ebola, Bone,",", Cancer
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Bone, Pain, ALS, Ebola, Mac, MS, C
+Non-Hodgkin's Lymphoma,.,:, Lyme,",",., Pain, Bone, ALS," """, C
+Non-Hodgkin's Lymphoma,., Lyme, Bone, ALS, Alzheimer, Pain, Ebola,:,.,","
+Non-Hodgkin's Lymphoma,., Lyme,:,., Bone, Pain,",", Alzheimer, Mac," """
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Ebola, Pain, ALS,., Bone,:,","
+HIV Infection,.,:, Lyme,.,",", Bone, C, Pain, Anonymous, Ebola
+HIV Infection,.,:, Lyme,",",.," """, Bone, Pain, Ebola, C
+HIV Infection,., Lyme, Alzheimer, ALS,:, Ebola,",", Bone, Pain,.
+HIV Infection,., Lyme, Bone,:, Alzheimer, Ebola, Pain,",", ALS,.
+HIV Infection,., Lyme, Ebola, Alzheimer, ALS,",",:, Pain, Bone," """
+HIV Infection,., Lyme,:, Bone,",",., C, Mac, Anonymous, Pain
+HIV Infection, Lyme,., ALS, Alzheimer, Bone, Pain, Ebola, Mac, Heart, MS
+HIV Infection,.,:,",", Lyme, Bone,., Ebola, ALS, Alzheimer, Pain
+HIV Infection,., Lyme,:,., Pain,",", Bone, Ebola, Alzheimer," """
+HIV Infection,., Lyme,:, Pain,",", Bone, ALS,., Alzheimer, Ebola
+HIV Infection,., Lyme,:,",", ALS,., Bone, Alzheimer, Pain, Ebola
+HIV Infection,., Lyme, ALS, Ebola, Pain, Alzheimer,:,",", Bone, MS
+HIV Infection,.,:, Lyme,",",., Bone, Pain, Alzheimer, ALS, C
+HIV Infection,., Lyme,:, Pain,",", ALS, Ebola, Bone,., Cancer
+HIV Infection,., Lyme, Bone, Mac,:,",", Alzheimer, ALS, Pain,.
+HIV Infection,., Lyme,:, Bone,",",., ALS, C, Alzheimer, Pain
+HIV Infection,., Lyme, ALS,:, Bone, Ebola, Pain,",", Alzheimer,.
+HIV Infection,., Lyme,:,",", Ebola, ALS, Alzheimer, Bone,., C
+HIV Infection,., Lyme, ALS, Pain, Ebola, Cancer,:, Alzheimer, Bone, Mac
+HIV Infection,., Lyme, Pain, ALS, Alzheimer, Bone, Ebola,.,:, Cancer
+HIV Infection,., Lyme,:,., Bone,",", C, Alzheimer, ALS, Pain
+HIV Infection,., Lyme,:, Bone,",",., Pain, ALS, Ebola, Alzheimer
+HIV Infection,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone, Cancer,:, MS
+HIV Infection, Lyme,., Ebola, ALS, Pain, Alzheimer, Bone, Cancer, AIDS, HIV
+HIV Infection,., Lyme, Alzheimer, Bone, ALS, Pain, Ebola, Cancer,., C
+HIV Infection,., Lyme, Alzheimer, Ebola, Pain, ALS,.,:, Bone,","
+HIV Infection,., Lyme,:, Pain, ALS,",", Bone, Alzheimer,., Ebola
+HIV Infection,., Lyme, Pain, ALS, Alzheimer, Ebola, Bone, MS, Heart, Mac
+HIV Infection,., Lyme, ALS, Ebola, Pain,:, Alzheimer,",", Cancer, Bone
+HIV Infection,., Lyme, Pain,:, Bone, Ebola,",", Alzheimer," """,.
+HIV Infection,.,:, Lyme,",", Bone,., Ebola," """, Alzheimer, Pain
+HIV Infection,., Lyme, Bone, Ebola, ALS,:,",", Alzheimer, Pain,.
+HIV Infection,., Lyme, Bone, Pain, Alzheimer, ALS, Ebola,.,",",:
+HIV Infection,., Lyme, Bone, Ebola, Pain, ALS, Alzheimer,",",:, C
+HIV Infection,., Lyme,:, Bone,",", Alzheimer, Pain,., Ebola, ALS
+HIV Infection,., Lyme, Alzheimer, ALS, Ebola, Pain, Bone, Cancer, MS,.
+High Cholesterol,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,.,:, MS
+High Cholesterol,., Lyme, Alzheimer, ALS, Bone, Ebola,:, Pain, Cancer,","
+High Cholesterol,., Lyme,:,",", Pain,., Bone," """, Ebola, ALS
+High Cholesterol,., Lyme, ALS, Bone, Alzheimer, Ebola, Pain,","," """,.
+High Cholesterol,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone,:,",", Cancer
+High Cholesterol,., Lyme,:, Ebola, Bone, Pain, ALS, Alzheimer,",",.
+High Cholesterol,., Lyme,:,",", ALS, Bone, Ebola,., Pain, Alzheimer
+High Cholesterol,., Lyme,:, Bone,.,",", ALS, C, Alzheimer, Pain
+High Cholesterol,., Lyme, Bone, ALS,:, Alzheimer, Ebola, Pain,",", Mac
+High Cholesterol,., Lyme,:,.,",", Bone, Pain, Ebola, C," """
+High Cholesterol,., Lyme, Bone, Alzheimer, ALS, Pain,.,",",:, Ebola
+High Cholesterol,., Lyme, Pain, Bone, Alzheimer,:, ALS, Ebola,",", Mac
+High Cholesterol,., Lyme, Alzheimer, Bone, Ebola, Pain,",",:, ALS,.
+High Cholesterol,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:, Cancer, MS
+High Cholesterol,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone,:, MS,","
+High Cholesterol,., Lyme, ALS, Ebola, Alzheimer, Pain,:," """,., Bone
+High Cholesterol,., Lyme,:,",", Bone,., Pain, Heart, Mac, Anonymous
+High Cholesterol,., Lyme, ALS, Ebola, Pain,:, Bone, Alzheimer,.,","
+High Cholesterol,., Lyme, Alzheimer, ALS, Bone, Pain, Ebola,.,:,","
+High Cholesterol,., Lyme,:, ALS, Ebola,",", Pain, Alzheimer, Bone,.
+High Cholesterol,.,:,",", Lyme,., Bone, C, Pain, Mac, El
+High Cholesterol,., Lyme, Bone,:,.,",", Mac, ALS, Alzheimer, C
+High Cholesterol,.,:, Lyme,",", Bone,., C, Mac, Anonymous,</s>
+High Cholesterol,., Lyme,:, Pain,",", Bone, Ebola,., ALS," """
+High Cholesterol,., Lyme, Ebola, ALS,:, Alzheimer,., Pain, Bone,","
+High Cholesterol,., Lyme, Pain, ALS, Alzheimer, Ebola, Bone, Cancer,:,.
+High Cholesterol,.,:, Lyme,",",., Bone,</s>, Mac, C, Border
+High Cholesterol,., Lyme, Alzheimer,:, Ebola, ALS,., Bone, Pain,","
+High Cholesterol,., Lyme,., ALS, Alzheimer, Bone,:,",", Pain, Ebola
+High Cholesterol,., Lyme, Pain, Alzheimer, ALS, Ebola, Bone, MS, Cancer,","
+Osteoarthritis,., Lyme,., Alzheimer, Bone, ALS, Pain,:, C,","
+Osteoarthritis,., Lyme,.,",", Bone,:, Alzheimer," """, Pain, C
+Osteoarthritis,., Alzheimer, Lyme, C, El, Mac,",", Pain, Bone,:
+Osteoarthritis,., Lyme,.,:, Bone,",", Alzheimer, Pain, Ebola, ALS
+Osteoarthritis,., Lyme, Ebola, ALS, Bone, Alzheimer, Pain,",",:, Cancer
+Osteoarthritis,., Lyme, Bone, C, Alzheimer,",", Pain, Ebola," """,.
+Osteoarthritis,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone,:,",", Cancer
+Osteoarthritis,., Lyme, Ebola,",",:, Bone, ALS, Alzheimer,., Pain
+Osteoarthritis,., Lyme,:,",",., Bone, Anonymous, C, Pain,</s>
+Osteoarthritis,., Lyme,:,",", Bone,., Pain, ALS, C, Ebola
+Osteoarthritis,., Alzheimer, Lyme, Mac, Bone, Pain, Cancer,., ALS, El
+Osteoarthritis,., Lyme, Ebola, Alzheimer, ALS,:, Pain, Bone,",",.
+Chronic Fatigue Syndrome,., Lyme,.,:,",", Bone, Mac, Pain, El, C
+Chronic Fatigue Syndrome,., Lyme,:,",", Bone,., Ebola, Pain, ALS, Alzheimer
+Chronic Fatigue Syndrome,., Lyme,:,.,",", Bone," """, Pain, ALS, Alzheimer
+Chronic Fatigue Syndrome,., Lyme,:,",", Bone,., Pain, Alzheimer, Ebola, Mac
+Chronic Fatigue Syndrome,.,:,",", Lyme,., Bone," """, Pain, Ebola, Mac
+Muscle Pain,., Lyme,:,",",., Bone, ALS, Ebola, C, Pain
+Muscle Pain,., Lyme,:, Pain, Bone,., ALS,",", Alzheimer, Ebola
+Muscle Pain,., Lyme, Ebola, ALS, Pain,:, Alzheimer,",", Bone, MS
+Muscle Pain,., Lyme,:,",", Bone, ALS, Pain,., Ebola, Alzheimer
+Muscle Pain,., Lyme, Bone,:, ALS, Alzheimer, Pain, Mac,",", Ebola
+Borderline Personality Disorder, Lyme,., ALS, Alzheimer, Ebola, Pain, Bone, MS, HIV, Cancer
+Borderline Personality Disorder, Lyme,., Alzheimer, ALS, Pain, Bone, Ebola,:,",",.
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Pain, Bone, Ebola,.,:, Cancer
+Borderline Personality Disorder,., Lyme,:,",", ALS, Bone, Ebola, Alzheimer, Pain,.
+Borderline Personality Disorder,., Lyme,:,",",., ALS, Alzheimer, Bone, C, Pain
+Borderline Personality Disorder,., Lyme, Ebola,:, Bone, Alzheimer, ALS,",",., MS
+Borderline Personality Disorder,., Lyme,:, ALS, Ebola, Bone, Pain, Alzheimer,",",.
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Bone, Ebola, Pain,:,.,","
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, Pain, ALS, Ebola,:,",", Mac
+Borderline Personality Disorder,.,:,",", Lyme,., Bone, C, Pain, ALS, Alzheimer
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:, Cancer,","
+Borderline Personality Disorder,., Lyme, Bone, ALS, Alzheimer,:, Pain, Mac, Ebola,.
+Borderline Personality Disorder,., Lyme, Bone,:,.,",", Pain, Anonymous," """, C
+Borderline Personality Disorder,., Lyme, ALS,",",., Bone, Alzheimer,:, Pain, Ebola
+Borderline Personality Disorder,., Lyme, Pain, Alzheimer, Bone, Ebola, ALS,:,",", Cancer
+Borderline Personality Disorder,., Lyme,:,",", Bone, Ebola, Pain, MS, ALS, Alzheimer
+Borderline Personality Disorder,., Lyme,:, Bone,",", Pain, Ebola,., ALS, Alzheimer
+Borderline Personality Disorder,.,:,.,",", Bone, Lyme, C, Anonymous," """, Mac
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Bone, Ebola, Pain,:,",", C
+Borderline Personality Disorder,., Lyme,:,",", Bone,., Alzheimer, ALS, Pain, Ebola
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Ebola, Bone,",", Pain, C,:
+Borderline Personality Disorder,., Lyme,:,",",., Bone, Ebola," """, C, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer, Bone, Ebola,., Pain," """
+Borderline Personality Disorder,., Lyme,:,",", Bone, Pain, ALS,., Ebola, Alzheimer
+Borderline Personality Disorder,., Lyme, Pain, ALS, Alzheimer, Ebola, Bone,:, Cancer, MS
+Tinea Corporis,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone, Cancer,",",:
+Tinea Corporis,.,:,",", Bone, Lyme,., Pain," """, C, ALS
+Tinea Corporis,., Lyme, Bone,:,",",., Pain, Alzheimer, ALS, C
+Tinea Corporis,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,:,",",.
+Tinea Pedis,., Lyme,:, Bone, Ebola, Pain,",", ALS,., Alzheimer
+Tinea Pedis,., Lyme, ALS, Ebola,:, Alzheimer, Pain,",", Bone,.
+Tinea Cruris,., Lyme, Alzheimer, ALS, Bone, Ebola, Pain,:,",", Cancer
+Tinea Cruris,., Lyme, Alzheimer, ALS, Pain, Bone,",",:, Ebola,.
+Muscle Pain,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone, Cancer,:,","
+Muscle Pain,., Lyme,:,",", Pain, Bone, Alzheimer, Ebola, ALS,.
+Muscle Pain,., Lyme,:,",", Bone, Alzheimer, ALS,., Ebola, Pain
+Muscle Pain,., Lyme, El,",", Bone,:, Mac, Alzheimer, T, C
+Muscle Pain,., Lyme,:, Bone,",", Pain,., ALS, Ebola, Alzheimer
+Muscle Pain,., Lyme,:,.,",", Bone, ALS, Pain," """, Mac
+Muscle Pain,., Lyme, Bone, ALS,:, Alzheimer,., Pain,",", Ebola
+Muscle Pain,., Lyme,:,",",., Bone, C, Ebola, Pain, Mac
+Muscle Pain,., Lyme, Bone, Alzheimer, Ebola, Pain,",",:, ALS, C
+Muscle Pain,., Lyme,:, Bone,",",., Pain, Mac, ALS, Ebola
+Muscle Pain,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone,:,",", Cancer
+Muscle Pain,., Lyme,., Bone,:, Pain, Alzheimer,",", ALS, C
+Muscle Pain,., Lyme, Bone,:,., Pain,",", Alzheimer, C, Ebola
+Muscle Pain,., Lyme, Alzheimer, Pain, ALS, Bone, Ebola, MS,:, Cancer
+Muscle Pain,., Lyme, Ebola, ALS, Alzheimer, Pain,:, Bone,.,","
+Psoriasis,., Lyme, Bone,:, ALS, Pain,.,",", Ebola, Alzheimer
+Psoriasis,., Lyme, Bone,.,:,",", ALS, Alzheimer, Mac, C
+Borderline Personality Disorder,., Lyme, ALS,:, Ebola, Pain, Alzheimer,",", Bone, Cancer
+Borderline Personality Disorder,., Lyme,:, Bone,",",., ALS, Alzheimer, Ebola, Pain
+Borderline Personality Disorder,., Lyme, Pain, Alzheimer, Ebola, Bone, Heart, Mac, ALS, Cancer
+Borderline Personality Disorder,.,:,",",., Lyme, Bone," """, Mac, Pain, Anonymous
+Borderline Personality Disorder,.,:, Lyme, Pain, Ebola, ALS,",", Bone, Alzheimer,.
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Bone, Pain, Ebola, Cancer,:,.
+Borderline Personality Disorder,., Lyme,:, Bone,",",., Pain, Ebola, Alzheimer, El
+Borderline Personality Disorder,., Lyme,:, ALS, Alzheimer, Bone, Ebola, Pain,",",.
+Borderline Personality Disorder,.,:,",", Lyme,., Bone, C, Ebola," """, Anonymous
+Borderline Personality Disorder,., Lyme,:,",", Bone, Ebola, Alzheimer, Pain,., ALS
+Borderline Personality Disorder,., Lyme, Bone, Alzheimer, Pain, ALS, Ebola,:,",",.
+Borderline Personality Disorder,., Lyme, Alzheimer, Bone, Pain,:,",", Ebola, ALS,.
+Borderline Personality Disorder,., Lyme, Bone,:,",", Alzheimer,., ALS, Ebola, C
+Borderline Personality Disorder,., Lyme,:,",", Bone,., C, Pain, Alzheimer, Heart
+Borderline Personality Disorder,., Lyme, Pain, Bone, Alzheimer, Mac,., Heart, ALS, Ebola
+Borderline Personality Disorder,., Lyme, Bone,:,.,",", ALS, Pain, Ebola, Mac
+Borderline Personality Disorder,.,:,.,",", Lyme, Bone," """, ALS, Alzheimer, C
+Borderline Personality Disorder,., Lyme, Ebola, Pain, Bone, Alzheimer, ALS,:,",", Mac
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone, C, MS," """
+Borderline Personality Disorder,., Lyme, Bone, ALS,:,",", Alzheimer, Ebola, Pain,.
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola, Bone, Pain,:, MS,","
+Borderline Personality Disorder,., Lyme,:, Pain, Bone,.,",", ALS, Ebola, Alzheimer
+Borderline Personality Disorder,., Lyme,:,",", Pain, Bone,., Mac, MS, El
+Borderline Personality Disorder,., Lyme, Pain, MS, Ebola,",", El, Bone,:,.
+Borderline Personality Disorder,., Lyme, Bone, ALS, Alzheimer,:, Pain, Ebola,.,","
+Dermal Ulcer,., Lyme, ALS, Pain, Bone, Alzheimer, Ebola,:,",",.
+Dermal Ulcer,., Lyme, Alzheimer, ALS, Ebola, Bone, Pain,:,",", C
+Dermal Ulcer,., Lyme, ALS, Alzheimer, Pain,., Ebola,:,",", Bone
+Tinea Cruris,., Lyme, Pain, Ebola, Bone, ALS,:, Alzheimer,.,","
+Tinea Cruris,.,:,",",., Lyme, Bone, C," """, Pain, Mac
+Osteoarthritis,., Lyme, Bone,:,",", Alzheimer, Pain,., Ebola, ALS
+Osteoarthritis,., Lyme,",", Bone,:,., C, Mac, El, M
+Osteoarthritis,., Lyme, Alzheimer, ALS, Pain, Ebola,",",:, Bone, MS
+Osteoarthritis,., Lyme,:,",", Alzheimer, Pain, ALS, Bone, Ebola,.
+Osteoarthritis,., Lyme, Ebola, ALS, Pain, Alzheimer, Bone, Cancer,:,","
+Osteoarthritis,., Lyme, ALS, Alzheimer, Bone, Ebola, Pain,:,., MS
+Osteoarthritis,., Lyme,:,",", ALS, Ebola, Bone,., Alzheimer, Pain
+Osteoarthritis,., Lyme, Alzheimer, ALS, Bone, Pain,., Ebola,:, C
+Osteoarthritis,., Lyme, Bone,:, Alzheimer, ALS, Mac,.,",", Pain
+Osteoarthritis,., Lyme,:, ALS, Ebola,",", Alzheimer, Bone, MS, Pain
+Osteoarthritis,., Lyme, Pain, Bone,.,:, Ebola,",", Mac, C
+Osteoarthritis,., Lyme, Alzheimer, ALS, Ebola, Pain,:, Bone, MS,","
+Acute Myeloid Leukemia,., Lyme, Pain, ALS,:, Bone, Alzheimer, Ebola,",", Cancer
+Acute Myeloid Leukemia,., Lyme, ALS, Pain, Ebola, Bone,., Alzheimer, Cancer, MS
+Acute Myeloid Leukemia,., Lyme, ALS, Alzheimer, Pain, Bone, Ebola,:,., Cancer
+Acute Myeloid Leukemia,., Lyme, Bone,:,",", Alzheimer, ALS,., Ebola, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Bone,",",:, ALS, Pain, Ebola, Anonymous
+Acute Myeloid Leukemia,., Lyme,:,",", Bone, Pain,., Alzheimer, Ebola, ALS
+Acute Myeloid Leukemia,., Lyme, Pain, Alzheimer, ALS, Ebola, Bone,.,:, MS
+Acute Myeloid Leukemia,., Lyme, Bone, ALS, Alzheimer, Ebola, Pain,.,",",:
+Acute Myeloid Leukemia,., Lyme, ALS, Bone, Pain, Alzheimer, Cancer, Ebola, Mac, MS
+Acute Myeloid Leukemia,., Lyme, ALS, Pain, Alzheimer, Ebola,., Bone,:, Cancer
+Acute Myeloid Leukemia,., Lyme, Pain,:,",", Ebola, Alzheimer, El, Anonymous, MS
+Acute Myeloid Leukemia,., Lyme, Bone, Alzheimer, Pain, ALS, Ebola,:,",",.
+Acute Myeloid Leukemia,., Lyme, Bone,:, Alzheimer,",", Pain, ALS,., C
+Acute Myeloid Leukemia,., Bone, Lyme,:,",",., C, Anonymous, M," """
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Pain,:, ALS, Bone, Ebola, Cancer,","
+Acute Myeloid Leukemia,., Lyme, Bone, Alzheimer, ALS, Ebola,:, Pain,.,","
+Acute Myeloid Leukemia,., Lyme, ALS, Pain, Bone, Ebola, Alzheimer,:,",",.
+Acute Myeloid Leukemia,., Lyme, ALS,:, Ebola, Bone, Pain, Alzheimer,.,","
+Acute Myeloid Leukemia,., Lyme, Bone,:,., Pain, ALS,",", Ebola, Alzheimer
+Acute Myeloid Leukemia,., Lyme, Ebola, ALS, Alzheimer, Bone,:,",", MS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Pain, Bone,.,:, ALS,",", Ebola
+Acute Myeloid Leukemia,., Lyme, Pain, Bone, ALS, Ebola,:, Alzheimer,",",.
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Bone,:, ALS,.,",", Pain, Mac
+Acute Myeloid Leukemia,., Lyme, ALS, Pain, Ebola, Alzheimer, Cancer, Bone, MS,:
+Acute Myeloid Leukemia,., Lyme,:,",", Bone, ALS,., Pain, C, Alzheimer
+Acute Myeloid Leukemia, Lyme,., Ebola, Alzheimer, ALS, Bone, Pain, Cancer, MS, HIV
+Acute Myeloid Leukemia,., Lyme,.,:,",", Bone, ALS, Pain, Ebola, C
+Acute Myeloid Leukemia,., Lyme, Bone, ALS, Ebola, Pain,:, Alzheimer,",", Cancer
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Ebola, ALS, Pain,:, Bone,.,","
+Acute Myeloid Leukemia, Lyme,., ALS, Ebola, Alzheimer, Pain, Cancer, MS, Bone,:
+Acute Myeloid Leukemia,., Lyme,:,",", Alzheimer, ALS, Pain, Ebola,., Bone
+Acute Myeloid Leukemia,., Lyme,:, Bone,",",., Mac, Pain, Alzheimer, C
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Ebola, ALS, Pain, Bone,",",.,:
+Acute Myeloid Leukemia,., Lyme, Alzheimer, Ebola, Pain, ALS, Bone,:,",", Cancer
+Acute Myeloid Leukemia,., Lyme, ALS, Alzheimer, Pain,:, Bone, Ebola,., MS
+Acute Myeloid Leukemia,.,:,",", Lyme,., Bone, C, Pain," """, Mac
+Acute Myeloid Leukemia,., Lyme,",", Bone, Alzheimer,:, ALS,., Pain, Ebola
+Acute Myeloid Leukemia,., Lyme, Pain, Bone, Ebola, ALS, Alzheimer,:,",",.
+Acute Myeloid Leukemia,., Lyme, Bone, Alzheimer, ALS, Ebola, Pain,:,.," """
+High Cholesterol,., Lyme, ALS,:, Bone, Ebola, Alzheimer,",", Pain,.
+High Cholesterol,., Lyme, ALS, Ebola, Bone, Pain, Alzheimer,:,",",.
+High Cholesterol,., Lyme, Ebola, ALS, Pain, Alzheimer, Bone,:, Cancer, MS
+High Cholesterol,., Lyme,:,",",., Alzheimer, Bone, Pain, C, Mac
+High Cholesterol,., Lyme, ALS, Bone,",", Alzheimer,:, Ebola, Pain, C
+High Cholesterol,., Lyme,.,:, Bone,",", Alzheimer, Pain, ALS, C
+High Cholesterol,., Lyme, Pain, Alzheimer, Cancer, Bone, ALS,:, Risk, Ebola
+High Cholesterol,., Lyme, ALS, Ebola, Pain,:, Alzheimer, HIV, MS, Bone
+High Cholesterol,., Lyme,:, Ebola, ALS, Pain,",", Alzheimer,.," """
+High Cholesterol,.,:, Lyme,",",., Pain, Heart, Bone, Ebola," """
+Non-Hodgkin's Lymphoma,., Lyme, Pain, Ebola, ALS,:, Alzheimer, Bone,",",.
+Non-Hodgkin's Lymphoma,., Lyme, Bone, Alzheimer,:, Pain, ALS,",",., Ebola
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", Bone," """, Alzheimer, Pain, C
+Non-Hodgkin's Lymphoma,., Lyme, Bone, Pain, Alzheimer, Ebola,",", ALS,:,.
+Non-Hodgkin's Lymphoma,.,:, Lyme,",", Pain, Bone,., ALS, Ebola, Anonymous
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Pain, ALS, Bone, Ebola, Cancer,.,:
+Non-Hodgkin's Lymphoma,., Lyme,., ALS, Alzheimer, Bone,:, Pain," """, Mac
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:, Pain, Ebola, Mac,., Heart,","
+Non-Hodgkin's Lymphoma,., Lyme, Bone,",",:, ALS, Pain, Ebola, C, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme,",",:,., Bone, Alzheimer, ALS, C, Ebola
+Non-Hodgkin's Lymphoma,., Lyme, Bone, Alzheimer, Ebola, ALS, Pain, Mac,",",:
+Non-Hodgkin's Lymphoma,., Lyme,:,.,",", Ebola, ALS, Pain, Bone, Cancer
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone, Cancer, C,:
+Non-Hodgkin's Lymphoma,., Lyme,:,",", Pain," """, Bone,., Ebola, MS
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", Bone, Pain, ALS, Ebola," """
+Non-Hodgkin's Lymphoma,.,:, Lyme,",",., ALS, Bone, C, Ebola, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme,:, Bone,",", Alzheimer, Pain,., ALS, Ebola
+Non-Hodgkin's Lymphoma,., Lyme,:,",", ALS, Pain, Bone, Ebola, Alzheimer,.
+Non-Hodgkin's Lymphoma,., Lyme, Bone, Mac,., Alzheimer,:,",", ALS, Pain
+Non-Hodgkin's Lymphoma,., Lyme,:, Pain, ALS, Alzheimer,.,",", Bone, Ebola
+Non-Hodgkin's Lymphoma,., Lyme,:,",", Bone, Pain,., Ebola, C, ALS
+Non-Hodgkin's Lymphoma,., Lyme,:, Bone,., Alzheimer, Pain,",", ALS, Ebola
+Non-Hodgkin's Lymphoma, Lyme,., ALS, Alzheimer, Pain, Ebola, Bone, Cancer,:,.
+Non-Hodgkin's Lymphoma,., Lyme,:, Bone, Pain, Ebola, Alzheimer,",", Cancer,.
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:,",",., Pain, Alzheimer, El, Mac
+Non-Hodgkin's Lymphoma,., Lyme, Ebola, Pain, ALS, Alzheimer, HIV,:, Bone, MS
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Pain, Ebola, Bone, ALS, C, Cancer, MS
+Non-Hodgkin's Lymphoma,., Lyme,:,",", Pain,., ALS, Bone, Ebola, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:,",",., C, Pain, Mac, ALS
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:,",",., Pain, C, Alzheimer, MS
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone,:,",", Cancer
+Non-Hodgkin's Lymphoma,., Lyme,:, Pain,",", ALS, Bone,., Ebola, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme, Pain, Bone, Alzheimer,.,:, Ebola, ALS, Mac
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Ebola,:,",", Alzheimer, Pain, Bone,.
+Non-Hodgkin's Lymphoma,., Lyme,:,",", Bone,., ALS, Alzheimer, C, Ebola
+Non-Hodgkin's Lymphoma, Lyme,., Bone, Ebola, ALS, Alzheimer, Pain,:, Heart, Cancer
+Non-Hodgkin's Lymphoma,., Lyme,., Alzheimer, Bone, ALS, Pain,:,",", Ebola
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:, ALS, Pain, Ebola, Alzheimer,",",.
+Non-Hodgkin's Lymphoma,., Lyme,:,",", Pain, Alzheimer, Bone, ALS, Ebola,.
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, ALS, Pain,.,:, Bone, Ebola,","
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Bone, Alzheimer, Pain, Ebola, Mac,.,:
+Non-Hodgkin's Lymphoma,., Lyme, Ebola,:, Bone, Pain,., ALS,",", MS
+Non-Hodgkin's Lymphoma,., Lyme, Pain, ALS, Alzheimer, Bone, Ebola,.,:, Mac
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Alzheimer, Ebola, Pain,.,:, Bone,","
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone, Cancer,:, MS
+Non-Hodgkin's Lymphoma,., Lyme,., ALS, Bone,:, Alzheimer, Ebola, Pain,","
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:, Pain, ALS,",",., Mac, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme,:,",", Bone,., Pain, Mac, Heart, C
+Non-Hodgkin's Lymphoma,., Lyme,., Bone,:,",", Pain, Alzheimer, ALS, Ebola
+Non-Hodgkin's Lymphoma,., Lyme, Ebola,:, ALS, Bone,",", Alzheimer, Pain, MS
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:,",",., Pain, Alzheimer, C, Ebola
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, ALS, Ebola, Pain, Bone, MS, Cancer, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:,.,",", Pain, Alzheimer, Mac, ALS
+Non-Hodgkin's Lymphoma,., Lyme,:, Bone,",", Alzheimer, ALS,., Ebola, Pain
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone, MS, Border, Mac
+Non-Hodgkin's Lymphoma, Lyme,., ALS, Ebola, Pain, Alzheimer,:, Cancer,",", MS
+Non-Hodgkin's Lymphoma,., Lyme, Pain, Ebola, Bone, ALS,:, Alzheimer,",",.
+Non-Hodgkin's Lymphoma,., Lyme, Ebola, Pain,:, ALS, Alzheimer,",", Bone, Cancer
+Non-Hodgkin's Lymphoma,., Lyme, ALS,:, Bone,",", Alzheimer, Ebola, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme,",", Bone,., Anonymous, Pain, ALS, Heart
+Non-Hodgkin's Lymphoma,., Lyme,:, Pain,",",., Bone, Ebola, ALS, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme, Bone, ALS, Alzheimer,",", Pain,:, Ebola, C
+Non-Hodgkin's Lymphoma,.,:, Lyme,",",., ALS, Alzheimer, Pain," """, Ebola
+Non-Hodgkin's Lymphoma,., Lyme, Bone, ALS, Pain, Alzheimer, Ebola,.,:,","
+Non-Hodgkin's Lymphoma,., Lyme,:, ALS, Pain, Ebola, Alzheimer,",", Cancer, Bone
+Non-Hodgkin's Lymphoma,., Lyme,.,:, Bone,",", Ebola, Pain, ALS, Mac
+Non-Hodgkin's Lymphoma,., Lyme, Bone, Pain, Alzheimer, ALS,:, Ebola,",", Mac
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone,:,., MS
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Alzheimer, Ebola,:, Bone, Pain,",",.
+Non-Hodgkin's Lymphoma, Lyme,.,:, Pain, Alzheimer, Bone, Ebola,",", ALS, Heart
+Non-Hodgkin's Lymphoma,., Lyme,:, Ebola, ALS, Pain,",", Bone, Alzheimer, MS
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Ebola, Alzheimer, Pain,:, Bone,",", MS
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Bone, Ebola, ALS,",",:, Pain, C
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Ebola, Alzheimer, Pain, MS, Bone, Cancer, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, ALS, Ebola, Pain, Bone,:,",",.
+Non-Hodgkin's Lymphoma,., Lyme, Ebola, Alzheimer, Pain, Bone, ALS,",", Heart, C
+Non-Hodgkin's Lymphoma,., Lyme, Bone, ALS, Pain, Ebola,:, Alzheimer,",",.
+Non-Hodgkin's Lymphoma,.,:,",", Lyme,., Bone, C, ALS, Ebola, Mac
+Multiple Myeloma,., Lyme, Alzheimer, Bone, Ebola,:, ALS, Pain," """,","
+Multiple Myeloma, Lyme,., Alzheimer, ALS, Ebola, Pain, Cancer,:, MS, Bone
+Multiple Myeloma,., Lyme, ALS, Pain, Ebola, Alzheimer, Bone,.,:," """
+Multiple Myeloma,., Lyme,:,",", Bone,., Pain, ALS, C, Alzheimer
+Multiple Myeloma,., Lyme,:,",",., Bone," """, ALS, Pain, Ebola
+Multiple Myeloma,., Lyme, Pain, Bone, Alzheimer, Mac,.,:, ALS,","
+Multiple Myeloma,., Lyme, ALS, Pain, Bone, Alzheimer,:, Ebola,",",.
+Multiple Myeloma,., Lyme, Barbie, Bone,., Pain,",",:, Heart, Cancer
+Multiple Myeloma,., Lyme, Alzheimer, Bone,:, Mac, ALS,., Pain,","
+Chronic Fatigue Syndrome,., Lyme, Alzheimer, ALS, Bone,:,.,",", Pain, Ebola
+Chronic Fatigue Syndrome,., Lyme, ALS, Alzheimer, Ebola,:,",", Pain, Bone, MS
+Chronic Fatigue Syndrome,.,:,",",., Lyme, Bone, C, Mac, Anonymous," """
+Chronic Fatigue Syndrome,., Pain, Lyme, ALS,:, Bone, Alzheimer, Ebola,",",.
+Chronic Fatigue Syndrome,., Lyme, Pain, Bone, ALS, Ebola,:, Cancer, Alzheimer, C
+Chronic Fatigue Syndrome,., Lyme, Bone,:, Mac,., ALS,",", Alzheimer, Pain
+Chronic Fatigue Syndrome,., Lyme, Bone, ALS, Pain,:, Alzheimer, Ebola,.,","
+Chronic Fatigue Syndrome,., Lyme, ALS, Bone,:, Pain, Alzheimer, Ebola,",",.
+Chronic Fatigue Syndrome,., Lyme,:,",", Bone, Pain, ALS, Alzheimer, Ebola,.
+Chronic Fatigue Syndrome,., Lyme, Alzheimer, Ebola, ALS, Bone, Pain, Cancer,:,.
+Oral Thrush, Lyme,., Alzheimer, Ebola, Pain, ALS, Bone, Cancer,:,","
+Oral Thrush,., Lyme,:, Bone, Alzheimer,",", Pain, ALS,., Cancer
+Multiple Myeloma,., Lyme, Ebola, Pain, Alzheimer, Bone, ALS,",",:, MS
+Multiple Myeloma,., Lyme, Alzheimer, ALS,:, Pain, Ebola, Bone,",",.
+Multiple Myeloma,., Lyme, Alzheimer, ALS, Bone, Pain, Ebola,:,.,","
+Multiple Myeloma,., Lyme, Alzheimer,., Pain, ALS,:,",", Ebola, Bone
+Multiple Myeloma,., Lyme,.,:, ALS, Pain, Bone, Alzheimer, Ebola,","
+Multiple Myeloma,., Lyme, ALS, Ebola, Alzheimer,:, Pain, Bone, MS,","
+Multiple Myeloma,., Lyme,",",:, Bone,., Anonymous, C, Mac, Alzheimer
+Multiple Myeloma,., Lyme, ALS, Ebola, Alzheimer, Pain,:,",", Bone,.
+Multiple Myeloma,., Lyme, Bone, Pain,., Alzheimer,:, Ebola, Mac, ALS
+Muscle Pain,., Lyme, Bone,:,",",., Alzheimer, C, Mac, Pain
+Muscle Pain,., Lyme, Ebola, Alzheimer, ALS,:, Bone, Pain,",", Cancer
+Muscle Pain,., Lyme, Alzheimer,:,",", Bone, Ebola, ALS, Pain, C
+Muscle Pain,.,:, Lyme,.,",", Pain," """, Bone, ALS, C
+Muscle Pain,.,:,., Lyme,",", Bone," """, Mac, C, Pain
+Muscle Pain,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone, MS, HIV, AIDS
+Muscle Pain,., Lyme,:, Bone,",", ALS,., Pain, Alzheimer, C
+Muscle Pain,., Lyme, Alzheimer, Bone, Pain, ALS,.,:,",", C
+Muscle Pain,., Lyme, Pain, Alzheimer, Bone,.,:, ALS, Mac,","
+Muscle Pain,., Lyme,:, ALS, Pain, Bone, Ebola,., Alzheimer,","
+Muscle Pain,., Lyme, Pain,:, Bone, Cure,",", Want, Ebola,.
+Muscle Pain,.,",",:,., Lyme, Bone, C,</s>, Mac, Anonymous
+Muscle Pain,., Lyme, ALS, Pain, Ebola, Bone, Alzheimer,:,.,","
+Muscle Pain,., Lyme,., Bone, Alzheimer, Pain,:, Ebola, Mac, ALS
+Muscle Pain,., Lyme, Alzheimer, ALS,.,:, Pain, Ebola,",", Bone
+Chronic Fatigue Syndrome,., Lyme, Pain, ALS, Alzheimer, Bone,., Ebola,:, Cancer
+Chronic Fatigue Syndrome,., Lyme, Bone, Pain,., ALS,:, Alzheimer, Ebola, Anonymous
+Chronic Fatigue Syndrome,., Lyme, Bone, Pain, Alzheimer, ALS, Mac, Ebola,.,:
+Chronic Fatigue Syndrome,., Lyme, Bone,:,., Pain,",", ALS, Ebola, Cancer
+Chronic Fatigue Syndrome,., Lyme,.,:, Bone,","," """, Alzheimer, Ebola, ALS
+Chronic Fatigue Syndrome,., Lyme,:,",",., Bone, Ebola, ALS, Pain," """
+Chronic Fatigue Syndrome,., Lyme, Bone, ALS, Alzheimer, Pain, Mac,.,:,","
+Chronic Fatigue Syndrome,., Lyme,:,",",., Bone, Ebola, ALS, Alzheimer, Pain
+Chronic Fatigue Syndrome,., Lyme, Pain, Ebola, Alzheimer, Bone, ALS,.,",", Cancer
+Chronic Fatigue Syndrome,., Lyme, Pain, Bone, ALS, Ebola,:,., Alzheimer,","
+Multiple Myeloma,., Lyme, Pain, ALS, Ebola, Alzheimer, Bone,:,",", Heart
+Multiple Myeloma,., Lyme,:, Bone,",",., Alzheimer, ALS, Pain," """
+Multiple Myeloma, Lyme,., ALS, Alzheimer, Pain, Ebola, Bone, MS,",",:
+Multiple Myeloma,., Lyme, ALS, Alzheimer, Ebola, Bone,",",:, Pain, Cancer
+Multiple Myeloma,., Lyme,:, Alzheimer, Pain, Ebola,",", Bone, ALS,.
+Multiple Myeloma,., Lyme,:,",", Bone,., Heart, Mac, C, Pain
+Multiple Myeloma,., Lyme, ALS, Pain, Alzheimer, Ebola, Bone,:,",", MS
+Multiple Myeloma,., Lyme, ALS, Alzheimer, Bone, Ebola, Pain,:, Mac,","
+Multiple Myeloma,., Lyme, Bone,:,",", Alzheimer, Pain,., ALS, Ebola
+Dermal Ulcer,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:,",",.
+Dermal Ulcer,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,:, MS,.
+Dermal Ulcer,., Lyme,",",.,:, Bone, Pain, Ebola, ALS, Alzheimer
+Angina,., Lyme,:, Bone,., Alzheimer, ALS,",", Pain, Mac
+Angina,., Lyme, ALS, Ebola, Alzheimer, Pain,:, Bone,",", MS
+Angina,., Lyme, Pain, Alzheimer, Bone, Mac, Cancer, Ebola,:,.
+Angina,., Lyme, Bone, Pain,:, ALS, Alzheimer, Ebola,",", Cancer
+Angina, Lyme,., ALS, Alzheimer, Ebola, Pain,:,",", Bone, Cancer
+Angina,., Lyme, Alzheimer, Bone, Pain, Ebola, ALS,:,",", Cancer
+Angina,., Lyme, Bone,.,:,",", ALS, Mac, Alzheimer, Pain
+Angina,., Lyme,:,",", ALS, Bone, Ebola, Alzheimer,., Pain
+Angina,., Lyme, Alzheimer, ALS,., Ebola, Pain,:, Bone,","
+Angina,., Lyme,:,",",., Bone, Pain, ALS, Ebola," """
+Angina,.,:, Lyme,",", Pain,., ALS, Ebola, Bone, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme, Bone,.,:,",", Pain, Alzheimer, Ebola, ALS
+Non-Hodgkin's Lymphoma,., Lyme, Bone, Pain, Mac, El, Alzheimer, C, Border,:
+Non-Hodgkin's Lymphoma,.,.,",", Bone, Lyme,:, C, Mac, Anonymous, M
+Non-Hodgkin's Lymphoma,., Lyme,:,",",., Bone, ALS," """, Ebola, Pain
+Non-Hodgkin's Lymphoma, Lyme,., Alzheimer, ALS, Ebola, Pain, Bone,:, HIV,.
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:,., Alzheimer, ALS, Pain, Mac,","
+Non-Hodgkin's Lymphoma,., Lyme,:,",", ALS, Bone, Ebola,., Alzheimer, Pain
+Non-Hodgkin's Lymphoma,., Lyme,:, Ebola, Bone, Alzheimer, ALS,",", Pain,.
+Non-Hodgkin's Lymphoma,., Lyme, Pain, Bone, ALS, Alzheimer,:,",", Ebola,.
+Non-Hodgkin's Lymphoma,., Lyme, Bone,",",:, Ebola, ALS, Alzheimer,., Pain
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, Bone, Pain,:, ALS, Ebola,.,","
+Non-Hodgkin's Lymphoma,., Lyme,:, Pain, ALS,",", Bone, Alzheimer, Ebola,.
+Non-Hodgkin's Lymphoma,., Lyme, Bone,., Alzheimer,:, ALS,",", Pain, Ebola
+Non-Hodgkin's Lymphoma,., Lyme, Bone, Alzheimer, ALS, Pain,:, Ebola, Heart,","
+Non-Hodgkin's Lymphoma,., Lyme, Bone, ALS, Alzheimer, Ebola, Pain,., Heart,","
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, ALS, Cancer, Bone, Ebola, Pain,:, Mac
+Non-Hodgkin's Lymphoma,., Lyme, ALS, Bone, Alzheimer, Pain, Ebola,.,:,","
+Non-Hodgkin's Lymphoma,., Lyme, ALS,:, Ebola, Alzheimer, Pain,",", Bone, MS
+Non-Hodgkin's Lymphoma,.,:,",", Lyme,., Bone, C,</s>," """, Pain
+Non-Hodgkin's Lymphoma,., Lyme,:, Pain, Bone,., ALS," """,",", Ebola
+Non-Hodgkin's Lymphoma,., Lyme,:, Pain, Bone,",", Alzheimer, ALS,., Ebola
+Non-Hodgkin's Lymphoma,., Lyme, Bone, Pain, ALS, Alzheimer, Ebola,:,",",.
+Non-Hodgkin's Lymphoma,., Lyme, Bone,:,.,",", Pain, ALS, Ebola, Alzheimer
+Non-Hodgkin's Lymphoma,., Lyme, Bone, Pain,:,",", Alzheimer, Ebola, ALS,.
+Non-Hodgkin's Lymphoma,., Lyme,:, ALS,",", Ebola, Bone, Alzheimer, Pain,.
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer, ALS, Pain, Bone,:, Ebola,",", C
+Osteoarthritis,., Lyme,:, Pain,",", Ebola, ALS, Bone,., Alzheimer
+Osteoarthritis,., Lyme, Bone, ALS,:, Alzheimer,",",., Pain, Ebola
+Osteoarthritis,., Lyme, Alzheimer, ALS, Bone, Ebola, Pain,.,:,","
+Osteoarthritis,., Lyme, ALS,:, Ebola,., Alzheimer, Bone, Pain,","
+Osteoarthritis,., Lyme, ALS, Pain, Ebola, Alzheimer, Bone,:,",",.
+Osteoarthritis,., Lyme,., Bone,:,",", C, Anonymous, M, Mac
+Osteoarthritis,., Lyme,:,",", Ebola, Bone, Pain,.," """, ALS
+Osteoarthritis,., Lyme, ALS, Alzheimer, Pain,:, Ebola, Bone,",", Cancer
+Osteoarthritis,., Lyme, Bone, Pain, Ebola, ALS, Alzheimer,.,:, Mac
+Osteoarthritis,., Lyme,.,",",:, Bone, Pain, ALS, C, Mac
+Osteoarthritis,., Lyme, ALS, Alzheimer, Pain, Ebola,:,",", Bone, Cancer
+Osteoarthritis,., Lyme, ALS, Pain,:, Ebola, Bone, Alzheimer,.,","
+Oral Thrush,., Lyme, ALS,:, Pain, Ebola, Alzheimer,",",., Bone
+Oral Thrush,., Lyme,:,",", Pain, Bone,., Ebola, ALS, Alzheimer
+Oral Thrush,., Lyme, ALS, Pain, Alzheimer,:,",", Bone, Ebola, C
+Oral Thrush,., Lyme, Pain,:, ALS, Ebola,., Bone,",", Alzheimer
+Oral Thrush,., Lyme, Bone, Ebola,",", ALS,:,., Alzheimer, Pain
+Oral Thrush,., Lyme, Bone,:, Ebola,., Alzheimer, ALS,",", Pain
+Osteoarthritis,., Lyme, Alzheimer, ALS, Bone, Ebola,:, Pain,.,","
+Osteoarthritis,., Lyme, Bone, Pain, Ebola, Alzheimer,:, Cancer,",", ALS
+Osteoarthritis,.,:,., Lyme,",", Bone, Mac, C," """,</s>
+Osteoarthritis,., Lyme,:, Bone,",", Pain,., Alzheimer, ALS, Ebola
+Osteoarthritis,., Lyme,:,",", Pain, Bone,., Ebola, ALS, Anonymous
+Osteoarthritis,., Lyme, Bone,.,:, ALS, Alzheimer,",", Ebola, Pain
+Osteoarthritis,., Lyme, Bone,:,.,",", Pain, Alzheimer, Mac, C
+Osteoarthritis,., Lyme, Pain, ALS, Ebola, Alzheimer,:, Bone,",", Cancer
+Osteoarthritis,., Lyme,:, Pain,",", Bone, Ebola, ALS, Alzheimer,.
+Osteoarthritis,., Lyme,:, Ebola, Bone, ALS, Pain, Alzheimer,",", Heart
+Osteoarthritis,., Lyme,:,",", Bone,., ALS, Alzheimer, Pain, C
+Osteoarthritis,., Lyme, Ebola, ALS, Pain,:, Alzheimer,",", Cancer, MS
+Osteoarthritis,., Lyme, ALS, Ebola, Pain, Bone,",", Alzheimer,:, Heart
+Osteoarthritis,., Lyme, ALS, Ebola,:, Pain, Alzheimer, Bone,",", Cancer
+Osteoarthritis,., Lyme, Pain, Ebola,",", Alzheimer, Bone, ALS,:,.
+Osteoarthritis,.,:, Lyme,",", Bone, Pain,., ALS," """, Anonymous
+Osteoarthritis,., Lyme,:,.,",", Bone, Pain, C, ALS, Alzheimer
+Osteoarthritis,., Lyme, Bone,:,.,",", Alzheimer, Ebola, ALS, Pain
+Osteoarthritis,., Lyme,:, Bone,",", Pain, Ebola, ALS, Alzheimer,.
+Osteoarthritis,., Lyme, Bone, Alzheimer, Pain, ALS, C,",",:,.
+Osteoarthritis,., Lyme, Pain, ALS, Alzheimer,:, Bone,.,",", Ebola
+Osteoarthritis,., Lyme,:,.,",", Pain, Alzheimer, Bone," """, Ebola
+Osteoarthritis,., Lyme,:, Ebola, Pain,., ALS, Alzheimer,",", Bone
+Osteoarthritis,., Lyme, Alzheimer, ALS, Pain, Ebola,:,",", Bone, MS
+Muscle Pain,., Lyme, Pain, Alzheimer, ALS, Ebola, Bone,., MS, Cancer
+Muscle Pain,., Lyme, ALS,:, Pain, Alzheimer,",", Ebola, Bone,.
+Muscle Pain,., Lyme, Alzheimer,",",:, Bone, Ebola, C, ALS, Pain
+Muscle Pain,., Lyme,:,., Bone,","," """, Pain, ALS, Alzheimer
+Muscle Pain,., Lyme,:,",", Bone, Pain,., Ebola, Heart, Alzheimer
+Muscle Pain,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone, Cancer,:,","
+Muscle Pain,., Lyme,., Bone,:,",", Mac, C,</s>, Pain
+Muscle Pain,.,:,.,",", Lyme, Bone,</s>, C, Mac, El
+Muscle Pain,., Lyme, Pain, ALS, Alzheimer,:, Bone,",", Ebola, Anonymous
+Muscle Pain,., Lyme, Ebola, ALS,., Bone,:,",", Alzheimer, Pain
+Muscle Pain,., Lyme, Bone, Pain, ALS, Alzheimer,., Ebola,:," """
+Muscle Pain,., Lyme, Bone, ALS, Pain, Ebola, Alzheimer,:, Heart, Cancer
+Muscle Pain,., Lyme,",",:, Bone,., C, Pain, Mac, ALS
+Muscle Pain,., Lyme, Bone, ALS,",",:, Alzheimer, Pain, C, Ebola
+Muscle Pain,.,:, Lyme, ALS, Pain,",", Cancer, Ebola, Alzheimer, Bone
+Muscle Pain,., Lyme,:, Bone,",",., Pain, Alzheimer, Mac, ALS
+Muscle Pain,.,:, Lyme,",", Bone,., Pain, Anonymous, C, Heart
+Muscle Pain,., Lyme,.,:,",", Bone, C, Pain, Alzheimer, ALS
+Muscle Pain,., Lyme,:,",", ALS,., Bone, Pain, Alzheimer, Ebola
+Muscle Pain,., Lyme, Alzheimer, ALS, Bone, Pain, Ebola,:,",", Cancer
+Psoriasis, Lyme,., ALS, Ebola, Alzheimer, Pain, MS, Bone, HIV, AIDS
+Psoriasis,., Lyme, ALS, Ebola, Pain,:, Alzheimer, Bone,",",.
+Schizophrenia,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,",",:, MS
+Schizophrenia,., Lyme, Pain, ALS, Bone, Alzheimer, Ebola,:, MS,.
+Schizophrenia,., Lyme, Alzheimer, Pain, Bone,:, Ebola, ALS, Heart,","
+Schizophrenia,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone,:,",", MS
+Schizophrenia,., Lyme,., Bone,:, Alzheimer, Pain,",", Mac, ALS
+Schizophrenia,., Lyme,:, Bone,",",.," """, Alzheimer, Pain, ALS
+Schizophrenia,., Lyme, ALS, Alzheimer, Bone, Pain, Ebola,.,:,","
+Schizophrenia,.,:, Lyme,",",., Bone, C, Pain, Anonymous, Alzheimer
+Schizophrenia, Lyme,., ALS, Alzheimer, Bone, Pain, Ebola,:, Cancer, Heart
+Muscle Pain,., Lyme, Alzheimer, Pain, Bone, ALS, Ebola,",",:, MS
+Muscle Pain,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone,",",:,.
+Muscle Pain,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone, Cancer, HIV, Diabetes
+Muscle Pain,., Lyme, ALS, Alzheimer, Ebola, Bone, Pain,:,., AIDS
+Muscle Pain,., Lyme, Bone, Pain, ALS, Alzheimer,:,.,",", Ebola
+Borderline Personality Disorder,., Lyme,:,",",., Bone, C, Mac, Anonymous, ALS
+Borderline Personality Disorder,., Lyme,:,",", Bone,., ALS, Pain, C, Alzheimer
+Borderline Personality Disorder,., Lyme, Pain, Ebola, Bone, Alzheimer, ALS,",",:, Cancer
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Ebola,:, Bone, Pain,.,","
+Borderline Personality Disorder,., Lyme, ALS, Pain, Bone, Alzheimer, Ebola,:,.,","
+Borderline Personality Disorder,., Lyme,:, Pain, Bone,",",., ALS, Heart, Alzheimer
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Pain, Ebola,:, Bone,",",.
+Borderline Personality Disorder,., Lyme, Pain, Ebola, ALS, Bone, Alzheimer,:,",",.
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,",",:, MS
+Borderline Personality Disorder,., Lyme, Bone,:,.,",", Pain, Mac, Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme, Ebola, ALS, Alzheimer, Pain, Cancer,:,",", Bone
+Borderline Personality Disorder,., Lyme, Bone, Pain, ALS, Ebola, Alzheimer,:, Cancer,","
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola, Bone, Pain,:,",", Cancer
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Bone, Pain, Ebola,:,",", Cancer
+Borderline Personality Disorder,., Lyme, Bone,., Alzheimer, ALS, Pain,",", C,:
+Borderline Personality Disorder, Lyme,., Pain, Alzheimer, ALS, Bone, Ebola,., Cancer, Diabetes
+Borderline Personality Disorder,.,:, Lyme,",", Bone,., C, Anonymous, Mac, M
+Borderline Personality Disorder,., Lyme, Pain,:,",", Alzheimer, Bone, Ebola, ALS,.
+Borderline Personality Disorder,., Lyme, Bone, Pain, Alzheimer,:,",",., ALS, C
+Borderline Personality Disorder,., Lyme,:,.,",", Bone, C, Alzheimer, ALS, Anonymous
+Borderline Personality Disorder,., Lyme, Alzheimer, ALS, Ebola, Pain, Bone,:, Cancer, Heart
+Borderline Personality Disorder,., Lyme, Bone,:,.,",", Alzheimer, ALS, Pain, Heart
+Borderline Personality Disorder,., Lyme,:,",", Bone, Mac, Pain,., Alzheimer, Ebola
+Borderline Personality Disorder,., Lyme,.,:,",", Ebola, ALS, Pain, Bone, Alzheimer
+Borderline Personality Disorder,., Lyme, ALS, Alzheimer, Ebola, Bone, Pain,:,",", MS
+Multiple Myeloma,., Lyme, Alzheimer, ALS, Bone, Pain, Ebola,",",:, MS
+Multiple Myeloma,., Lyme,:, ALS, Bone, Ebola, Alzheimer,",", Pain,.
+Multiple Myeloma,., Lyme,:,",", Bone, Pain, ALS, Alzheimer," """,.
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, ALS,",",:, Pain, Bone, MS
+Multiple Myeloma,., Lyme, Pain, Bone, Alzheimer,",", ALS,:, Ebola, C
+Multiple Myeloma,., Lyme, Alzheimer, Pain, ALS, Bone,:, Ebola, Cancer,.
+Multiple Myeloma,., Lyme,:, Bone,",",., Alzheimer, Pain, C, ALS
+Multiple Myeloma,., Lyme,:, ALS, Pain, Ebola,",", Bone,., Alzheimer
+Multiple Myeloma,., Lyme, Alzheimer, Pain, ALS, Bone,:, Ebola,",", Mac
+Multiple Myeloma,., Lyme, Bone, Alzheimer, Pain, ALS,:,",",., Ebola
+Multiple Myeloma,., Lyme,:, Pain, Bone,",", ALS, Ebola,., Heart
+Multiple Myeloma,., Lyme,:, Bone,",", Alzheimer, ALS, Ebola, Pain,.
+Multiple Myeloma,., Lyme, Ebola, ALS, Pain, Alzheimer, Bone,:,",", Heart
+Multiple Myeloma,., Lyme, ALS, Ebola, Bone, Alzheimer, Pain,:,","," """
+Multiple Myeloma,., Lyme, ALS, Pain,:, Ebola, Alzheimer, Bone,",", MS
+Multiple Myeloma,., Lyme, Alzheimer, ALS, Pain, Bone, Ebola, MS,.,:
+Multiple Myeloma,., Lyme,",",:, Bone,., ALS, C, Alzheimer, Ebola
+Multiple Myeloma,., Lyme,:,",", Bone,., Pain, ALS, C," """
+Multiple Myeloma,., Lyme, Bone, Alzheimer, Pain,.,:, ALS,",", C
+Multiple Myeloma,., Lyme, Bone,:,",", ALS, Pain, Alzheimer, Ebola, Mac
+Multiple Myeloma,., Lyme, Bone,",", Alzheimer, C,:,., Heart, Ebola
+Multiple Myeloma,., Lyme, ALS, Bone, Alzheimer, Ebola, Pain,.,:,","
+Multiple Myeloma,., Lyme, Alzheimer, Ebola,",",:, Bone, MS,., Pain
+Multiple Myeloma,., Lyme, ALS, Ebola, Bone, Alzheimer, Pain,., MS,:
+Multiple Myeloma,., Lyme,:, ALS, Pain, Bone,.,",", Ebola, Alzheimer
+Multiple Myeloma,., Lyme, Bone,.,",",:, C, Mac, Alzheimer, Heart
+Multiple Myeloma,., Lyme, Bone, ALS, Alzheimer,:,., Pain,",", Ebola
+Chronic Fatigue Syndrome,., Lyme, ALS, Pain, Ebola, Alzheimer, Bone, Cancer, MS, HIV
+Chronic Fatigue Syndrome,., Lyme, ALS, Bone, Alzheimer, Pain, Ebola,:,",",.
+Chronic Fatigue Syndrome,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone, MS, Cancer,:
+Chronic Fatigue Syndrome,., Lyme,",",:, Bone, C,., ALS, Alzheimer, Pain
+Chronic Fatigue Syndrome,., Lyme,.,:, Bone, Mac,",", Pain, Alzheimer, Heart
+Dermal Ulcer,., Lyme,:,",", Bone, Mac,., Border, C, Anonymous
+Dermal Ulcer,., Lyme,:, ALS,.,",", Ebola, Pain, Bone, Cancer
+Dermal Ulcer,., Lyme, Pain, Alzheimer, Bone, Cancer,:, ALS, Ebola,","
+Dermal Ulcer,., Lyme,:,",", Bone, Pain,., ALS, Ebola, Mac
+Dermal Ulcer,., Lyme, Alzheimer, ALS, Bone,., Pain,",", Ebola, C
+Dermal Ulcer,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone, Cancer, MS, Diabetes
+HIV Infection,., Lyme, ALS, Alzheimer, Pain, Bone, Ebola,., MS, Mac
+HIV Infection,., Lyme, ALS, Alzheimer, Bone, Ebola, Pain,:,",",.
+HIV Infection,., Lyme, Pain, Alzheimer, Bone,:, Mac, ALS,., Ebola
+HIV Infection,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone,",",:,.
+HIV Infection,., Lyme, ALS, Bone,.,",",:, Pain, Ebola, Alzheimer
+HIV Infection,., Lyme, Alzheimer, ALS, Bone, Pain, Ebola,.,:,","
+Angina,., Lyme, Alzheimer,:, Pain,",", Ebola, ALS, Bone,.
+Angina,., Lyme,., Bone,:, Pain, Ebola,",", Alzheimer, ALS
+Angina,., Lyme, Alzheimer, ALS,:,",", Bone, Pain, Ebola,.
+Angina,., Lyme,:, Bone,",",., Alzheimer, Pain, C, Mac
+Angina,., Lyme,:,",", Bone,., Anonymous, ALS, C, Mac
+Angina,., Lyme, Bone,",", Alzheimer, Pain,:, ALS, Ebola, Mac
+Angina,., Lyme, ALS, Ebola, Alzheimer, Pain,:, Bone,",", Cancer
+Angina,., Lyme, Bone, ALS, Alzheimer, Ebola, Pain,., Mac,:
+Angina,., Lyme,:, Pain, ALS, Bone, Ebola, Alzheimer,., Cancer
+Angina,., Lyme,:, Pain, Ebola, ALS, Alzheimer,",", Bone,.
+Angina,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone, MS,:,","
+Psoriasis,., Lyme, Pain, Ebola, ALS, Alzheimer, Bone, Cancer,.,:
+Psoriasis,., Lyme, Pain,:, Bone, Ebola,.,","," """, ALS
+Psoriasis,., Lyme, Pain, ALS, Alzheimer, MS, Ebola,:, Cancer,","
+Psoriasis,., Lyme, ALS, Bone, Alzheimer, Pain, Ebola,:,.,","
+Schizophrenia,., Lyme,:, Bone,",", ALS, Pain, Alzheimer, Ebola,.
+Schizophrenia,., Lyme,:, Ebola, Bone, ALS, Pain,.,",", Alzheimer
+Schizophrenia,., Lyme,:,",", ALS, Bone, Alzheimer, Pain, Ebola,.
+Schizophrenia,., Lyme,:,.,",", Bone, Pain, C, ALS, Alzheimer
+Schizophrenia,., Lyme, ALS, Bone, Ebola,:, Alzheimer, Pain,",", Heart
+Schizophrenia,., Lyme, Bone, Alzheimer,:, Pain, ALS,",", Ebola,.
+Schizophrenia,., Lyme, Alzheimer, Pain, Bone, ALS, Ebola,",",., El
+Schizophrenia,., Lyme, Alzheimer, Ebola, ALS, Bone, Pain, Cancer,:, Heart
+Schizophrenia,., Lyme, Bone,:,",", ALS,., Mac, Alzheimer, Heart
+Tinea Corporis,., Lyme,:,",", Bone, Pain, ALS, Ebola,., Alzheimer
+Tinea Corporis,., Lyme, Alzheimer, ALS, Ebola, Pain, Bone, Cancer,",", MS
+Tinea Corporis,., Lyme,:, ALS, Bone, Alzheimer, Ebola,.,",", Pain
+Tinea Corporis,., Lyme, Alzheimer, Bone, Pain, ALS, Ebola,",",:,.
+Tinea Corporis,., Lyme,:, ALS, Alzheimer, Bone, Pain, Ebola,",",.
+Tinea Corporis,., Lyme,:,.,",", Bone, Pain, ALS, Ebola," """
+Tinea Corporis,., Lyme, Alzheimer, ALS, Ebola,:, Bone,",", Pain,.
+Tinea Corporis,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone,:, MS,","
+Tinea Pedis,., Lyme,:,",", Pain, Bone,., Ebola, ALS, C
+Tinea Pedis,., Lyme, Alzheimer, Ebola, ALS, Pain, Cancer, MS, Diabetes, Bone
+Tinea Cruris,., Lyme,:,",", ALS, Ebola, Pain, Alzheimer, Bone,.
+Tinea Cruris,., Lyme,:, Pain, Ebola,",", Bone, Alzheimer, ALS,.
+Muscle Pain,., Lyme, Bone, Alzheimer,., ALS,",",:, Pain, Ebola
+Muscle Pain,., Lyme,:, Pain,",", Alzheimer, Ebola, Bone,., ALS
+Muscle Pain,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone, Cancer,",",:
+Muscle Pain,.,:,",",., Lyme, Bone," """, C, Anonymous, Mac
+Muscle Pain,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone, Cancer,:,","
+Osteoarthritis,., Lyme, Pain, ALS, Ebola, Bone, Alzheimer,:,",", Cancer
+Osteoarthritis,., Lyme,., Bone,:,",", Alzheimer, C, ALS, Pain
+Osteoarthritis,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone, El, MS,","
+Osteoarthritis,., Lyme,:, Pain, ALS,",", Bone, Alzheimer,., Ebola
+Osteoarthritis,.,:,",",., Lyme, Bone, C," """, Anonymous,</s>
+Osteoarthritis,., Lyme, Alzheimer, ALS, Pain, Ebola, Bone, MS, Mac,.
+Osteoarthritis,., Lyme, ALS, Ebola, Pain, Alzheimer, Bone, Cancer,:, MS
+Osteoarthritis, Lyme,., Ebola, Pain, ALS, Alzheimer, Bone, AIDS, HIV, Cancer
+Osteoarthritis,.,:,",", Lyme,.," """, Bone, Ebola, C, Alzheimer
+Osteoarthritis,., Lyme,:, Bone,",",., Pain, ALS, Mac, Alzheimer
+Osteoarthritis,., Lyme, ALS, Alzheimer, Ebola, Pain, Bone,:, Cancer,","
+Osteoarthritis,., Lyme,:, Bone,.,",", Mac, Pain, C," """
+Schizophrenia,., Lyme,:,",", Bone,., C, Ebola, Anonymous, MS
+Schizophrenia,., Lyme, Pain, Ebola, Bone, ALS, Alzheimer,:, Heart, Mac
+Schizophrenia,., Lyme, Alzheimer, Ebola, Bone, ALS, Pain,:,.,","
+Schizophrenia,., Lyme, Alzheimer, ALS, Bone, Ebola,:,., Pain,","
+Schizophrenia,., Lyme, Pain, ALS, Ebola, Alzheimer,:,., Bone, Cancer
+Schizophrenia,., Lyme, Bone, Pain, Alzheimer, ALS, Ebola, C, El,","
+Schizophrenia,., Lyme,:, ALS,",", Ebola, Bone, Alzheimer, Pain,.
+Schizophrenia,., Lyme, Ebola, ALS, Alzheimer, Pain,:, Bone,",",.
+Schizophrenia, Lyme,., Alzheimer, ALS, Ebola, Pain, Bone, Cancer,:, MS
+Schizophrenia,., Lyme,:, Pain,",", ALS, Alzheimer, Bone, Ebola, Cancer
+Schizophrenia,., Lyme,:,., Pain, Ebola, ALS, Bone,",", Alzheimer
+Schizophrenia,.,:,",", Lyme, Bone,., Pain, ALS," """, C
+Schizophrenia,., Lyme,:, Bone, ALS,",", Pain, Alzheimer, Ebola,.
+Schizophrenia,., Lyme, ALS,:, Pain,",", Ebola, Cancer,., Bone
+Schizophrenia,., Lyme, ALS, Pain, Ebola, Alzheimer, Bone, Cancer,:,.
+Schizophrenia,., Lyme, Pain,:, Ebola, ALS,",", Bone,., Alzheimer
+Schizophrenia,., Lyme,:,",",.,</s>, Bone, Mac, Pain, C
+Schizophrenia,., Lyme, Bone, Alzheimer, Pain,:,",",., ALS, Mac
+Schizophrenia,., Lyme, ALS,:, Pain, Alzheimer, Bone, Ebola,",",.
+Schizophrenia,., Lyme, ALS, Bone, Alzheimer, Ebola, Pain,:, Cancer, Heart
+Schizophrenia,., Lyme,:,",", Bone,., Alzheimer, ALS, Pain, Ebola
+Schizophrenia,., Lyme, Bone, Pain, Ebola, C, ALS, Alzheimer, Mac,.
+Schizophrenia, Lyme,., ALS, Ebola, Pain, Alzheimer, Bone,:, Cancer,","
+Schizophrenia,., Lyme, ALS,:, Pain,",",., Bone, Alzheimer," """
+Schizophrenia,., Lyme,:, ALS, Bone,",", Pain, Ebola, Alzheimer,.
+Schizophrenia,., Lyme, Pain, Bone, ALS, Ebola, Alzheimer,:, Cancer,.
+Schizophrenia,., Lyme, Alzheimer, ALS, Ebola, Pain,:, Bone,",",.
+Schizophrenia,., Lyme, Alzheimer,., ALS, Pain, Bone,:, Mac,","
+Schizophrenia,., Lyme,",",:,., Bone, C, Mac, M, Anonymous
+Schizophrenia,.,:, Lyme,",",., ALS, Ebola, Bone, Alzheimer," """
+Schizophrenia,., Lyme, Pain,:, Alzheimer, ALS, Bone, Ebola,",",.
+Schizophrenia,., Lyme, Pain, Bone, Alzheimer, Ebola, ALS, Cancer,.,:
+Schizophrenia,., Lyme, Alzheimer, Ebola, ALS, Pain, Bone, HIV,:, MS
+Schizophrenia,., Lyme, Bone, Pain, ALS,.,:, Ebola,",", Alzheimer
+Schizophrenia,., Lyme, Bone, Alzheimer, Pain, Ebola,., ALS,:,","
+Schizophrenia,., Lyme,:,",",., Bone, Pain, C, Alzheimer, ALS
+Schizophrenia,., Lyme, Pain,:, Bone,",", Alzheimer, ALS, Ebola,.
+Schizophrenia,., Lyme, Bone,.,:, Pain, Alzheimer, ALS, Mac, Ebola
+Schizophrenia,., Lyme,:,",", Bone, Pain, ALS, Alzheimer, C, Ebola
+Schizophrenia,., Lyme, Pain, ALS, Bone, Alzheimer, Ebola, Cancer, Addiction,","
+Schizophrenia, Lyme,., ALS, Alzheimer, Ebola, Bone, Pain, MS,:, AIDS
+Schizophrenia,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone, MS, Cancer,:
+Schizophrenia,., Lyme, ALS, Bone,:,",", Ebola,., Alzheimer, Pain
+Schizophrenia,., Lyme, Pain, ALS, Bone, Alzheimer, Ebola,:,",", Cancer
+Schizophrenia, Lyme,., ALS, Alzheimer, Pain, Ebola, Bone, MS, Cancer,.
+Schizophrenia,., Lyme, ALS, Ebola, Alzheimer, Pain, Bone,",",:,.
+Schizophrenia,.,",", Lyme,:, Bone,., C, Anonymous, Mac, Pain
+Schizophrenia,., Lyme, Bone, Ebola, ALS, Alzheimer,:, Cancer, Pain,","
+Schizophrenia,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:, Cancer,","
+Schizophrenia,., Lyme, ALS, Alzheimer,:, Pain, Ebola, Bone,",", Cancer
+Schizophrenia,., Lyme, Bone,:,",",., C, Alzheimer, Mac," """
+Schizophrenia,.,:, Lyme,",", Bone,., Pain, Anonymous, ALS, Ebola
+Schizophrenia,., Lyme,:,.,",", Ebola, ALS, Pain, Alzheimer," """
+Schizophrenia,., Lyme,:, Pain, ALS, Bone,., Ebola,",", MS
+Angina,., Lyme, Bone, ALS,., Alzheimer, Pain,",", Ebola,:
+Angina,.,:,.,",", Lyme, Bone,</s>," """, C, Anonymous
+Angina,., Lyme,., Bone,:, Pain,",", C, Ebola, ALS
+Angina,., Lyme,:,",", Bone, Alzheimer,., Pain, ALS, Ebola
+Angina,., Lyme, Alzheimer, ALS, Bone, Ebola, Pain, MS, C,:
+Angina,., Lyme, Ebola, ALS, Pain, Cancer, Alzheimer,:, Bone,","
+Angina,., Lyme,:,., Alzheimer, ALS, Bone,",", Pain, Ebola
+Angina,., Lyme, Bone,",",:, ALS, Alzheimer, Pain, Ebola,.
+Angina,.,:, Lyme,",",., Bone, ALS, Pain, C, Alzheimer
+Angina,., Lyme, Bone,:, Alzheimer,.,",", ALS, C, Pain
+Angina,., Lyme, ALS, Bone, Alzheimer, Pain, Ebola, Mac, MS,:
+Chronic Fatigue Syndrome, Lyme,., Alzheimer, ALS, Ebola, Pain, Bone,:, Cancer,","
+Chronic Fatigue Syndrome,.,:, Lyme,",",., ALS, Ebola, Pain, Bone, Alzheimer
+Chronic Fatigue Syndrome,., Lyme, Alzheimer, Ebola, ALS, Bone, Pain,:,",", Heart
+Chronic Fatigue Syndrome,.,",",:, Bone, Lyme,., Anonymous, Mac, C,</s>
+Chronic Fatigue Syndrome,., Lyme, Alzheimer, ALS, Ebola, Pain, Bone,:,",", Cancer
+Oral Thrush,.,:, Lyme,",", Pain, Bone,., Alzheimer, Ebola, El
+Oral Thrush,., Lyme, Alzheimer, ALS, Ebola, Pain,:, Bone, MS, Cancer
+Tinea Corporis,., Lyme, Alzheimer, ALS, Pain, Ebola,",", Bone,:, Cancer
+Tinea Corporis,., Lyme, ALS, Alzheimer, Bone, Pain, Ebola,.,",", MS
+Tinea Corporis,., Lyme,:,., Bone, Alzheimer,",", ALS, Pain, Ebola
+Tinea Corporis,.,:, Lyme,",", Bone, ALS, Alzheimer,., Mac, Pain
+Tinea Corporis,., Lyme,:,.,",", Bone, Ebola, Pain, Alzheimer," """
+Tinea Corporis,.,:,",", Lyme,., Bone, C, Anonymous, Mac," """
+Tinea Corporis,., Lyme, ALS, Alzheimer, Ebola, Pain,:, Bone, MS,","
+Tinea Corporis,., Lyme, Bone, Alzheimer, ALS,., Pain, Mac,",",:
+Tinea Cruris,., Lyme,:, Alzheimer,",",., C, MS, ALS, Ebola
+Tinea Cruris,., Lyme, Alzheimer, Pain, Ebola, ALS, Bone,.,:, Mac
+Tinea Corporis,., Lyme, Alzheimer, Bone, ALS, Pain, Ebola,:,",", Cancer
+Tinea Corporis,., Lyme, Bone,., ALS,:, Alzheimer, Pain,",", Ebola
+Tinea Corporis,., Lyme,:, Bone,",", Alzheimer,., ALS, Pain, Ebola
+Tinea Corporis,., Lyme, Pain, Bone, Ebola, Heart, Alzheimer,.,:, ALS
+Tinea Pedis,., Lyme,:,",", Ebola, Bone, Pain, ALS, Alzheimer, El
+Tinea Pedis,., Lyme, Alzheimer, ALS, Pain, Bone, Ebola,",",:,.
+Tinea Cruris,., Lyme,:, Bone,., Alzheimer, ALS, Pain,",", Ebola
+Tinea Cruris,., Lyme, Pain, Bone, ALS, Ebola, Alzheimer,:, Cancer,.
+Tinea Pedis,., Lyme, Bone, Alzheimer, Pain, ALS, Ebola,:,",",.
+Tinea Pedis,., Lyme, Pain, Bone, Ebola, ALS,:, Alzheimer, Heart,.
+Tinea Corporis,., Lyme, Alzheimer, Pain, ALS, Ebola, Bone, MS, C, Mac
+Tinea Corporis,., Lyme, Bone, Pain,.,",",:, ALS, Mac, Alzheimer
+Tinea Corporis,., Lyme, Pain, Bone, Alzheimer,",",:, Mac,., ALS
+Tinea Corporis,.,:, Lyme,",", Bone,., Pain," """, Heart, Mac
+Schizophrenia,., Lyme, ALS, Alzheimer,",",:, Ebola, Bone," """,.
+Schizophrenia,., Lyme, Pain, Alzheimer, Bone, ALS, Ebola,:,., Cancer
+Schizophrenia,., Lyme, Bone,:,",",., C, Mac, Anonymous, Alzheimer
+Schizophrenia,., Lyme, Alzheimer, ALS, Ebola,:,",", Pain, MS, Bone
+Schizophrenia,., Lyme, Alzheimer, Pain, Ebola, ALS,",", Bone,:, El
+Schizophrenia,., Lyme, Bone, Pain,",",:, Alzheimer, ALS, Ebola,.
+Schizophrenia,., Lyme, Bone, Alzheimer, ALS,:,.,",", Pain, Ebola
+Schizophrenia,.,:,",",., Lyme, Bone,</s>, Mac, Anonymous, C
+Schizophrenia,.,:, Lyme,",", ALS, Alzheimer, Ebola,., Bone, Pain
+Angina,., Lyme,:,",", Bone, ALS,., Alzheimer, Pain, Anonymous
+Angina,.,:, Lyme,",",., Bone, Mac, Pain, C, Anonymous
+Angina,., Lyme, Alzheimer, Pain, Bone, ALS, Ebola, Mac,., Cancer
+Angina,., Lyme, ALS, Alzheimer, Bone, Ebola,:, Pain,.,","
+Angina,., Lyme, ALS, Bone, Ebola, Pain, Alzheimer,",",:, Cancer
+Angina,., Lyme,:, ALS, Alzheimer,",", Ebola, Pain," """, Bone
+Angina,., Lyme, Pain, Bone, ALS, Alzheimer, Ebola,.,:,","
+Angina,., Lyme, Pain,",",:, Bone, Heart,., Mac, Ebola
+Angina,., Lyme, Alzheimer, ALS, Pain,:, Bone, Ebola,",", MS
+Angina,., Lyme,:, Bone, Pain, Alzheimer, ALS,.,",", Ebola
+Angina,., Lyme, Pain, ALS, Ebola, Alzheimer,:, Bone, Cancer,.
+Dermal Ulcer,., Lyme, Alzheimer, ALS, Bone, Pain, Ebola,:,",", MS
+Dermal Ulcer,., Lyme, Bone, Alzheimer,., Pain,:, ALS, Mac,","
+Dermal Ulcer,., Lyme, Ebola, Pain, ALS, Bone,:, Alzheimer,.,","
+Muscle Pain,., Lyme, ALS, Alzheimer, Pain, Ebola, Bone,:,",", Heart
+Muscle Pain,., Lyme, Pain, Bone,:,.,",", ALS, Alzheimer, Ebola
+Muscle Pain,., Lyme,:, Bone,.,",", Anonymous, Pain, C, ALS
+Muscle Pain,., Lyme, Pain, Bone,:,",", Alzheimer, Ebola, ALS,.
+Muscle Pain,., Lyme,:, Bone,",",., ALS, Ebola, Pain, Alzheimer

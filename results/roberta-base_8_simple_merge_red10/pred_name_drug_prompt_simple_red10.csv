@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin,</s>,., e, l," """, D,., th,:, d
+nitroglycerin,.,</s>,.,:," """,",", µ,..., ®, aspirin
+metoprolol,.,</s>,.,:," """, µ, ®,",", aspirin,......
+amlodipine,.,</s>,.,:," """,",", µ, Δ, Bone, ***
+isosorbide mononitrate,.,</s>,.,:," """, µ, ®,",", Bone, Mead
+isosorbide dinitrate,.,</s>,.,:," """,",", ***,......, :, µ
+enoxaparin,.,</s>,.,:, ®,",", µ, Bone, Mead, DSM
+ranolazine,</s>,.,.,:," """, µ, ®, Δ," """"", Pain
+atenolol,.,</s>,.,:," """, µ,","," """"", e,...
+carvedilol,.,</s>,.,:," """, µ, e, ®,......, ***
+amlodipine AND atorvastatin,.,</s>,.,:," """,",", µ, ®, Pain,...
+ibuprofen,.,</s>,.,:," """, µ," """"", e, Pain, ®
+naproxen,.,</s>,.,:," """, µ,",", e, ®, Lyme
+acetaminophen,.,</s>,.,:,","," """, µ, A, ®, ().
+diclofenac,.,</s>,.,:," """, µ,",", ®, ***,...
+nabumetone,.,</s>,.,:, ().,",", µ, ®, ■," ""."
+lamivudine,.,</s>,.,:," """, ***, aspirin,",", µ, ®
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ®,...,",", aspirin
+ritonavir,.,</s>,.,:," """, Pain, µ,",", ®, Lyme
+emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ®, Δ, aspirin,...
+tenofovir,.,</s>,.,:," """, ***, Pain, µ, Lyme, Δ
+abacavir,.,</s>,.,:," """,",", µ, ***,......,...
+lamivudine,</s>,.,.,:," """, aspirin, Pain, ***, µ," """""
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, Δ, ®, µ, ***,","
+ritonavir,.,</s>,.,:," """, µ,",", ®,..., ***
+emtricitabine AND tenofovir,.,</s>,.,:," """,",", µ, aspirin, ®,......
+tenofovir,.,</s>,.,:," """, ***, Δ, µ, aspirin, ®
+abacavir,.,</s>,.,:," """, ®, µ, Lyme, Pain, ***
+cytarabine,.,</s>,.,:,","," """, aspirin, µ, ®, Bone
+vincristine,.,</s>,.,:," """, µ, e,",", ®,......
+daunorubicin,.,</s>,.,:," """, µ, e,......, ®, aspirin
+idarubicin,.,</s>,.,:," """,",", e, Δ, µ, ®
+decitabine,.,</s>,.,:," """, µ,",", ®, ***, Bone
+gemtuzumab,.,</s>,.,:," """, ***, ®, µ, Δ,","
+midostaurin,.,</s>,.,:," """, µ,",", aspirin, ***, ®
+venetoclax,</s>,.,.," """,:, µ, Δ,......, aspirin, Pain
+enasidenib,</s>,.,.,:," """, aspirin," """"",......, µ,...
+cytarabine liposomal AND daunorubicin liposomal,.,</s>,.,:," """, µ, ®,......,",", DSM
+ivosidenib,.,</s>,.,:," """, µ, ***, ®, aspirin, Δ
+gilteritinib,</s>,.,.,:," """, aspirin, µ, ®, e," """""
+glasdegib,.,</s>,.,:," """, µ, aspirin, ®,......,...
+lamivudine,</s>,.,.,:," """, µ, e, Δ, aspirin, ®
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """,",", µ, ®, e, Bone
+ritonavir,.,</s>,.,:," """, µ, ®,......,...,","
+emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ®," """""," "".", aspirin
+tenofovir,.,</s>,.,:, µ,",", ®," ""."," """,......
+abacavir,.,</s>,.,:, µ, aspirin, ®," """, Pain, Δ
+cytarabine,.,</s>,.,:,","," """, µ, Mead, ®, Bone
+vincristine,.,</s>,.,:," """, µ,",", e,...," """""
+daunorubicin,.,</s>,.,:," """, µ, ®, e," """"",......
+idarubicin,.,</s>,.,:," """, µ, ®, Pain, aspirin, Δ
+decitabine,.,</s>,.,:," """, µ," """"", ®, ***, e
+gemtuzumab,.,</s>,.,:," """, ®, µ, ***, e,......
+midostaurin,.,</s>,.,:," """, µ, ®, e, Δ, ***
+venetoclax,</s>,.,.,:," """, µ, ®, Δ, ***, e
+enasidenib,.,</s>,.,:," """, µ, ***, ®, aspirin, Δ
+cytarabine liposomal AND daunorubicin liposomal,.,</s>,.,:," """, aspirin, µ," """"", ***, DSM
+ivosidenib,</s>,.,.,:," """, aspirin, Δ, Pain, ®, µ
+gilteritinib,.,</s>,.,:, µ," """, ®, Pain, Bone, DSM
+glasdegib,.,</s>,.,:," """, µ, ®, aspirin,......, ***
+cytarabine,.,</s>,.,:," """, µ, ®,......,..., ***
+vincristine,.,</s>,.,:," """, µ, ***, DSM, ®, :
+daunorubicin,.,</s>,.,:," """, µ, ®,",",......, ***
+idarubicin,.,</s>,.,:, µ," """, ®,......,..., ***
+decitabine,.,</s>,.,:, µ," """,",", ®, aspirin, Δ
+gemtuzumab,.,</s>,.,:," """, µ,",",......, ®, aspirin
+midostaurin,.,</s>,.,:," """, µ,......, ®,","," """""
+venetoclax,.,</s>,.,:," """, µ, ®, e, Lyme, Pain
+enasidenib,.,</s>,.,:," """, µ, ®, Δ, aspirin, ***
+cytarabine liposomal AND daunorubicin liposomal,.,</s>,.,:," """, µ, aspirin, ®, Pain,......
+ivosidenib,</s>,.,.," """,:, µ, e, ®, ​, D
+gilteritinib,.,</s>,.,:," """, µ, ®,......, ***, :
+glasdegib,.,</s>,.,:," """, µ, ®, e, Δ,","
+lamivudine,.,</s>,.,:," """," """"", ***, µ, aspirin, ®
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ***, ®," """"",......
+ritonavir,.,</s>,.,:," """, µ, aspirin, ®," """"",......
+emtricitabine AND tenofovir,.,</s>,.,:," """, µ,..., ®,",", Bone
+tenofovir,.,</s>,.,:,","," """, ®,......, µ, Δ
+abacavir,.,</s>,.,:, µ," """, ®, Pain, Bone, Δ
+lamivudine,.,</s>,.,:," """, µ,......, Δ, aspirin," """""
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, ®, µ, Δ,......," """""
+ritonavir,.,</s>,.,:," """, aspirin, µ, ®, Δ, e
+emtricitabine AND tenofovir,.,</s>,.,:," """, ®, ***,...,",",......
+tenofovir,.,</s>,.,:, ®,",", µ, ()., Mead, Bone
+abacavir,.,</s>,.,:,",", ®, Mead," """, Bone, ().
+lamivudine,.,</s>,.,:, µ, ®, Lyme, Mead, Bone,","
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, aspirin, Pain, µ, ***, ®
+ritonavir,</s>,.," """,., D,:, L, e, C, Pain
+emtricitabine AND tenofovir,.,</s>,.,:, µ," """, ®, Pain, e, Bone
+tenofovir,.,</s>,.,:," """, aspirin, ***, µ, Δ, ®
+abacavir,.,</s>,.,:, µ, ®,","," """," "".", Bone
+cytarabine,.,</s>,.,:," """, µ, ®, e," """"",......
+vincristine,.,</s>,.,:," """,",", µ," """"", ***,...
+daunorubicin,.,</s>,.,:," """,",", aspirin, µ, Δ, Bone
+idarubicin,.,</s>,.,:," """, µ,......,..., ®,","
+decitabine,.,</s>,.,:," """, ®, µ, ***,......, DSM
+gemtuzumab,.,</s>,.,:," """, µ, Pain, ®,",", Lyme
+midostaurin,.,</s>,.,:," """, aspirin, µ, Pain, ***, ®
+venetoclax,.,</s>,.,:," """, ®, µ, ***, Δ,...
+enasidenib,.,</s>,.,:," """, aspirin, µ, ®," """"", :
+cytarabine liposomal AND daunorubicin liposomal,.,</s>,.,:," """, µ, ***, Δ, ®, e
+ivosidenib,.,</s>,.,:," """,",",...,......, ®, ***
+gilteritinib,.,</s>,.,:," """, aspirin, µ, ®, e, Δ
+glasdegib,.,</s>,.,:, µ," """, Pain, aspirin, ®, ***
+aspirin,.,</s>,.,:, µ,","," """, ®, DSM, ().
+nitroglycerin,.,</s>,.,:,","," """, ®,......, µ,...
+metoprolol,.,</s>,.,:, µ, ®,",", Bone, Mead,......
+amlodipine,.,</s>,.,:, ®, µ,",", DSM, CNS, A
+isosorbide mononitrate,.,</s>,.,:, µ, ®," """, Pain, Lyme, Bone
+isosorbide dinitrate,.,</s>,.,:," """, µ,......," """"", Δ," ""."
+enoxaparin,.,</s>,.,:," """, µ,",", ®, aspirin, Δ
+ranolazine,.,</s>,.,:," """, µ, ®, ***,......," """""
+atenolol,.,</s>,.,:," """, ®, aspirin,..., µ,......
+carvedilol,</s>,.,.,:," """, µ, ®, e,......,...
+amlodipine AND atorvastatin,</s>,.,.," """,:, µ, ®,..., e, Δ
+aspirin,.,</s>,.,:,",", ().," """, µ, ®, ***
+nitroglycerin,.,</s>,.,:," """, µ," """"", ***, ®,...
+metoprolol,.,</s>,.,:," """, ®,...,......, aspirin, ***
+amlodipine,.,</s>,.,:," """, µ, aspirin, ***, ®, Δ
+isosorbide mononitrate,.,</s>,.,:, µ," """, ®, ***,..., Pain
+isosorbide dinitrate,.,</s>,.,:," """, ®," """"", aspirin,...,......
+enoxaparin,.,</s>,.,:," """,......, µ,",", ®,...
+ranolazine,</s>,.,.,:," """, e, µ, , ®, Pain
+atenolol,.,</s>,.,:,",", µ," """, ()., ®, Bone
+carvedilol,.,</s>,.,:,","," """, µ, ®,...,......
+amlodipine AND atorvastatin,.,</s>,.,:," """, aspirin, µ, Pain, ®," """""
+aspirin,.,</s>,.,:,",", µ," """, ®, Mead, Bone
+nitroglycerin,.,</s>,.,:," """,",", µ, Δ,......, ***
+metoprolol,</s>,.,.,:," """, µ," """"", e, Δ,......
+amlodipine,.,</s>,.,:," """,",", Δ, µ, e, aspirin
+isosorbide mononitrate,.,</s>,.,:," """, aspirin, µ, e," """"", Δ
+isosorbide dinitrate,</s>,.,.,:," """, µ, aspirin, Δ, e, ®
+enoxaparin,.,</s>,.,:," """, µ,......,..., ***, ®
+ranolazine,.,</s>,.,:,","," """, µ, ®,......,...
+atenolol,.,</s>,.,:," """, µ, ®, Δ,",",......
+carvedilol,.,</s>,.,:," """, µ, e, ®, ,","
+amlodipine AND atorvastatin,.,</s>,.,:," """, Pain, µ, aspirin,",", ®
+aspirin,.,</s>,.,:," """, µ, ®, ***,......, aspirin
+nitroglycerin,.,</s>,.,:," """, µ, ***, e, Δ, aspirin
+metoprolol,.,</s>,.,:," """, µ, ®,......, Pain," """""
+amlodipine,.,</s>,.,:," """, µ, ***, ®,...," """""
+isosorbide mononitrate,.,</s>,.,:,","," """, µ, Δ, ()., ®
+isosorbide dinitrate,.,</s>,.,:," """, µ," """"",......, e, ***
+enoxaparin,.,</s>,.,:," """,",", µ, ®,......, ***
+ranolazine,.,</s>,.,:," """, µ, ®,",", Bone,...
+atenolol,.,</s>,.,:," """, µ, ®, DSM,......, e
+carvedilol,.,</s>,.,:," """, µ, ®, Lyme, Pain,......
+amlodipine AND atorvastatin,</s>,.,.," """, µ, e,:, l, Lyme, ®
+aspirin,.,</s>,.,:," """, µ, ®,......,...,","
+nitroglycerin,</s>,.,.,:," """, µ, aspirin, Δ, ***, ®
+metoprolol,.,</s>,.,:," """,",", µ, ***, ®, Mead
+amlodipine,.,</s>,.,:," """, µ, DSM, Bone,",", ***
+isosorbide mononitrate,.,</s>,.,:," """, µ,......, ®, ***, Δ
+isosorbide dinitrate,.,</s>,.,:," """, µ, aspirin,......, Δ, ***
+enoxaparin,.,</s>,.,:," """, e,",", A, µ, Bone
+ranolazine,.,</s>,.,:," """,",", ®, µ, Δ, Pain
+atenolol,</s>,.,.,:," """, µ, ®," """"",......, Δ
+carvedilol,.,</s>,.,:," """, ®,",", µ, ***,......
+amlodipine AND atorvastatin,.,</s>,.,:," """, µ, ***, Δ, e,","
+ibuprofen,.,</s>,.,:," """, µ, ®, aspirin," """"", Δ
+naproxen,.,</s>,.,:," """, µ, ®, aspirin, Pain, ***
+acetaminophen,.,</s>,.,:,","," """, ().,..., CNS,......
+diclofenac,.,</s>,.,:," """, aspirin, µ, Pain, Δ,","
+nabumetone,.,</s>,.,:," """, µ, ***,......, aspirin, :
+ibuprofen,.,</s>,.,:," """,",", ()., ®, µ,...
+naproxen,.,</s>,.,:," """, µ, ®,......, aspirin, :
+acetaminophen,.,</s>,.,:," """, µ, aspirin,......, ®," """""
+diclofenac,</s>,.,.," """,:, e, l, µ, Pain, D
+nabumetone,</s>,.,.,:," """, Pain, µ, ®, e, Bone
+ibuprofen,.,</s>,.,:," """, µ, ***,",",......, ®
+naproxen,.,</s>,.,:," """, µ, ***, ®, Δ,","
+acetaminophen,.,</s>,.,:," """, µ, ®, ***, aspirin, Δ
+diclofenac,.,</s>,.,:," """, µ, ®,......, aspirin, ***
+nabumetone,.,</s>,.,:," """,",", Bone, µ,..., ®
+ibuprofen,.,</s>,.,:," """,",", µ, Δ, aspirin, ***
+naproxen,.,</s>,.,:," """, µ,",", ()., Δ, ®
+acetaminophen,.,</s>,.,:," """, ®, µ,......, e,...
+diclofenac,</s>,.,.," """,:, aspirin, ®,......, ***, :
+nabumetone,.,</s>,.,:," """, µ,",", Δ, ***,...
+ibuprofen,.,</s>,.,:," """, Pain, µ,..., ***, ®
+naproxen,.,</s>,.,:," """, µ, ®, e," "".", aspirin
+acetaminophen,</s>,.,.,:," """, µ, ®, Mac,......, Pain
+diclofenac,.,</s>,.,:,","," """, aspirin, µ, Δ, at
+nabumetone,.,</s>,.,:," """, µ,",", ®,......, ***
+lamivudine,.,</s>,.,:," """, µ,......, Δ, ®,","
+efavirenz AND emtricitabine AND tenofovir,</s>,.,.,:," """, µ, ®, aspirin, ***, Pain
+ritonavir,.,</s>,.,:," """, µ, aspirin, ®, ().," ""."
+emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ®, ***, Δ, e
+tenofovir,.,</s>,.,:," """, DSM, µ,",", ***, e
+abacavir,</s>,.,:,.," """, aspirin, µ, ®,..., :
+meloxicam,.,</s>,.,:," """,",", ®, Pain, Mead, µ
+diclofenac,</s>,.,.,:," """," """"", aspirin, µ, DSM, ®
+naproxen,</s>,.,.,:," """, µ, ®, e,",", DSM
+ibuprofen,</s>,.,.,:," """, µ, ®, :, e, Pain
+celecoxib,.,</s>,.,:," """, µ, ®, Δ, ***," """""
+chondroitin AND glucosamine,.,</s>,.,:," """, µ, ***, aspirin, ®,","
+diclofenac,.,</s>,.,:, Bone, Mead, ®,",", µ, Mac
+etodolac,.,</s>,.,:," """, µ,",", Δ, DSM, e
+prednisone,.,</s>,.,:," """, µ, e, Δ, Lyme, ®
+aspirin,.,</s>,.,:," """, µ, ®," "".", ***, Δ
+nabumetone,.,</s>,.,:," """, µ, ®,",", :, ***
+duloxetine,.,</s>,.,:,","," """, µ, ®,......, ***
+terbinafine,.,</s>,.,:," """,",", Δ, ®, µ, ***
+terbinafine,.,</s>,.,:, ®,","," """, ()., µ, FDA
+collagenase,.,</s>,.,:," """, µ, ***,",", Pain, ®
+becaplermin,.,</s>,.,:," """, aspirin, µ, ***, ®, Δ
+cadexomer iodine,.,</s>,.,:," """, µ,......, ®, ***, Δ
+modafinil,.,</s>,.,:," """, µ," """"", Pain, :,...
+duloxetine,.,</s>,.,:," """," """"", aspirin,",", µ,......
+lisdexamfetamine,</s>,.,.," """,:, µ, ®, ***, Mac, e
+amantadine,.,</s>,.,:,","," """, ***,......, ®,...
+armodafinil,.,</s>,.,:, µ," """, ®, Pain, Lyme, e
+ketoconazole,.,</s>,.,:," """, ®, µ, Pain, Δ, Bone
+terbinafine,.,</s>,.,:, ®, µ," """, Pain, Lyme, Mead
+ketoconazole,.,</s>,.,:,","," """, µ, ®, ***, Δ
+terbinafine,.,</s>,.,:," """, Δ, µ, ®, aspirin, ***
+quetiapine,</s>,.,.,:," """, µ, ®, aspirin, ***, Pain
+lamotrigine,.,</s>,.,:," """, µ, ®, ***, e,......
+lithium,.,</s>,.,:," """, µ, aspirin, ®, Bone, DSM
+risperidone,.,</s>,.,:," """, µ, ®, ***," "".",...
+fluoxetine,.,</s>,.,:, ®," """, µ,",", Bone, CNS
+olanzapine,.,</s>,.,:," """, µ, ®, e,......, ***
+buspirone,.,</s>,.,:," """, µ, ®, aspirin, ***, Lyme
+clonazepam,.,</s>,.,:, µ, ®," """,",", Pain, Mead
+sertraline,.,</s>,.,:," """, aspirin, ***,",", µ, Pain
+aripiprazole,.,</s>,.,:," """, aspirin, ***, Pain, µ, Δ
+topiramate,.,</s>,.,:," """, µ, ®, Δ,......," ""."
+diazepam,.,</s>,.,:," """, µ,......,..., ***, ®
+lorazepam,.,</s>,.,:,",",?, Mead, ®, ().,;
+escitalopram,.,</s>,.,:," """, µ,......,",", ®, aspirin
+divalproex sodium,.,</s>,.,:, µ, ®, Pain,",", Lyme, D
+alprazolam,.,</s>,.,:," """, µ, ®, ***, e," """""
+clozapine,.,</s>,.,:," """,",", ®, µ,......, Bone
+oxcarbazepine,.,</s>,.,:," """, µ, ***, aspirin,......, ®
+citalopram,.,</s>,.,:," """, aspirin, Δ, µ, e, ®
+haloperidol,.,</s>,.,:," """, ®, µ,",",......,...
+lurasidone,.,</s>,.,:," """,......, µ,..., ®, ***
+l-methylfolate,.,</s>,.,:," """,",", ®, µ, Bone, e
+carbamazepine,.,</s>,.,:," """, µ, ®,......, ***, e
+asenapine,.,</s>,.,:, µ,","," """, ®, ().,......
+paliperidone,.,</s>,.,:," """,",", µ, ®, aspirin," """""
+quetiapine,.,</s>,.,:, µ, Bone, Pain," """, ®, Lyme
+lamotrigine,.,</s>,.,:," """,",", µ, ®, ***,......
+lithium,.,</s>,.,:," """,......, ®,..., µ, aspirin
+risperidone,.,</s>,.,:," """, µ, ***, Δ,",",......
+fluoxetine,.,</s>,.,:, µ," """, ®, DSM, e, Pain
+olanzapine,.,</s>,.,:,",", ®, µ," """, ***, Mead
+buspirone,.,</s>,.,:,",", µ, ®," """, aspirin, Bone
+clonazepam,.,</s>,:,.," """, µ, ®, Bone, Pain, DSM
+sertraline,.,</s>,.,:," """, ®, µ, ***,",", aspirin
+aripiprazole,.,</s>,.,:, µ, ®, Mead," """,",", Bone
+topiramate,.,</s>,.,:," """, µ, aspirin, ®, ***," """""
+diazepam,.,</s>,.,:," """, µ, ®, ***, Pain,...
+lorazepam,</s>,.,.,:," """, µ, ®, aspirin, e, DSM
+escitalopram,.,</s>,.,:," """, aspirin, µ,......, ***, DSM
+divalproex sodium,.,</s>,.,:," """, µ, ®,......, Bone, e
+alprazolam,.,</s>,.,:," """, µ,",", ***, ®,......
+clozapine,.,</s>,.,:," """, µ, Lyme, ®, ***, Bone
+oxcarbazepine,</s>,.,.," """,:, µ,..., ®, ***,......
+citalopram,.,</s>,.,:," """, aspirin, µ, Pain, ®," """""
+haloperidol,.,</s>,.,:," """, µ, ®,......," ""."," """""
+lurasidone,.,</s>,.,:," """, µ,..., ***, ®,......
+l-methylfolate,</s>,.,.," """,:, µ, ®, e, ***, Lyme
+carbamazepine,.,</s>,.,:," """, ***, µ, ®,",", ■
+asenapine,.,</s>,.,:," """, ®, µ,......,...," ""."
+paliperidone,.,</s>,.,:," """, µ, ®, ***," "".", e
+ibuprofen,.,</s>,.,:," """, ®, µ,",",..., ().
+naproxen,.,</s>,.,:," """, µ, ®, Δ, ***,","
+acetaminophen,.,</s>,.,:," """, aspirin, ***, µ, ®, Pain
+diclofenac,.,</s>,.,:," """, µ, Pain, Bone, ®, Δ
+nabumetone,.,</s>,.,:," """, aspirin, µ, ®, Pain, Δ
+ibuprofen,.,</s>,.,:," """, µ, ***,......,",", aspirin
+naproxen,</s>,.,.,:," """, µ, ®, aspirin, ***, :
+acetaminophen,.,</s>,.,:," """, aspirin, µ, e, Δ, ®
+diclofenac,.,</s>,.,:," """, µ, ***, Pain, DSM, ®
+nabumetone,.,</s>,.,:," """, µ, Δ, ®, Pain, Bone
+ibuprofen,.,</s>,.,:," """, µ, ®, Pain,",", Bone
+naproxen,.,</s>,.,:," """, µ, ®,......, ***, :
+acetaminophen,.,</s>,.,:,",", ()., µ, Bone, ®," """
+diclofenac,.,</s>,.,:," """, µ, ®,......, Δ, aspirin
+nabumetone,.,</s>,.,:," """, Δ,",", e, µ, aspirin
+cytarabine,.,</s>,.,:," """, µ, ®,......, Pain, ***
+vincristine,.,</s>,.,:," """,",", DSM, µ, Δ, e
+daunorubicin,.,</s>,:,.," """, aspirin,",", µ," """"", ***
+idarubicin,.,</s>,.,:," """, µ, aspirin, ®, Δ,","
+decitabine,.,</s>,.,:," """, µ, Pain, ®, aspirin, Bone
+gemtuzumab,.,</s>,.,:," """, ***, µ,......, ®, Bone
+midostaurin,.,</s>,.,:," """, µ, aspirin, ®, Pain, Δ
+venetoclax,</s>,.,.,:," """, µ, aspirin, ®,......, Pain
+enasidenib,.,</s>,.,:," """, µ, ®, Pain, Lyme, aspirin
+cytarabine liposomal AND daunorubicin liposomal,</s>,.,.,:," """, µ,......, aspirin, e," """""
+ivosidenib,.,</s>,.,:," """, µ,......, ®," """"",","
+gilteritinib,.,</s>,.,:," """, µ, ***,......, ®, Δ
+glasdegib,.,</s>,.,:," """, Pain, µ, aspirin, ®, Bone
+cytarabine,.,</s>,.,:," """, aspirin, µ, ®, Pain, Bone
+vincristine,.,</s>,.,:," """, µ, ®, Pain,",", ***
+daunorubicin,.,</s>,.,:," """, µ, aspirin, :, ®,......
+idarubicin,</s>,.," """,.,:, e, µ, l, ​, 
+decitabine,.,</s>,.,:,","," """, ®, µ, ()., Bone
+gemtuzumab,</s>,.," """,.,:, µ, e, , l, Pain
+midostaurin,.,</s>,.,:," """, ®,......, aspirin, µ, ***
+venetoclax,.,</s>,.,:," """, µ, Δ, ®,......,","
+enasidenib,.,</s>,.,:, µ," """,",", ®, Bone, Lyme
+cytarabine liposomal AND daunorubicin liposomal,.,</s>,.,:," """, µ, ®,......," "".", ***
+ivosidenib,.,</s>,.,:," """, µ, Pain, e, Bone, Δ
+gilteritinib,.,</s>,.,:," """, µ, ®, e, l, 
+glasdegib,.,</s>,.,:," """,",", ®, µ, Δ, ***
+cytarabine,.,</s>,.,:," """, µ, ®, Δ,......, ***
+vincristine,.,</s>,.,:," """, µ, Pain, Lyme, ***, ®
+daunorubicin,.,</s>,.,:," """,",", µ, ®, Δ, ***
+idarubicin,.,</s>,.,:," """, aspirin, µ, ®, ***, ADHD
+decitabine,.,</s>,.,:," """, ®, µ, aspirin," """"", ***
+gemtuzumab,.,</s>,.,:," """, µ, ®, ***, Pain, aspirin
+midostaurin,.,</s>,.,:," """, ®, µ,......, ***, Δ
+venetoclax,.,</s>,.,:," """, µ, ®, Δ,",", Pain
+enasidenib,.,</s>,.,:," """,",", µ, ®, aspirin, ***
+cytarabine liposomal AND daunorubicin liposomal,.,</s>,.,:," """, µ, Pain, ®, Lyme, ***
+ivosidenib,.,</s>,.,:," """, µ, ®, Pain, Bone, DSM
+gilteritinib,.,</s>,.,:," """, aspirin, ***, Pain, µ,","
+glasdegib,.,</s>,.,:,","," """, ®, Bone, Δ, µ
+dexamethasone,</s>,.,.,:," """, µ, aspirin, :, ®,......
+thalidomide,.,</s>,.,:," """, µ, ®,......, ***,...
+cyclophosphamide,.,</s>,.,:," """,",", µ, ®, Δ, Bone
+lenalidomide,.,</s>,.,:," """, µ, ®,",", e,......
+bortezomib,</s>,.,.,:," """, Pain, e, µ, Bone, Δ
+carfilzomib,.,</s>,.,:," """, µ, ***, ®, aspirin," """""
+pomalidomide,.,</s>,.,:," """, µ, ***, aspirin,......, ®
+daratumumab,.,</s>,.,:," """, aspirin," """"", µ, ***, :
+melphalan,</s>,.,.,:," """,",", µ, ***, e, ®
+dexamethasone,.,</s>,.,:," """, aspirin, µ, e," """"",","
+thalidomide,.,</s>,.,:,",", Bone, ()., µ," """, ®
+cyclophosphamide,.,</s>,.,:," """, µ,",", aspirin, ®, ***
+lenalidomide,.,</s>,.,:," """, ***, e,",", µ," """""
+bortezomib,.,</s>,.,:," """, µ, aspirin, Pain, ®,......
+carfilzomib,.,</s>,.,:," """, µ,......, ***, e, Δ
+pomalidomide,.,</s>,.,:," """,",", Bone, µ, Mead, Pain
+daratumumab,.,</s>,.,:," """, ***, µ, Δ, e, ®
+melphalan,.,</s>,.,:," """, µ, ®, ***," """"", Δ
+cyclophosphamide,.,</s>,.,:," """, µ, ®, e, ***,......
+vincristine,.,</s>,.,:," """, µ, ®, aspirin,",", ***
+rituximab,.,</s>,.,:," """, aspirin, ***, ®, µ, Δ
+methotrexate,</s>,.,.,:," """, ®, , ***, µ, `
+bendamustine,.,</s>,.,:," """, aspirin, µ, ®, e,......
+cytarabine,.,</s>,.,:," """, ®,",", µ, ***,...
+fludarabine,.,</s>,.,:,","," """, Δ, ***, ®,...
+bleomycin,.,</s>,.,:," """, µ, e, Bone, ®, Pain
+carmustine,.,</s>,.,:," """, µ, ®, ***,...,......
+idelalisib,.,</s>,.,:," """, Δ, e, µ, aspirin,......
+ibritumomab,.,</s>,.,:," """, µ,",", e, Δ, ***
+ibrutinib,.,</s>,.,:," """, µ, ®,",",......, Pain
+mitoxantrone,</s>,.,.,:," """, µ, ®, e,",", D
+dexamethasone,.,</s>,.,:,","," """,......,..., ***, ®
+thalidomide,.,</s>,.,:," """, µ, aspirin, ®, :," """""
+cyclophosphamide,.,</s>,.,:," """, µ, ***, ®, Δ," """""
+lenalidomide,.,</s>,.,:," """, µ, aspirin, ®, Pain," """""
+bortezomib,.,</s>,.,:," """, µ," """"", ®,",",......
+carfilzomib,.,</s>,.,:," """, µ,",", ***,......, :
+pomalidomide,</s>,.,.,:," """, aspirin, µ, Pain,......, ®
+daratumumab,.,</s>,.,:," """, Δ, µ, ®, ***,","
+melphalan,.,</s>,.,:," """, DSM, µ, ®,......, ***
+dexamethasone,.,</s>,.,:," """, µ, ®,......, e," """""
+thalidomide,</s>,.,.,:," """, e, µ, l, ®,","
+cyclophosphamide,.,</s>,.,:,","," """, ()., ®, µ, ***
+lenalidomide,.,</s>,.,:," """, µ, ®,......, Pain,...
+bortezomib,.,</s>,.,:," """, µ, ***, aspirin,......, ®
+carfilzomib,</s>,.,.,:," """, µ, ®, Pain, Bone, Mead
+pomalidomide,.,</s>,.,:," """, µ, ***,",",......, :
+daratumumab,.,</s>,.,:," """, µ, ®, ***," "".",...
+melphalan,.,</s>,.,:," """, µ, ®, aspirin, ***, Pain
+miconazole,.,</s>,.,:," """, µ,",", Bone, ®,...
+miconazole,.,</s>,.,:," """, µ, e, ***, ®, Pain
+risperidone,.,</s>,.,:," """, µ, Pain, ®, e, Bone
+clozapine,.,</s>,.,:," """, ®,",", µ, Bone, Mead
+olanzapine,.,</s>,.,:," """, µ, ®, Pain, aspirin,","
+quetiapine,.,</s>,.,:," """, µ, Pain, D, Bone, e
+aripiprazole,.,</s>,.,:," """, µ, ®,",", ().,......
+chlorpromazine,.,</s>,.,:," """, µ, aspirin, ***,......, :
+paliperidone,.,</s>,.,:," """, µ,",", Δ, ®, e
+ziprasidone,.,</s>,.,:, µ," """, aspirin, ®, ***,......
+loxapine,.,</s>,.,:," """, µ, ®, DSM, Bone, ***
+modafinil,.,</s>,.,:," """,",", µ, ®, Δ, DSM
+duloxetine,.,</s>,.,:," """, µ, aspirin, ®, e, ***
+lisdexamfetamine,.,</s>,.,:, µ," """,",", Lyme, ®, Bone
+amantadine,.,</s>,.,:,",", µ, ®, Mead, ()., A
+armodafinil,.,</s>,.,:," """,",", ***, µ, Δ,...
+modafinil,.,</s>,.,:," """, µ,",", ®, Pain, Lyme
+duloxetine,.,</s>,.,:," """, µ, ***, ®, Δ,","
+lisdexamfetamine,</s>,.,.,:," """, µ, ®, Pain,......, DSM
+amantadine,.,</s>,.,:," """, Pain, µ, ***, Δ,","
+armodafinil,.,</s>,.,:," """, µ, aspirin, ®,...,...
+atorvastatin,.,</s>,.,:, µ, ®," """, Δ, aspirin,......
+simvastatin,.,</s>,.,:," """, µ, ***,",", ®, Pain
+pravastatin,.,</s>,.,:," """, ®, µ, ***, e,......
+rosuvastatin,.,</s>,.,:,","," """, ®, µ, Bone, ***
+lovastatin,.,</s>,.,:," """, µ, ®, Pain, aspirin, ***
+ezetimibe,.,</s>,.,:," """, µ, ®, Pain, ***, Δ
+gemfibrozil,.,</s>,.,:," """,",", µ,......, ®,...
+niacin,.,</s>,.,:, µ, ®, Pain," """, Lyme, Bone
+ezetimibe AND simvastatin,.,</s>,.,:," """, µ, ®,......, ()., Bone
+fenofibric acid,.,</s>,.,:," """, ***," """"", aspirin, :, µ
+atorvastatin,.,</s>,.,:," """, µ, ®,",", aspirin, Δ
+simvastatin,.,</s>,.,:," """,",", µ, DSM, ®, Bone
+pravastatin,</s>,.,.," """,:, ®, aspirin, µ, Δ, ***
+rosuvastatin,.,</s>,.,:," """, µ, ®,......, ***,...
+lovastatin,</s>,.,.," """,:, aspirin, µ, ®, e, Δ
+ezetimibe,.,</s>,.,:," """,",", ***, µ," """"", DSM
+gemfibrozil,.,</s>,.,:," """, µ,...,......, ®," """""
+niacin,.,</s>,.,:," """, µ,",", ®, DSM, Bone
+ezetimibe AND simvastatin,.,</s>,.,:," """, µ, ®," """"", Pain, Bone
+fenofibric acid,.,</s>,.,:,","," """, µ, Bone, ®, Mead
+atorvastatin,.,</s>,.,:,","," """, ***,......, µ, DSM
+simvastatin,.,</s>,.,:," """, µ, ®, DSM, ***,......
+pravastatin,.,</s>,.,:," """, aspirin, ***, µ,",", ®
+rosuvastatin,.,</s>,.,:," """,",", ()., Δ, µ, CNS
+lovastatin,.,</s>,.,:," """,",", ®,...,..., µ
+ezetimibe,.,</s>,.,:," """, µ, Pain, ***," """"",","
+gemfibrozil,.,</s>,.,:," """, µ,",", aspirin, ®," ""."
+niacin,.,</s>,.,:," """, µ, ®, e, Lyme, Pain
+ezetimibe AND simvastatin,.,</s>,.,:,",", µ," """, ()., Δ, ■
+fenofibric acid,.,</s>,.,:," """, µ, ***, ®, Δ, e
+atorvastatin,.,</s>,.,:,","," """, ().,..., Δ, µ
+simvastatin,.,</s>,.,:," """,",", µ, ®, Δ,...
+pravastatin,.,</s>,.,:," """,",", ®, µ, DSM, Bone
+rosuvastatin,.,</s>,.,:," """, aspirin, µ, ®, ***, Δ
+lovastatin,.,</s>,.,:," """, µ, ®, DSM, aspirin,......
+ezetimibe,.,</s>,.,:," """,",", ().,..., µ, Bone
+gemfibrozil,.,</s>,.,:," """, µ, ®,",", Bone, Pain
+niacin,.,</s>,.,:," """, µ, ®,......, Δ, ***
+ezetimibe AND simvastatin,.,</s>,.,:," """, µ, aspirin, ®, Δ, ***
+fenofibric acid,.,</s>,.,:," """, µ, ***,","," """"", ®
+modafinil,</s>,.,.,:," """, µ, ***, e, aspirin, ®
+duloxetine,.,</s>,.,:," """, µ,..., ***,",", ®
+lisdexamfetamine,.,</s>,.,:,",", µ, ®, Mead,?, ***
+amantadine,.,</s>,.,:," """,",", ®, ***, aspirin,...
+armodafinil,.,</s>,.,:," """, ***, µ," """"",",", aspirin
+modafinil,.,</s>,.,:," """, µ, ***, ®, Δ,......
+duloxetine,.,</s>,.,:," """, µ,......,",", ()., ®
+lisdexamfetamine,.,</s>,.,:," """, µ, Δ,",", Pain, ®
+amantadine,.,</s>,.,:," """, aspirin, ***,",",......, Bone
+armodafinil,.,</s>,.,:," """, µ, ®,",", Δ, DSM
+lamivudine,.,</s>,.,:, µ, aspirin," """, ®, Pain, ***
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ®,......, Lyme, Pain
+ritonavir,.,</s>,.,:," """, µ, ®, ***,......,","
+emtricitabine AND tenofovir,.,</s>,.,:, µ," """, ®,",", Pain, Bone
+tenofovir,.,</s>,.,:," """, µ, ®,......, Bone, Δ
+abacavir,.,</s>,.,:," """, µ, ®,......, ***," ""."
+collagenase,.,</s>,.,:, ®, µ, ().," """, ***,","
+becaplermin,.,</s>,.,:," """, aspirin, ®, µ, Pain, ***
+cadexomer iodine,.,</s>,.,:," """, µ," """"",..., DSM, ®
+collagenase,.,</s>,.,:," """,",", ()., Bone, Δ, µ
+becaplermin,.,</s>,.,:," """,",", µ, ®, e, ().
+cadexomer iodine,.,</s>,.,:," """,",", µ, ®,..., ***
+meloxicam,.,</s>,.,:," """, µ, ®,..., ***, Δ
+diclofenac,.,</s>,.,:,",", ()., Mead, ®, µ, Bone
+naproxen,.,</s>,.,:, ®,","," """, Mead, µ,......
+ibuprofen,.,</s>,.,:," """,",", µ, D, ®, e
+celecoxib,.,</s>,.,:," """,",", µ, ***, aspirin,......
+chondroitin AND glucosamine,.,</s>,.,:,","," """, aspirin, ***, µ,......
+diclofenac,.,</s>,.,:,",", ®, µ," """, ***, Δ
+etodolac,</s>,.,.,:," """, µ, aspirin, DSM, ®, :
+prednisone,.,</s>,.,:," """, µ, ®, Pain, aspirin, Lyme
+aspirin,.,</s>,.,:," """, µ,",",......,..., ®
+nabumetone,.,</s>,.,:," """,",", µ,..., ***, ®
+duloxetine,.,</s>,.,:," """,",", µ, :, ®, aspirin
+meloxicam,.,</s>,.,:," """, aspirin,",", Δ, ***,......
+diclofenac,.,</s>,.,:," """, µ, ®, ***,..., Δ
+naproxen,.,</s>,.,:,",", Δ, ®," """,..., ().
+ibuprofen,.,</s>,.,:," """,",", Δ, µ,..., ***
+celecoxib,.,</s>,.,:," """,",",......, µ, aspirin, ®
+chondroitin AND glucosamine,.,</s>,.,:," """,",", µ, ®, DSM, ***
+diclofenac,.,</s>,.,:," """, µ, ®, Pain, aspirin, Bone
+etodolac,</s>,.,.,:," """, aspirin, µ, Pain, ®," """""
+prednisone,.,</s>,.,:," """, µ, aspirin, ®, Pain, e
+aspirin,.,</s>,.,:," """, µ,",", ***, aspirin, Pain
+nabumetone,.,</s>,.,:," """, µ, aspirin, ®, ***, Pain
+duloxetine,.,</s>,.,:," """, µ, ®, e, ***,","
+collagenase,.,</s>,.,:," """," """"", aspirin, e, ®,......
+becaplermin,.,</s>,.,:," """, µ, ®, ***,......,...
+cadexomer iodine,.,</s>,.,:," """, ®,......, µ, ***,...
+collagenase,.,</s>,.," """,:, µ, ®, e, Δ," ""."
+becaplermin,.,</s>,.," """,:, µ," """"", e, aspirin,......
+cadexomer iodine,.,</s>,.,:," """, µ, aspirin, ®, e,......
+collagenase,</s>,.,.," """,:, e, D, µ, l, Bone
+becaplermin,.,</s>,.,:," """, e, µ, ®, l, D
+cadexomer iodine,.,</s>,.,:," """, µ, ®, aspirin, Pain,","
+ibuprofen,.,</s>,.,:," """, µ, ®, ***,",",...
+naproxen,.,</s>,.,:,",", ()., µ, ®,?, Bone
+acetaminophen,.,</s>,.,:," """, µ,",", ®, Δ, ***
+diclofenac,.,</s>,.,:," """, µ,",", ®, ***, Δ
+nabumetone,.,</s>,.,:," """,",",..., ®, ***,......
+risperidone,.,</s>,.,:, µ, ®, Pain," """, Lyme,...
+clozapine,.,</s>,.,:," """, µ, ®,",", DSM, e
+olanzapine,.,</s>,.,:," """, µ, ®, aspirin, Pain,......
+quetiapine,</s>,.,.,:," """, aspirin, Pain, µ, ®, ***
+aripiprazole,.,</s>,.,:," """,",", Mead, Bone, µ, ***
+chlorpromazine,.,</s>,.,:," """, µ,",", aspirin, ®,......
+paliperidone,.,</s>,.,:,","," """, ®, µ, Mead, ***
+ziprasidone,.,</s>,.,:," """,..., µ, ().," "".", ®
+loxapine,.,</s>,.,:," """,",", ®, µ, Bone, Δ
+meloxicam,.,</s>,.,:, µ, ®," """, ***, Pain, DSM
+diclofenac,.,</s>,.,:," """, µ, Pain,",", aspirin," """""
+naproxen,.,</s>,.,:, µ,",", ®, Mead,......, Andrea
+ibuprofen,.,</s>,.,:," """, ***, µ, ®,......,...
+celecoxib,.,</s>,.,:," """, µ, aspirin, ®,......, e
+chondroitin AND glucosamine,.,</s>,.,:," """, aspirin, µ,",", ®," """""
+diclofenac,</s>,.,.,:," """, aspirin, µ," """"", ®, DSM
+etodolac,.,</s>,.,:,",", ()., ®," """, Bone, DSM
+prednisone,.,</s>,.,:," """, µ, e, ®, Pain," """""
+aspirin,.,</s>,.,:," """,",", µ, Bone, ®, Lyme
+nabumetone,</s>,.,.,:," """, aspirin, µ, ®, ***," """""
+duloxetine,.,</s>,.,:," """, µ, ®,","," """"", ***
+quetiapine,.,</s>,.,:," """, µ, ®, ***, aspirin," """""
+lamotrigine,.,</s>,.,:," """, ®, µ,",", aspirin, Bone
+lithium,.,</s>,.,:," """, ®, µ,",", ***,......
+risperidone,.,</s>,.,:," """, aspirin, µ, e," """"", ®
+fluoxetine,.,</s>,.,:," """, ***, µ, Δ, aspirin, ®
+olanzapine,.,</s>,.,:," """, µ, ®, ***,",", Δ
+buspirone,.,</s>,.,:," """, aspirin, µ, Δ, ®, ***
+clonazepam,.,</s>,.,:, µ," """,",", ®, Mead, Lyme
+sertraline,.,</s>,.,:,",", µ," """, ®, e, ***
+aripiprazole,.,</s>,.,:,","," """, Bone, ()., ***, Δ
+topiramate,.,</s>,:,., µ, ®,",",......, Mead,?
+diazepam,.,</s>,.," """,:, µ, ®, aspirin," ""."," """""
+lorazepam,</s>,.,.,:," """, aspirin, µ, ®,......, e
+escitalopram,.,</s>,.,:," """, µ, ®,",",......, ().
+divalproex sodium,.,</s>,.,:," """,",", Bone, ■, ®, Pain
+alprazolam,.,</s>,.,:," """, aspirin, ®, µ, e, ***
+clozapine,.,</s>,.,:," """, µ, ***, ®, Δ,......
+oxcarbazepine,.,</s>,.,:," """, µ, aspirin, ®, Pain,......
+citalopram,.,</s>,.,:," """, aspirin, µ, ***, ®, Δ
+haloperidol,.,</s>,.,:," """, µ,......,..., ®, e
+lurasidone,.,</s>,.,:," """, µ, ®, Pain,......, Bone
+l-methylfolate,.,</s>,.,:," """, µ," """"", ®, Δ, :
+carbamazepine,.,</s>,.,:," """, µ, ®,..., Δ,","
+asenapine,.,</s>,.,:," """, µ, ***, ®, Δ,...
+paliperidone,.,</s>,.,:," """, ®, µ, Δ, aspirin,......
+quetiapine,.,</s>,.,:," """, µ,",", ®, e, Bone
+lamotrigine,.,</s>,.,:," """, µ, ®, Pain, DSM,","
+lithium,.,</s>,.,:," """, µ, ®, Δ,......, ***
+risperidone,.,</s>,.,:," """, µ,",", Pain," """"", aspirin
+fluoxetine,.,</s>,.,:," """, µ, ®,......,..., ***
+olanzapine,.,</s>,.,:,",", µ, ®, ().," """,......
+buspirone,.,</s>,.,:," """,",", ***, µ,......, e
+clonazepam,.,</s>,.,:," """, µ,",", Δ, ***, ®
+sertraline,.,</s>,.,:," """, µ, ***, aspirin, Pain, ®
+aripiprazole,.,</s>,.,:, µ, ®," """, Pain,",", aspirin
+topiramate,.,</s>,.,:, ®, µ," """,......, Bone, Mead
+diazepam,.,</s>,.,:," """, µ,",", e, ®, l
+lorazepam,.,</s>,.,:,",", µ, ()., ®," """,?
+escitalopram,.,</s>,.,:," """, µ, ®,",", ***, Lyme
+divalproex sodium,.,</s>,.,:," """, µ, ®, ***, Lyme, Bone
+alprazolam,.,</s>,.,:," """,",", ®, µ, Bone, ***
+clozapine,.,</s>,.,:," """, µ,",", ®, Pain, DSM
+oxcarbazepine,</s>,.,.,:," """, µ, ®," """"",......, e
+citalopram,.,</s>,.,:," """, µ, Bone, Δ, Pain,","
+haloperidol,.,</s>,.,:," """, µ, ***, ®," """"",......
+lurasidone,.,</s>,.,:," """, aspirin, µ, Δ, ***, e
+l-methylfolate,.,</s>,.,:, ®, µ,",", Mead,......, A
+carbamazepine,.,</s>,.,:," """,",", ®, Δ, µ, ().
+asenapine,.,</s>,.,:, µ," """, ®, e,......, A
+paliperidone,.,</s>,.,:," """, µ, ®, aspirin, DSM," """""
+ibuprofen,.,</s>,.,:," """, ®,",",...,......, ().
+naproxen,.,</s>,.,:," """, µ, aspirin, ®, ***, e
+acetaminophen,</s>,.,.,:," """, aspirin, µ, e, ®, Pain
+diclofenac,.,</s>,.,:,","," """, ***, µ, ®, ().
+nabumetone,.,</s>,.,:," """, aspirin, µ, Pain, ®, ***
+quetiapine,</s>,.,.," """,:, µ, ®,..., e,......
+lamotrigine,</s>,.,.,:," """, µ, ®, Pain, :, e
+lithium,.,</s>,.,:," """, µ,",", ***, Δ, aspirin
+risperidone,</s>,.,.,:," """, µ, e, Pain,...," """""
+fluoxetine,.,</s>,.,:," """, µ, ®, Bone,",", ().
+olanzapine,.,</s>,.,:," """, µ, ®, aspirin, ***,","
+buspirone,.,</s>,.,:," """, ®, µ, Bone,",",...
+clonazepam,.,</s>,.,:," """, ®, µ, ***,......,...
+sertraline,.,</s>,.,:," """, µ, ®,",", Pain, aspirin
+aripiprazole,.,</s>,.,:, µ," """, e, ®, Pain, 
+topiramate,.,</s>,.,:," """, µ, ®, Δ, e, Pain
+diazepam,.,</s>,.,:," """, µ, Δ,",",..., ***
+lorazepam,.,</s>,:,.,","," """, ®, µ, ***, DSM
+escitalopram,.,</s>,.,:," """, µ, aspirin, ®, Pain,","
+divalproex sodium,.,</s>,.,:,",", µ, ®,......," """, Bone
+alprazolam,.,</s>,.,:, µ,",", A, ®," """, D
+clozapine,.,</s>,.,:," """, µ, aspirin," """"", ®, e
+oxcarbazepine,.,</s>,.,:," """,",", ®, µ, ***,......
+citalopram,.,</s>,.,:," """, aspirin, ***, µ, ®, Δ
+haloperidol,.,</s>,.,:," """, ®, Pain, µ, Bone,","
+lurasidone,.,</s>,.,:," """, aspirin, Pain, Bone, ®,","
+l-methylfolate,.,</s>,.,:,","," """, ®, µ, ()., ***
+carbamazepine,.,</s>,.,:," """, µ, ®, ***,......,","
+asenapine,.,</s>,.,:," """, µ, ®, ***,......,","
+paliperidone,.,</s>,.,:," """, µ, ®,",",......, ().
+quetiapine,.,</s>,.,:," """, µ, Δ, ®,......,","
+lamotrigine,.,</s>,.,:," """, µ,",", ***,......, ®
+lithium,.,</s>,.,:," """, µ, aspirin, ®, Pain, ***
+risperidone,.,</s>,.,:,",", µ, ®," """, Bone, D
+fluoxetine,.,</s>,.,:," """,",", µ, ®, e, Pain
+olanzapine,.,</s>,.,:," """, ®, µ, Δ,",", ***
+buspirone,.,</s>,.,:," """, ®, µ, Δ, ***,......
+clonazepam,.,</s>,.,:," """, µ, aspirin, ®, ***, Δ
+sertraline,.,</s>,.,:," """, µ, e, ®,......, 
+aripiprazole,.,</s>,.,:," """, µ, aspirin, ®,......, ***
+topiramate,.,</s>,.,:, µ, ®, Pain, Mead, Bone,","
+diazepam,.,</s>,.,:," """, ®, µ, Δ, aspirin, ***
+lorazepam,</s>,.,.,:," """, µ, e, ®, DSM, D
+escitalopram,.,</s>,.,:," """,..., µ, ***,......, ®
+divalproex sodium,.,</s>,.,:, µ, ®," """, ***, ().,...
+alprazolam,.,</s>,.,:," """, µ, ®, DSM,......, Δ
+clozapine,.,</s>,.,:, µ, ®," """, aspirin, Pain,","
+oxcarbazepine,.,</s>,.,:," """, Δ, µ, ®, ***, aspirin
+citalopram,.,</s>,.,:," """, aspirin, µ," """"",......, ®
+haloperidol,.,</s>,.,:,",", ®, µ," """, Mead,......
+lurasidone,.,</s>,.,:," """, Pain, aspirin, Δ, µ,","
+l-methylfolate,.,</s>,.,:, aspirin," """, µ, ®,......," ""."
+carbamazepine,.,</s>,.,:," """, µ, aspirin, ®, ***,......
+asenapine,.,</s>,.,:, ®," """, µ, Bone, Pain,......
+paliperidone,</s>,.,.," """, Bone,:, e, D, Lyme, Pain
+quetiapine,</s>,.,.," """,:, µ, e, ®, Pain, D
+lamotrigine,.,</s>,.,:," """, µ,",", ***,......, ®
+lithium,.,</s>,.,:," """, µ, aspirin, ***, e, Δ
+risperidone,.,</s>,.,:," """, µ,","," """"", e, :
+fluoxetine,.,</s>,.,:," """, µ, ®, aspirin,......, ***
+olanzapine,.,</s>,.,:," """," """"", µ, '', `," ""."
+buspirone,.,</s>,.,:," """, µ, ®,......,..., ***
+clonazepam,.,</s>,.,:," """, µ,",", Bone, ®, Δ
+sertraline,.,</s>,.,:,","," """, µ, ®, Bone, ***
+aripiprazole,.,</s>,.,:," """,..., µ,......, ®, ***
+topiramate,.,</s>,.,:," """, µ, aspirin,",", ®, ***
+diazepam,</s>,.,.,:," """, µ, ®, Δ, Pain, e
+lorazepam,.,</s>,.,:," """, µ, Pain, aspirin, Bone, ®
+escitalopram,.,</s>,.," """,:, µ,..., ®,......, e
+divalproex sodium,.,</s>,.,:," """, µ,",", ®, Pain, DSM
+alprazolam,.,</s>,.,:," """, aspirin, µ, ®, ***, Pain
+clozapine,.,</s>,.,:," """, µ, ®,",",...,......
+oxcarbazepine,.,</s>,.,:," """, µ,......, ®," "".", ***
+citalopram,.,</s>,.,:," """,......, µ, ®, DSM, ***
+haloperidol,.,</s>,.,:," """, µ, aspirin,",", ***, DSM
+lurasidone,.,</s>,.,:," """, µ, ®, Pain, Δ, ***
+l-methylfolate,.,</s>,.,:," """, µ, ®,",", Bone," """""
+carbamazepine,.,</s>,.,:," """, e, Bone, Pain, µ, ®
+asenapine,.,</s>,.,:," """, µ, ®, Pain, aspirin, ***
+paliperidone,.,</s>,.,:," """, ***, µ, Δ, aspirin, ®
+quetiapine,</s>,.,.,:," """, µ, e, l, ®, 
+lamotrigine,.,</s>,.,:," """," """"", µ,...,",", ***
+lithium,</s>,.,.,:," """, :, µ, ®,......, Δ
+risperidone,</s>,.,.,:," """, µ, e, aspirin, ®, Pain
+fluoxetine,.,</s>,.,:," """, µ, Bone,",", ®," """""
+olanzapine,.,</s>,.,:," """, µ, ®,",", e, Lyme
+buspirone,.,</s>,.,:," """, aspirin, µ, Δ, ®, Pain
+clonazepam,.,</s>,.,:," """, µ, ***, ®,..., Pain
+sertraline,.,</s>,.,:," """, Pain, ®, µ, ***,","
+aripiprazole,.,</s>,.,:," """, µ, ®,......, aspirin,...
+topiramate,.,</s>,.,:," """, Pain, µ, e, ®, DSM
+diazepam,.,</s>,.,:," """, Pain, ®, Mead, µ,","
+lorazepam,.,</s>,.,:," """, µ, ®, Pain, Lyme, Bone
+escitalopram,.,</s>,.," """,:, µ, ®, Δ, aspirin," """""
+divalproex sodium,.,</s>,.,:," """, ®, µ, e,",",......
+alprazolam,.,</s>,.,:, µ," """, Pain, ®, Bone,","
+clozapine,.,</s>,.,:," """, µ, ®, ***, Pain, e
+oxcarbazepine,.,</s>,.,:," """,",", µ, ®, ***,...
+citalopram,.,</s>,.,:," """,",", µ, ®, ***,......
+haloperidol,.,</s>,.,:," """, aspirin,",", µ, Lyme, ***
+lurasidone,.,</s>,.,:," """,",", µ, ®, Δ, Bone
+l-methylfolate,</s>,.,.,:," """, µ, e, DSM, ®, aspirin
+carbamazepine,.,</s>,.,:," """,",", µ, ®, ***, e
+asenapine,.,</s>,.,:,",", µ, Bone, DSM," """, ®
+paliperidone,.,</s>,.,:," """, aspirin, µ," """"", e, Δ
+quetiapine,.,</s>,.,:," """, aspirin, Δ, µ, ®, ***
+lamotrigine,.,</s>,.,:," """, µ, aspirin,","," """"", e
+lithium,.,</s>,.,:," """, µ," """"", e, ®,...
+risperidone,.,</s>,.,:," """, ***, ®,",", µ,......
+fluoxetine,.,</s>,.,:," """,",", µ, e, ®, Δ
+olanzapine,.,</s>,.,:," """, µ,",", aspirin, ***, Δ
+buspirone,</s>,.,.,:," """, aspirin, ®, µ,......, Pain
+clonazepam,.,</s>,.,:,","," """, µ, ***, ()., DSM
+sertraline,.,</s>,.,:, µ, ®," """,",", Δ, Bone
+aripiprazole,.,</s>,.,:," """, µ, ®," """"", ***, Δ
+topiramate,.,</s>,.,:," """, µ, Pain," """"", Bone,...
+diazepam,.,</s>,.,:," """, Pain,",", µ, Bone, Lyme
+lorazepam,.,</s>,.,:," """, µ, ®,......, :,...
+escitalopram,</s>,.,.," """,:, µ, ®, e, , l
+divalproex sodium,.,</s>,.,:," """, µ, ®, aspirin, Δ,...
+alprazolam,.,</s>,.,:," """, µ, ®,......,","," """""
+clozapine,</s>,.,.," """,:, e, µ,",", l, 
+oxcarbazepine,.,</s>,.,:," """, µ, ***," """"",...,......
+citalopram,.,</s>,.,:," """, µ, aspirin, Δ," """"", e
+haloperidol,.,</s>,.,:," """, ®, µ, Pain, aspirin, Bone
+lurasidone,.,</s>,.,:," """, µ, ®,..., Δ,","
+l-methylfolate,.,</s>,.,:," """, µ, aspirin, ®, Pain, ***
+carbamazepine,.,</s>,.,:,","," """, µ, ***, DSM, Δ
+asenapine,.,</s>,.,:," """, µ, ®, Δ, ***,...
+paliperidone,.,</s>,.,:," """, µ, aspirin, ®, Pain, Δ
+quetiapine,.,</s>,.,:," """, µ,..., ®,",", ***
+lamotrigine,.,</s>,.,:," """, µ, aspirin, ®, Δ, Pain
+lithium,.,</s>,.,:," """,",", µ, Bone, Pain, ®
+risperidone,.,</s>,.,:," """,",", ®, ***, µ,...
+fluoxetine,.,</s>,.,:," """, µ,......, ®," """"",...
+olanzapine,.,</s>,.,:," """, µ, Δ,......, aspirin, ®
+buspirone,</s>,.,.,:," """, ®, aspirin, µ, ***, Δ
+clonazepam,.,</s>,.,:," """, µ,",", e, Pain, Lyme
+sertraline,.,</s>,.,:," """, µ, ®,",", Pain, DSM
+aripiprazole,.,</s>,.,:," """,",", µ, e, ().," """""
+topiramate,.,</s>,.,:,","," """, aspirin, ®, Bone, ***
+diazepam,.,</s>,.,:," """, µ, ®, aspirin, ***, Δ
+lorazepam,.,</s>,.,:," """, µ, ***, ®, Δ,...
+escitalopram,.,</s>,.,:," """, µ, ®,",",..., DSM
+divalproex sodium,.,</s>,.,:," """, µ,",",..., ®, ***
+alprazolam,.,</s>,.,:," """, µ, e, ®,",", Pain
+clozapine,.,</s>,.,:," """, ®, µ, ***,......,","
+oxcarbazepine,.,</s>,.," """,:, µ, ®,......," """"", Δ
+citalopram,.,</s>,.,:," """, µ, ®, A, ***, DSM
+haloperidol,.,</s>,.,:," """, µ, aspirin," """"",......, ®
+lurasidone,.,</s>,.,:," """, ®, µ, DSM,......, ***
+l-methylfolate,.,</s>,.,:," """, µ, ®, :, e, ***
+carbamazepine,.,</s>,.,:," """, Pain,",", µ, ®, aspirin
+asenapine,.,</s>,.,:," """, µ, ***, ®, Pain, aspirin
+paliperidone,.,</s>,.,:," """, µ, aspirin, ®, Δ, ***
+triamcinolone,.,</s>,.,:," """, µ, ®, ***,......," """""
+triamcinolone,.,</s>,.,:," """, aspirin, µ, ®, :," """""
+quetiapine,.,</s>,.,:," """, µ,",", ®," """"",......
+lamotrigine,.,</s>,.,:," """,...,",", ®,..., µ
+lithium,.,</s>,.,:," """, aspirin," """"", µ, ®, e
+risperidone,.,</s>,.,:," """,......, µ, ®, ***,","
+fluoxetine,.,</s>,:,.," """,..., ®,",", µ,......
+olanzapine,.,</s>,.,:," """, µ, ®,",", ***,......
+buspirone,.,</s>,.,:," """, µ,",", ®, Δ, ***
+clonazepam,.,</s>,.,:," """, µ, aspirin, Bone, Δ, DSM
+sertraline,.,</s>,.,:," """, µ, aspirin, :, DSM," """""
+aripiprazole,.,</s>,.,:," """, µ, ®,......, Δ,...
+topiramate,.,</s>,.,:, µ,",", Bone," """, ®, Mead
+diazepam,.,</s>,.,:," """, µ, ®, ***,...,......
+lorazepam,.,</s>,.,:," """, µ, ®, Δ, ***, e
+escitalopram,.,</s>,.,:," """, µ, ***, ®, Pain, Δ
+divalproex sodium,.,</s>,.,:," """, ®, µ, Mead, Pain, Bone
+alprazolam,.,</s>,.,:," """, µ, ®,......, aspirin, ***
+clozapine,.,</s>,.,:," """, ®, µ, ***, A, D
+oxcarbazepine,.,</s>,.,:," """,",", ®, CNS, µ, FDA
+citalopram,.,</s>,.,:," """,",", Bone, ***, Pain, µ
+haloperidol,.,</s>,.,:, µ,",", ®," """, Δ, Pain
+lurasidone,.,</s>,.,:," """, µ, Δ,",", aspirin, ***
+l-methylfolate,.,</s>,.,:," """, µ, ®, aspirin, ***," """""
+carbamazepine,.,</s>,.,:," """, Δ,",", µ, ***, DSM
+asenapine,.,</s>,.,:," """, ®, µ,",", ()., CNS
+paliperidone,.,</s>,.,:," """, µ, Pain, ®, Δ, ***
+atorvastatin,.,</s>,.,:," """, aspirin, µ," """"", ***, :
+simvastatin,.,</s>,.,:," """, aspirin, µ, Bone,......, ®
+pravastatin,</s>,.,.,:," """, µ, e, ®, Pain, Δ
+rosuvastatin,.,</s>,.,:," """, µ, ®,",", e,......
+lovastatin,.,</s>,.,:," """,",", ***, Δ, aspirin, µ
+ezetimibe,.,</s>,.,:,","," """, ()., µ, Δ, e
+gemfibrozil,.,</s>,.,:," """,",", µ,..., aspirin, Pain
+niacin,</s>,.,.,:," """, µ, Pain, Bone, ®, ***
+ezetimibe AND simvastatin,.,</s>,:,.," """,",", ®, aspirin, µ, ***
+fenofibric acid,.,</s>,.,:," """, ®, µ, Δ, ***,...
+ketoconazole,.,</s>,.,:," """, µ, ***, ®,......,...
+terbinafine,.,</s>,.,:," """, ®, Pain, µ, Bone, Mead
+ketoconazole,.,</s>,.,:," """, µ, ®, Δ, e,","
+terbinafine,.,</s>,.,:," """, aspirin, Bone," """"",",", DSM
+terbinafine,.,</s>,.,:," """, Δ, ®, µ, e, ***
+terbinafine,.,</s>,.,:," """, µ, ®,",",......, Δ
+terbinafine,.,</s>,.,:," """, µ, ®,",", Mac, Bone
+terbinafine,.,</s>,.,:," """, µ, ®, ***,",", aspirin
+meloxicam,.,</s>,.,:,","," """, ().,..., Bone,?
+diclofenac,</s>,.,:, D," """, Mc, Pain, T, Mac, C
+naproxen,</s>,.,.," """,:, µ," """"", e,......, ***
+ibuprofen,.,</s>,.,:,",", ®," """, CNS, ().,...
+celecoxib,.,</s>,.,:," """, µ, Δ," """"", ®, e
+chondroitin AND glucosamine,.,</s>,.,:,",", ()., ®, Mead, Bone," """
+diclofenac,</s>,.,.,:," """, e, aspirin, Δ, µ, 
+etodolac,.,</s>,.,:, µ," """, ®,......,...,","
+prednisone,.,</s>,.,:,",", µ," """, ®, ***,......
+aspirin,.,</s>,.,:," """, µ, ®,",",......, ***
+nabumetone,</s>,.,.," """,:, µ, e, ®, D,","
+duloxetine,.,</s>,.,:," """, µ,......," "".",..., ***
+triamcinolone,.,</s>,.,:,","," """, µ, ().,......, ®
+triamcinolone,.,</s>,.,:," """, ®, µ, A, ***, D
+aspirin,.,</s>,.,:," """, µ, ®,",", Δ, :
+nitroglycerin,.,</s>,.,:," """, µ, ®,......,",",...
+metoprolol,.,</s>,.,:," """, µ, ®, Pain, Bone,","
+amlodipine,</s>,.,.,:," """, µ, ®, e, aspirin,......
+isosorbide mononitrate,</s>,.,:,.," """, µ, e, ®, Pain, 
+isosorbide dinitrate,.,</s>,.,:," """, µ, ®,......, Pain,","
+enoxaparin,.,</s>,.,:," """, aspirin, µ,",",......, ***
+ranolazine,.,</s>,.,:," """, µ,......, e, aspirin," """""
+atenolol,.,</s>,.,:,","," """, Δ, µ, ***,...
+carvedilol,.,</s>,.,:," """,",", µ, Δ, ®, Bone
+amlodipine AND atorvastatin,.,</s>,.,:, µ, ®," """, ***,......, ().
+atorvastatin,.,</s>,.,:," """, µ,",", ®, Bone, Δ
+simvastatin,.,</s>,.,:," """, ®, µ, Δ,...,......
+pravastatin,.,</s>,.,:," """,",", ***, µ, ®, Δ
+rosuvastatin,.,</s>,.,:," """, µ, ®, Pain, Δ, ***
+lovastatin,</s>,.,.,:," """, µ, ***, ®,......,...
+ezetimibe,.,</s>,.,:," """, Pain, µ, ®, Lyme, ***
+gemfibrozil,.,</s>,:,.," """, µ, ®,......, ***, :
+niacin,</s>,.,.,:," """, µ, ®, e, DSM, Δ
+ezetimibe AND simvastatin,.,</s>,.,:," """, ®,",", ***,..., Pain
+fenofibric acid,.,</s>,.,:," """, µ,......, ®,..., DSM
+cyclophosphamide,.,</s>,.,:," """, ®, µ, ***, Pain, Δ
+vincristine,</s>,.,.," """,:, µ, Δ, Pain, ®," """""
+rituximab,.,</s>,.,:," """," """"", µ, :,",", ®
+methotrexate,.,</s>,.,:," """, µ, ®, ***,......, Pain
+bendamustine,.,</s>,.,:, µ,",", ®, ().,......, Lyme
+cytarabine,.,</s>,.,:,",", µ," """, e, DSM, ®
+fludarabine,.,</s>,.,:," """, µ, Pain, e, ®, A
+bleomycin,.,</s>,.,:," """, µ,",", ®, ***, Δ
+carmustine,.,</s>,.,:, µ," """, ®,",", Lyme, Pain
+idelalisib,.,</s>,.,:,",", ()., ®, DSM,?,...
+ibritumomab,.,</s>,.,:," """, µ, ®, aspirin," """"", e
+ibrutinib,.,</s>,.,:," """, µ, ®,......,..., Δ
+mitoxantrone,.,</s>,.,:," """,",", µ, ***,..., ®
+lamivudine,.,</s>,.," """,:, µ, Δ, e, ®,......
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:, µ," """, e, D, ®,","
+ritonavir,.,</s>,.,:," """, µ,",", e, Δ, ***
+emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ®, Δ," """"",......
+tenofovir,</s>,.,.,:," """, e, µ,",", D, l
+abacavir,.,</s>,.,:," """,",", µ,......, e, ***
+lamivudine,.,</s>,.,:," """, µ, ®, Pain, Bone, Lyme
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:,","," """, µ, DSM, Mead, ®
+ritonavir,.,</s>,.,:," """, µ, ®, Pain, ***, Lyme
+emtricitabine AND tenofovir,.,</s>,.,:,","," """, µ, ®, ()., ***
+tenofovir,.,</s>,.,:," """,",", ®, ***, µ,...
+abacavir,.,</s>,.,:," """, µ, ®, DSM, Pain, Δ
+lamivudine,.,</s>,.,:," """,",", ®, ***, ().,...
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, Pain, aspirin,",", µ," """""
+ritonavir,.,</s>,.,:," """, µ, ®, Δ, ***,......
+emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ®,......, e," """""
+tenofovir,.,</s>,.,:," """, µ, Bone,",", Pain, ®
+abacavir,.,</s>,.,:," """, e, µ, A,",", DSM
+lamivudine,.,</s>,.,:," """,",", Bone, ®, µ, Pain
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:,","," """, ()., ®, µ,...
+ritonavir,.,</s>,.,:," """,",", µ,......, Δ," """""
+emtricitabine AND tenofovir,.,</s>,.,:," """, aspirin, Pain, µ, ®, Δ
+tenofovir,.,</s>,.,:," """, µ, ®, aspirin,......, ***
+abacavir,.,</s>,.,:, µ," """, Pain, Lyme, e, ***
+lamivudine,.,</s>,.,:," """, µ, Pain,",", ®, Lyme
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ®, ***,...,......
+ritonavir,.,</s>,.,:,",", Δ, Mead, ®, Bone, µ
+emtricitabine AND tenofovir,.,</s>,.,:," """, µ, ®, Pain,",", Bone
+tenofovir,.,</s>,.,:," """,",", ®, µ, Bone, ***
+abacavir,.,</s>,.,:," """, µ, ®, e, Bone, D
+lamivudine,.,</s>,.,:," """, µ,",", Bone, Δ, ®
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, aspirin, µ,......, e, ®
+ritonavir,.,</s>,.,:," """, µ,",", ®, Pain, Lyme
+emtricitabine AND tenofovir,.,</s>,.,:," """, aspirin, µ, ®, ***, Pain
+tenofovir,.,</s>,.,:," """, ®, aspirin, µ, Δ, ***
+abacavir,.,</s>,.,:," """, ®, µ, aspirin, Δ,","
+atorvastatin,.,</s>,.,:," """, µ, ®, ***, aspirin, Δ
+simvastatin,.,</s>,.,:," """,",", Bone, ()., µ, Δ
+pravastatin,.,</s>,.,:," """, µ, ®,......,..., Bone
+rosuvastatin,</s>,.,.," """,:, e, µ, Pain, ®, l
+lovastatin,.,</s>,.,:," """, Pain, µ, e, ®,","
+ezetimibe,.,</s>,.,:," """,",", µ, ®,......,...
+gemfibrozil,</s>,.,.,:," """, µ, e, Pain, aspirin, D
+niacin,.,</s>,.,:," """, µ,",", ®,......, Δ
+ezetimibe AND simvastatin,.,</s>,.,:,",", µ,......, ***, ®," """
+fenofibric acid,.,</s>,.,:," """, µ, ***, e, Bone, Pain
+atorvastatin,.,</s>,.,:," """, µ, ®, aspirin,......, ***
+simvastatin,.,</s>,.,:," """, ®, µ, ***,",",...
+pravastatin,.,</s>,.,:," """, ®, µ,",",......, Pain
+rosuvastatin,.,</s>,.,:," """, µ, ***, aspirin, ®, Δ
+lovastatin,.,</s>,.,:," """, µ, ®, ***,..., Pain
+ezetimibe,.,</s>,.,:," """, ®, µ, ***,...,......
+gemfibrozil,.,</s>,.,:," """, ®, µ,......, ***,","
+niacin,.,</s>,.,:," """, µ, ®,......,","," ""."
+ezetimibe AND simvastatin,.,</s>,.,:," """, µ, ***, ®,......,...
+fenofibric acid,.,</s>,.,:," """, µ,",", ®, aspirin, Δ
+atorvastatin,.,</s>,.,:," """,",", µ, Δ, ®, ().
+simvastatin,.,</s>,.,:," """, µ, aspirin, ®, e, ***
+pravastatin,.,</s>,.,:," """, µ,......, ***, DSM,","
+rosuvastatin,.,</s>,.,:," """, µ, ®,",",......, ***
+lovastatin,.,</s>,.,:," """, µ,",",...,......," """""
+ezetimibe,.,</s>,.,:,",", ®, µ," """, Pain, Bone
+gemfibrozil,</s>,.,.,:," """, ®, µ, ***, Pain,...
+niacin,.,</s>,.,:," """, µ,..., ***,..., [...]
+ezetimibe AND simvastatin,.,</s>,.,:," """, µ, ®, ***,......,...
+fenofibric acid,.,</s>,.,:,",", µ," """, A, ®, DSM
+meloxicam,.,</s>,.,:," """, µ, ®, ***, Δ,......
+diclofenac,.,</s>,.,:," """, µ," """"", ***,......,","
+naproxen,.,</s>,.,:, ®, µ," """, Pain, Mead, Bone
+ibuprofen,.,</s>,.,:," """, µ, ®,......, ***, Δ
+celecoxib,.,</s>,.,:," """, ***,",",..., µ, ®
+chondroitin AND glucosamine,</s>,.,.," """, µ, e,:, D, ®, l
+diclofenac,.,</s>,.,:," """, ***,",", µ, e, ®
+etodolac,.,</s>,.,:," """, aspirin, µ, e, :, ®
+prednisone,.,</s>,.,:," """,",", Bone, ®, ***, Lyme
+aspirin,.,</s>,.,:," """,",", µ, ***, Bone, Δ
+nabumetone,.,</s>,.,:," """, µ,......, aspirin, Pain, ®
+duloxetine,.,</s>,.,:," """, µ, ®, DSM, e, aspirin
+modafinil,.,</s>,.,:," """, µ, ®, e, ***," """""
+duloxetine,</s>,.,.,:," """, µ, aspirin, ®, e, DSM
+lisdexamfetamine,.,</s>,.,:," """, µ, ®, aspirin, ***,......
+amantadine,.,</s>,.,:," """, µ, ®, ***,...,","
+armodafinil,.,</s>,.,:," """,",",......, ®,..., CNS
+ibuprofen,</s>,.,.,:," """, µ," """"", aspirin, ®, Δ
+naproxen,.,</s>,.,:," """, µ, ®, Pain, Bone, Δ
+acetaminophen,.,</s>,.,:, µ," """, ®, Pain, DSM, aspirin
+diclofenac,</s>,.,.," """,:, e, µ, Pain, ​, l
+nabumetone,.,</s>,.,:," """, µ, Bone,",", Δ, ***
+quetiapine,.,</s>,.,:,","," """, aspirin, µ, Bone, Δ
+lamotrigine,.,</s>,.,:," """, µ, ***, ®,......,...
+lithium,.,</s>,.,:," """, µ, ®, aspirin, ***, Pain
+risperidone,.,</s>,.,:,","," """, µ, ®, ***, e
+fluoxetine,.,</s>,.,:, µ," """,......, ®,",",...
+olanzapine,.,</s>,.,:,","," """, µ, ®, ()., Δ
+buspirone,.,</s>,.,:," """, µ, aspirin, ®," """"", :
+clonazepam,.,</s>,.,:," """, aspirin, µ, ®, ***,","
+sertraline,.,</s>,.,:," """, µ, ®, ***,......, aspirin
+aripiprazole,</s>,.,.,:," """, aspirin, µ, ®," """"",......
+topiramate,.,</s>,.,:," """, µ, aspirin, ®, Δ, ***
+diazepam,</s>,.,.," """,:, µ, e," """"", aspirin, Pain
+lorazepam,.,</s>,.,:, µ," """, ®, ***, Δ, Bone
+escitalopram,.,</s>,.,:," """, µ, aspirin, ®, Pain, ***
+divalproex sodium,.,</s>,.,:, µ, ®,","," """, A, ***
+alprazolam,.,</s>,.,:, µ, ®," """, A,......,","
+clozapine,.,</s>,.,:," """, µ,",", ®, Bone, Pain
+oxcarbazepine,.,</s>,.," """,:, µ, ®,......, e," """""
+citalopram,.,</s>,.,:," """, µ, ®, e,",", DSM
+haloperidol,.,</s>,.,:," """, aspirin, µ, ***, ®,......
+lurasidone,.,</s>,:,.," """, µ, ®, aspirin, ***, Pain
+l-methylfolate,</s>,.,.,:," """, µ, DSM,",", e, ®
+carbamazepine,.,</s>,.,:," """, ***, µ, e, ®, DSM
+asenapine,.,</s>,.,:," """, µ, ®,...,......, ***
+paliperidone,.,</s>,.,:," """, µ, ®, DSM,",", ***
+ketoconazole,.,</s>,.,:," """, µ, ®,..., Pain,......
+terbinafine,.,</s>,.,:," """, µ, ®," """"",......, ***
+ketoconazole,.,</s>,.,:," """, µ, ®,......," """"", e
+terbinafine,.,</s>,.,:," """, µ,",", ®,......, DSM
+terbinafine,.,</s>,.,:," """, µ," """"", aspirin, :, ®
+terbinafine,.,</s>,.,:," """, µ,",", ®, DSM, Pain
+terbinafine,.,</s>,.,:," """, µ, aspirin, Δ, ®, ***
+terbinafine,.,</s>,.,:," """, µ, ®,",", e, ***
+ibuprofen,.,</s>,.,:," """, ®, µ, Δ, Pain,...
+naproxen,.,</s>,.,:,",", µ, ()., ®, Mead, Bone
+acetaminophen,.,</s>,.,:,","," """,......, ®, µ, e
+diclofenac,.,</s>,.,:,",", ()., ®, Mead, Bone, µ
+nabumetone,.,</s>,.,:,",", ®, µ, Bone," """, Mead
+ibuprofen,.,</s>,.," """,:, µ, ®,......," """""," ""."
+naproxen,.,</s>,.,:," """, µ,......, ®, ***, e
+acetaminophen,.,</s>,.,:," """, µ, ***, ®, :, Δ
+diclofenac,.,</s>,.,:," """, µ, ***, aspirin, ®, Δ
+nabumetone,.,</s>,.,:," """, µ, ®, Pain, DSM, ***
+ibuprofen,.,</s>,.,:," """, µ, Δ,",", Pain, aspirin
+naproxen,.,</s>,.,:," """, aspirin, Δ,",", µ, ®
+acetaminophen,.,</s>,.,:," """, aspirin, µ, Δ, ®, e
+diclofenac,.,</s>,.,:,",", µ, ®," """, Pain, Mead
+nabumetone,.,</s>,.,:," """, µ, e,...,......, ®
+triamcinolone,.,</s>,.,:," """, µ, ®, Δ, Bone,...
+triamcinolone,</s>,.,.,:," """, µ, ®, e,......, ***
+quetiapine,.,</s>,.,:," """, µ, Pain, aspirin,",", ***
+lamotrigine,.,</s>,.,:," """, µ,......, ®, e, ***
+lithium,.,</s>,.,:," """, Pain, µ, Lyme, :, Bone
+risperidone,.,</s>,.,:," """, ®,......, µ,...,","
+fluoxetine,.,</s>,.,:, ®," """, µ, FDA, DSM,","
+olanzapine,.,</s>,.,:," """, µ, ®, ***,......, Pain
+buspirone,.,</s>,.,:, µ,",", ®, ().," """, DSM
+clonazepam,.,</s>,.,:, µ," """,",", ®,..., Mead
+sertraline,.,</s>,.,:," """,",", ***,......, ®,...
+aripiprazole,.,</s>,.,:,","," """, ®, ***, µ, Δ
+topiramate,</s>,.,.," """,:, µ, e, ®, Pain, ***
+diazepam,.,</s>,.,:," """,",", ***,..., ®,......
+lorazepam,.,</s>,.,:," """, µ, e, ***,......, Δ
+escitalopram,.,</s>,.,:," """, µ, ®," """"",......, e
+divalproex sodium,.,</s>,.,:, µ, ®, Lyme, Pain, Bone, ***
+alprazolam,</s>,.,.," """,:, µ," """"", ®, e,......
+clozapine,.,</s>,.,:," """, ®, µ,......, ***,...
+oxcarbazepine,.,</s>,.,:," """, µ, ®,......, Bone, ***
+citalopram,.,</s>,.,:," """, µ, e, ®, ***, :
+haloperidol,.,</s>,.,:," """, µ,",", Pain, ®, aspirin
+lurasidone,.,</s>,.,:," """, µ, aspirin, ®,",", Δ
+l-methylfolate,.,</s>,.,:," """,",", µ, ®, DSM,......
+carbamazepine,.,</s>,.,:, µ," """, ®, DSM, Bone, e
+asenapine,.,</s>,.,:, ®, µ,",", Pain," """, Δ
+paliperidone,.,</s>,.,:," """, aspirin, µ, Δ, Pain, ***
+collagenase,.,</s>,.,:," """, µ, ®,..., aspirin,","
+becaplermin,.,</s>,.,:," """, µ, ®,",", ***,......
+cadexomer iodine,.,</s>,.,:," """, aspirin, ***, µ, Pain, ®
+terbinafine,.,</s>,.,:," """, µ, ®, ***,......,","
+terbinafine,.,</s>,.,:," """, µ, ®, Δ, e,......
+meloxicam,.,</s>,.,:," """, µ, ®, Δ,",", ***
+diclofenac,.,</s>,.,:," """, µ,",", e, Bone, A
+naproxen,</s>,.,.,:," """, µ, Pain, e, , aspirin
+ibuprofen,.,</s>,.,:," """,......, ®, µ, CNS,","
+celecoxib,.,</s>,.,:,",", µ," """, Bone, ®, Lyme
+chondroitin AND glucosamine,.,</s>,.,:," """, µ, ®, aspirin,......, Pain
+diclofenac,.,</s>,.,:," """, µ, Δ, aspirin, ***,...
+etodolac,.,</s>,.,:," """, ®, µ,..., ***,","
+prednisone,.,</s>,.,:," """, ®, µ, Δ," ""."," """""
+aspirin,.,</s>,:,.," """, aspirin,",", ***, , µ
+nabumetone,.,</s>,.,:,",", µ," """, ®, Bone, ■
+duloxetine,</s>,.,.,:," """, e, µ, , Δ, ®
+cytarabine,.,</s>,.,:,","," """, µ, Lyme, ®, Mead
+vincristine,.,</s>,.,:," """, µ, ®, ***,...,","
+daunorubicin,.,</s>,.,:," """, aspirin, µ, ®, e, ***
+idarubicin,.,</s>,.,:," """, µ,......, Δ, ***, e
+decitabine,.,</s>,.,:," """, aspirin, Δ, µ, Pain,","
+gemtuzumab,.,</s>,.,:," """, ***,..., ®," """"", Pain
+midostaurin,.,</s>,.,:," """, µ, ®, Δ,",", Pain
+venetoclax,.,</s>,.,:," """, aspirin, ***, DSM,......, µ
+enasidenib,.,</s>,.,:, µ, ®," """, ***, Pain,......
+cytarabine liposomal AND daunorubicin liposomal,.,</s>,.,:," """, µ, ®,..., ***," """""
+ivosidenib,.,</s>,.,:,",", ()., Bone, µ, Mead, Δ
+gilteritinib,.,</s>,.,:," """, µ, e, aspirin, ®," """""
+glasdegib,.,</s>,.,:," """, µ, Δ,",", ®, ***
+cytarabine,.,</s>,.,:," """, µ, Δ, ®, aspirin, Bone
+vincristine,.,</s>,.,:," """, µ, ®, ***,...,","
+daunorubicin,</s>,.,.," """,:, µ, e, aspirin, Δ," """""
+idarubicin,.,</s>,.,:," """,",", ***,..., µ,......
+decitabine,.,</s>,.,:," """, Bone, µ,",", ®, Δ
+gemtuzumab,.,</s>,.,:," """, µ, ®, aspirin,......, ***
+midostaurin,.,</s>,.,:," """,",", µ, ***, DSM,......
+venetoclax,.,</s>,.,:," """, µ, Δ, ***, aspirin, ®
+enasidenib,.,</s>,.,:, ®," """, µ,",",......, aspirin
+cytarabine liposomal AND daunorubicin liposomal,.,</s>,.,:," """, µ, ®, aspirin,......, ***
+ivosidenib,.,</s>,.,:," """, ®, ***, µ,..., Pain
+gilteritinib,.,</s>,.,:," """, µ,......, Δ,",", ®
+glasdegib,.,</s>,.,:," """, µ, Pain, ***, ADHD, Lyme
+cytarabine,.,</s>,.,:,","," """,......, ®, ()., ***
+vincristine,</s>,.,.,:," """, µ, e, D, l, ®
+daunorubicin,.,</s>,.,:," """, µ, ***, aspirin, e, Pain
+idarubicin,.,</s>,.,:," """, µ, e, ®, aspirin, Pain
+decitabine,.,</s>,.,:, µ, ®,",", aspirin," """, DSM
+gemtuzumab,</s>,.,.," """,:, µ, ®, Δ, aspirin, e
+midostaurin,.,</s>,.,:," """, µ, Pain,",", Bone," """""
+venetoclax,.,</s>,.,:, µ,",", ®," """,......, Lyme
+enasidenib,.,</s>,.,:," """, µ, ®, ***, Δ,","
+cytarabine liposomal AND daunorubicin liposomal,</s>,.,.,:," """, ®, µ, Δ, Bone,...
+ivosidenib,.,</s>,.,:," """,",", µ, ()., Bone,...
+gilteritinib,.,</s>,.,:,",", µ," """, ®,......, DSM
+glasdegib,.,</s>,.,:," """, aspirin, Pain, µ, e," """""
+atorvastatin,.,</s>,.,:," """, µ, ®, ***, Pain, Δ
+simvastatin,.,</s>,.,:," """, µ,",", ®, e, Pain
+pravastatin,</s>,.,.,:," """, µ, e, Pain, ®, l
+rosuvastatin,.,</s>,.,:," """,",", µ, Lyme, ***, aspirin
+lovastatin,.,</s>,.,:,",", ()., Bone, µ, ®, Mead
+ezetimibe,.,</s>,.,:," """,",", aspirin, µ, ***, Δ
+gemfibrozil,.,</s>,.,:," """, µ,",", ®, Bone, Mead
+niacin,.,</s>,.,:, ®,",", Mead,......, µ,?
+ezetimibe AND simvastatin,.,</s>,.,:," """,",", µ,..., Bone,......
+fenofibric acid,.,</s>,:,.," """, :, µ, ®, ***," ""."
+cyclophosphamide,.,</s>,.,:," """, µ, Bone, Pain, Lyme, e
+vincristine,.,</s>,.,:," """, aspirin, µ, ®, Δ, Pain
+rituximab,.,</s>,.,:,","," """, ().,...,......, ®
+methotrexate,.,</s>,.,:," """,",", µ, ®, Δ, ***
+bendamustine,.,</s>,.,:, ®," """,",", µ, Pain, FDA
+cytarabine,.,</s>,.,:," """, µ, ***, ®, e,...
+fludarabine,.,</s>,.,:," """, µ," "".",..., ®," """""
+bleomycin,.,</s>,.,:, µ, Bone, Lyme, Pain, Mead, Δ
+carmustine,.,</s>,.,:," """,",", DSM, µ, aspirin, ***
+idelalisib,.,</s>,.,:," """, µ,......, ®, e, aspirin
+ibritumomab,.,</s>,.,:," """, µ, ®, Δ,......, ***
+ibrutinib,.,</s>,.,:," """, µ, ®,",", DSM, aspirin
+mitoxantrone,.,</s>,.,:," """, µ, ®, ***,......, Δ
+cyclophosphamide,.,</s>,.,:," """,",", µ, ®, Pain, Oral
+vincristine,</s>,.,.,:," """, :, µ, ®, aspirin,......
+rituximab,.,</s>,.,:," """, µ,..., ®,......, ***
+methotrexate,.,</s>,.,:," """," """"",",", µ, ***, Δ
+bendamustine,.,</s>,.,:,","," """, ()., ®, µ,......
+cytarabine,.,</s>,.,:," """, ***, Bone,",", µ, Pain
+fludarabine,.,</s>,.,:," """, ***, aspirin,..., ®, µ
+bleomycin,.,</s>,.,:," """, µ, e, , ®, ***
+carmustine,.,</s>,.,:," """, aspirin, ***, µ, ®, Pain
+idelalisib,.,</s>,.,:," """,",", ®, µ, Δ, ***
+ibritumomab,</s>,.,.,:," """, µ, e, Pain, ®, Lyme
+ibrutinib,.,</s>,.,:," """, µ, ®, e, Δ, ***
+mitoxantrone,.,</s>,.,:," """, µ, ***, Δ, ®, Lyme
+cyclophosphamide,.,</s>,.,:," """, µ,",", ®, Bone,...
+vincristine,.,</s>,.,:,",", ®, µ," """, ()., Mead
+rituximab,.,</s>,.,:," """, µ, ***, ®, :," """""
+methotrexate,.,</s>,.,:," """, µ, ®, e, Δ,......
+bendamustine,.,</s>,.,:," """, µ, ®, ***,",", Pain
+cytarabine,.,</s>,.,:," """, µ, ®, ***,..., A
+fludarabine,.,</s>,.,:, µ," """, ®, Pain, Lyme, aspirin
+bleomycin,.,</s>,.,:,",", µ, ®, ().,..., Bone
+carmustine,.,</s>,.,:," """, ®, µ, DSM, aspirin, e
+idelalisib,.,</s>,.,:," """, µ, aspirin, ®, ***, e
+ibritumomab,.,</s>,.,:," """, aspirin," """"", µ, ***, :
+ibrutinib,.,</s>,.,:," """, µ, ®, ***, Δ, e
+mitoxantrone,.,</s>,.,:," """,",", µ, ***, ®, Δ
+cyclophosphamide,.,</s>,.,:," """, µ, ®, ***,...,......
+vincristine,.,</s>,.,:," """, µ, ®, ***, e," ""."
+rituximab,.,</s>,.,:, µ," """, ®,......, aspirin, Bone
+methotrexate,.,</s>,.,:," """, aspirin, Pain, ***,..., µ
+bendamustine,.,</s>,.,:," """, µ, ®, ***,......,...
+cytarabine,.,</s>,.,:," """,",", µ, ®, Bone, A
+fludarabine,.,</s>,.,:, ().," """,",",..., ®, ***
+bleomycin,.,</s>,.,:," """, µ, ®, aspirin, e, Pain
+carmustine,</s>,.,.,:," """, µ, ®,......, ***," """""
+idelalisib,.,</s>,.,:," """, µ," """"",......, ®, ***
+ibritumomab,.,</s>,.,:," """, µ, e, ***, Lyme, aspirin
+ibrutinib,.,</s>,.,:," """,",", ®, µ, ()., ***
+mitoxantrone,.,</s>,.,:," """, µ, ***, aspirin,......, ®
+cyclophosphamide,.,</s>,.,:, µ,",", ®," """, Bone, ().
+vincristine,.,</s>,.,:," """, µ, ®, Δ, ***, e
+rituximab,.,</s>,.,:," """, ®, µ, Lyme, Pain,","
+methotrexate,.,</s>,.,:," """,",", µ, DSM, aspirin, ®
+bendamustine,.,</s>,.,:," """, µ,",", ***, ®, Bone
+cytarabine,.,</s>,.,:," """,",", µ, ®, Δ,......
+fludarabine,.,</s>,.,:," """, ®, µ,...,......,","
+bleomycin,.,</s>,.,:," """, µ,",", e, ®, Bone
+carmustine,.,</s>,.,:, µ," """, ®,",",......, DSM
+idelalisib,.,</s>,.,:," """, ®, ***, µ, DSM, aspirin
+ibritumomab,.,</s>,.,:," """, µ,",", ®,...,......
+ibrutinib,.,</s>,.,:," """, aspirin, ®,......, µ," """""
+mitoxantrone,.,</s>,.,:,",", µ, Mead, ®, ***, Andrea
+cyclophosphamide,.,</s>,.,:," """, µ, aspirin, ®,......," ""."
+vincristine,.,</s>,.,:," """, ®, ***, µ, Pain, Δ
+rituximab,.,</s>,.,:," """, ®, ***, aspirin, µ,...
+methotrexate,.,</s>,.,:," """, µ,",", Pain, DSM, Bone
+bendamustine,.,</s>,.,:, ®," """, µ, Pain, Lyme,","
+cytarabine,.,</s>,.,:," """, µ, ®, e, Lyme, Pain
+fludarabine,.,</s>,.,:," """, ***, aspirin, Pain, µ,......
+bleomycin,.,</s>,.,:," """, Δ, µ, ®, e,","
+carmustine,.,</s>,.,:,",", µ," """, ®, aspirin, e
+idelalisib,.,</s>,.,:," """, µ, Δ, ***, ®, Lyme
+ibritumomab,</s>,.,.,:," """, ®, µ, Pain, e, aspirin
+ibrutinib,.,</s>,.,:," """, ®, Δ, µ,",",...
+mitoxantrone,.,</s>,.,:," """, µ,",", DSM,......, D
+dexamethasone,.,</s>,.,:," """,",", µ, ***, ®,......
+thalidomide,.,</s>,.,:," """, ®,",", µ, Δ, Pain
+cyclophosphamide,.,</s>,.,:," """, µ,......, ®, ***,...
+lenalidomide,.,</s>,.,:,",", ()., ■, Mead, Bone," """
+bortezomib,</s>,.,.," """,:, µ, aspirin,......, , ®
+carfilzomib,.,</s>,.,:," """, µ, ®, ***,......, Bone
+pomalidomide,.,</s>,.,:," """, µ, ®, Pain, ***, aspirin
+daratumumab,.,</s>,.,:," """, Pain, aspirin, Lyme, Barbie,......
+melphalan,.,</s>,.,:," """, ***,......, µ, ®, e
+modafinil,.,</s>,.,:," """, µ, ®, e, Δ, aspirin
+duloxetine,</s>,.,.,:," """, µ, l, e, ®, D
+lisdexamfetamine,.,</s>,.,:," """," """"", µ,",", Δ, e
+amantadine,.,</s>,.,:," """, µ, ®, Pain,...,......
+armodafinil,.,</s>,.,:," """, µ,",", ®, Bone, Mead
+modafinil,.,</s>,.,:," """, µ, ®, ***," ""."," """""
+duloxetine,.,</s>,.,:," """, µ, ®,......, Pain, aspirin
+lisdexamfetamine,.,</s>,.,:," """, µ, ***, ®," """"",......
+amantadine,.,</s>,.,:," """, µ, ®, aspirin, Pain,","
+armodafinil,.,</s>,.,:," """, µ, ®,",", Δ, Bone
+miconazole,.,</s>,.,:," """, µ,",", ®, Δ, Bone
+miconazole,.,</s>,.,:," """,",", ***, Δ, ®, µ
+dexamethasone,.,</s>,.,:,","," """, µ, ***, DSM,......
+thalidomide,.,</s>,.,:," """," """"", µ, aspirin,......, ®
+cyclophosphamide,.,</s>,.,:," """, µ, ®,......, aspirin,...
+lenalidomide,.,</s>,.,:," """, µ, ***, ®,......,","
+bortezomib,.,</s>,.,:," """, ®,..., µ, ***,......
+carfilzomib,.,</s>,.,:," """, µ, ®, e, aspirin, 
+pomalidomide,.,</s>,.,:," """, µ,",", ®, e," """""
+daratumumab,.,</s>,.,:,","," """, ***,...,......, [...]
+melphalan,.,</s>,.,:," """, µ, ®, ***,",",...
+ibuprofen,.,</s>,.,:," """, µ, ®," """"", e, Δ
+naproxen,</s>,.,.,:," """, ***, µ, ®,..., Δ
+acetaminophen,.,</s>,.,:," """, ®, µ,",",......, ***
+diclofenac,.,</s>,.,:,",", ®, ()., µ," """,?
+nabumetone,.,</s>,.,:," """, µ, ***, ®,..., Bone
+ibuprofen,.,</s>,.,:, µ, ®,",", e," """, A
+naproxen,.,</s>,.,:," """, ®, µ,..., ***,......
+acetaminophen,.,</s>,.,:," """,",", ®, aspirin,......, Pain
+diclofenac,.,</s>,.,:," """, µ, ®,......, ***,...
+nabumetone,.,</s>,.,:," """, µ, ***, ®,..., :
+ibuprofen,.,</s>,.,:," """, µ,",", ***, ®, Lyme
+naproxen,.,</s>,.,:," """, µ, e,......, Δ,","
+acetaminophen,.,</s>,.,:," """, µ,......, ®, Δ, aspirin
+diclofenac,.,</s>,.,:," """, µ,",", Δ, ®, ***
+nabumetone,.,</s>,.,:," """,",", µ, Δ, ***, ®
+modafinil,.,</s>,.,:," """, µ, ®, aspirin, e," ""."
+duloxetine,.,</s>,.,:," """, µ, ®, aspirin,...,......
+lisdexamfetamine,.,</s>,.,:," """, µ, ®, Pain, ***,......
+amantadine,.,</s>,.,:," """, ®, µ, Δ,",", Bone
+armodafinil,.,</s>,.,:," """, µ, ®, aspirin,......, ***
+modafinil,.,</s>,.,:, µ," """, ®,",", ***, Mead
+duloxetine,.,</s>,.,:," """, µ, ®, ***, aspirin, Pain
+lisdexamfetamine,.,</s>,.,:," """, Bone,",", µ, ®,...
+amantadine,.,</s>,.,:,",", ()., µ,?,;, ®
+armodafinil,.,</s>,.,:, µ," """,",", ®, Lyme,......
+dexamethasone,.,</s>,.,:," """, µ, ***, ®, Δ,......
+thalidomide,.,</s>,.,:," """, µ, ®, ***,...,......
+cyclophosphamide,.,</s>,.,:," """,",", µ, ®, Bone, DSM
+lenalidomide,.,</s>,.,:," """, µ,..., ***, ®,......
+bortezomib,.,</s>,.,:,",", ®, µ, Mead, Bone," """
+carfilzomib,.,</s>,.,:," """, µ, ®, ***, aspirin,......
+pomalidomide,.,</s>,.,:," """, µ, ®, e, Bone,","
+daratumumab,.,</s>,.,:,",", ().," """, µ, CNS, Δ
+melphalan,.,</s>,.," """,:,",", Δ, ***, µ, ®
+collagenase,.,</s>,.,:," """, µ, aspirin,",", ®, Δ
+becaplermin,.,</s>,.,:," """, µ," """"", e, ®, ***
+cadexomer iodine,</s>,.,.,:," """, aspirin, Pain, ®," """"", Δ
+aspirin,.,</s>,.,:," """, µ," """"", ***, ®, aspirin
+nitroglycerin,.,</s>,.,:," """,",", µ, Δ, DSM, Bone
+metoprolol,.,</s>,.,:, µ, Pain," """, Oral, ®, Bone
+amlodipine,.,</s>,.,:," """, aspirin, µ, DSM, ®,","
+isosorbide mononitrate,.,</s>,.,:,",", µ," """, ®, ***, DSM
+isosorbide dinitrate,.,</s>,.,:," """, aspirin, ***, µ, ®, Δ
+enoxaparin,.,</s>,.,:," """, µ, ®,......,..., ***
+ranolazine,</s>,.,.,:," """, µ, e, Pain, ®, aspirin
+atenolol,.,</s>,.,:," """, µ,......, aspirin, ®,...
+carvedilol,.,</s>,.,:," """, µ,......, aspirin,..., ®
+amlodipine AND atorvastatin,.,</s>,.,:,",", µ, ®, ()., Mead," """
+cyclophosphamide,.,</s>,.,:," """, aspirin, µ,......,..., ®
+vincristine,.,</s>,.,:, ®, µ,......,",", Pain, Lyme
+rituximab,.,</s>,.,:," """, µ, ®,......, ().," """""
+methotrexate,</s>,.,.,:," """, µ, aspirin, e, :, ®
+bendamustine,.,</s>,.,:," """, µ, ***, Δ,......, ®
+cytarabine,.,</s>,.," """,:, µ, ®, e, ***,......
+fludarabine,.,</s>,.,:," """, ®, µ, ***,......,","
+bleomycin,.,</s>,.,:," """, µ, ®, :," """"", e
+carmustine,.,</s>,.,:,","," """, ®, Bone, µ, Lyme
+idelalisib,.,</s>,.,:," """, aspirin, µ, ***, Δ, ®
+ibritumomab,.,</s>,.,:," """, µ, ®, aspirin, Pain, ***
+ibrutinib,.,</s>,.,:," """,",", µ, aspirin, Δ, ***
+mitoxantrone,.,</s>,.," """,:, ®,......, µ, Δ, ***
+cyclophosphamide,.,</s>,.,:," """, aspirin, µ, Pain, ®, ***
+vincristine,.,</s>,.,:, µ, ®," """, e, ***, Pain
+rituximab,.,</s>,.,:," """, µ, ®, Bone, Mead, ***
+methotrexate,.,</s>,.,:," """, µ, aspirin, ®," """"", Δ
+bendamustine,.,</s>,.,:, µ," """, ®,......, ***,","
+cytarabine,.,</s>,.,:," """, ***, µ, ®, :, DSM
+fludarabine,.,</s>,.,:," """, µ, ®,",",......,...
+bleomycin,.,</s>,.,:," """,",", ***, ®,..., µ
+carmustine,.,</s>,.,:," """, aspirin, µ, DSM, Δ,......
+idelalisib,.,</s>,.,:," """, aspirin,......,",", µ, ***
+ibritumomab,.,</s>,.,:," """, µ, ®, ***, Pain, aspirin
+ibrutinib,</s>,.,.,:," """, µ,......, ®,..., ***
+mitoxantrone,.,</s>,.,:," """, µ,......, ®, ***, aspirin
+meloxicam,.,</s>,.,:," """, µ, ®,",", Mead, Pain
+diclofenac,.,</s>,.,:," """, µ, aspirin," """"",......, ®
+naproxen,.,</s>,.,:," """, µ, ®,......, Pain, ***
+ibuprofen,.,</s>,.,:," """, µ, aspirin," """"",",", Δ
+celecoxib,.,</s>,.,:," """, µ, ®,......, ***, :
+chondroitin AND glucosamine,.,</s>,.,:," """, µ, ®, A, DSM,","
+diclofenac,</s>,.,.," """, µ,:, e, ®, l, 
+etodolac,.,</s>,.,:," """,",", µ, ***,......,...
+prednisone,.,</s>,.,:, µ," """, ®, Pain, Bone, Lyme
+aspirin,.,</s>,.,:," """, µ," """"",",", ®,...
+nabumetone,.,</s>,.,:," """, aspirin, µ,..., ®,......
+duloxetine,.,</s>,.,:," """, µ, Δ, ®, ***,...
+miconazole,.,</s>,.,:," """, µ,",", ®,......, e
+miconazole,.,</s>,.,:,",", Mead, µ, DSM, Bone, ®
+miconazole,.,</s>,.,:," """,",", µ, aspirin, Pain, ®
+miconazole,.,</s>,.,:," """, ®, µ, ***,......,...
+miconazole,.,</s>,.,:, µ," """,",", ®, DSM, e
+miconazole,.,</s>,.,:," """, µ, ®, aspirin," """"", ***
+meloxicam,.,</s>,.,:," """, µ, Δ, ®, e, :
+diclofenac,.,</s>,.,:," """,",", ®, µ, e, Pain
+naproxen,.,</s>,.,:," """, µ, ®,...,......, e
+ibuprofen,.,</s>,.,:," """, µ, ®, aspirin, ***, Pain
+celecoxib,.,</s>,.,:," """, µ, ®, CNS, DSM, aspirin
+chondroitin AND glucosamine,.,</s>,.,:," """, µ, ®, :," """"",......
+diclofenac,.,</s>,.,:," """, µ, ®, aspirin,",",......
+etodolac,.,</s>,.,:," """, µ, Δ, e," """"", ®
+prednisone,.,</s>,.,:," """, ***, µ, ®, Δ,......
+aspirin,.,</s>,.,:," """, Pain, µ, ®, aspirin, Δ
+nabumetone,.,</s>,.,:," """,",", ***,..., µ,......
+duloxetine,.,</s>,.,:," """, µ, ®, Mead, aspirin, Bone
+meloxicam,.,</s>,.,:," """, aspirin,",", µ, Δ,......
+diclofenac,.,</s>,.,:," """, ®, µ,","," "".", ().
+naproxen,.,</s>,.,:," """, µ, ®, Pain, e, Δ
+ibuprofen,.,</s>,.,:, ®," """, µ, Δ,",", DSM
+celecoxib,.,</s>,.,:," """, µ, Pain, ®, Δ, ***
+chondroitin AND glucosamine,.,</s>,.,:," """, µ,",", ®," "".", Bone
+diclofenac,.,</s>,.,:," """, µ, ®, ***, DSM, Δ
+etodolac,.,</s>,.,:," """, ***, aspirin,",", Δ, Pain
+prednisone,.,</s>,.,:," """, ®,",", ***, µ,...
+aspirin,.,</s>,.,:," """, µ, ***, e,..., Δ
+nabumetone,.,</s>,.,:, ®, µ," """,..., ***, ().
+duloxetine,.,</s>,.,:,",", µ," """, Bone, aspirin, Pain
+ibuprofen,.,</s>,.,:," """, ®, µ,",", ***,......
+naproxen,.,</s>,.,:, µ, ®," """, DSM,......, Mead
+acetaminophen,</s>,.,.,:," """, e, µ, DSM,",", Δ
+diclofenac,.,</s>,.,:," """, µ, ®, aspirin," "".", ***
+nabumetone,.,</s>,.,:," """,",", ®, µ, ***, Bone
+ibuprofen,.,</s>,.,:," """, ®, µ,",", Δ, ***
+naproxen,.,</s>,.,:," """, aspirin, e, µ, Δ,","
+acetaminophen,</s>,.,.," """,:, µ,...," """"", ®,......
+diclofenac,.,</s>,.,:," """, µ,",", ®, DSM, aspirin
+nabumetone,.,</s>,.,:, µ, aspirin, ®," """, Bone, Lyme
+ibuprofen,.,</s>,.,:," """, µ,......, ®,..., ***
+naproxen,.,</s>,.,:," """, aspirin, µ, Pain, ®," """""
+acetaminophen,.,</s>,.,:," """, ®, µ, ***, DSM,......
+diclofenac,.,</s>,.,:," """, ®, µ,",", Bone, ***
+nabumetone,.,</s>,.,:, ®,",", µ, ().," """,...
+ibuprofen,</s>,.,.," """,:, µ, ®, aspirin, Pain, Bone
+naproxen,</s>,.,.,:," """, µ," """"", ®, e, Pain
+acetaminophen,.,</s>,.,:," """, µ,",", ®, ().,......
+diclofenac,.,</s>,.,:," """,",", ®, µ,......,...
+nabumetone,.,</s>,.,:," """,",", Δ, ®, ()., µ
+triamcinolone,.,</s>,.,:, µ," """, ®,......, ***,","
+triamcinolone,.,</s>,.,:," """, µ, ®, Δ, e, DSM
+risperidone,.,</s>,.,:," """, µ, Pain,",",..., ®
+clozapine,.,</s>,.,:," """,",", µ, ***,......, Δ
+olanzapine,.,</s>,.,:," """, µ, aspirin, ®, ***, Pain
+quetiapine,.,</s>,.,:, µ," """, ®,......, DSM, Pain
+aripiprazole,.,</s>,.,:," """, µ," """"",......, e, aspirin
+chlorpromazine,.,</s>,.,:," """, µ, aspirin, e, ®, Bone
+paliperidone,.,</s>,.,:," """, µ, ***, aspirin, ®,......
+ziprasidone,.,</s>,.,:," """, µ,",", e, ®,......
+loxapine,.,</s>,.,:, µ," """, aspirin, ®, Pain, Bone
+ibuprofen,.,</s>,.,:," """, Pain, µ, ®, ***, Lyme
+naproxen,.,</s>,.,:, µ," """, DSM, ®, e, Bone
+acetaminophen,.,</s>,.,:," """, ***, Δ, ®,",", aspirin
+diclofenac,.,</s>,.,:," """, µ, ®, ***, Pain,......
+nabumetone,.,</s>,.,:," """, µ, ®, ***, aspirin, Pain
+quetiapine,.,</s>,.,:," """, µ, ®,......,..., ***
+lamotrigine,.,</s>,.,:," """, µ, aspirin, ®, Pain, e
+lithium,.,</s>,.,:, µ," """, ®, Lyme, Bone,......
+risperidone,.,</s>,.,:," """, µ, ®, ***, e," ""."
+fluoxetine,.,</s>,.,:," """, µ,......, ®," """"",...
+olanzapine,.,</s>,.,:," """, µ,",", ®, Δ, Pain
+buspirone,.,</s>,.,:," """, µ, ®,......,..., aspirin
+clonazepam,</s>,.,.," """,:, e, µ, Pain, D, l
+sertraline,.,</s>,.,:," """, µ, e, ®, ***, aspirin
+aripiprazole,.,</s>,.,:," """, µ, e, ®, ***,......
+topiramate,.,</s>,.,:," """,",", µ, Δ, Pain, e
+diazepam,.,</s>,.,:," """, ®, µ, Pain, Bone, Mead
+lorazepam,.,</s>,.,:, µ," """, ®,",", e, Lyme
+escitalopram,.,</s>,.,:," """, µ,",", aspirin, Δ," """""
+divalproex sodium,.,</s>,.,:," """, µ, ®, e, aspirin,......
+alprazolam,.,</s>,.,:," """, µ, ®, Δ," """"", ***
+clozapine,.,</s>,.,:," """, µ,......, ®, Δ, e
+oxcarbazepine,.,</s>,.,:," """,",", ®, ***, Δ, µ
+citalopram,.,</s>,.,:," """,",", ***,......, Δ, ®
+haloperidol,.,</s>,.,:," """, aspirin, µ,",", ®, ***
+lurasidone,.,</s>,.,:," """, µ, ®,......, ***,...
+l-methylfolate,.,</s>,.,:," """,",", ®, µ, Δ,...
+carbamazepine,.,</s>,.,:," """, µ, ®, Pain, Bone, e
+asenapine,.,</s>,.,:," """, µ, ®,......,...,","
+paliperidone,.,</s>,.,:," """, µ, ***, ®,",", Pain
+dexamethasone,.,</s>,.,:,","," """, ()., aspirin, Δ, Bone
+thalidomide,.,</s>,.,:," """, µ, ®,......, Pain,...
+cyclophosphamide,.,</s>,.,:," """,",", µ, ®,..., :
+lenalidomide,</s>,.,.,:," """, µ,",", ®, e, D
+bortezomib,.,</s>,.,:,","," """, µ, ***, ®,......
+carfilzomib,.,</s>,.,:," """,",", µ,..., ***, aspirin
+pomalidomide,</s>,.,.,:," """, µ, ®, aspirin, e, Δ
+daratumumab,.,</s>,.,:," """, aspirin, µ, ®, DSM, Pain
+melphalan,.,</s>,.,:, ®," """, µ, Lyme, Pain,......
+dexamethasone,.,</s>,.,:," """,",", aspirin, ®, µ,......
+thalidomide,.,</s>,.,:," """, ®, µ, ***, aspirin, DSM
+cyclophosphamide,.,</s>,.,:," """, µ, ®," """"", aspirin,","
+lenalidomide,.,</s>,.,:," """, µ, ®, aspirin, Pain,...
+bortezomib,.,</s>,.,:," """, µ, ***, e, ®, Δ
+carfilzomib,.,</s>,.,:," """, µ,",", ***,......, ®
+pomalidomide,.,</s>,.,:," """, Δ, µ, ®,",", aspirin
+daratumumab,.,</s>,.,:," """, µ," """"", ®,...,","
+melphalan,</s>,.,.,:," """, µ, ®, ***, Pain,......
+dexamethasone,.,</s>,.,:," """, aspirin, µ, Pain," """"", ***
+thalidomide,.,</s>,.," """,:, µ, ®," """"", ***, e
+cyclophosphamide,.,</s>,.,:," """, µ, e, ®, l, aspirin
+lenalidomide,.,</s>,.,:," """, µ,......, ®, ***, Δ
+bortezomib,.,</s>,.,:," """, µ, ®, Δ, , ***
+carfilzomib,.,</s>,.,:," """, µ, ®, Bone, Pain, DSM
+pomalidomide,.,</s>,.,:," """, µ, aspirin, ®, ***, Δ
+daratumumab,.,</s>,.,:," """, aspirin, µ, ®, Pain, Bone
+melphalan,.,</s>,.,:," """, µ," """"", Pain, e, aspirin
+modafinil,.,</s>,.,:,",", ()., µ, ®," """, Bone
+duloxetine,.,</s>,.,:," """, µ, Δ,",", ***," """""
+lisdexamfetamine,.,</s>,.,:, µ," """, ®,",", e, Pain
+amantadine,</s>,.,.,:," """, µ, e, ®,",", ***
+armodafinil,.,</s>,.,:," """, µ, aspirin, ®, Lyme, Pain
+collagenase,</s>,.," """,.,:, µ, e, ​, ®, l
+becaplermin,.,</s>,.,:, ®, µ," """,",", Mead, ***
+cadexomer iodine,.,</s>,.,:," """, aspirin, µ, ***, ®, Δ
+collagenase,.,</s>,.,:," """, ®, Pain, µ, Bone, Lyme
+becaplermin,.,</s>,.,:," """, µ, ®,......, ***, e
+cadexomer iodine,.,</s>,.,:," """,",", µ, Δ, e, aspirin
+lamivudine,.,</s>,.,:," """, aspirin, µ, ®, Δ, ***
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.,:," """, aspirin, µ, ***," """"",......
+ritonavir,.,</s>,.,:," """, µ, ®, Pain,",", aspirin
+emtricitabine AND tenofovir,.,</s>,.,:," """, µ,",", e, ***,......
+tenofovir,.,</s>,.,:," """, µ,",", ®,......,...
+abacavir,.,</s>,.,:," """, aspirin, µ," """"",..., ***
+aspirin,.,</s>,.,:," """, µ, ***,",", Δ, ®
+nitroglycerin,.,</s>,.,:," """, µ, ®,",",......, Δ
+metoprolol,.,</s>,.,:, µ,",", ®," """, ().,......
+amlodipine,.,</s>,.,:," """, µ, ®,......, e,...
+isosorbide mononitrate,.,</s>,.,:," """,",", ***,......, µ, ®
+isosorbide dinitrate,.,</s>,.,:,",", ().,?, ®, Bone, Mead
+enoxaparin,.,</s>,.,:," """,",", µ, aspirin, ®, ***
+ranolazine,.,</s>,.,:," """, µ, aspirin, Δ, ®,...
+atenolol,.,</s>,.,:," """, µ, ®, Bone, Lyme, Pain
+carvedilol,.,</s>,.,:," """, µ, ®, Pain, aspirin, DSM
+amlodipine AND atorvastatin,.,</s>,.,:," """, aspirin, µ,",", Δ, Pain
+triamcinolone,.,</s>,.,:,","," """, µ, Bone, ®, Δ
+triamcinolone,.,</s>,.,:," """, µ,",", ®, ***,......
+triamcinolone,.,</s>,.,:, Pain, Mead, µ, ®,",", Δ
+triamcinolone,.,</s>,.,:," """, µ, ®,......," "".", Pain
+risperidone,.,</s>,.,:," """, µ, ®," """"", :, e
+clozapine,</s>,.,.,:," """, µ, ®, ***," """"", e
+olanzapine,.,</s>,.,:," """, aspirin, µ, ®,......,...
+quetiapine,.,</s>,.,:," """, µ," """"", ***, ®,......
+aripiprazole,.,</s>,.,:," """, aspirin, µ, ®, ***, Pain
+chlorpromazine,.,</s>,.,:," """,",", Δ, µ, ***, e
+paliperidone,</s>,.,.,:," """, µ, e, ,",", l
+ziprasidone,.,</s>,.,:," """, µ, ®, Lyme, e, Pain
+loxapine,.,</s>,.,:," """, µ, ®, aspirin," """"", :
+ketoconazole,.,</s>,.,:," """, µ, ®,",", e," """""
+terbinafine,</s>,.,.," """,:, µ, ®,",", e, Δ
+ketoconazole,.,</s>,.,:," """, µ,......, ®, Δ,...
+terbinafine,.,</s>,.,:, µ," """, ®, aspirin," "".",......
+ketoconazole,.,</s>,.,:," """," """"", µ, ***, e, ®
+terbinafine,.,</s>,.,:," """,",", ***, ®, Bone, µ
+ketoconazole,.,</s>,.,:," """, µ, ®, Δ,",", ***
+terbinafine,.,</s>,.,:," """, µ, Δ,",", ***, ®
+terbinafine,.,</s>,.,:," """,",", ®, ***, µ, DSM
+terbinafine,.,</s>,.,:,",", µ," """, ®, Δ, A
+terbinafine,.,</s>,.,:,","," """, µ, ®,......, ***
+terbinafine,.,</s>,.,:," """, µ, ®, ***, DSM, Δ
+ibuprofen,.,</s>,.,:," """, ®, µ,......, ***, aspirin
+naproxen,.,</s>,.,:,",", Bone, Mead, µ, ()., ®
+acetaminophen,.,</s>,.,:," """, ®,",", µ,......, DSM
+diclofenac,.,</s>,.,:," """, µ, ®,......," """""," ""."
+nabumetone,.,</s>,.,:," """, µ,",", ®,..., Δ
+meloxicam,.,</s>,.,:," """, µ, ®, aspirin, Δ, ***
+diclofenac,.,</s>,.,:," """, aspirin, µ, ®, ***," """""
+naproxen,.,</s>,.,:, Mead, Pain, µ, Lyme, Bone, ®
+ibuprofen,.,</s>,.,:," """,",", µ, ®, aspirin, ***
+celecoxib,.,</s>,.,:," """,",", ®, ***, DSM,......
+chondroitin AND glucosamine,.,</s>,.,:," """, ***, µ, aspirin, ®,......
+diclofenac,.,</s>,.,:,",", ().,?, µ,......, :-)
+etodolac,.,</s>,.,:, µ,",", ®," """,...,......
+prednisone,</s>,.," """,:,., , e, `, ®, :
+aspirin,.,</s>,.,:," """,",", µ, Bone, Mead, ®
+nabumetone,.,</s>,.,:," """, µ, ®, ***, aspirin," """""
+duloxetine,.,</s>,.,:," """, ®, µ,",", Bone, Pain
+risperidone,.,</s>,.,:," """, µ, aspirin, DSM, e, ®
+clozapine,.,</s>,.,:," """, µ, ®,......, aspirin, ***
+olanzapine,.,</s>,.,:," """, µ, ®, Pain, Bone, Δ
+quetiapine,.,</s>,.,:,","," """, ()., µ, Bone, e
+aripiprazole,.,</s>,.,:," """, µ, ***, ®," """"",","
+chlorpromazine,.,</s>,.,:, µ," """, ®, e, D, Pain
+paliperidone,</s>,.,.," """,:, e, µ, l, , ®
+ziprasidone,.,</s>,.,:,",", µ," """, ®, Lyme, Bone
+loxapine,.,</s>,.,:," """,",", µ,..., ®,...
+risperidone,.,</s>,.,:," """,",", ®, µ, ***, Mead
+clozapine,.,</s>,.,:,","," """, µ,......, ()., ®
+olanzapine,.,</s>,.,:," """, µ, ®, ***,......, :
+quetiapine,.,</s>,.,:," """, µ,",", Bone, DSM, ®
+aripiprazole,.,</s>,.,:," """, ®, µ, Pain, ***, Δ
+chlorpromazine,.,</s>,.,:," """,",", ***, ®, µ, Δ
+paliperidone,.,</s>,.,:, µ, ®, Pain, aspirin," """, DSM
+ziprasidone,</s>,.,.,:, e," """, Lyme, µ, D, Pain
+loxapine,.,</s>,.," """,:, Δ, µ, e, ®, aspirin
+risperidone,.,</s>,.,:," """, µ, ®,......,..., ***
+clozapine,.,</s>,.,:," """, µ, ***, aspirin, ®, Pain
+olanzapine,.,</s>,.,:," """, ***, DSM, aspirin, :,......
+quetiapine,.,</s>,.,:," """, µ, Pain, ®, e, Δ
+aripiprazole,.,</s>,.,:,","," """, µ, ***, ®, aspirin
+chlorpromazine,.,</s>,.,:," """, µ, ®,......, DSM, ***
+paliperidone,</s>,.,.,:," """, aspirin, µ, ®," """"", Pain
+ziprasidone,.,</s>,.,:," """,",", µ, ®, ***,...
+loxapine,.,</s>,.,:," """, µ,",", Bone, ®, Mead
+risperidone,.,</s>,.,:," """, ***, µ, aspirin, ®,","
+clozapine,.,</s>,.,:," """, aspirin, µ, ***, ®,......
+olanzapine,</s>,.,.,:," """, µ, ®, :, ***, e
+quetiapine,.,</s>,.,:,",", µ, ®," """, ***, Pain
+aripiprazole,.,</s>,.,:,",", µ," """, ®, Bone, ***
+chlorpromazine,.,</s>,.,:," """, µ, Δ,......, ***, aspirin
+paliperidone,.,</s>,.,:," """,",", ®,..., Bone, ***
+ziprasidone,.,</s>,.,:," """, µ, ®, e, aspirin,","
+loxapine,</s>,.,.,:," """, e, µ, ®, , D
+risperidone,</s>,.,.,:," """, µ, ®, e, Pain,......
+clozapine,.,</s>,.,:," """, µ," """"",......, ®, e
+olanzapine,.,</s>,:,.," """, µ, ®,..., ***, :
+quetiapine,.,</s>,.,:," """, ®, µ, Bone, Mead, Pain
+aripiprazole,.,</s>,.,:," """, µ,",", Δ, e, A
+chlorpromazine,</s>,.,.,:," """, e, µ, aspirin, l, 
+paliperidone,.,</s>,.,:,",", µ," """, ®, Bone, ***
+ziprasidone,.,</s>,.,:," """, aspirin, µ, Pain, ®, Δ
+loxapine,.,</s>,.,:," """, µ, aspirin, e, ®, Pain
+risperidone,.,</s>,.,:," """, µ, ®,......, aspirin,...
+clozapine,.,</s>,.,:," """,",", aspirin, µ, e, Bone
+olanzapine,.,</s>,.,:," """, µ, ®, Δ, Pain, aspirin
+quetiapine,.,</s>,.,:," """,",", ***,..., Δ, µ
+aripiprazole,.,</s>,.,:," """,",", ®, µ, Pain, Lyme
+chlorpromazine,.,</s>,.,:," """, e, µ, Δ," """"",","
+paliperidone,.,</s>,.,:," """, ®, µ, ***, Δ,","
+ziprasidone,.,</s>,.,:, µ, ®,",", Mead," ""."," """
+loxapine,.,</s>,.,:," """, µ, ®, DSM,",", CNS
+aspirin,.,</s>,.,:," """, µ,......, ***, aspirin, Δ
+nitroglycerin,.,</s>,.,:," """, ®,......, ***,..., µ
+metoprolol,.,</s>,.,:," """, µ, ®," """""," "".",......
+amlodipine,.,</s>,.,:," """, µ, ®, ***, Lyme,","
+isosorbide mononitrate,.,</s>,.,:," """, µ, ®, e,......, Bone
+isosorbide dinitrate,.,</s>,.,:," """, ®, µ,",", Mead, Bone
+enoxaparin,.,</s>,.,:," """, ®, aspirin, Δ, µ, ***
+ranolazine,.,</s>,.,:," """,",", ***, ®, e, Δ
+atenolol,.,</s>,.,:, ®,",", µ," """, CNS, Mead
+carvedilol,</s>,.,.,:," """, Δ, aspirin, e, µ, ®
+amlodipine AND atorvastatin,.,</s>,.,:, aspirin," """, µ, Pain," """"", ***
+modafinil,.,</s>,.,:, µ," """, ®, Pain, Bone,","
+duloxetine,.,</s>,.,:," """, µ, :,..., ®, e
+lisdexamfetamine,.,</s>,.,:," """, ***, ®, µ, Δ, aspirin
+amantadine,.,</s>,.,:," """, ***, µ, D, ®, CNS
+armodafinil,.,</s>,.,:," """,",",......, ®, µ, ***
+miconazole,.,</s>,.,:, µ, ®," """, Pain, Bone,","
+miconazole,.,</s>,.,:,","," """, µ, ***, ®, e
+ketoconazole,</s>,.,.," """, e, l,:, D, , µ
+terbinafine,.,</s>,.,:,","," """, ()., Bone, Δ, ***
+ketoconazole,.,</s>,.,:," """, aspirin, µ, ***, Δ,......
+terbinafine,</s>,.,:,.," """, aspirin, µ, ®, :, e
+ketoconazole,.,</s>,.,:," """, e, µ, D,",", :
+terbinafine,.,</s>,.,:," """, µ, aspirin, e,......,","
+ketoconazole,.,</s>,.,:," """, µ, ®,......, aspirin, e
+terbinafine,.,</s>,.,:," """, µ, ***, ®, Δ, e
+terbinafine,.,</s>,.,:," """,......, ®,",",..., µ
+terbinafine,.,</s>,.,:," """, µ, Δ, ().,",",......
+ketoconazole,.,</s>,.,:," """, µ, ®, ***, Δ," """""
+terbinafine,.,</s>,.,:," """, µ, ®, ***,......, aspirin
+ketoconazole,.,</s>,.,:," """, ***, µ, ®, Pain, aspirin
+terbinafine,.,</s>,.,:," """, µ, ®, aspirin,",", ***
+terbinafine,.,</s>,.,:," """, µ, ®, DSM, e,...
+terbinafine,.,</s>,.,:," """,",", ®, ***, aspirin, Δ
+terbinafine,.,</s>,.,:," """, ®, µ,......, ***, aspirin
+terbinafine,.,</s>,.,:," """, µ, ®, ***, Δ, Pain
+terbinafine,.,</s>,.,:," """, µ, ®, aspirin, ***, Pain
+terbinafine,.,</s>,.,:," """, µ, ®, ***,......, Δ
+ketoconazole,.,</s>,.,:, µ,",", ®, Bone, Pain," """
+terbinafine,.,</s>,.,:," """, µ, Bone, ®, DSM, ***
+ketoconazole,.,</s>,.,:," """, ®,......, µ,..., Pain
+terbinafine,.,</s>,.,:," """, ®, µ, DSM," "".", Bone
+risperidone,.,</s>,.,:," """, µ, aspirin,",", ®, e
+clozapine,.,</s>,.,:," """, aspirin, ®, Pain, ***, Bone
+olanzapine,.,</s>,.,:," """, aspirin, µ, ®, e, Δ
+quetiapine,.,</s>,.,:," """, µ,",", ®, e, l
+aripiprazole,.,</s>,.,:, Mead,",", Bone, µ, ®, CNS
+chlorpromazine,.,</s>,.,:," """, aspirin, µ,",", Pain, ®
+paliperidone,.,</s>,.,:," """, ***, µ, e, aspirin, Δ
+ziprasidone,</s>,.,.," """,:, ®, µ, DSM, A, Δ
+loxapine,.,</s>,.,:," """, µ,",",......, DSM," ""."
+aspirin,.,</s>,.,:," """, aspirin, µ, ®," """"",","
+nitroglycerin,.,</s>,.,:," """, µ, aspirin, ***," """"", Δ
+metoprolol,.,</s>,.,:," """, µ, Pain, Lyme, e, ®
+amlodipine,.,</s>,.,:," """, µ, aspirin," """"", ®, ***
+isosorbide mononitrate,.,</s>,.,:," """, µ, ®,",", aspirin,...
+isosorbide dinitrate,.,</s>,.,:," """, µ,......, ®,..., ***
+enoxaparin,.,</s>,.,:," """, µ, Δ, ®, ***," """""
+ranolazine,.,</s>,.,:, µ," """, ®,......, Lyme, Bone
+atenolol,.,</s>,.,:," """, µ,......, ®, aspirin, ***
+carvedilol,.,</s>,.,:," """, ®, aspirin, µ, Δ,...
+amlodipine AND atorvastatin,.,</s>,.,:," """, µ, ***,...,",", ®
+collagenase,.,</s>,.,:," """, aspirin, Δ, µ, ®, e
+becaplermin,.,</s>,.,:," """, aspirin, ***, µ,......, ®
+cadexomer iodine,.,</s>,.,:," """, µ,......," """"",...," ""."
+ibuprofen,.,</s>,.,:," """, µ, ***," """"", Δ,......
+naproxen,.,</s>,.,:," """, µ, ®, Δ, ***, Pain
+acetaminophen,.,</s>,.,:," """, µ, aspirin,..., ®,","
+diclofenac,.,</s>,.,:," """,",", ®, µ, ***,...
+nabumetone,.,</s>,.,:," """, µ, ®,...,",",......

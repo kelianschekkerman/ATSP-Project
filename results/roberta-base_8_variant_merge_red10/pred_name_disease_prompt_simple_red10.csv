@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+Angina,.,.,",",</s>, with,!, ()., management,:,"."""
+Angina,.,",",., with,!,:, ().,".""", management,</s>
+Angina,.,.,",", with,!, ().,:,".""", management,</s>
+Angina,.,.,",", with, ().,!,".""",:, management,*.
+Angina,.,",",., with,:,</s>,".""",!, ().,?
+Angina,.,.,",",!, with, ().,".""",:, management,</s>
+Angina,.,",",., with,!,:,".""", Mac,</s>,?
+Angina,.,.,",",!, with, ().,".""", management,*.,"""."
+Angina,.,.,",", with,!,".""", ().,:,</s>, management
+Angina,.,.,",",!, with,".""", ()., management,</s>,:
+Angina,.,",",., with,!, ().,:,".""", of,</s>
+Muscle Pain,.,.,",", with,!, ().,".""", management,:,</s>
+Muscle Pain,.,.,",", with,!, ().,:, management,".""",</s>
+Muscle Pain,.,.,",", with,!, ().,".""", management,:,</s>
+Muscle Pain,.,",",., with,</s>,:,!, ().,".""", management
+Muscle Pain,.,.,",",".""", ().,!, with,""".",</s>, management
+HIV Infection,.,.,",", ()., with,!,".""",:, management,</s>
+HIV Infection,.,.,",", with,!,:, ().,</s>, management,"."""
+HIV Infection,.,",",., with,!, ().,:, management,".""",</s>
+HIV Infection,.,.,",",!, with, ().,".""", management,:,</s>
+HIV Infection,.,.,",",!, with,".""", ().,:, management,</s>
+HIV Infection,.,.,",",!, with, ().,:,".""", management,</s>
+HIV Infection,.,.,",", with,!, ().,".""",</s>, management,:
+HIV Infection,.,.,",", with,!, ().,:,".""",</s>, management
+HIV Infection,.,.,",",!, with, ().,".""",:,*.,</s>
+HIV Infection,.,.,",", with,!, ().,".""",:, management,</s>
+HIV Infection,.,.,",", with,!, ().,".""",</s>, management,:
+HIV Infection,.,",",., with,!,:, ()., of,".""", management
+Acute Myeloid Leukemia,.,.,",", ()., with,!,".""",:, management,</s>
+Acute Myeloid Leukemia,.,",",.,!, ()., with,".""",:,</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!, ().,".""",:,*., management
+Acute Myeloid Leukemia,.,.,",", ().,!,".""", with,:, management,*.
+Acute Myeloid Leukemia,.,",",., with, ().,!,".""",</s>,:, management
+Acute Myeloid Leukemia,.,",",.,!, with, ().,:,".""",</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:,".""",</s>, management
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",</s>, management,:
+Acute Myeloid Leukemia,.,.,",",!,".""",:, with, ()., management,</s>
+Acute Myeloid Leukemia,.,",",.,!, with,".""", ().,:,</s>,"""."
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",:, management,*.
+Acute Myeloid Leukemia,.,.,",", with, ().,!, management,</s>,".""",:
+Acute Myeloid Leukemia,.,.,",", with,!,".""",:, management, ().,</s>
+HIV Infection,.,.,",",!, ()., with,".""",:,*., management
+HIV Infection,.,.,",", with,!, ().,".""", management,:,*.
+HIV Infection,.,.,",", with,".""",:,!, ().,</s>, management
+HIV Infection,.,.,",",!, ()., with,".""",</s>,:,*.
+HIV Infection,.,",",., with,!,".""",:, management,</s>, ().
+HIV Infection,.,.,",", with, ().,!, management,:,".""", of
+Acute Myeloid Leukemia,.,.,",", with,!,</s>, ().,".""",:, management
+Acute Myeloid Leukemia,.,.,",", with,</s>,!,".""", ().,:, management
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",:,</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:,".""",</s>, management
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",:,</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!, ().,</s>, management,".""",:
+Acute Myeloid Leukemia,.,.,",", with, ().,!,</s>,".""", management,:
+Acute Myeloid Leukemia,.,.,",", with,!, ().,".""",</s>,:, management
+Acute Myeloid Leukemia,.,.,",",!, ()., with,".""",:,*., management
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",:,</s>, management
+Acute Myeloid Leukemia,.,.,",", ()., with,!,".""", management,:,</s>
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:, management,".""", of
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",:,</s>,*.
+Acute Myeloid Leukemia,.,",",.,!, with, ().,:,".""", management,</s>
+Acute Myeloid Leukemia,.,",",.,!, with, ().,</s>,:,".""", of
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:,".""", management,</s>
+Acute Myeloid Leukemia,.,",",.,!, ()., with,:,".""",</s>, of
+Acute Myeloid Leukemia,.,.,",", ()., with,!,".""",:, management,*.
+Acute Myeloid Leukemia,.,.,",", with, ().,!, management,".""",:,*.
+Acute Myeloid Leukemia,.,",",.,!, ()., with,".""",:, of, management
+Acute Myeloid Leukemia,.,.,",", ().,!,".""", with, management,*.,:
+Acute Myeloid Leukemia,.,.,",", with,!, ()., management,".""",:,</s>
+Acute Myeloid Leukemia,.,.,",", with, ().,!,".""",:, management,*.
+Acute Myeloid Leukemia,.,.,",",!, ()., with,".""",:, management,</s>
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""", management,:,</s>
+Acute Myeloid Leukemia,.,.,",", with,!, ().,</s>, management,".""",:
+HIV Infection,.,.,",", ().,!, with,".""",:, management,*.
+HIV Infection,.,.,",",!, with, ().,:,".""", management,</s>
+HIV Infection,.,.,",", with, ().,".""",!, management,:,</s>
+HIV Infection,.,.,",", with,!,</s>,".""",:, ()., management
+HIV Infection,.,.,",", with,!, ().,".""",:, management,</s>
+HIV Infection,.,",",., with,:,!,".""",?, of,</s>
+HIV Infection,.,.,",",!, with, ().,".""", management,:,</s>
+HIV Infection,.,.,",",!,".""", ()., with,</s>,:, management
+HIV Infection,.,.,",", with,!, ().,".""",:, management,</s>
+HIV Infection,.,.,",",!, ()., with,:,".""", management,</s>
+HIV Infection,.,.,",", with,</s>, ().,".""",!,:,*.
+HIV Infection,.,.,",", with, ().,:,!,".""",line,</s>
+HIV Infection,.,.,",",!, with, ()., management,:,".""",*.
+HIV Infection,.,.,",", with,!, ().,:,".""", management,*.
+HIV Infection,.,.,",", with,!,</s>,:, ().,".""", of
+HIV Infection,.,.,",",!, with, ().,</s>,".""", of, management
+HIV Infection,.,.,",", with,!,:,".""", ()., of, management
+HIV Infection,.,.,",",!, with, ().,</s>,".""",:, management
+Acute Myeloid Leukemia,.,.,",",!, ()., with,".""", management,*.,:
+Acute Myeloid Leukemia,.,.,",", with,</s>,!, ().,".""",:, management
+Acute Myeloid Leukemia,.,",",.,!, with, ().,".""",:,</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!, ().,".""",:, management,</s>
+Acute Myeloid Leukemia,.,.,",", ()., with,!,".""",:,</s>, management
+Acute Myeloid Leukemia,.,",",., with,!, ().,:,".""", management, of
+Acute Myeloid Leukemia,.,.,",",!, ()., with,".""",</s>,:,*.
+Acute Myeloid Leukemia,.,.,",", with, ().,!, management,".""",</s>,:
+Acute Myeloid Leukemia,.,.,",", with,!, management,".""",:, ().,</s>
+Acute Myeloid Leukemia,.,.,",", with,!,".""",:, management,</s>, ().
+Acute Myeloid Leukemia,.,.,",", with,:,!, ().,".""",</s>, Mac
+Acute Myeloid Leukemia,.,.,",", with,!,".""", ().,:, management,</s>
+Acute Myeloid Leukemia,.,.,",", with,!,:, ().,".""", of,*.
+Angina,.,",",., ().,!, with,:,".""",</s>,*.
+Angina,.,.,",", with, ().,!,".""",:, management,</s>
+Angina,.,",",., with,!,:,</s>,".""", of, ().
+Angina,.,",",., with,!, ().,:, of,</s>,",."
+Angina,.,",",., with, ().,:,!,".""", management, of
+Angina,.,.,",", with,!, ().,".""", management,:,</s>
+Angina,.,.,",", with, ().,!,".""",:, management,"""."
+Angina,.,.,",",!, with,".""", ()., management,:,</s>
+Angina,.,.,",", with,!,".""",:, ()., management,</s>
+Angina,.,.,",",!, ()., with,</s>,".""",:,*.
+Angina,.,.,",", with,!,".""",</s>, ()., management,:
+Angina,.,.,",", with,!, ().,:,</s>,".""", of
+Angina,.,.,",",!, with,".""", ()., management,:,</s>
+Angina,.,.,",", with,".""", ().,:,!,</s>, management
+Angina,.,.,",", with,!, ()., management,:,".""",</s>
+Angina,.,.,",", with,!, ().,:,".""",*., of
+Angina,.,.,",", with, ().,".""",:,</s>,!, management
+Angina,.,.,",", with,!, ()., management,".""",:,</s>
+Angina,.,",",.,!, with, ().,".""",:, management,*.
+Angina,.,.,",", ().,!, with,".""",:, management,*.
+Angina,.,.,",", with, ().,!,:, management,".""",</s>
+Angina,.,.,",", with,!,:, ().,".""", management, of
+Angina,.,",",., with,</s>,!,:,".""", management, of
+Angina,.,.,",", with, ().,!,".""",:, management,</s>
+Angina,.,.,",",!, with,".""", ()., management,</s>,*.
+Angina,.,.,",", with, ().,!,".""",:, management,</s>
+Angina,.,.,",",</s>, with,!,".""", ().,:, management
+Angina,.,.,",",!, ()., with,".""", management,:,</s>
+Angina,.,.,",", with,!,:,".""",</s>, ()., management
+Angina,.,",",., with,!,:, ().,".""",</s>, management
+Angina,.,.,",", with, ().,!,:,".""",</s>, of
+Angina,.,",",.,!, with, ().,".""",:, management,*.
+Angina,.,.,",",!, with, ().,:,".""", management,*.
+Angina,.,.,",", with,!,".""", ().,:,</s>, management
+Angina,.,.,",", with, ().,".""",!,:,</s>, management
+Angina,.,.,",",!, ()., management, with,".""",:,</s>
+Angina,.,.,",",!, with, ().,".""",:, management,</s>
+Angina,.,.,",", with,!, ().,".""",:, management,*.
+Angina,.,.,",", with,!, ().,".""", management,</s>,:
+Angina,.,",",., with,!, ().,:,</s>,".""", management
+Angina,.,.,",", with,!, ().,:,".""",</s>, of
+Angina,.,.,",", ().,!, with,".""", management,*.,:
+Angina,.,.,",",!, ()., with,".""",:,</s>, management
+Angina,.,.,",", ().,!, with,</s>,".""",:,*.
+Angina,.,.,",", with,!, ().,".""",:, management,</s>
+Angina,.,.,",",!, with, ().,</s>,".""",:, management
+Angina,.,",",., with,!,:,".""",</s>, ()., management
+Angina,.,.,",",!, with, ().,".""",</s>,*., management
+Angina,.,.,",", with,!,".""",:, ().,*., management
+Angina,.,.,",",!, ()., with,".""", management,:,</s>
+Angina,.,.,",",!, ()., with,".""",</s>,*., management
+Angina,.,",",.,!, with, ().,".""",:,</s>,*.
+Angina,.,.,",",!, with, ().,".""", management,*., of
+Angina,.,.,",", with, ().,!,:,".""",</s>, management
+Angina,.,.,",", with,!, ().,".""",:,*., management
+Muscle Pain,.,.,",",!,".""", with,:, ().,</s>, management
+Muscle Pain,.,.,",", with,!, ().,".""",</s>,:, management
+Muscle Pain,.,",",.,!, with,".""", ().,:,</s>,?
+Muscle Pain,.,.,",", with,!,:,</s>, ().,".""", of
+Muscle Pain,.,.,",",!, with,:, ()., management,".""",*.
+Muscle Pain,.,.,",", with,!,:,".""",</s>, ().,e
+Muscle Pain,.,.,",", with,!, ().,".""",:, management,*.
+Muscle Pain,.,.,",", with,!,".""",:, ()., management,</s>
+Muscle Pain,.,",",.,</s>, with,!,:,".""", management,-
+Muscle Pain,.,.,",", with,!, ().,:, management,".""", of
+Muscle Pain,.,",",.,!, with, ().,".""",:,*.,</s>
+Muscle Pain,.,.,",", with,!, ().,".""",:,*., management
+Muscle Pain,.,.,",", with,!, ().,".""",:,</s>,*.
+Muscle Pain,.,.,",", with,!,".""", management, ().,:,</s>
+Muscle Pain,.,.,",", with,</s>,!,:,".""", ()., management
+Muscle Pain,.,.,",", with,!, ().,:, management,".""",</s>
+Muscle Pain,.,.,",", with,".""",!, ().,:, management,</s>
+Muscle Pain,.,.,",",!,".""", ()., with, management,""".",*.
+Muscle Pain,.,",",.,</s>,!, with,".""",:, ().,line
+Muscle Pain,.,.,",",!, ()., with,".""",:, management,</s>
+Muscle Pain,.,.,",", with,!,:,".""", management,</s>, ().
+Muscle Pain,.,.,",", with,!, ().,".""",:, management,</s>
+Muscle Pain,.,.,",",</s>, with,!,".""", ().,:, of
+Muscle Pain,.,",",., with, ().,!,:,".""", management,</s>
+Muscle Pain,.,.,",",!, ()., with,".""",</s>,:,"""."
+HIV Infection,.,.,",", ().,!, with,".""",*., management,:
+HIV Infection,.,.,",",!,</s>, with, ().,".""",:,*.
+HIV Infection,.,.,",", ()., with,</s>,".""",!, management,:
+HIV Infection,.,",",.,!, with, ().,".""",:, management,*.
+HIV Infection,.,.,",",!, ()., with,</s>,".""",*., management
+HIV Infection,.,",",., with,!,".""",:, ().,</s>,).
+Osteoarthritis,.,",",., with,</s>,!,".""",:, of, ().
+Osteoarthritis,.,.,",", with,!, ()., management,:,".""",</s>
+Osteoarthritis,.,.,",", with,!,".""",</s>, ().,:, management
+Osteoarthritis,.,.,",", with,!, ().,</s>,:,".""",*.
+Osteoarthritis,.,.,",",!, with, ().,".""", management,:,</s>
+Osteoarthritis,.,.,",", with,!,</s>, ().,:,".""", management
+Osteoarthritis,.,",",., with,:, Mac,!,?,".""",</s>
+Osteoarthritis,.,.,",",!, with, ()., management,".""",*.,:
+Osteoarthritis,.,.,",",!, with,".""", ()., management, of,*.
+Osteoarthritis,.,.,",", with,".""",!,:, ()., management,</s>
+Osteoarthritis,.,",",.,!, with, ().,</s>,:,".""", management
+Osteoarthritis,.,",",., with,!, ().,</s>,".""",:, management
+Tinea Pedis,.,",",., with,!, ().,:,</s>,".""", management
+Tinea Pedis,.,.,",", with, ().,!,:,</s>,".""",*.
+Dermal Ulcer,.,.,",", ()., with,!,:,".""", management,*.
+Dermal Ulcer,.,.,",",!,".""", with, ().,:, management,</s>
+Dermal Ulcer,.,.,",", with,!, ().,".""", management,:,*.
+Chronic Fatigue Syndrome,.,",",.,!, ()., with,".""", management,:,*.
+Chronic Fatigue Syndrome,.,.,",",!, ()., with,".""", management,:,</s>
+Chronic Fatigue Syndrome,.,.,",",</s>, with,".""",!, ()., management,:
+Chronic Fatigue Syndrome,.,.,",", with,!,:, ().,".""", management,</s>
+Chronic Fatigue Syndrome,.,",",., with,!,</s>, ()., of, management,"."""
+Tinea Corporis,.,",",., with, ().,:,".""",!,</s>, Mac
+Tinea Corporis,.,",",., with,!,:, management,".""", ().,",."
+Tinea Corporis,.,",",., with,!,:,".""", management, ().,</s>
+Tinea Corporis,.,.,",", with,!, ().,</s>,:,".""", management
+Borderline Personality Disorder,.,.,",", with,!,</s>, ().,".""",:, management
+Borderline Personality Disorder,.,.,",",!, with, ()., management,".""",:,</s>
+Borderline Personality Disorder,.,.,",", ()., with,!,:,".""",*.,</s>
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",:, management,</s>
+Borderline Personality Disorder,.,.,",", with,:,</s>,!,".""", ()., management
+Borderline Personality Disorder,.,.,",", with,!, ().,:, management,".""",</s>
+Borderline Personality Disorder,.,.,",", with,</s>,!,".""", ().,:, management
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with,!,:,".""",</s>, ()., management
+Borderline Personality Disorder,.,.,",",!, with,</s>,".""", management, ().,*.
+Borderline Personality Disorder,.,.,",", with,".""", ().,!,:, management,</s>
+Borderline Personality Disorder,.,",",., with,:,!,</s>, ().,".""", management
+Borderline Personality Disorder,.,.,",", ().,!, with,".""",:,*.,</s>
+Borderline Personality Disorder,.,",",., with,".""", ().,:,!,</s>,).
+Borderline Personality Disorder,.,.,",", with,!,</s>, ().,".""",:, management
+Borderline Personality Disorder,.,",",., with,!, ().,:,".""",</s>, of
+Borderline Personality Disorder,.,.,",", with,!,".""", ().,</s>,:, management
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",</s>,*., management
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,*.
+Borderline Personality Disorder,.,.,",", ().,!, with, management,".""",</s>,:
+Borderline Personality Disorder,.,",",., with,!,:,".""", ().,</s>, management
+Borderline Personality Disorder,.,.,",",!, ()., with,".""", management,:,*.
+Borderline Personality Disorder,.,.,",", ().,!,".""", with,*.,:,"""."
+Borderline Personality Disorder,.,.,",", with,!,:,".""",</s>, ()., management
+Borderline Personality Disorder,.,.,",", with,!,".""", ().,:, management, of
+Borderline Personality Disorder,.,.,",", with,!,:, ().,".""",</s>, of
+Borderline Personality Disorder,.,.,",", with,!,".""", ()., management,:,*.
+Borderline Personality Disorder,.,.,",",!, with, ()., management,:,".""",*.
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management, of
+Borderline Personality Disorder,.,.,",", with,</s>, Mac,:,!, ().,"."""
+Borderline Personality Disorder,.,.,",", with, ().,!,".""", management,:,*.
+Borderline Personality Disorder,.,.,",", with,</s>,!, ().,:,".""", of
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,",",., with,!, ().,:,".""",</s>, of
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:,</s>,*.
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",</s>,:, management
+Borderline Personality Disorder,.,.,",",!, ().,".""", with,</s>,:,*.
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",</s>,:, management
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",:,</s>,*.
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:, management, of
+Borderline Personality Disorder,.,.,",", with,".""",!,</s>, ().,:, management
+Borderline Personality Disorder,.,.,",", ().,!, with,".""", management,:,</s>
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:, management,</s>
+Borderline Personality Disorder,.,.,",", with,!,:,".""",</s>, ()., management
+Borderline Personality Disorder,.,.,",", with,</s>,!, ().,".""", management,:
+Borderline Personality Disorder,.,.,",",</s>,".""", with,!, management, ()., Mac
+Borderline Personality Disorder,.,.,",", with,!,</s>,".""", ().,:, management
+Borderline Personality Disorder,.,.,",", with,".""", ().,!,:,</s>, management
+Muscle Pain,.,.,",", with,!, ().,</s>,:,".""", management
+Muscle Pain,.,.,",", with,!, ()., management,".""",:,</s>
+Muscle Pain,.,.,",",!, with, ()., management,</s>,:,"."""
+Muscle Pain,.,.,",", with, ().,!,".""", management,:,</s>
+Muscle Pain,.,.,",", with,</s>,!,:,".""", ()., management
+Muscle Pain,.,.,",",!, with, ().,</s>,:,".""", management
+Muscle Pain,.,",",., with,!,</s>, ().,:,".""", management
+Muscle Pain,.,.,",", with,</s>,!, ().,:,".""", management
+Muscle Pain,.,.,",",!, with, ().,:,".""", management,*.
+Muscle Pain,.,.,",", with,!, ().,:, management,".""", of
+Muscle Pain,.,.,",", with,!,:,".""", ().,</s>, of
+Muscle Pain,.,",",., with,!, ().,".""",:,</s>, of
+Muscle Pain,.,.,",", with, ()., management,".""",!,</s>,*.
+Muscle Pain,.,.,",", with,!, ()., management,".""",:,*.
+Muscle Pain,.,.,",",!, with,line,".""", ().,</s>,:
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""", management,</s>,:
+Acute Myeloid Leukemia,.,.,",",!, ()., with,".""",</s>,:, management
+Acute Myeloid Leukemia,.,",",., with,!, ().,:, management,</s>,"."""
+Acute Myeloid Leukemia,.,.,",", with,!,:, management, ().,".""", of
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:,".""", management, of
+Acute Myeloid Leukemia,.,",",., ().,!, with,</s>,".""",:,*.
+Acute Myeloid Leukemia,.,.,",", with,!,".""", management, ().,:,</s>
+Acute Myeloid Leukemia,.,.,",", with,!,".""",</s>, management,:, ().
+Acute Myeloid Leukemia,.,",",., with,!,:, ().,".""", management, of
+Acute Myeloid Leukemia,.,",",., with,!,".""", ().,:,</s>, of
+Acute Myeloid Leukemia,.,.,",", ().,!, with,".""", management,:,</s>
+Acute Myeloid Leukemia,.,.,",", with,!, ().,".""", management,:,</s>
+Acute Myeloid Leukemia,.,.,",",!, with,".""", ()., management,:,*.
+Acute Myeloid Leukemia,.,.,",",!, ()., with,".""",:,</s>, management
+Acute Myeloid Leukemia,.,.,",",!, with, ().,:, management,".""", of
+Acute Myeloid Leukemia,.,.,",",!, ()., with,:,".""", management,*.
+Acute Myeloid Leukemia,.,",",., with,!, ().,:,".""",</s>, management
+Acute Myeloid Leukemia,.,",",., with,!,".""", ().,:, management, of
+Acute Myeloid Leukemia,.,",",.,</s>, with,!, ().,".""",:, of
+Acute Myeloid Leukemia,.,.,",", with,!,:,".""", ().,</s>, Mac
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",:, management,*.
+Acute Myeloid Leukemia,.,",",., with,!,:, ().,</s>,".""", of
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",:,</s>, management
+Acute Myeloid Leukemia,.,.,",",!, with, management, ().,".""",:,*.
+Acute Myeloid Leukemia,.,",",.,!, with, ().,:,".""", of, management
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:,".""",</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!, ()., of,</s>,:,"."""
+Acute Myeloid Leukemia,.,.,",",!, ()., with,".""",:, management,*.
+Acute Myeloid Leukemia,.,.,",", with,!, ().,</s>,".""",:, management
+Acute Myeloid Leukemia,.,.,",", ()., with,!,".""",:, management,*.
+Acute Myeloid Leukemia,.,.,",", ().,!, with, management,".""",*.,:
+Acute Myeloid Leukemia,.,.,",", with,!, ().,</s>,".""",:, management
+Acute Myeloid Leukemia,.,.,",", with, ().,".""",!,:,</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!,:,".""", ()., of, management
+Acute Myeloid Leukemia,.,",",., with,!, ().,".""",:,</s>, management
+Acute Myeloid Leukemia,.,.,",", with,:,!,".""",</s>, ()., of
+Acute Myeloid Leukemia,.,.,",", with, ().,!,:,</s>,".""", management
+Acute Myeloid Leukemia,.,.,",",!, with, ().,:,".""",*., management
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:,".""",</s>, management
+Multiple Myeloma,.,.,",",!, ()., with,".""",:,</s>,line
+Multiple Myeloma,.,.,",", with,!, ().,</s>,".""",:, of
+Multiple Myeloma,.,.,",", with,!, ().,:,".""",</s>, of
+Multiple Myeloma,.,.,",",!, with, ().,".""",</s>,:,*.
+Multiple Myeloma,.,.,",",</s>,!, with, ().,".""", management,:
+Multiple Myeloma,.,.,",", with,!, ().,:,".""", management,</s>
+Multiple Myeloma,.,.,",", ().,!, with, management,".""",:, of
+Multiple Myeloma,.,.,",", ()., with,!,".""", management,:,*.
+Multiple Myeloma,.,",",.,!, with, ().,</s>,".""",*., management
+Multiple Myeloma,.,.,",", with,</s>,!, ().,".""",:, management
+Multiple Myeloma,.,.,",", with, ().,!, management,".""",:, of
+Multiple Myeloma,.,.,",", with,!, ().,:,".""", management,*.
+Multiple Myeloma,.,.,",",!,".""", with, ().,:,</s>, management
+Multiple Myeloma,.,.,",", with,!,:, ()., management,".""", of
+Multiple Myeloma,.,",",.,!, with, ().,".""",:, management,*.
+Multiple Myeloma,.,",",., with,:,!, ().,</s>,".""", of
+Multiple Myeloma,.,.,",", ().,!, with,:,".""", management,*.
+Multiple Myeloma,.,.,",",!, with, management, ().,</s>,".""",*.
+Non-Hodgkin's Lymphoma,.,.,",", ()., with,".""",!, management,</s>,:
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,".""", management,:, of
+Non-Hodgkin's Lymphoma,.,.,",", with,</s>,!,:,".""", ().,line
+Non-Hodgkin's Lymphoma,.,.,",", with,</s>,!,".""", ()., management,:
+Non-Hodgkin's Lymphoma,.,",",., with,!,</s>,".""",:, ()., of
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,:,".""",</s>, of
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with,".""",:,</s>,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,!,".""",:, ().,</s>, management
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with,".""",:,</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!,</s>,:, ().,".""", management
+Non-Hodgkin's Lymphoma,.,.,",", with, ().,!,:,".""", management,</s>
+Non-Hodgkin's Lymphoma,.,",",., with,!,</s>, ().,".""",:, of
+Multiple Myeloma,.,.,",",!, ()., with,".""",:,</s>, management
+Multiple Myeloma,.,.,",",!, with, ().,".""",</s>,*., management
+Multiple Myeloma,.,.,",", with,!, ().,".""", management,:, of
+Multiple Myeloma,.,.,",",".""", with, ().,!, management,:,</s>
+Multiple Myeloma,.,.,",",!, with, ().,".""",:,</s>, management
+Multiple Myeloma,.,.,",",!, with, ().,:,*.,".""",</s>
+Multiple Myeloma,.,.,",",!, with, ().,".""",:, management,*.
+Multiple Myeloma,.,.,",", with,!, ().,".""",:, management,</s>
+Multiple Myeloma,.,.,",",!, ()., with,".""",:, management,</s>
+Multiple Myeloma,.,.,",",</s>,!, ()., with,".""",:, management
+Multiple Myeloma,.,",",., with,!, ().,:,</s>,".""", management
+Multiple Myeloma,.,.,",", with,!, ().,".""",:, management,</s>
+Multiple Myeloma,.,.,",", ().,!, with,".""",:, management,</s>
+Multiple Myeloma,.,.,",",!, ()., with,:,".""", management,</s>
+Multiple Myeloma,.,.,",",</s>,!, with,".""",:, ().,",."
+Multiple Myeloma,.,.,",",!, with, ().,:,".""",*., management
+Multiple Myeloma,.,.,",", with,".""",!, ().,:, management,</s>
+Multiple Myeloma,.,.,",",!, ()., with,".""",</s>, management,:
+Oral Thrush,.,.,",", with,!, ().,".""",</s>, management,:
+Oral Thrush,.,.,",", with, ().,!,".""",:, management,</s>
+Schizophrenia,.,.,",", with,!,</s>,".""", management, ().,:
+Schizophrenia,.,.,",", with, ().,!,".""",:,</s>, management
+Schizophrenia,.,.,",", with,!,:, ().,".""", management,</s>
+Schizophrenia,.,",",.,!, with, ().,".""",:,</s>, of
+Schizophrenia,.,.,",", with, ().,!,".""",:,*., management
+Schizophrenia,.,",",., with, ().,!,:,".""", management,</s>
+Schizophrenia,.,",",.,!,".""", ()., with, management,line,*.
+Schizophrenia,.,.,",",!, with, ().,".""",:,</s>, management
+Schizophrenia,.,.,",",!, with, ().,:,</s>,".""",*.
+Chronic Fatigue Syndrome,.,.,",", with,!, ().,".""",:,</s>, management
+Chronic Fatigue Syndrome,.,.,",",!, with, ().,".""",:,</s>,*.
+Chronic Fatigue Syndrome,.,",",., with,!,</s>,".""", ().,:, of
+Chronic Fatigue Syndrome,.,.,",", with,!,:, ().,</s>,".""", of
+Chronic Fatigue Syndrome,.,.,",", with, ().,!,".""",:, management,*.
+Chronic Fatigue Syndrome,.,.,",", with,!, ()., management,".""",:,*.
+Chronic Fatigue Syndrome,.,",",., with,!, ().,".""",:, management,</s>
+Chronic Fatigue Syndrome,.,.,",", with,!, ().,</s>,".""",:, of
+Chronic Fatigue Syndrome,.,.,",", with,!, ().,".""",:,</s>, management
+Chronic Fatigue Syndrome,.,.,",", ().,!,".""", with,:,</s>, management
+High Cholesterol,.,.,",", with,!, ()., management,:, of,"."""
+High Cholesterol,.,.,",",!, with,:,".""", ()., management,</s>
+High Cholesterol,.,.,",", ().,!, with,".""", management,:,</s>
+High Cholesterol,.,",",., with,!,:, ().,</s>, of,"."""
+High Cholesterol,.,.,",", with,!,:,".""",</s>, ()., of
+High Cholesterol,.,.,",", with,!, ().,".""", management,:, of
+High Cholesterol,.,.,",", with, ().,!,".""",:, management,).
+High Cholesterol,.,",",., with,!,:,".""", of, ().,</s>
+High Cholesterol,.,.,",",!, with,".""", management,</s>, ().,:
+High Cholesterol,.,.,",", with,!, ()., management,".""",:,</s>
+High Cholesterol,.,.,",", with,!,:,".""", ()., management,</s>
+High Cholesterol,.,.,",", ().,!, with,:,".""",</s>,*.
+High Cholesterol,.,.,",", with,!, ()., management,".""",</s>,:
+High Cholesterol,.,.,",",!, with,".""",:, ().,</s>,。
+High Cholesterol,.,.,",", with,!,".""", ()., management,</s>,:
+High Cholesterol,.,.,",", with, ().,!,".""",:,</s>,*.
+High Cholesterol,.,",",.,!, with, ().,:,".""",</s>,*.
+High Cholesterol,.,.,",", with, ().,!,:,".""",</s>, management
+High Cholesterol,.,.,",", with,!,".""", management,</s>, ().,:
+High Cholesterol,.,",",., with,</s>,:,!,".""", ()., Mac
+High Cholesterol,.,.,",", with,!, ().,:,".""", management, Mac
+High Cholesterol,.,.,",",!, ()., with, management,:,".""",*.
+High Cholesterol,.,.,",", with,!, ().,:,".""", management,</s>
+High Cholesterol,.,.,",", ().,!,".""", with,*., management,"""."
+High Cholesterol,.,.,",", with, ().,:,!,".""", management, of
+High Cholesterol,.,.,",", with,!, ().,:,".""", management, of
+High Cholesterol,.,.,",", ().,!, with,".""",:, management,</s>
+High Cholesterol,.,.,",", ().,!, with,".""",</s>, management,:
+High Cholesterol,.,.,",", with,!,".""", ()., management,:,</s>
+High Cholesterol,.,.,",",!, ()., with,".""",*.,:, management
+High Cholesterol,.,.,",", with,</s>,!,".""",:, ()., Mac
+High Cholesterol,.,.,",", with,:,".""",!, ().,</s>, management
+High Cholesterol,.,",",., with,!, ().,:,</s>,".""", management
+High Cholesterol,.,.,",", with,!, ()., management,".""",:,</s>
+High Cholesterol,.,.,",", ()., with,!,:,".""", management,</s>
+High Cholesterol,.,.,",", ().,!,</s>,".""", with,:,*.
+High Cholesterol,.,",",., with,!, management, ().,".""",:, of
+High Cholesterol,.,.,",",!, with, ().,</s>,".""", management,:
+High Cholesterol,.,.,",", with, ().,!,</s>,".""",:, management
+High Cholesterol,.,.,",", with,!, ().,".""",:, management,</s>
+Chronic Fatigue Syndrome,.,.,",",!, with, ().,".""",:,</s>, management
+Chronic Fatigue Syndrome,.,",",., with,!,:,</s>, ().,".""", of
+Chronic Fatigue Syndrome,.,.,",",!, ()., with,".""",:, management,</s>
+Chronic Fatigue Syndrome,.,.,",", with,!, ().,:,".""",</s>, management
+Chronic Fatigue Syndrome,.,",",.,!, with, ().,".""",:,</s>,line
+Chronic Fatigue Syndrome,.,.,",", with,!,".""",:, ()., management,</s>
+Chronic Fatigue Syndrome,.,.,",", ()., with,!,".""", management,*.,"""."
+Chronic Fatigue Syndrome,.,.,",",!, with, ().,".""",:, management,</s>
+Chronic Fatigue Syndrome,.,.,",",!, with, ()., management,".""",:,</s>
+Chronic Fatigue Syndrome,.,",",.,!, ()., with,".""",*.,</s>,:
+HIV Infection,.,.,",",!, with, ().,".""",:,*., management
+HIV Infection,.,.,",",!, with,".""",:, ().,</s>, management
+HIV Infection,.,.,",", with,!, ().,:,".""", of,</s>
+HIV Infection,.,.,",", with,!, ().,</s>,".""", management,:
+HIV Infection,.,.,",",!, with, ().,</s>,".""",:, management
+HIV Infection,.,.,",", ().,!,".""", with, management,""".",*.
+Dermal Ulcer,.,.,",", with, management,!,".""", ().,:,*.
+Dermal Ulcer,.,",",., with,!, ()., management,".""",:,</s>
+Dermal Ulcer,.,.,",",!, with, ().,".""", management,:,</s>
+Dermal Ulcer,.,.,",",!, ()., with,".""",:,*.,</s>
+Dermal Ulcer,.,.,",", with, ().,!,:,</s>,".""",).
+Dermal Ulcer,.,.,",", ().,!, with,".""", management,:,</s>
+Osteoarthritis,.,.,",", with,".""",!, ().,:,</s>, management
+Osteoarthritis,.,",",., with, ().,:,".""",!,</s>,*.
+Osteoarthritis,.,",",.,!, with,:,".""", ().,?,*.
+Osteoarthritis,.,.,",", with,!,</s>,".""",:, ()., management
+Osteoarthritis,.,",",.,!, with, ().,:,".""",</s>, of
+Osteoarthritis,.,.,",", with,!,:, ().,".""",</s>, management
+Osteoarthritis,.,",",., with,!, ().,:,</s>, of, management
+Osteoarthritis,.,.,",", ().,!, with,*.,</s>,".""",:
+Osteoarthritis,.,.,",", with,!, ().,".""",:,</s>, management
+Osteoarthritis,.,.,",", with,!, ().,".""",:,</s>,*.
+Osteoarthritis,.,.,",", with,!,:,".""", ()., management,</s>
+Osteoarthritis,.,.,",", with, ().,!,:, management,".""",</s>
+Osteoarthritis,.,.,",", with,!, ().,:,".""", management,</s>
+Osteoarthritis,.,.,",", with,!,</s>,".""",:, ()., management
+Osteoarthritis,.,",",., with,!, ().,".""",:,</s>, management
+Osteoarthritis,.,.,",", with,!,:,".""", ().,</s>, of
+Osteoarthritis,.,.,",", ()., with,!,".""", management,:,*.
+Osteoarthritis,.,.,",", ().,!, with,".""",:,</s>,*.
+Osteoarthritis,.,",",., with,!, ().,".""",:,*.,</s>
+Osteoarthritis,.,.,",", with,</s>,!, ().,".""",:, management
+Osteoarthritis,.,.,",",!, with, ().,</s>,".""",:,*.
+Osteoarthritis,.,.,",",!, with, ().,".""",:,</s>, management
+Osteoarthritis,.,.,",",!, with, ().,".""",:, management,*.
+Osteoarthritis,.,.,",", with, ().,</s>,!,:,".""", management
+Dermal Ulcer,.,.,",", with, ().,!,".""",:, management,*.
+Dermal Ulcer,.,.,",", with,!, ()., management,".""",:, of
+Dermal Ulcer,.,.,",",!, ().,".""", with, management,*.,</s>
+Dermal Ulcer,.,.,",",!, ().,".""", with, management,:,</s>
+Dermal Ulcer,.,.,",", with,!,</s>, ().,".""", management,:
+Dermal Ulcer,.,.,",",!, ()., with,</s>,".""", management,:
+Dermal Ulcer,.,.,",",</s>, with, ().,!,:,".""", of
+Dermal Ulcer,.,",",.,!, with,".""", ().,:, of,*.
+Dermal Ulcer,.,.,",", with, ().,!,".""",:, management,</s>
+Muscle Pain,.,.,",", with,!,:, ().,".""", management,</s>
+Muscle Pain,.,.,",", with, management, ().,!,:,".""",</s>
+Muscle Pain,.,.,",", ().,!,".""", with,:,</s>,*.
+Muscle Pain,.,.,",", with,!,:, ().,".""", of,</s>
+Muscle Pain,.,.,",", with,!, ().,".""",:,</s>, Mac
+Schizophrenia,.,.,",", with,:,!, ().,".""", of, management
+Schizophrenia,.,.,",",!, ()., with,".""",:,*.,</s>
+Schizophrenia,.,.,",", with,!, ().,</s>,".""",:, management
+Schizophrenia,.,.,",", with,!, ().,".""", management,:,</s>
+Schizophrenia,.,",",., with,!, ().,:,".""",</s>,*.
+Schizophrenia,.,.,",", with,!, ().,".""",:, management,</s>
+Schizophrenia,.,.,",", with,!,:, ().,".""",</s>, management
+Schizophrenia,.,.,",", with,".""",!,</s>, Mac,:, ().
+Schizophrenia,.,.,",", with,!, ()., management,".""",</s>,:
+Osteoarthritis,.,.,",", with,!, ().,:,".""", management, of
+Osteoarthritis,.,.,",", with,!,:, ()., management,".""",</s>
+Osteoarthritis,.,",",., with,!, ().,".""",:,</s>,).
+Osteoarthritis,.,",",., with,:,!,".""",</s>, ()., Mac
+Osteoarthritis,.,.,",", with,!, ().,".""",:,</s>, management
+Osteoarthritis,.,",",., with, ().,!,".""",:, management,"""."
+Osteoarthritis,.,.,",",!, ()., with,".""", management,</s>,:
+Osteoarthritis,.,.,",", with,!, ().,".""",:,</s>,*.
+Osteoarthritis,.,.,",", with, ().,!,".""",:, management,</s>
+Osteoarthritis,.,.,",", with,!, ().,".""",:,</s>, management
+Osteoarthritis,.,.,",",!, ()., with,</s>,".""",:,*.
+Osteoarthritis,.,.,",", with,!,".""",:, ()., management, Mac
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:, management,</s>
+Borderline Personality Disorder,.,.,",", with,!,</s>, ().,".""",:,*.
+Borderline Personality Disorder,.,.,",", with, ().,!,:,</s>, management,"."""
+Borderline Personality Disorder,.,.,",", with,!,</s>,".""",:, ()., management
+Borderline Personality Disorder,.,.,",",!,".""", with, ().,:,*., management
+Borderline Personality Disorder,.,",",.,!, ()., with,:,".""",</s>,*.
+Borderline Personality Disorder,.,",",.,!, with, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,",",., with,!, ().,:,".""",</s>, of
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", of,*.
+Borderline Personality Disorder,.,",",.,!, with, ().,".""",:,</s>,*.
+Borderline Personality Disorder,.,",",., with,!,:, ().,".""", management,?
+Borderline Personality Disorder,.,.,",",".""",!, ()., management, with,</s>,:
+Borderline Personality Disorder,.,.,",", with,!,</s>,:,".""", ()., of
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",</s>, of, management
+Borderline Personality Disorder,.,",",., with,!,</s>,".""", of,:, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""", management,:,</s>
+Borderline Personality Disorder,.,.,",",!, with,".""",:, ().,</s>, management
+Borderline Personality Disorder,.,.,",", with,!,</s>,:,".""", ()., management
+Borderline Personality Disorder,.,.,",", with,!,".""", ().,:,</s>, management
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:,*., management
+Borderline Personality Disorder,.,.,",",!, ()., with,</s>,".""", management,:
+Borderline Personality Disorder,.,.,",", ().,!,".""", with,*.,:, management
+Borderline Personality Disorder,.,.,",", with,!, management, ().,:,".""",</s>
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",:, management,</s>
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:,*., management
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",</s>,:, management
+Borderline Personality Disorder,.,.,",",!, with,".""", management,</s>, ().,:
+Borderline Personality Disorder,.,.,",", with,!,:, ().,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with,!,".""", ().,:, management,。
+Borderline Personality Disorder,.,",",.,!, with,".""", ().,:,*., of
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",:,*., of
+Borderline Personality Disorder,.,.,",", with,!,".""", ()., management,:,</s>
+Borderline Personality Disorder,.,.,",", with,!,:, management,</s>, ().,"."""
+Borderline Personality Disorder,.,",",., with,!,</s>,:,".""", ()., of
+Borderline Personality Disorder,.,.,",", ().,!,".""", with,*.,""".",</s>
+Borderline Personality Disorder,.,",",., with,:,!, ().,".""",?,",."
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",:, management,*.
+Borderline Personality Disorder,.,.,",", with,!,:,</s>,".""", of, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",",!, with, ().,".""", management,</s>,:
+Borderline Personality Disorder,.,.,",", with,!,</s>,".""", ()., management,:
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",</s>,:, management
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:, of,</s>
+Borderline Personality Disorder,.,.,",", ()., with,!,".""",:, management,</s>
+Borderline Personality Disorder,.,",",., with,:,!, ().,".""",</s>,*.
+Borderline Personality Disorder,.,.,",", ()., with,!, management,".""",:,</s>
+Borderline Personality Disorder,.,",",., Mac,!, with,</s>,:, of,?
+Borderline Personality Disorder,.,",",.,!, with, ().,".""",:,</s>,*.
+Muscle Pain,.,.,",", with,!,:,".""",</s>, ()., Mac
+Muscle Pain,.,.,",", with,!, ().,".""",:,</s>, management
+Muscle Pain,.,.,",", with,!, ().,".""", management,:,</s>
+Muscle Pain,.,.,",", ()., with,!,:,".""",*., management
+Muscle Pain,.,.,",",".""", with,!,:, ()., management, Mac
+Borderline Personality Disorder,.,.,",",".""",!, with, management, ().,</s>,*.
+Borderline Personality Disorder,.,",",.,!, with, ().,</s>,:,".""", of
+Borderline Personality Disorder,.,",",., with,!, ()., management,:,".""", of
+Borderline Personality Disorder,.,.,",", with,!,:, ().,</s>,".""", management
+Borderline Personality Disorder,.,.,",", with,!, ().,</s>,".""",:, management
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with,</s>,!,".""",:, ()., management
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:, management,</s>
+Borderline Personality Disorder,.,",",., with,!,:, ().,".""", management, of
+Borderline Personality Disorder,.,.,",",!, with,</s>, ().,:,".""", of
+Borderline Personality Disorder,.,.,",", ().,!, with,".""", management,*.,</s>
+Borderline Personality Disorder,.,",",., with,!, ().,:, management,".""", of
+Borderline Personality Disorder,.,.,",",</s>, with,".""",!, ().,:, Mac
+Borderline Personality Disorder,.,",",., with,!, ().,:,".""", of,</s>
+Borderline Personality Disorder,.,",",., with,!,</s>, ().,".""",line, management
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",</s>,:,*.
+Borderline Personality Disorder,.,.,",", ().,!, with,".""",:, management,*.
+Borderline Personality Disorder,.,.,",", ().,!, with,".""",:, management,*.
+Borderline Personality Disorder,.,.,",", with,!, ().,:, management,".""",</s>
+Borderline Personality Disorder,.,.,",", with,!,:, ().,".""",</s>, management
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",:,</s>,*.
+Borderline Personality Disorder,.,",",., with,!,:, ().,".""",</s>,?
+Borderline Personality Disorder,.,.,",",!, with,".""", ().,:, management,</s>
+Borderline Personality Disorder,.,",",., with, ().,!,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",",!,".""", ().,</s>, management, with,"""."
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management, of
+Borderline Personality Disorder,.,.,",", with,!,</s>,".""", ().,:, management
+Borderline Personality Disorder,.,",",., with,!, ().,".""",:,</s>,*.
+Borderline Personality Disorder,.,",",., with,!,:, ()., management,".""",</s>
+Borderline Personality Disorder,.,",",., with,!,:,".""", management,</s>, ().
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",",!, ().,".""", with, management,:,*.
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:,*., management
+Borderline Personality Disorder,.,",",., with,!,:,</s>, ().,".""", management
+Borderline Personality Disorder,.,",",., with,!,".""", ().,:,</s>,*.
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",:, management,*.
+Borderline Personality Disorder,.,.,",",!, with, ()., management,".""",:,</s>
+Borderline Personality Disorder,.,.,",", with,!,".""", ().,:,</s>, management
+Borderline Personality Disorder,.,.,",",</s>,".""",!, with,:, Mac, ().
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",:,*.,</s>
+Borderline Personality Disorder,.,.,",", with, ().,!,:,".""", management, of
+Borderline Personality Disorder,.,.,",",!, with, ().,:,".""", management,*.
+Borderline Personality Disorder,.,.,",", with,!,".""",</s>, ()., management,:
+Borderline Personality Disorder,.,",",., with,!,:,</s>,".""",?, ().
+Borderline Personality Disorder,.,.,",",!, with, ()., management,".""",:,*.
+Borderline Personality Disorder,.,.,",", with,!, ().,</s>,".""", management,:
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:, of, management
+Borderline Personality Disorder,.,.,",", with,!,".""", management, ().,:, Mac
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",</s>, management,:
+Borderline Personality Disorder,.,.,",",!, with, ().,</s>,".""", management,:
+Borderline Personality Disorder,.,.,",", with,!,:, ().,".""", management, of
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",:, management,*.
+Borderline Personality Disorder,.,.,",", with, ().,!,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",",!, ()., with,:,".""", management,*.
+Borderline Personality Disorder,.,.,",", with,</s>,!, management,".""", ().,:
+Borderline Personality Disorder,.,.,",",!, with, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", ().,".""",!, with,:,?,</s>
+Borderline Personality Disorder,.,",",.,!, with, ().,".""",:, management,*.
+Borderline Personality Disorder,.,.,",", with,!,".""",:, ()., management,</s>
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",</s>, management,:
+Borderline Personality Disorder,.,.,",", with,!, ().,</s>,:, management,"."""
+Borderline Personality Disorder,.,.,",",!,".""", with, ().,</s>, management,:
+Borderline Personality Disorder,.,.,",", with,!,:, ().,".""",</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with,!, ().,".""", management, of,:
+Borderline Personality Disorder,.,.,",",!, with, ().,".""", management,:,。
+Borderline Personality Disorder,.,",",.,!, with,:,".""", ().,*.,</s>
+Borderline Personality Disorder,.,.,",", ().,!, with,".""", management,*.,</s>
+Borderline Personality Disorder,.,.,",", with,".""",!, ().,</s>,:,?
+Borderline Personality Disorder,.,.,",",</s>, with,!, ().,".""",:, management
+Borderline Personality Disorder,.,.,",", with, ().,!, management,".""", of,:
+Borderline Personality Disorder,.,.,",",!, with, management, ().,".""",:,</s>
+Borderline Personality Disorder,.,.,",", with,!,".""", ().,:, management, Mac
+Borderline Personality Disorder,.,",",.,!, with, ().,:,".""",</s>, of
+Borderline Personality Disorder,.,.,",",!, with,</s>, ().,".""",:, management
+Borderline Personality Disorder,.,.,",",!, with, ().,</s>,".""",line,:
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",</s>, management,:
+Borderline Personality Disorder,.,.,",",</s>, with,!,".""", management,:, ().
+Borderline Personality Disorder,.,.,",",!, with,".""", ().,:,</s>,",."
+Borderline Personality Disorder,.,.,",", with,!, ().,</s>,:,".""", management
+Borderline Personality Disorder,.,.,",",!, with, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",", with, ().,!,:,".""", management,*.
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,*.
+Borderline Personality Disorder,.,.,",", with,!,</s>,:,".""", ()., management
+Borderline Personality Disorder,.,",",., with,!,:, management, ().,".""",</s>
+Borderline Personality Disorder,.,.,",",!, with, ()., management,".""",</s>,:
+Borderline Personality Disorder,.,.,",", with,!, ().,</s>, management,".""",:
+Borderline Personality Disorder,.,.,",", with,!, ().,".""", management,</s>,:
+Borderline Personality Disorder,.,.,",", with, ().,!,:, management,".""",*.
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", of, management
+Borderline Personality Disorder,.,.,",", with,!, ()., management,</s>,:,"."""
+Borderline Personality Disorder,.,.,",", with,!,:,".""", ().,</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", of,</s>
+Borderline Personality Disorder,.,",",., with,!, ().,:,".""",</s>,*.
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""",*., management
+Borderline Personality Disorder,.,",",.,!, with, ().,:,*.,".""", management
+Borderline Personality Disorder,.,.,",", with,</s>, ()., management,".""",!,:
+Borderline Personality Disorder,.,.,",", with, ().,!,".""", management,:,</s>
+Borderline Personality Disorder,.,.,",",!, with, management, ().,</s>,:,"."""
+Borderline Personality Disorder,.,.,",",</s>,!, with, ().,".""",:, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:, management,</s>
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",</s>,:, management
+Borderline Personality Disorder,.,.,",", with,!, ().,</s>,".""", management,:
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",:, management,*.
+Borderline Personality Disorder,.,",",., with, ().,!,</s>,:,".""", Mac
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:, management,</s>
+Borderline Personality Disorder,.,.,",", with,</s>,!,:,".""", ()., of
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", ().,!, with,".""",:, management,</s>
+Borderline Personality Disorder,.,",",., with,!,".""",:, ()., management, of
+Borderline Personality Disorder,.,.,",", with,!,:, ()., management,".""", of
+Borderline Personality Disorder,.,.,",", with, ().,!,".""",</s>, management,:
+Borderline Personality Disorder,.,",",.,</s>, with,!, ()., management,".""",:
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",</s>, management,:
+Borderline Personality Disorder,.,.,",", with,!, ().,".""", management,:,</s>
+Borderline Personality Disorder,.,.,",", with,!,".""",:, ().,</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",", with,!,".""",:, ().,</s>, management
+Borderline Personality Disorder,.,.,",", ()., with,!,:,".""", management,*.
+Borderline Personality Disorder,.,.,",", with,!,</s>,".""", management,:, ().
+Borderline Personality Disorder,.,.,",",!, ().,".""", with,:, management,</s>
+Borderline Personality Disorder,.,.,",", with,</s>,!,:, ().,".""", of
+Borderline Personality Disorder,.,",",., with,!, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",", with,!,:, ().,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:, management,*.
+Borderline Personality Disorder,.,.,",",!, with,".""", ().,</s>, management,:
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",*.,:,</s>
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:,</s>,*.
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:,</s>,*.
+Borderline Personality Disorder,.,",",., with,!,</s>, ().,".""",:, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",</s>,:, management
+Borderline Personality Disorder,.,",",., with,!, ().,:,</s>,".""", of
+Borderline Personality Disorder,.,.,",", with,</s>,!, ().,:,".""", management
+Borderline Personality Disorder,.,.,",",!, with,:,".""", ()., management,</s>
+Borderline Personality Disorder,.,",",., with,!, management,:, ().,".""",</s>
+Borderline Personality Disorder,.,",",.,!, with, ().,".""",:,*.,</s>
+Borderline Personality Disorder,.,",",., with,!,</s>, ().,:,".""", of
+Borderline Personality Disorder,.,.,",", with,!,</s>,".""",:, ()., management
+Borderline Personality Disorder,.,.,",",!, ().,".""", management, with,</s>,:
+Borderline Personality Disorder,.,.,",",!,</s>, ().,".""",*., with,line
+Borderline Personality Disorder,.,.,",", with,!,".""", ().,:,</s>, management
+Borderline Personality Disorder,.,",",.,!, with, ().,".""",:,</s>,line
+Borderline Personality Disorder,.,.,",",!, with, ().,".""", management,:,*.
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with,!, ().,".""", management,:, of
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",:,*.,</s>
+Psoriasis,.,",",., with,!,:,".""", ().,</s>, management
+Psoriasis,.,.,",",!, ().,".""", with,:,*., management
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",:, management, of
+Borderline Personality Disorder,.,.,",", with,!,:, ()., management,".""",</s>
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:, management,*.
+Borderline Personality Disorder,.,",",., with,!, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ()., management,:,".""",</s>
+Borderline Personality Disorder,.,.,",", with,!,:,".""", ().,</s>, management
+Borderline Personality Disorder,.,.,",", with, ().,!,".""", management,:,*.
+Borderline Personality Disorder,.,.,",",!, with, ().,".""", management,:,*.
+Borderline Personality Disorder,.,.,",", ().,!,".""", with,:,*., management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:, management,</s>
+Borderline Personality Disorder,.,.,",", with,!,".""",:,</s>,?, Mac
+Borderline Personality Disorder,.,.,",", with, ().,".""",!, management,</s>,:
+Borderline Personality Disorder,.,.,",",!, with,".""", ().,</s>, management,"""."
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management, of
+Borderline Personality Disorder,.,",",., with,!, ().,".""",:,</s>,?
+Borderline Personality Disorder,.,",",., with,!,:,</s>,".""", ()., of
+Borderline Personality Disorder,.,.,",",</s>, with,!,:,".""",*., Mac
+Borderline Personality Disorder,.,",",., ().,!, with,:,".""",*.,).
+Borderline Personality Disorder,.,.,",", ()., with,!,".""",:,</s>,*.
+Borderline Personality Disorder,.,.,",", with,!, ()., management,:,".""", of
+Borderline Personality Disorder,.,.,",",".""", with, ()., management,!,:, Mac
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",",!, with, ().,*.,".""", management,:
+Borderline Personality Disorder,.,",",., ().,!, with,".""",:, management,*.
+Borderline Personality Disorder,.,.,",", with,!, ().,:, management,".""",</s>
+High Cholesterol,.,.,",",!, with, ().,".""",:, management,</s>
+High Cholesterol,.,.,",",!, with, ().,:,".""", management,?
+High Cholesterol,.,.,",",!, with, ().,".""",:, management, of
+High Cholesterol,.,.,",",!, with, ().,:,".""",</s>, of
+High Cholesterol,.,.,",",!, with, ().,".""",:, management,*.
+High Cholesterol,.,.,",", with,!,".""", ().,:, management,</s>
+High Cholesterol,.,",",., with,!,:, ().,".""", management,</s>
+High Cholesterol,.,.,",", with,!,</s>,:, of,".""", ().
+High Cholesterol,.,.,",", with,!,:, ().,".""",</s>, management
+High Cholesterol,.,.,",", with,</s>, ().,".""",!,:, management
+Tinea Corporis,.,.,",", with,!, ().,".""",:,</s>, management
+Tinea Corporis,.,",",., with,!,".""",</s>, ().,:, management
+Tinea Corporis,.,.,",",!, management, ()., with,*.,".""","""."
+Tinea Corporis,.,.,",",!,".""", ().,</s>, with,line,"""."
+Tinea Pedis,.,.,",",!,</s>, with,".""", ().,:, management
+Tinea Pedis,.,.,",", with, management,!, ().,".""",</s>,:
+Tinea Cruris,.,.,",", with, ().,!,".""", management,</s>, of
+Tinea Cruris,.,.,",", with,!, ().,:,".""", management, of
+Osteoarthritis,.,.,",", with,!,</s>, ().,".""",:, management
+Osteoarthritis,.,",",.,</s>, with,!,:,".""", of, ().
+Osteoarthritis,.,.,",",!,</s>, with,".""", management, ().,:
+Osteoarthritis,.,",",., with,!, ().,:,".""",*.,</s>
+Osteoarthritis,.,.,",",!, with,".""", ().,:,</s>, management
+Osteoarthritis,.,.,",", with,!, ().,".""",:,</s>,*.
+Osteoarthritis,.,.,",", with,!,</s>, ()., management,".""",:
+Osteoarthritis,.,.,",", ().,!, with,".""",:,*., management
+Osteoarthritis,.,.,",", with, ().,!,:,</s>,".""", management
+Osteoarthritis,.,.,",",!, ()., with,:,".""", management,</s>
+Osteoarthritis,.,.,",", with,!,</s>, ().,:,".""", management
+Osteoarthritis,.,.,",",!,".""",</s>, ()., with,:,*.
+Psoriasis,.,",",.,!, with, ().,".""",:, management,</s>
+Psoriasis,.,.,",",!,".""",</s>, with, ().,:,"""."
+Angina,.,.,",", with,!, ().,:,".""", management,</s>
+Angina,.,.,",", with,!,</s>, ().,".""", management,:
+Angina,.,.,",", with, ().,!, management,".""",:,</s>
+Angina,.,",",., with,!,:,</s>, ()., management,"."""
+Angina,.,.,",", with,!,".""", ()., management,:,</s>
+Angina,.,.,",", ()., with,!,".""",:,</s>, management
+Angina,.,.,",", with,!,</s>,".""", ().,:, management
+Angina,.,.,",",!, with, ().,".""", management,:,</s>
+Angina,.,.,",", with,!, ().,:,".""",</s>, management
+Angina,.,.,",", with, ().,!,:,".""", management, of
+Angina,.,.,",",!, with, ().,".""",:, of,</s>
+High Cholesterol,.,.,",", with,!,:, ()., of,".""", management
+High Cholesterol,.,.,",", with,!,:,".""", ()., management,</s>
+High Cholesterol,.,",",., with,!, ().,</s>,:,".""", management
+High Cholesterol,.,.,",", with,!,:, ().,".""",</s>, management
+High Cholesterol,.,.,",",!, with, ().,".""",:, management,*.
+High Cholesterol,.,.,",", with,!,:, ().,".""",</s>, management
+High Cholesterol,.,",",.,!, with, ().,:,".""", management,*.
+High Cholesterol,.,.,",",!, with, ().,".""",:,</s>,。
+High Cholesterol,.,.,",", ()., with,!,:,".""",*.,</s>
+High Cholesterol,.,.,",", with,!, ()., management,".""",:,*.
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,:,".""", management, of
+Non-Hodgkin's Lymphoma,.,.,",", with,!,".""", management, ().,</s>,:
+Non-Hodgkin's Lymphoma,.,.,",", with,!,".""", management, ().,:,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""", management, of
+Non-Hodgkin's Lymphoma,.,",",., with, ().,!,".""",:,</s>,*.
+Non-Hodgkin's Lymphoma,.,.,",",!, with,</s>, ().,".""",:,*.
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,".""",:, management,"""."
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:, management,".""",</s>
+Non-Hodgkin's Lymphoma,.,",",., with, ().,!,</s>, of, management,"."""
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,".""",:,</s>,).
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,".""",</s>, management,:
+Non-Hodgkin's Lymphoma,.,",",., with,!, management,</s>,".""", ().,:
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""", of, management
+HIV Infection,.,.,",",!,".""", ()., with, management,:,</s>
+HIV Infection,.,.,",", with,!, ().,:,</s>,".""", management
+HIV Infection,.,.,",", ()., with,!, management,".""",:,*.
+HIV Infection,.,.,",",!, ()., with,".""",:,*.,</s>
+HIV Infection,.,.,",", with,!, ().,".""",</s>, management,:
+HIV Infection,.,.,",",!, ()., with,".""",</s>, management,*.
+HIV Infection,.,.,",", with,!, ().,</s>,".""", management,:
+HIV Infection,.,",",., with,!, ().,:,".""",</s>, management
+HIV Infection,.,.,",", with,!,".""",</s>, of, ().,:
+HIV Infection,.,.,",", with, ().,!,".""",:,</s>,*.
+HIV Infection,.,.,",", with,!, ().,".""",</s>,:, management
+HIV Infection,.,.,",", with,!, ().,".""",:,</s>, management
+HIV Infection,.,",",., with,!,:, ().,".""",</s>, management
+HIV Infection,.,",",., with,!,:, ().,".""", of,</s>
+HIV Infection,.,.,",", with, management,!,".""", ().,</s>, Mac
+HIV Infection,.,.,",", with,!,</s>, ().,".""",:, management
+HIV Infection,.,.,",", with,!, ().,".""",</s>,:,*.
+HIV Infection,.,",",., with,!, ().,".""", management,</s>,:
+HIV Infection,.,.,",", with,</s>, ().,".""",:,!, Mac
+HIV Infection,.,.,",", with, ().,!,".""",:,</s>, management
+HIV Infection,.,.,",",!,".""", with, ().,</s>,:, management
+HIV Infection,.,.,",", with,!,</s>,:, ().,".""", of
+HIV Infection,.,",",., with,!, ().,:, management,".""",</s>
+HIV Infection,.,.,",", ().,!, with,".""", management,:,*.
+HIV Infection,.,.,",", with,!, ().,:,".""",</s>, management
+HIV Infection,.,.,",", with,!, ().,".""",:, management,*.
+HIV Infection,.,",",., with,!,:,</s>,".""", ()., management
+HIV Infection,.,",",., with,!, ().,:, of,".""", management
+HIV Infection,.,.,",", with, ().,!,".""",:,</s>, management
+HIV Infection,.,",",.,!, with, ().,".""",:,</s>, management
+HIV Infection,.,",",.,!,".""", with, ().,:,</s>,"""."
+HIV Infection,.,.,",", ().,!,".""", with,*.,</s>,:
+HIV Infection,.,.,",", with, ().,!,:,".""", management, of
+HIV Infection,.,.,",",!, with, ().,".""",:, management,</s>
+HIV Infection,.,.,",", with,!, ().,</s>,".""", of,:
+HIV Infection,.,.,",", with, ().,!,".""",:, management,</s>
+High Cholesterol,.,.,",", with,!, ().,".""",:, management,</s>
+High Cholesterol,.,.,",", with, ().,!,".""",:, management,*.
+High Cholesterol,.,.,",", with,!,".""",</s>, ().,:, management
+High Cholesterol,.,.,",", ().,!, with,".""",</s>,:, of
+High Cholesterol,.,",",., with,!, ().,:, management,".""", of
+High Cholesterol,.,.,",", with,!,".""",:, ()., management,</s>
+High Cholesterol,.,",",.,!, ()., with,".""",:,</s>,*.
+High Cholesterol,.,.,",",!,".""", management,line, with, ().,</s>
+High Cholesterol,.,.,",",".""", ()., with,!, management,</s>,"""."
+High Cholesterol,.,.,",", with,!, ().,".""",:,</s>,*.
+High Cholesterol,.,.,",", ()., with,!,".""", management,:,*.
+High Cholesterol,.,.,",", with,!, ().,".""", management, of,:
+High Cholesterol,.,.,",", with, ().,!, management,:,".""",</s>
+High Cholesterol,.,.,",", with,!,".""",:, ()., management,</s>
+High Cholesterol,.,.,",",!, with,</s>,".""", ().,:, management
+High Cholesterol,.,.,",", with,!,:, ().,</s>,".""", management
+High Cholesterol,.,.,",", ()., with,!,".""",:, management,*.
+High Cholesterol,.,.,",", with,!,</s>, ().,:,".""", management
+High Cholesterol,.,.,",", with,!, ().,:,".""", management,</s>
+High Cholesterol,.,.,",",!, ()., with,".""",:, management,*.
+High Cholesterol,.,.,",",!, with, ().,".""",</s>, management,*.
+High Cholesterol,.,.,",", with,".""", ().,!, management,</s>,:
+High Cholesterol,.,.,",", with,</s>,!, ().,".""", management,:
+High Cholesterol,.,",",.,!, with, ().,:,".""",*.,</s>
+High Cholesterol,.,.,",", with,!, ().,:,".""",</s>, management
+High Cholesterol,.,.,",", with, ().,!, management, Mac,:,"."""
+High Cholesterol,.,",",.,</s>, with,!,:,".""",line, ().
+High Cholesterol,.,.,",", with,!,".""", ().,:, management,</s>
+High Cholesterol,.,.,",",!, with, management, ().,</s>,".""",:
+High Cholesterol,.,.,",", with,!, ().,:,".""",</s>, of
+Osteoarthritis,.,.,",", with,!,:, ().,".""", management, of
+Osteoarthritis,.,.,",",!, ()., with,".""", management,。,</s>
+Osteoarthritis,.,",",., with,".""",!, ()., Mac,:,</s>
+Osteoarthritis,.,.,",", with,!, management,".""", ().,</s>,:
+Osteoarthritis,.,",",., with,!,:,".""", ()., management,</s>
+Osteoarthritis,.,.,",",!,</s>, ()., with,".""",:,*.
+Osteoarthritis,.,.,",",</s>,!, with, ().,:,".""", management
+Osteoarthritis,.,.,",", with,!, ()., management,".""",</s>,*.
+Osteoarthritis,.,.,",",!, with, ().,".""",:,</s>, management
+Osteoarthritis,.,.,",", with,!, ().,:,".""", management,</s>
+Osteoarthritis,.,.,",",!, with, ().,".""",</s>,:, management
+Osteoarthritis,.,.,",",!, ()., with,".""",:,</s>,*.
+Chronic Fatigue Syndrome,.,.,",", ().,!,".""", with,</s>, management,:
+Chronic Fatigue Syndrome,.,",",.,!, with, ().,".""",</s>,:, management
+Chronic Fatigue Syndrome,.,",",.,!, with,:,</s>, ().,".""", of
+Chronic Fatigue Syndrome,.,",",., with,!, ().,:,".""", of,</s>
+Chronic Fatigue Syndrome,.,",",., with,:,!, ().,".""",",.",*.
+Muscle Pain,.,.,",", with,!, management,:, ().,".""",line
+Muscle Pain,.,.,",", with,!, ().,".""",:,</s>, management
+Muscle Pain,.,",",., with,!,:, ().,</s>,".""", management
+Muscle Pain,.,.,",", with,!,</s>, ().,".""",:, management
+Muscle Pain,.,.,",",!, ()., with,".""",:,*., management
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,",",., with,!,:,".""", ()., management,</s>
+Borderline Personality Disorder,.,",",.,!, ()., with,".""",:,*., management
+Borderline Personality Disorder,.,",",., with,:,!,".""", ().,</s>, Mac
+Borderline Personality Disorder,.,.,",", with, management,!,".""",:, ().,</s>
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",", with,!, management,".""", ().,:,</s>
+Borderline Personality Disorder,.,",",.,!, ()., with,".""",</s>,line,*.
+Borderline Personality Disorder,.,",",., with,!, ().,".""", management,:,</s>
+Borderline Personality Disorder,.,.,",", with, management,</s>, ().,".""",!,:
+Borderline Personality Disorder,.,",",., with,!,</s>,".""", ().,:,).
+Borderline Personality Disorder,.,.,",",!, with, ().,".""", management,:,</s>
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:, of,*.
+Borderline Personality Disorder,.,",",.,!, with, ().,</s>,".""",:,*.
+Borderline Personality Disorder,.,",",., with,!, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",",</s>,!, with,".""", ().,line,:
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",:,*.,</s>
+Borderline Personality Disorder,.,.,",",!, with, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""", management,:,"""."
+Borderline Personality Disorder,.,",",.,!, with, ().,".""",:,</s>,*.
+Borderline Personality Disorder,.,",",., with,!, ().,".""",:,*., of
+Borderline Personality Disorder,.,.,",",!, with, ().,".""", management,:,*.
+Borderline Personality Disorder,.,.,",",!, with, ().,:,".""",*.,</s>
+Tinea Corporis,.,.,",", with,!, management, ().,:,".""",</s>
+Tinea Corporis,.,.,",", with,!, ().,:,".""", management,</s>
+Tinea Corporis,.,.,",",!, ()., with,".""",:, management,</s>
+Tinea Corporis,.,",",.,!, with, ().,:,".""", management, of
+Tinea Pedis,.,.,",",!, with, ().,".""", management,*.,:
+Tinea Pedis,.,.,",", with,!,:, ().,".""",</s>, management
+Tinea Cruris,.,",",., with,!, ().,".""", management,:,</s>
+Tinea Cruris,.,.,",", with,!, ().,".""",:, management,*.
+Muscle Pain,.,.,",", with,:,!,".""", ()., management,</s>
+Muscle Pain,.,.,",",!, with, ().,:,".""", management, of
+Muscle Pain,.,.,",",!, ()., with,".""",:, management,*.
+Muscle Pain,.,",",., with,!, ().,:,".""",</s>,).
+Muscle Pain,.,",",., with,:,!,".""",</s>, ()., Mac
+Muscle Pain,.,.,",",!, with,".""", ().,:,</s>, management
+Muscle Pain,.,.,",",!, with,".""", ().,</s>,:, management
+Muscle Pain,.,.,",", with,!,".""", ()., management,:,*.
+Muscle Pain,.,.,",",!, with, ().,:,".""",*., management
+Muscle Pain,.,",",., with,!,</s>, ().,".""",:,?
+Muscle Pain,.,.,",", with,!,:, ().,".""",</s>, management
+Muscle Pain,.,.,",", with,!,:, ().,".""",</s>, of
+Muscle Pain,.,",",.,!, with, ().,".""",</s>,:, management
+Muscle Pain,.,.,",", with,!, ().,".""",:, management,</s>
+Muscle Pain,.,.,",", with, ()., management,!,".""",:,</s>
+Psoriasis,.,.,",", with, ().,!,:,".""",</s>, management
+Psoriasis,.,.,",", with,!,".""",</s>,:, ()., management
+Borderline Personality Disorder,.,.,",", with,!, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",*.,</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,",",., with,!,:, ().,".""",</s>,",."
+Borderline Personality Disorder,.,",",., with,!, ().,:,</s>,".""",;
+Borderline Personality Disorder,.,",",., with,:,!,</s>, ().,".""", management
+Borderline Personality Disorder,.,.,",",!, with, ().,</s>,".""",:,*.
+Borderline Personality Disorder,.,",",., with,!,:,</s>,".""", ()., management
+Borderline Personality Disorder,.,",",.,!, with,:, ().,</s>,".""", of
+Borderline Personality Disorder,.,",",., with,!, ().,:,".""",</s>,*.
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",</s>,:,*.
+Borderline Personality Disorder,.,.,",", with,!,:,".""", ()., management,</s>
+Borderline Personality Disorder,.,.,",", ().,!, with,".""", management,</s>,:
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",</s>,:, management
+Borderline Personality Disorder,.,.,",", with,</s>,!, ().,".""", management,:
+Borderline Personality Disorder,.,",",., with,!,</s>,:, ()., of,"."""
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",</s>, management,:
+Borderline Personality Disorder,.,.,",", with,!, ().,:, management,".""", of
+Borderline Personality Disorder,.,.,",", with, ().,!, management,</s>,".""",:
+Borderline Personality Disorder,.,.,",", with, ()., management,!,".""",:,*.
+Borderline Personality Disorder,.,.,",", with, ().,!,:,".""",*., management
+Borderline Personality Disorder,.,",",., with,!, ().,".""",</s>,:,*.
+Borderline Personality Disorder,.,",",., with, ().,!,:,</s>,".""", of
+Borderline Personality Disorder,.,.,",", ()., with,!,".""",</s>,:, management
+Dermal Ulcer,.,",",., with,!,:, management, ().,".""",</s>
+Dermal Ulcer,.,.,",", with,!, ().,:,".""", of, management
+Dermal Ulcer,.,.,",", with, ().,!,:,".""", management,</s>
+Tinea Cruris,.,.,",", with,!, ().,:,".""", management,</s>
+Tinea Cruris,.,.,",",!,</s>, with, ().,".""",:, management
+Osteoarthritis,.,.,",",!, with, ().,".""", management,</s>,:
+Osteoarthritis,.,.,",",!, with, ().,".""", management,*.,</s>
+Osteoarthritis,.,",",., with,!, management, ().,:,".""", of
+Osteoarthritis,.,",",., with,!,:,".""", ().,",.", management
+Osteoarthritis,.,.,",", with,!, ().,:,".""", management,*.
+Osteoarthritis,.,.,",", with,:,!,".""", ().,</s>, management
+Osteoarthritis,.,",",., with,!, ().,".""",:,</s>, management
+Osteoarthritis,.,.,",", with,!, ().,:,".""",*., management
+Osteoarthritis,.,.,",",!,".""", with, ().,</s>, management,:
+Osteoarthritis,.,.,",", with,!, ().,:,".""",</s>, management
+Osteoarthritis,.,.,",",!,</s>, with, ().,".""",:, of
+Osteoarthritis,.,",",., with,!, ().,".""",:,</s>, management
+Acute Myeloid Leukemia,.,",",., with,!,:, ().,".""", of, management
+Acute Myeloid Leukemia,.,.,",", with,!,".""",:, ()., management, of
+Acute Myeloid Leukemia,.,.,",", with,!,</s>,".""", ().,:, management
+Acute Myeloid Leukemia,.,.,",",!, ()., with,".""", management,</s>,*.
+Acute Myeloid Leukemia,.,.,",", with,!, ()., management,".""",</s>,:
+Acute Myeloid Leukemia,.,.,",",!, with,:, ().,".""", management,</s>
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:,".""", management, of
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",:,</s>, management
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",</s>,*., management
+Acute Myeloid Leukemia,.,.,",", with,!,".""", ().,:,</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!, ().,".""",:,</s>,*.
+Acute Myeloid Leukemia,.,.,",", with,!, ()., management,".""",:,</s>
+Acute Myeloid Leukemia,.,.,",", with,!,:,".""", ().,</s>, of
+Acute Myeloid Leukemia,.,",",.,!, ().,</s>,".""",*.,line, with
+Acute Myeloid Leukemia,.,.,",", with,!, ()., management,</s>,:,"."""
+Acute Myeloid Leukemia,.,.,",", with,".""",!, ()., management,:,</s>
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:,".""", management,</s>
+Acute Myeloid Leukemia,.,.,",", with,!,".""",:,</s>, ()., of
+Acute Myeloid Leukemia,.,",",., with,!,:,</s>,".""", ()., of
+Acute Myeloid Leukemia,.,.,",", with,!, ().,".""", management, of,:
+Acute Myeloid Leukemia,.,.,",", with,!, ().,".""",:, management,*.
+Acute Myeloid Leukemia,.,",",., with,!,:, ().,".""",</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!, management,".""", ().,</s>,:
+Acute Myeloid Leukemia,.,.,",", with,!, ().,".""", management,:,*.
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",*., management,:
+Acute Myeloid Leukemia,.,.,",",!, ()., with, management,:,".""",*.
+Acute Myeloid Leukemia,.,",",., with,!, ().,:,".""",</s>, management
+Acute Myeloid Leukemia,.,",",.,!, with,:, ()., management,".""",</s>
+Acute Myeloid Leukemia,.,.,",", with,!,".""",:, ().,</s>, management
+Acute Myeloid Leukemia,.,.,",", ().,!, with,:,".""", management,</s>
+Acute Myeloid Leukemia,.,",",., with,!, ().,:,".""",</s>, of
+Acute Myeloid Leukemia,.,.,",", with,!, ()., management,".""",:,</s>
+Acute Myeloid Leukemia,.,.,",", with,!,:, ().,".""",</s>, management
+Acute Myeloid Leukemia,.,.,",", with,!, ().,:,".""", management,*.
+Acute Myeloid Leukemia,.,.,",", with,!,".""",:, ()., management,</s>
+Acute Myeloid Leukemia,.,",",., with,!,</s>, ().,:,".""",line
+Acute Myeloid Leukemia,.,.,",",!, with, ().,".""",</s>,:,*.
+Acute Myeloid Leukemia,.,",",., with,!, ().,:,".""", management,</s>
+Acute Myeloid Leukemia,.,.,",", with, ().,:,!,".""", management,</s>
+High Cholesterol,.,.,",", with,!, ().,:,".""", of, management
+High Cholesterol,.,.,",", with,!, ().,".""",:,</s>,*.
+High Cholesterol,.,.,",", with,!, ()., management,".""",:,</s>
+High Cholesterol,.,.,",", with,!, ().,".""",:,</s>, of
+High Cholesterol,.,",",., with,!, ().,".""",:, management,</s>
+High Cholesterol,.,.,",", with, ().,:,".""",!, management,</s>
+High Cholesterol,.,",",., with,!, ()., management,".""",:, of
+High Cholesterol,.,.,",", with,:,".""",</s>, ().,!,).
+High Cholesterol,.,.,",",!, with, ().,".""",:,*.,</s>
+High Cholesterol,.,.,",",!,:,".""", ().,</s>, with,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,!,:,".""", ()., management,?
+Non-Hodgkin's Lymphoma,.,.,",",".""",!, ()., with,:, management,*.
+Non-Hodgkin's Lymphoma,.,",",., with,:,!, ().,".""",</s>, Mac
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,".""",:, management,</s>
+Non-Hodgkin's Lymphoma,.,",",., with,:,!,</s>, ()., Mac,"."""
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""", management,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,".""",!,:, ().,</s>, management
+Non-Hodgkin's Lymphoma,.,",",.,!, with,".""",:, management,</s>, ().
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,:,".""", management,*.
+Non-Hodgkin's Lymphoma,.,.,",", ().,!,".""",*., with,</s>,"""."
+Non-Hodgkin's Lymphoma,.,.,",", with,!,".""", management, of, ().,</s>
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""",</s>, of
+Non-Hodgkin's Lymphoma,.,.,",", with, ().,!,:,".""", management, of
+Non-Hodgkin's Lymphoma,.,",",., with,!,:, ().,".""",?,</s>
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with,".""",:,line,*.
+Non-Hodgkin's Lymphoma,.,.,",", ().,!, with,".""", management,*.,:
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with, management,".""",*.,</s>
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,:,".""", of,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,!,</s>,".""", ()., management, Mac
+Non-Hodgkin's Lymphoma,.,.,",",".""", with,!,:, ().,</s>, management
+Non-Hodgkin's Lymphoma,.,",",.,!, with,:, ().,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!,:,".""",</s>, ()., management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ()., management,".""",:, of
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,".""", management,:,</s>
+Non-Hodgkin's Lymphoma,.,.,",", ().,!, with, management,".""",</s>,:
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,".""",:,*., management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""", management, of
+Non-Hodgkin's Lymphoma,.,.,",", with,:,!, ().,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,.,",",!, with,:, ().,".""", management,</s>
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with,".""", management,*.,:
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ()., management,:,".""", of
+Non-Hodgkin's Lymphoma,.,.,",",!, with,".""",:, ()., management,</s>
+Non-Hodgkin's Lymphoma,.,.,",", with,!,</s>,:,".""", ()., management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""", of, management
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,</s>,:,".""", management
+Non-Hodgkin's Lymphoma,.,",",., with,!,:, ().,</s>,".""", management
+Non-Hodgkin's Lymphoma,.,.,",", ().,!, with,".""", management,:,*.
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,".""", management,:,</s>
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with,".""",:,*., management
+Non-Hodgkin's Lymphoma,.,.,",", with,!,".""",:, ().,</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!,".""", ().,</s>,:, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!,".""",:, ()., management,</s>
+Non-Hodgkin's Lymphoma,.,.,",",!,".""", with,:, ().,</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", with, ().,!,".""",:,</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", with,".""",:,</s>,!, ()., Mac
+Non-Hodgkin's Lymphoma,.,.,",",!, with,".""", management, ().,:,</s>
+Non-Hodgkin's Lymphoma,.,.,",",!,".""", ()., with,</s>,:,"""."
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,".""",</s>,:, management
+Non-Hodgkin's Lymphoma,.,",",.,!, with,".""",:,</s>, ().,*.
+Non-Hodgkin's Lymphoma,.,",",., with, ().,!,:,".""", of,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,".""", management,:,</s>
+Non-Hodgkin's Lymphoma,.,.,",", with,</s>,!,".""", ().,:, of
+Non-Hodgkin's Lymphoma,.,",",.,!, with, ().,".""", management,:,</s>
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ()., management,".""",:, of
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,*.,".""", management
+Non-Hodgkin's Lymphoma,.,.,",", with,!,".""", ().,:, management, of
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,:,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,:,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,".""",:,*.,</s>
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with,".""",:, management,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,!,</s>,:,".""", ()., management
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,".""",:, management,</s>
+Non-Hodgkin's Lymphoma,.,.,",", with, ().,!,</s>,:,".""", management
+Non-Hodgkin's Lymphoma,.,.,",", with, ().,!,".""",</s>,:, management
+Non-Hodgkin's Lymphoma,.,.,",", with,</s>,!, ().,".""",:, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,".""",:, management,</s>
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""", management,</s>
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,:, management,".""",</s>
+Non-Hodgkin's Lymphoma,.,",",., with,!,:, ()., of,".""", management
+Non-Hodgkin's Lymphoma,.,",",., with,!,:,".""", ().,*., management
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ()., management,</s>,".""",:
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,".""",:, management,</s>
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with,</s>,".""",:, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""", management,</s>
+Non-Hodgkin's Lymphoma,.,",",.,!, ()., with,".""",</s>,*.,line
+Multiple Myeloma,.,",",.,!, with, ().,".""",:, management,</s>
+Multiple Myeloma,.,",",., with,!, ().,:, management,".""", of
+Multiple Myeloma,.,.,",", with,!,".""",:, ().,</s>, management
+Multiple Myeloma,.,.,",", with,!,</s>, ().,:,".""", management
+Multiple Myeloma,.,.,",",!, ()., with,</s>,".""",:,*.
+Multiple Myeloma,.,.,",", with,</s>,!,:,".""", ()., of
+Multiple Myeloma,.,.,",",!, with, ().,".""",:, management,*.
+Multiple Myeloma,.,.,",",!,</s>, with,:,".""", of, Mac
+Multiple Myeloma,.,.,",", with,!,".""", management,</s>, Mac, ().
+Chronic Fatigue Syndrome,.,.,",", ().,!, with,".""", management,*.,:
+Chronic Fatigue Syndrome,.,",",., with,</s>,!, ().,:,".""", of
+Chronic Fatigue Syndrome,.,.,",",!, ().,".""", with,</s>,:, management
+Chronic Fatigue Syndrome,.,.,",", with,!, ().,:, management,".""", of
+Chronic Fatigue Syndrome,.,",",., with,!,:, ().,".""", management, of
+Chronic Fatigue Syndrome,.,.,",",!,</s>,".""", with, Mac,line,:
+Chronic Fatigue Syndrome,.,.,",", with,!,:,".""", ()., management,</s>
+Chronic Fatigue Syndrome,.,.,",",!, with, ().,:,".""", management,</s>
+Chronic Fatigue Syndrome,.,",",., with,!,:,</s>,".""", of, management
+Chronic Fatigue Syndrome,.,.,",",!, with, ().,".""", management,:,</s>
+Oral Thrush,.,.,",", with,!, ().,".""",:,</s>, management
+Oral Thrush,.,.,",", with, ().,!,:,".""", management,</s>
+Multiple Myeloma,.,",",., with,!, ().,".""", management,:,*.
+Multiple Myeloma,.,.,",",!, ()., with,".""",:, management,*.
+Multiple Myeloma,.,.,",", with,!,".""", ()., management,:,</s>
+Multiple Myeloma,.,.,",", with,!, ().,:,".""", management,</s>
+Multiple Myeloma,.,.,",", with,!, ().,:,".""",</s>, management
+Multiple Myeloma,.,.,",",!, ()., with,".""",:,*.,</s>
+Multiple Myeloma,.,.,",", with,!,</s>,".""", ().,:, management
+Multiple Myeloma,.,.,",", with, ().,!,:,".""", management,</s>
+Multiple Myeloma,.,.,",", with,!,</s>, ().,".""",:, management
+Muscle Pain,.,.,",",!,".""", ()., with,</s>,:, management
+Muscle Pain,.,.,",", with,!, ().,</s>, management,:,"."""
+Muscle Pain,.,.,",",!, with, ().,</s>,:,".""", of
+Muscle Pain,.,",",., with, ().,!,:,".""",*.,</s>
+Muscle Pain,.,.,",", with,!, ().,:,</s>,".""", of
+Muscle Pain,.,.,",", ()., with,!,:,".""", management,*.
+Muscle Pain,.,.,",",!, with,".""", ().,:, management,</s>
+Muscle Pain,.,.,",",!, ()., with,:,".""", management,</s>
+Muscle Pain,.,.,",", with,!,:, ().,".""",</s>, management
+Muscle Pain,.,.,",",!, with, ().,".""",:,</s>, management
+Muscle Pain,.,.,",", with,!,</s>,".""",:, ()., management
+Muscle Pain,.,.,",",</s>,!, ().,".""", with,:,",."
+Muscle Pain,.,.,",",!, with,".""", ().,:, management,</s>
+Muscle Pain,.,.,",", with,</s>,!,".""", ().,:, management
+Muscle Pain,.,.,",", ()., with,!,".""",:, management,*.
+Chronic Fatigue Syndrome,.,.,",", with,</s>, ().,!,".""", management,:
+Chronic Fatigue Syndrome,.,.,",", with,!,".""",:, ().,</s>, management
+Chronic Fatigue Syndrome,.,.,",", with,</s>,!,".""", ().,:, management
+Chronic Fatigue Syndrome,.,",",., with,</s>,:, ().,!,".""", management
+Chronic Fatigue Syndrome,.,.,",", with,!, ().,:,".""",</s>, of
+Chronic Fatigue Syndrome,.,.,",",!, with, ().,:,".""",</s>,*.
+Chronic Fatigue Syndrome,.,.,",", with,".""",!,:, ()., management,</s>
+Chronic Fatigue Syndrome,.,",",., with,!, ().,".""",:,</s>, management
+Chronic Fatigue Syndrome,.,.,",", with, ().,!,:,".""",</s>,*.
+Chronic Fatigue Syndrome,.,.,",",!, with,".""", ().,:, management, of
+Multiple Myeloma,.,.,",", with,!, ().,".""",:, management,</s>
+Multiple Myeloma,.,.,",", with,!,:, ().,".""",</s>, management
+Multiple Myeloma,.,",",., with,!,:,</s>,".""", management, ().
+Multiple Myeloma,.,",",., with,!, ().,:, management,".""",</s>
+Multiple Myeloma,.,",",., with,:,</s>,!,".""", ()., management
+Multiple Myeloma,.,.,",", with,!,</s>,".""",:, ()., management
+Multiple Myeloma,.,",",., with,!, ().,:,".""", management, of
+Multiple Myeloma,.,",",., with,!,".""",</s>, management, ()., of
+Multiple Myeloma,.,.,",", with,!,</s>, ().,".""", management,:
+Dermal Ulcer,.,.,",", with,!,:, ().,".""", management,</s>
+Dermal Ulcer,.,.,",", with,!,:, management, ().,".""",</s>
+Dermal Ulcer,.,",",., with,!, ().,".""",</s>,:, management
+Angina,.,.,",",!, with, ().,".""",:, management,</s>
+Angina,.,.,",", ()., with,!,".""", management,:,*.
+Angina,.,",",., with,!,:, ().,".""", of, management
+Angina,.,.,",", with,!, ().,:,".""", management,</s>
+Angina,.,.,",", with,!, ().,</s>, management,:, of
+Angina,.,.,",",!, with, ().,:,".""", management,</s>
+Angina,.,.,",", with,!,".""",</s>, management,:, ().
+Angina,.,.,",",!, ()., with,".""",*.,:,"""."
+Angina,.,.,",", ().,!, with,".""", management,*.,:
+Angina,.,.,",",!, ()., with, management,".""",*.,:
+Angina,.,",",., with,:,!,".""", ()., of,?
+Non-Hodgkin's Lymphoma,.,.,",", with,!,:, ().,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,",",., with,!,".""", ().,:, management,*.
+Non-Hodgkin's Lymphoma,.,",",.,!,".""", ()., with,</s>,:,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,</s>,!, ().,".""",:, management
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,</s>,".""",:, management
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,".""",</s>, management,:
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with,:,".""",</s>,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,".""", management,:, of
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,</s>,:, management,"."""
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ()., management,:,".""",</s>
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,:,".""", management,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""", management,*.
+Non-Hodgkin's Lymphoma,.,.,",", with, ().,!,".""", management,:,</s>
+Non-Hodgkin's Lymphoma,.,.,",", with,!,:, ().,".""", management,</s>
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,:,".""",*., management
+Non-Hodgkin's Lymphoma,.,.,",", with,!,".""", ().,:,</s>, management
+Non-Hodgkin's Lymphoma,.,.,",",".""", with,!, management, ().,</s>,:
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""",</s>, of
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,</s>,:,".""",*.
+Non-Hodgkin's Lymphoma,.,.,",", with, ().,!,".""",</s>,:,*.
+Non-Hodgkin's Lymphoma,.,.,",", with, ().,!,:,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,.,",",!, with, ().,".""", management,:,*.
+Non-Hodgkin's Lymphoma,.,.,",",!, ()., with,:,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,",",., with,!, ().,".""",:, management,*.
+Non-Hodgkin's Lymphoma,.,.,",", with,!, ().,:,".""",</s>, management
+Non-Hodgkin's Lymphoma,.,.,",", ()., with,!,:,".""", management, of
+Osteoarthritis,.,.,",", with,!,:, ().,</s>,".""", management
+Osteoarthritis,.,.,",", with, ().,!, management,".""",:,</s>
+Osteoarthritis,.,.,",", with,!, ().,:,".""", management,</s>
+Osteoarthritis,.,.,",", with,!,:, ().,".""",</s>, management
+Osteoarthritis,.,.,",",!, with,".""", ().,:, management,</s>
+Osteoarthritis,.,.,",",!, ().,".""",</s>,*., with,line
+Osteoarthritis,.,.,",",!, ()., with,*.,".""", management,</s>
+Osteoarthritis,.,",",., with,!, ().,:,".""", management, of
+Osteoarthritis,.,.,",", with,!,:,".""", ()., management,</s>
+Osteoarthritis,.,.,",", with,!,</s>,".""",:, ()., management
+Osteoarthritis,.,.,",", with, ().,!,".""",:,</s>, management
+Osteoarthritis,.,.,",", with,!,".""",:, management, ().,</s>
+Oral Thrush,.,.,",", with, ().,!,".""",:, management,*.
+Oral Thrush,.,",",., with,!,:, ().,</s>,".""", management
+Oral Thrush,.,",",., with,!, ().,:,".""", management, of
+Oral Thrush,.,.,",", with,!, ().,".""",:, management, of
+Oral Thrush,.,",",.,!, with, ().,".""",</s>,:,*.
+Oral Thrush,.,.,",", ().,!, management,".""", with,*.,</s>
+Osteoarthritis,.,.,",",!, ()., with,".""", management,*.,:
+Osteoarthritis,.,.,",", with,!, ().,".""", management,:, of
+Osteoarthritis,.,.,",",!,".""", with,</s>, ()., management,:
+Osteoarthritis,.,.,",",!, ()., with,".""",:, management,*.
+Osteoarthritis,.,.,",",!, ()., with,".""",*.,:, management
+Osteoarthritis,.,.,",",!,".""", ()., with, management,""".",</s>
+Osteoarthritis,.,.,",", with,!,</s>, ().,".""",:, management
+Osteoarthritis,.,.,",",!, ()., with,".""", management,*.,"""."
+Osteoarthritis,.,.,",", with, ().,!,".""",:,</s>, management
+Osteoarthritis,.,.,",", with,!,:, management,".""", ().,</s>
+Osteoarthritis,.,.,",", with, ().,!, management,".""",</s>,:
+Osteoarthritis,.,",",., with, ().,:,!,".""",</s>, of
+Osteoarthritis,.,.,",", with, ().,!,".""", management,:,*.
+Osteoarthritis,.,.,",", with,!, ().,".""", management,*.,:
+Osteoarthritis,.,",",., with,!,:, ()., management,".""", of
+Osteoarthritis,.,",",., with,!,:, ().,".""",</s>,*.
+Osteoarthritis,.,.,",", with,!, ().,".""",</s>,:, of
+Osteoarthritis,.,.,",",</s>, with,!, ().,".""",:, of
+Osteoarthritis,.,.,",", with,!, ().,:,".""", management, of
+Osteoarthritis,.,.,",",!, with, ().,".""",:,*.,</s>
+Osteoarthritis,.,.,",", with,!,".""",</s>,:, ()., Mac
+Osteoarthritis,.,.,",", with,".""", ().,!, management,:,</s>
+Osteoarthritis,.,.,",", with,</s>,!,:,".""", Mac, ().
+Osteoarthritis,.,",",., with, ().,!,:,".""", management,*.
+Muscle Pain,.,.,",",!, with, ().,".""",:, management,</s>
+Muscle Pain,.,",",., with,!,:, ().,".""", of, management
+Muscle Pain,.,.,",",!, ()., with,".""", management,:,</s>
+Muscle Pain,.,.,",", with,!, ().,".""",</s>,:, management
+Muscle Pain,.,",",., with,!, ().,:,".""", of,</s>
+Muscle Pain,.,.,",", with,</s>, ().,!, management,".""",:
+Muscle Pain,.,.,",",</s>,!,".""", with, ()., management,:
+Muscle Pain,.,.,",",!, ().,</s>,".""", with, management,*.
+Muscle Pain,.,",",.,!, with, ().,:,".""",*.,</s>
+Muscle Pain,.,",",., with,!,:, ().,</s>,".""",*.
+Muscle Pain,.,.,",", with,!, ().,:,".""", management,</s>
+Muscle Pain,.,.,",",!, with,:,".""", ()., management,</s>
+Muscle Pain,.,",",.,!, with, ().,:,".""",</s>, management
+Muscle Pain,.,.,",",!, ()., with,".""", management,*.,</s>
+Muscle Pain,.,",",., with,!,:,</s>, ().,".""", management
+Muscle Pain,.,.,",", with,!, ().,</s>,".""", management,:
+Muscle Pain,.,.,",",!, management,line,".""", ()., with,</s>
+Muscle Pain,.,",",.,!, ()., with,".""",:,*.,</s>
+Muscle Pain,.,.,",", with,!, ().,".""", management,:,</s>
+Muscle Pain,.,.,",", with,!,</s>, ()., management,:,"."""
+Psoriasis,.,.,",", ()., with,!,".""",:, management,*.
+Psoriasis,.,.,",",!, with, ()., management,".""",:,</s>
+Schizophrenia,.,.,",", with,!,".""",:, ().,</s>, management
+Schizophrenia,.,",",., with, ().,!,".""",:, management,</s>
+Schizophrenia,.,.,",", with,!,".""", ().,</s>,:, management
+Schizophrenia,.,.,",",!, with, ().,".""", management,:,*.
+Schizophrenia,.,.,",", with,</s>, ().,!,".""", management,:
+Schizophrenia,.,.,",", with,!,</s>, ().,".""",:, of
+Schizophrenia,.,.,",",!, ()., with,".""",:, management,</s>
+Schizophrenia,.,.,</s>,",", with,".""", ().,!, management,"""."
+Schizophrenia,.,.,",", with,!, ()., management,".""",:, of
+Muscle Pain,.,.,",",!, with, ().,".""",</s>,:,*.
+Muscle Pain,.,",",.,!, with, ().,".""",:,*.,</s>
+Muscle Pain,.,.,",", with, ().,!,".""",:, management,*.
+Muscle Pain,.,.,",", with,!,".""", ().,:, management, of
+Muscle Pain,.,.,",",!, ()., with,".""",:,*.,</s>
+Borderline Personality Disorder,.,.,",", ().,!, with,".""", management,:,</s>
+Borderline Personality Disorder,.,.,",", with,!,</s>,:, ().,".""", management
+Borderline Personality Disorder,.,.,",", with,!,".""",:, ()., management,</s>
+Borderline Personality Disorder,.,.,",",!, ()., with,".""",</s>,:,*.
+Borderline Personality Disorder,.,.,",",!, with,".""", ()., management,</s>,:
+Borderline Personality Disorder,.,",",., with,!, ().,".""",:, of, management
+Borderline Personality Disorder,.,",",.,!, with, ().,</s>,:,".""",*.
+Borderline Personality Disorder,.,.,",",!, with, ().,".""", management,:,</s>
+Borderline Personality Disorder,.,.,",", with,</s>,!, ().,".""",:, of
+Borderline Personality Disorder,.,.,",",!, ()., with,</s>,".""",:, management
+Borderline Personality Disorder,.,",",.,!, with, ().,:,".""", management,*.
+Borderline Personality Disorder,.,.,",",!, with,:,".""", ()., management,</s>
+Borderline Personality Disorder,.,.,",", with,!,</s>, ().,:,".""", management
+Borderline Personality Disorder,.,.,",", with,!,</s>, ().,".""",:, management
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",:,</s>, management
+Borderline Personality Disorder,.,.,",", with,!, ().,".""",:, management,</s>
+Borderline Personality Disorder,.,.,",",!, with, ().,".""",</s>,:,*.
+Borderline Personality Disorder,.,",",., with,!, ().,:,".""",</s>, management
+Borderline Personality Disorder,.,.,",",!, with, ().,:,".""", management,</s>
+Borderline Personality Disorder,.,.,",",!,".""", with, ().,:, management,"""."
+Borderline Personality Disorder,.,.,",", with,!, ().,:, management,".""",</s>
+Borderline Personality Disorder,.,",",., with,!,:, ()., management,".""",</s>
+Borderline Personality Disorder,.,",",., with,!, ()., management,".""",:, of
+Borderline Personality Disorder,.,.,",", with, ().,!,:,".""", management, of
+Borderline Personality Disorder,.,.,",", with,!,:, ().,".""", management,*.
+Multiple Myeloma,.,.,",", with,!, ()., management,:,".""", of
+Multiple Myeloma,.,.,",", with,!,</s>, ().,:,".""", of
+Multiple Myeloma,.,.,",", with,!,</s>,".""",:, management, ().
+Multiple Myeloma,.,",",., ().,!, with,".""",:, management,*.
+Multiple Myeloma,.,",",., with, ().,!,".""",:, management, of
+Multiple Myeloma,.,",",.,!, with,:, ().,".""", management, of
+Multiple Myeloma,.,.,",",!, ()., with, management,".""",*.,</s>
+Multiple Myeloma,.,.,",",!, ()., with,".""",*., management,:
+Multiple Myeloma,.,.,",", with,!, ().,</s>, management,".""",:
+Multiple Myeloma,.,.,",", with,!, ().,:, management,".""",</s>
+Multiple Myeloma,.,.,",", with, ().,!,:,".""",</s>,*.
+Multiple Myeloma,.,.,",", with,!, management,:,".""", ().,</s>
+Multiple Myeloma,.,.,",", with,!, management, ().,:,".""",</s>
+Multiple Myeloma,.,.,",", with,!, ().,".""",:,</s>, management
+Multiple Myeloma,.,.,",", with,!, ().,:,".""",*., management
+Multiple Myeloma,.,.,",",!, with, ().,:,".""",</s>, management
+Multiple Myeloma,.,.,",", with,!,</s>, ().,".""",:, management
+Multiple Myeloma,.,.,",", with,!, ().,".""",</s>,:, management
+Multiple Myeloma,.,.,",", with,!, ().,</s>,".""",:, management
+Multiple Myeloma,.,.,",",!,".""", with, ().,:, management,</s>
+Multiple Myeloma,.,.,",",!, ()., with,".""",:, management,*.
+Multiple Myeloma,.,.,",", with,!,".""", ().,:, management,</s>
+Multiple Myeloma,.,",",., with,!, ().,:,".""",</s>,*.
+Multiple Myeloma,.,.,",", with, ().,!,:,".""", management,*.
+Multiple Myeloma,.,.,",",!, ().,".""", with,:, management,*.
+Multiple Myeloma,.,.,",",!, with,".""",</s>,:, ()., management
+Multiple Myeloma,.,.,",", with,!,:, ()., management,</s>,"."""
+Chronic Fatigue Syndrome,.,.,",",!, with, ().,".""",:, management,*.
+Chronic Fatigue Syndrome,.,.,",",!, ()., with,".""", management,*.,</s>
+Chronic Fatigue Syndrome,.,",",., with,!, ().,:, management,</s>,"."""
+Chronic Fatigue Syndrome,.,.,",", with,!, ()., management,".""",</s>,:
+Chronic Fatigue Syndrome,.,.,",", with,</s>,!,".""",:, ()., Mac
+Dermal Ulcer,.,",",., with,!, management,".""", ().,:, Mac
+Dermal Ulcer,.,.,",", with,:,!,".""",</s>, ().,*.
+Dermal Ulcer,.,.,",", with,!,".""", ().,:, management, of
+Dermal Ulcer,.,",",., with,!,</s>, ().,:,".""", of
+Dermal Ulcer,.,.,",", ().,!, with, management,".""",*.,:
+Dermal Ulcer,.,.,",", with, ().,!, management,:,</s>,"."""
+HIV Infection,.,.,",", with, ().,!,:,".""", management,*.
+HIV Infection,.,.,",",!, ()., with,".""",:, management,</s>
+HIV Infection,.,",",., with, ().,!, management,".""", of,:
+HIV Infection,.,.,",", with, ().,!,</s>,".""",:,*.
+HIV Infection,.,.,",", with,!, ().,".""",:, management,</s>
+HIV Infection,.,.,",", with, ().,!,".""", management,:,"""."
+Angina,.,",",., with,!, ().,</s>,:,".""", management
+Angina,.,.,",", with,!,".""", ().,:,</s>,*.
+Angina,.,.,",", ().,!, with,".""",*.,:,"""."
+Angina,.,.,",",!, with, ()., management,".""",*.,</s>
+Angina,.,.,",",</s>, with,".""", management,!, Mac, ().
+Angina,.,.,",", with,!, ().,:,".""",</s>, management
+Angina,.,.,",", with,!, ().,:,".""", management,</s>
+Angina,.,.,",", with,!, ().,".""",:, management,*.
+Angina,.,.,",", with,!, ().,:,".""", management,*.
+Angina,.,",",., with,!, ()., management,:,".""",*.
+Angina,.,.,",", with,!, ().,:,".""", management,*.
+Psoriasis,.,.,",", with,!, ().,".""",:,*., management
+Psoriasis,.,.,",",!, with,</s>,".""",:, ().,).
+Psoriasis,.,.,",", with,!, ().,:,".""",</s>, management
+Psoriasis,.,.,",",!, with,".""", ().,:,</s>, management
+Schizophrenia,.,.,",", with,!, management,".""", ().,:,*.
+Schizophrenia,.,.,",", with,</s>,!, ()., management,".""",:
+Schizophrenia,.,.,",", with,!, ().,".""",:, management,</s>
+Schizophrenia,.,.,",",!, with, ().,:,".""", management,*.
+Schizophrenia,.,.,",", with,!, ().,:,".""", management,</s>
+Schizophrenia,.,.,",",!, ()., with,".""",*., management,:
+Schizophrenia,.,",",.,!, with, ().,:,".""", management,*.
+Schizophrenia,.,.,",", with,!,".""",:, ().,</s>, of
+Schizophrenia,.,.,",", with, management,!,".""",</s>, ().,:
+Tinea Corporis,.,.,",",!, with, ().,".""",:,</s>, management
+Tinea Corporis,.,.,",", with, ().,!,</s>, management,:,"."""
+Tinea Corporis,.,.,",",!, with,".""", ()., management,:,*.
+Tinea Corporis,.,.,",", with,!, ().,</s>, management,".""",:
+Tinea Corporis,.,.,",", with,!, ().,".""", management,</s>,*.
+Tinea Corporis,.,",",., with,!, ().,:,</s>,".""", of
+Tinea Corporis,.,",",., with,!, ().,".""",:,</s>, management
+Tinea Corporis,.,.,",", with, ().,!,".""",:, management,</s>
+Tinea Pedis,.,.,",", with,!, ().,:,".""",</s>, of
+Tinea Pedis,.,.,",", ()., with,!,".""",:, management,*.
+Tinea Cruris,.,.,",", with,!, ().,:,".""",</s>, management
+Tinea Cruris,.,",",.,!, ()., with,:,".""",*., management
+Muscle Pain,.,.,",", ().,!, with,".""", management,:,*.
+Muscle Pain,.,.,",", with,!,</s>, ().,:,".""",?
+Muscle Pain,.,.,",", with,!, ()., management,:,".""", of
+Muscle Pain,.,.,",",!, with,".""", ().,:,</s>, management
+Muscle Pain,.,.,",", with, ().,!,:, management,".""",</s>
+Osteoarthritis,.,",",., with,!,".""", ().,:,</s>, management
+Osteoarthritis,.,.,",",!, with, ().,".""", management,</s>,:
+Osteoarthritis,.,",",., with,!,:,".""", ().,</s>,*.
+Osteoarthritis,.,",",., with,!,:, management, ().,".""", of
+Osteoarthritis,.,",",., with,!,</s>,:, ()., of,"."""
+Osteoarthritis,.,",",., with, ().,:,!,".""", management,*.
+Osteoarthritis,.,.,",", with,!,:, ().,</s>,".""", of
+Osteoarthritis,.,.,",",!, ()., with, management,".""",:,*.
+Osteoarthritis,.,",",.,!,</s>, with,:,".""", ()., of
+Osteoarthritis,.,",",., with,</s>,!,:,".""", ()., of
+Osteoarthritis,.,.,",", with,!, ().,".""", management,:,</s>
+Osteoarthritis,.,.,",", with,!,</s>,:, ().,".""", management
+Schizophrenia,.,.,",",!, ()., with,".""", management,*.,</s>
+Schizophrenia,.,.,",",!, with,".""", ()., management,:,</s>
+Schizophrenia,.,.,",", with,!,:, ().,</s>,".""", management
+Schizophrenia,.,.,",", with, ().,!,</s>,".""",:, of
+Schizophrenia,.,.,",", with, ().,!,".""",:, management,</s>
+Schizophrenia,.,",",.,!, with, ().,".""",</s>, of,:
+Schizophrenia,.,",",., with,!,</s>, ().,:,".""",*.
+Schizophrenia,.,.,",", with,!, ().,:,".""",</s>, of
+Schizophrenia,.,.,",", with, ().,!,".""",</s>,:, management
+Schizophrenia,.,",",., with,!, ().,:,".""",</s>, of
+Schizophrenia,.,.,",", with,:,!, ().,".""", of,*.
+Schizophrenia,.,",",.,!, with, ().,</s>,".""",:,line
+Schizophrenia,.,.,",",!, with, ().,".""",</s>,:,*.
+Schizophrenia,.,.,",", with, ().,!,".""",:,</s>, management
+Schizophrenia,.,.,",", with,!, ().,".""",:, management,</s>
+Schizophrenia,.,.,",", with,!, ().,:,".""",*., management
+Schizophrenia,.,",",., with,</s>,!, ().,:,".""", of
+Schizophrenia,.,.,",", with, ().,".""",!, management,:,</s>
+Schizophrenia,.,.,",",!, ()., with,".""",:, management,</s>
+Schizophrenia,.,.,",", with,!,</s>, ().,".""", management,:
+Schizophrenia,.,.,",", ()., with,!,".""",:, management,*.
+Schizophrenia,.,.,",",!, with,".""", ().,:, management,</s>
+Schizophrenia,.,.,",",!, with, ().,".""",:,</s>,*.
+Schizophrenia,.,",",., with,!,:, ().,".""",*., of
+Schizophrenia,.,.,",",!, ()., with,".""",:,</s>,*.
+Schizophrenia,.,",",., with, ().,!,".""",:,</s>, of
+Schizophrenia,.,.,",", with, ().,!,".""",:, management,</s>
+Schizophrenia,.,.,",",".""", with,:,!, ()., Mac, management
+Schizophrenia,.,.,",", with,!, ().,".""",:, management,</s>
+Schizophrenia,.,",",.,!, ()., with,".""",</s>,line,*.
+Schizophrenia,.,.,",", with,!, ().,:,".""",</s>, management
+Schizophrenia,.,",",., with,!, ().,</s>,".""",:, of
+Schizophrenia,.,.,",", with,!,".""", ().,:, management, of
+Schizophrenia,.,",",., with,!,:, ().,".""",</s>, of
+Schizophrenia,.,.,",",!, ()., with,".""",:, management,</s>
+Schizophrenia,.,",",.,!, with, ().,:,".""",*., management
+Schizophrenia,.,.,",", with,!, ().,</s>,:,".""", of
+Schizophrenia,.,.,",",</s>, with,!, ().,".""",:, management
+Schizophrenia,.,",",., with,!,:, ().,".""", management,</s>
+Schizophrenia,.,.,",", with, ().,!,".""",:, management,</s>
+Schizophrenia,.,.,",",!, ()., with,".""", management,:,</s>
+Schizophrenia,.,.,",", with,!,</s>, management,:, ().,"."""
+Schizophrenia,.,",",., with,!,:,</s>, ().,".""", of
+Schizophrenia,.,.,",", ()., with,!,".""",:, management,*.
+Schizophrenia,.,.,",",</s>, with,!, ().,".""",:, management
+Schizophrenia,.,",",., with,!,</s>,".""",:, ().,*.
+Schizophrenia,.,.,",",!, ()., with,:,".""",</s>, management
+Schizophrenia,.,.,",", with,!, ().,".""",:, management,</s>
+Schizophrenia,.,.,",", with,!, ().,:,".""", management,</s>
+Schizophrenia,.,.,",", with,!,:, ().,".""", management, of
+Schizophrenia,.,.,",",!, with, ().,</s>, management,".""",:
+Schizophrenia,.,",",.,!, with,".""", ().,:, management,</s>
+Schizophrenia,.,.,",", with,!,:,".""", ().,</s>,*.
+Schizophrenia,.,",",.,!, ()., with,".""",*.,:,</s>
+Angina,.,.,",",!, ()., with,".""",</s>,:, management
+Angina,.,",",.,!, with,</s>,:,".""",?, ().
+Angina,.,.,",",!, with, ().,:,".""",</s>,*.
+Angina,.,.,",",!, with, ()., management,".""",</s>,:
+Angina,.,.,",", ()., with,!,".""",:, management,*.
+Angina,.,",",., with, Mac,!,</s>,:, ().,"."""
+Angina,.,.,",", with,!,".""", management, ().,:,</s>
+Angina,.,",",.,!, with, ().,:,".""",</s>,*.
+Angina,.,",",., with,!,:, ().,".""",</s>,?
+Angina,.,.,",",!, with, ().,".""",</s>, management,:
+Angina,.,.,",", with,!,".""", ().,:, management,</s>
+Chronic Fatigue Syndrome,.,.,",", with,!, management,:, ().,".""", Mac
+Chronic Fatigue Syndrome,.,.,",",!, with, ().,".""", management,*.,:
+Chronic Fatigue Syndrome,.,.,",", with,!, ().,:,".""", management,</s>
+Chronic Fatigue Syndrome,.,",",.,</s>, with,line,".""", Mac,!,:
+Chronic Fatigue Syndrome,.,.,",",!, with, ().,".""", management,:, Mac
+Oral Thrush,.,.,",", with, ().,!,:,".""", management,</s>
+Oral Thrush,.,.,",", with,:,!, ().,".""", of, management
+Tinea Corporis,.,.,",", with,!, ().,".""",:,</s>, management
+Tinea Corporis,.,.,",", ()., with,!,".""",:, management,*.
+Tinea Corporis,.,.,",", with,!,</s>, ().,".""", management,:
+Tinea Corporis,.,.,",", with,!, ().,".""",:, management,</s>
+Tinea Corporis,.,.,",", with,!, ().,".""",</s>,:, of
+Tinea Corporis,.,.,",",!, ().,".""", with,*.,</s>,:
+Tinea Corporis,.,.,",",!, ()., with,".""",:,*., management
+Tinea Corporis,.,.,",", with,!,</s>, ()., management,".""",:
+Tinea Cruris,.,.,",",!, ().,".""", with,:, management,</s>
+Tinea Cruris,.,.,",", with,!, ().,".""",:, management,</s>
+Tinea Corporis,.,.,",", ().,!, with,".""",:,</s>, management
+Tinea Corporis,.,.,",", with,!, ().,</s>,".""", management,:
+Tinea Corporis,.,.,",",!, with, ().,".""",</s>,:, management
+Tinea Corporis,.,.,",", with,!, ().,".""",</s>,:, management
+Tinea Pedis,.,",",., with,!, ().,".""",</s>,:, management
+Tinea Pedis,.,.,",",!, with, ().,:,".""", management,</s>
+Tinea Cruris,.,.,",", with,!, management,".""",</s>,:, ().
+Tinea Cruris,.,.,",", with,:, ().,!,</s>,".""", management
+Tinea Pedis,.,.,",",!, with, ().,".""",:, management,*.
+Tinea Pedis,.,.,",",!, with, ().,".""",:,</s>, management
+Tinea Corporis,.,.,",", with,!, ().,:,".""", management,*.
+Tinea Corporis,.,.,",", with,!, ().,:,".""",</s>, of
+Tinea Corporis,.,",",., with, ().,!,".""",:,""".",</s>
+Tinea Corporis,.,",",.,!, with, ().,:,".""",</s>,?
+Schizophrenia,.,",",., ().,!,".""", with,*., management,:
+Schizophrenia,.,.,",", with,!, ().,:,</s>,".""", of
+Schizophrenia,.,.,",", with, ().,!, management,".""",</s>,:
+Schizophrenia,.,.,",", with,!, ().,:,".""", of,</s>
+Schizophrenia,.,",",., with,!,".""",:, ().,</s>,?
+Schizophrenia,.,.,",", with,!, ().,:,".""", management,*.
+Schizophrenia,.,.,",", with,!, ().,".""",:, management,*.
+Schizophrenia,.,.,",",!, with,</s>, ().,".""",*., management
+Schizophrenia,.,",",.,!, ()., with,".""",*.,""".",:
+Angina,.,",",., with,!, management, ().,".""",</s>,:
+Angina,.,.,",", with,</s>,!, ().,".""",:, management
+Angina,.,.,",", with,!, ().,".""",:,</s>, of
+Angina,.,.,",", with, ().,!,".""", management,:,</s>
+Angina,.,.,",", with,!, ()., management,".""",:, of
+Angina,.,.,",", with,!,".""", management,:, ().,</s>
+Angina,.,.,",", with,!,".""", ().,:, management,</s>
+Angina,.,.,",",!, with, ().,:,".""",</s>, management
+Angina,.,.,",", with,!, ().,:,".""", management,*.
+Angina,.,",",., with,!, ().,:,".""", management,</s>
+Angina,.,.,",", with,!,".""", ().,:, management, of
+Dermal Ulcer,.,.,",", with,!,".""", ()., management,:, of
+Dermal Ulcer,.,.,",", with,</s>,!,".""",:, ()., management
+Dermal Ulcer,.,.,",",!, with, ().,".""",:,</s>,*.
+Muscle Pain,.,.,",", with,:,!,".""", ()., management,</s>
+Muscle Pain,.,.,",",!, with,".""",:, ()., management,</s>
+Muscle Pain,.,.,",", with,!, ().,:,</s>,".""", management
+Muscle Pain,.,",",., with, ().,!,:,".""", management, of
+Muscle Pain,.,.,",", with,!, ().,</s>,:,".""", management

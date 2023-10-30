@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer, Ebola,",", AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",",., Pain
+Acute Myeloid Leukemia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Acute Myeloid Leukemia,., Lyme, Alzheimer,:, Ebola, AIDS,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS,</s>
+Acute Myeloid Leukemia,.,:,",", Lyme,., Alzheimer, Ebola, ALS, AIDS, Pain
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Acute Myeloid Leukemia,.,:,",",., Lyme,</s>, ALS, Alzheimer, called, Ebola
+Acute Myeloid Leukemia,.,:, Alzheimer, Lyme,",", Ebola, Pain, AIDS,., ALS
+Acute Myeloid Leukemia,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, HIV, Pain
+Acute Myeloid Leukemia,.,:, Lyme,",",., Alzheimer, Ebola, AIDS, ALS, HIV
+High Cholesterol,., Alzheimer, Lyme,:, AIDS,",", Ebola, ALS, Pain,.
+High Cholesterol,.,:,",", Alzheimer,., Lyme, Ebola, AIDS, ALS,</s>
+High Cholesterol,., Alzheimer, Lyme,:, Ebola, AIDS,",", Pain, ALS, HIV
+High Cholesterol,.,:,",", Alzheimer, Lyme,., Bone, Ebola, Pain, AIDS
+High Cholesterol,.,:,., Lyme,",", AIDS, Alzheimer, Ebola, schizophrenia, HIV
+High Cholesterol,.,:, Lyme,",", Alzheimer,., Ebola, Bone, Pain, ALS
+High Cholesterol,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+High Cholesterol,., Lyme,:,",", Alzheimer, Ebola,., AIDS, ALS, schizophrenia
+High Cholesterol,.,:,., Lyme,",",</s>, ALS, TB,?, HIV
+High Cholesterol,., Lyme, Alzheimer,:,",", AIDS, Ebola, Pain,., ALS
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, schizophrenia,.,","
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, Ebola, AIDS, HIV,",", Pain, ALS
+Non-Hodgkin's Lymphoma,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, ALS, Pain,.
+Non-Hodgkin's Lymphoma,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS,</s>
+Non-Hodgkin's Lymphoma,.,:, Lyme,.,",", AIDS, Ebola, Alzheimer, ALS, schizophrenia
+Non-Hodgkin's Lymphoma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Non-Hodgkin's Lymphoma,.,:, Alzheimer,",", Lyme,., AIDS, Ebola, ALS, HIV
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme, Ebola,:, AIDS,",", HIV, ALS, Pain
+Non-Hodgkin's Lymphoma,., Alzheimer, Lyme,:, AIDS, Ebola,",", ALS, Pain, HIV
+Non-Hodgkin's Lymphoma,., Lyme,:, Alzheimer, AIDS, Ebola,",", ALS, HIV, schizophrenia
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, ALS, Pain
+Borderline Personality Disorder,.,:, Lyme, schizophrenia, AIDS, Ebola, Alzheimer,",",., cancer
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,.,",", Ebola, ALS, AIDS, Pain
+Borderline Personality Disorder,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, schizophrenia
+Borderline Personality Disorder,.,",",:, Alzheimer, Lyme,.,</s>, Ebola, Bone, ALS
+Borderline Personality Disorder,., Lyme, Alzheimer,:,",", Ebola,</s>, AIDS,., ALS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Borderline Personality Disorder,.,:,",",., Lyme, schizophrenia, Alzheimer,</s>, Ebola, AIDS
+Borderline Personality Disorder,., AIDS,:, Alzheimer, Lyme, Ebola, HIV, schizophrenia,</s>,","
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola,., AIDS, ALS, Bone
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., ALS, Pain
+Borderline Personality Disorder,., Alzheimer, Lyme,:, AIDS, Ebola, ALS,",", Pain, HIV
+Borderline Personality Disorder,., Alzheimer,",", Lyme,:, Ebola, ALS, AIDS, HIV, C
+Borderline Personality Disorder,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola, Pain, Bone, AIDS
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS, Pain,",", HIV
+Borderline Personality Disorder,.,:,",", Lyme, Alzheimer,., Ebola, Bone, AIDS, Mac
+Borderline Personality Disorder,.,:,",", Alzheimer, Lyme,., Ebola,</s>, AIDS, ALS
+Borderline Personality Disorder,.,:, Alzheimer,",", Lyme,., C, AIDS, ALS, Ebola
+Borderline Personality Disorder,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Borderline Personality Disorder,.,:, Lyme,",", Alzheimer,., Ebola,</s>, ALS, AIDS
+Borderline Personality Disorder,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS,., ALS, Pain
+Multiple Myeloma,.,:,",", Lyme, Alzheimer, AIDS, Ebola,., ALS,</s>
+Multiple Myeloma,.,:, Alzheimer, Lyme,",",., Ebola, AIDS, ALS, HIV
+Multiple Myeloma,., AIDS, Alzheimer, Lyme,:, Ebola, ALS, Pain,",", HIV
+Multiple Myeloma,., Alzheimer, Lyme, Ebola, Pain,:, AIDS, ALS,",", HIV
+Multiple Myeloma,.,:,",", Alzheimer, Lyme, Ebola,., AIDS, Pain, Bone
+Multiple Myeloma,.,:, Alzheimer, Lyme,",", Ebola, AIDS, Pain, ALS, HIV
+Multiple Myeloma,., Alzheimer, Ebola, AIDS, Lyme, ALS,:, HIV, Pain, schizophrenia
+Multiple Myeloma,., Lyme, Alzheimer, Ebola, AIDS,:, ALS, schizophrenia, HIV,.
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, AIDS, ALS, Pain
+HIV Infection,.,:,.,",",</s>,?,!, Lyme,).,;
+HIV Infection,.,:,",", Lyme,., Alzheimer, Ebola, Bone, AIDS, ALS
+HIV Infection,.,:,",",.,</s>, D, J, Lyme, C,?
+HIV Infection,.,:,",",., Lyme,</s>, Alzheimer, Bone, Ebola, C
+HIV Infection,., Alzheimer, Lyme,:, Ebola, AIDS, ALS,",", HIV, Pain
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Psoriasis,.,:, Alzheimer,",", Lyme, Ebola,., AIDS, ALS,</s>
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,., Lyme, AIDS, Ebola,:, Alzheimer, HIV, ALS, schizophrenia,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Osteoarthritis,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Osteoarthritis,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Osteoarthritis,.,:, Lyme, ALS, Alzheimer, AIDS, Pain,",", Ebola,.
+Osteoarthritis,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Osteoarthritis,., Lyme,:,., Alzheimer,",", AIDS, Ebola, ALS, HIV
+Osteoarthritis,.,:,",", Lyme,., Alzheimer, Ebola, AIDS,</s>, schizophrenia
+Osteoarthritis,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Osteoarthritis,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV
+Osteoarthritis,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer,., Ebola, AIDS, Bone, Pain
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer, Ebola,",", AIDS,., ALS, HIV
+Chronic Fatigue Syndrome,., Alzheimer, Lyme, Ebola, AIDS,:, ALS,",", schizophrenia, HIV
+Chronic Fatigue Syndrome,.,:,",", Lyme, Alzheimer, Ebola,., Bone, AIDS, ALS
+Chronic Fatigue Syndrome,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Oral Thrush,., Alzheimer, Lyme, Ebola,:, AIDS, ALS,",", Pain, HIV
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Cruris,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Pedis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Tinea Corporis,., Alzheimer, Lyme, Ebola,:, ALS, AIDS,",", Pain, HIV
+Tinea Corporis,., Lyme, Alzheimer, AIDS, Ebola, ALS,:, HIV, Pain,","
+Schizophrenia,.,:, Lyme, Alzheimer,",",., Ebola, AIDS, ALS, Bone
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., ALS, AIDS, schizophrenia
+Schizophrenia,., Lyme,:,",", Alzheimer,., Ebola, AIDS, Pain, ALS
+Schizophrenia,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, Pain, HIV
+Schizophrenia,., Alzheimer, Lyme, Ebola,:, AIDS, Pain, ALS,",", Bone
+Schizophrenia,.,:,",",., Lyme, Alzheimer, schizophrenia, Ebola, called, AIDS
+Schizophrenia,., Alzheimer,:, Lyme,",", Ebola, AIDS, Pain,., ALS
+Schizophrenia,.,:, Lyme, Alzheimer,",", Ebola,., AIDS, ALS, Pain
+Schizophrenia,.,:, Alzheimer, Lyme, Ebola, AIDS,",", HIV, ALS,.
+Angina,., Lyme,:, Alzheimer,</s>,",",., Ebola, ALS, AIDS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, Pain,",", HIV
+Angina,., Lyme, Alzheimer,:,",", Ebola, AIDS, ALS,., HIV
+Angina,.,:, Alzheimer, Lyme, Ebola, AIDS, ALS,",", Pain, HIV
+Angina,.,:,",",., Lyme, Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,.,:,",", Lyme,., Alzheimer,</s>, Ebola, AIDS, ALS
+Angina,., Lyme, Alzheimer, AIDS, Ebola,:, ALS, HIV,",",.
+Angina,.,:,",",., Lyme, Alzheimer, Ebola, AIDS, schizophrenia, ALS
+Angina,.,:,",",., Lyme, Alzheimer,</s>, C, Bone, Ebola
+Angina,.,:,",", Alzheimer, Lyme,., AIDS, Ebola,</s>, ALS
+Angina,.,:,.,",", Lyme,</s>, ALS,?, Ebola, HIV
+Dermal Ulcer,.,:,",", Alzheimer, Lyme,., C, AIDS, Ebola, ALS
+Dermal Ulcer,.,:, Lyme,",", Alzheimer,., Ebola, AIDS, ALS, Bone
+Dermal Ulcer,.,:, AIDS, Lyme, Alzheimer,",",., Ebola, schizophrenia, cancer
+Muscle Pain,., Alzheimer, Lyme,:, Pain, Ebola, AIDS,",", ALS, HIV
+Muscle Pain,., Lyme, Alzheimer,:, Ebola, AIDS, ALS, HIV, schizophrenia, Pain
+Muscle Pain,., Lyme,:, Alzheimer, AIDS,.,",", ALS, HIV, Ebola
+Muscle Pain,.,:, Lyme, Alzheimer,",", Ebola, AIDS,., Pain, ALS
+Muscle Pain,.,:, Alzheimer, Lyme, Ebola,",", AIDS, ALS, Pain, HIV

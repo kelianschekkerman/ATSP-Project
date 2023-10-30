@@ -1,0 +1,21 @@
+{
+    "percentage_found_in_dataset": 0.0,
+    "full_string": {
+        "top_1": 0.0,
+        "top_3": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0
+    },
+    "first_word": {
+        "top_1": 0.0,
+        "top_3": 0.0,
+        "top_5": 0.0006476683937823834,
+        "top_10": 0.0006476683937823834
+    },
+    "first_three_chars": {
+        "top_1": 0.0,
+        "top_3": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0
+    }
+}

@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine,., a,</s>, patient, is,-, with, name,iate, the
+vincristine,., a,</s>, patient, is,-, with, name,iate, the
+daunorubicin,., a,</s>, patient, is,-, with, name,iate, the
+idarubicin,., a,</s>, patient, is,-, with, name,iate, the
+decitabine,., a,</s>, patient, is,-, with, name,iate, the
+gemtuzumab,., a,</s>, patient, is,-, with, name,iate, the
+midostaurin,., a,</s>, patient, is,-, with, name,iate, the
+venetoclax,., a,</s>, patient, is,-, with, name,iate, the
+enasidenib,., a,</s>, patient, is,-, with, name,iate, the
+cytarabine liposomal AND daunorubicin liposomal,., a,</s>, patient, is,-, with, name,iate, the
+ivosidenib,., a,</s>, patient, is,-, with, name,iate, the
+gilteritinib,., a,</s>, patient, is,-, with, name,iate, the
+glasdegib,., a,</s>, patient, is,-, with, name,iate, the
+atorvastatin,., a, patient, is,</s>, the, with,-, at, disease
+simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+pravastatin,., a, patient, is,</s>, the, with,-, at, disease
+rosuvastatin,., a, patient, is,</s>, the, with,-, at, disease
+lovastatin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe,., a, patient, is,</s>, the, with,-, at, disease
+gemfibrozil,., a, patient, is,</s>, the, with,-, at, disease
+niacin,., a, patient, is,</s>, the, with,-, at, disease
+ezetimibe AND simvastatin,., a, patient, is,</s>, the, with,-, at, disease
+fenofibric acid,., a, patient, is,</s>, the, with,-, at, disease
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+cyclophosphamide,., a, patient,</s>, is,-, the, with, disease, or
+vincristine,., a, patient,</s>, is,-, the, with, disease, or
+rituximab,., a, patient,</s>, is,-, the, with, disease, or
+methotrexate,., a, patient,</s>, is,-, the, with, disease, or
+bendamustine,., a, patient,</s>, is,-, the, with, disease, or
+cytarabine,., a, patient,</s>, is,-, the, with, disease, or
+fludarabine,., a, patient,</s>, is,-, the, with, disease, or
+bleomycin,., a, patient,</s>, is,-, the, with, disease, or
+carmustine,., a, patient,</s>, is,-, the, with, disease, or
+idelalisib,., a, patient,</s>, is,-, the, with, disease, or
+ibritumomab,., a, patient,</s>, is,-, the, with, disease, or
+ibrutinib,., a, patient,</s>, is,-, the, with, disease, or
+mitoxantrone,., a, patient,</s>, is,-, the, with, disease, or
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+quetiapine,., a, patient,</s>, is, with, the,-, disease, and
+lamotrigine,., a, patient,</s>, is, with, the,-, disease, and
+lithium,., a, patient,</s>, is, with, the,-, disease, and
+risperidone,., a, patient,</s>, is, with, the,-, disease, and
+fluoxetine,., a, patient,</s>, is, with, the,-, disease, and
+olanzapine,., a, patient,</s>, is, with, the,-, disease, and
+buspirone,., a, patient,</s>, is, with, the,-, disease, and
+clonazepam,., a, patient,</s>, is, with, the,-, disease, and
+sertraline,., a, patient,</s>, is, with, the,-, disease, and
+aripiprazole,., a, patient,</s>, is, with, the,-, disease, and
+topiramate,., a, patient,</s>, is, with, the,-, disease, and
+diazepam,., a, patient,</s>, is, with, the,-, disease, and
+lorazepam,., a, patient,</s>, is, with, the,-, disease, and
+escitalopram,., a, patient,</s>, is, with, the,-, disease, and
+divalproex sodium,., a, patient,</s>, is, with, the,-, disease, and
+alprazolam,., a, patient,</s>, is, with, the,-, disease, and
+clozapine,., a, patient,</s>, is, with, the,-, disease, and
+oxcarbazepine,., a, patient,</s>, is, with, the,-, disease, and
+citalopram,., a, patient,</s>, is, with, the,-, disease, and
+haloperidol,., a, patient,</s>, is, with, the,-, disease, and
+lurasidone,., a, patient,</s>, is, with, the,-, disease, and
+l-methylfolate,., a, patient,</s>, is, with, the,-, disease, and
+carbamazepine,., a, patient,</s>, is, with, the,-, disease, and
+asenapine,., a, patient,</s>, is, with, the,-, disease, and
+paliperidone,., a, patient,</s>, is, with, the,-, disease, and
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+dexamethasone,., patient, a,</s>, is,-, with, the, disease, at
+thalidomide,., patient, a,</s>, is,-, with, the, disease, at
+cyclophosphamide,., patient, a,</s>, is,-, with, the, disease, at
+lenalidomide,., patient, a,</s>, is,-, with, the, disease, at
+bortezomib,., patient, a,</s>, is,-, with, the, disease, at
+carfilzomib,., patient, a,</s>, is,-, with, the, disease, at
+pomalidomide,., patient, a,</s>, is,-, with, the, disease, at
+daratumumab,., patient, a,</s>, is,-, with, the, disease, at
+melphalan,., patient, a,</s>, is,-, with, the, disease, at
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+lamivudine,., patient, a,</s>, is, with, the, disease,-, for
+efavirenz AND emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+ritonavir,., patient, a,</s>, is, with, the, disease,-, for
+emtricitabine AND tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+tenofovir,., patient, a,</s>, is, with, the, disease,-, for
+abacavir,., patient, a,</s>, is, with, the, disease,-, for
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+triamcinolone,., a, patient, is,</s>, with, the, disease,-, name
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease
+meloxicam,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+naproxen,., a, patient, is,</s>, the, with,-, disease, and
+ibuprofen,., a, patient, is,</s>, the, with,-, disease, and
+celecoxib,., a, patient, is,</s>, the, with,-, disease, and
+chondroitin AND glucosamine,., a, patient, is,</s>, the, with,-, disease, and
+diclofenac,., a, patient, is,</s>, the, with,-, disease, and
+etodolac,., a, patient, is,</s>, the, with,-, disease, and
+prednisone,., a, patient, is,</s>, the, with,-, disease, and
+aspirin,., a, patient, is,</s>, the, with,-, disease, and
+nabumetone,., a, patient, is,</s>, the, with,-, disease, and
+duloxetine,., a, patient, is,</s>, the, with,-, disease, and
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+modafinil,., a, patient, is,</s>, with, the, disease,-, for
+duloxetine,., a, patient, is,</s>, with, the, disease,-, for
+lisdexamfetamine,., a, patient, is,</s>, with, the, disease,-, for
+amantadine,., a, patient, is,</s>, with, the, disease,-, for
+armodafinil,., a, patient, is,</s>, with, the, disease,-, for
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+miconazole,., a, patient,</s>, is, with, the, for,-, and
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+terbinafine,., a, patient, is,</s>, the, with, disease,-, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+ketoconazole,., a, patient, is,</s>, with, the,-, disease, name
+terbinafine,., a, patient, is,</s>, with, the,-, disease, name
+risperidone,., a, patient,</s>, is, the, with,-,iate, disease
+clozapine,., a, patient,</s>, is, the, with,-,iate, disease
+olanzapine,., a, patient,</s>, is, the, with,-,iate, disease
+quetiapine,., a, patient,</s>, is, the, with,-,iate, disease
+aripiprazole,., a, patient,</s>, is, the, with,-,iate, disease
+chlorpromazine,., a, patient,</s>, is, the, with,-,iate, disease
+paliperidone,., a, patient,</s>, is, the, with,-,iate, disease
+ziprasidone,., a, patient,</s>, is, the, with,-,iate, disease
+loxapine,., a, patient,</s>, is, the, with,-,iate, disease
+aspirin,., a, patient,</s>, is, the, with, disease,-, and
+nitroglycerin,., a, patient,</s>, is, the, with, disease,-, and
+metoprolol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide mononitrate,., a, patient,</s>, is, the, with, disease,-, and
+isosorbide dinitrate,., a, patient,</s>, is, the, with, disease,-, and
+enoxaparin,., a, patient,</s>, is, the, with, disease,-, and
+ranolazine,., a, patient,</s>, is, the, with, disease,-, and
+atenolol,., a, patient,</s>, is, the, with, disease,-, and
+carvedilol,., a, patient,</s>, is, the, with, disease,-, and
+amlodipine AND atorvastatin,., a, patient,</s>, is, the, with, disease,-, and
+collagenase,., a, patient,</s>, is, the, with, disease,-, for
+becaplermin,., a, patient,</s>, is, the, with, disease,-, for
+cadexomer iodine,., a, patient,</s>, is, the, with, disease,-, for
+ibuprofen,., a, patient, is,</s>, with, the, for, or, disease
+naproxen,., a, patient, is,</s>, with, the, for, or, disease
+acetaminophen,., a, patient, is,</s>, with, the, for, or, disease
+diclofenac,., a, patient, is,</s>, with, the, for, or, disease
+nabumetone,., a, patient, is,</s>, with, the, for, or, disease

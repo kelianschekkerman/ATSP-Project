@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, name, for, drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, drug
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, drug, for, and
+Acute Myeloid Leukemia,., a, patient, is, the,</s>, with, for, drug, and
+Acute Myeloid Leukemia,., a, is, patient,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, name, p
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+Acute Myeloid Leukemia,., a, patient, is,</s>, the, with, for, drug, name
+Acute Myeloid Leukemia,., a, is, patient, the,</s>, with, drug, for, name
+High Cholesterol,., a, patient, is,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, drug, for, name
+High Cholesterol,., a, is, patient,</s>, with, the, drug, for, name
+High Cholesterol,., a, is, patient,</s>, the, with, for, drug, name
+High Cholesterol,., a, patient, is,</s>, with, the, drug, and, for
+High Cholesterol,., a, is, patient, the,</s>, with, drug, name, for
+High Cholesterol,., a, patient, is,</s>, the, with, name, drug, for
+High Cholesterol,., a, patient, is, the,</s>, with, drug, name, for
+High Cholesterol,., a, is, patient, the,</s>, drug, with, for, name
+High Cholesterol,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, for, and
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, is, patient, the,</s>, with, for, drug, to
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, name, drug, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, drug, and, for
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, name, drug
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, for, drug, name
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, for
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, and
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, name, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, for, drug, name
+Borderline Personality Disorder,., a, is, patient, with,</s>, the, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, name, for
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, and
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, at
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, name, for, drug
+Borderline Personality Disorder,., a, is, patient, the,</s>, with, drug, for, at
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, drug, for, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with,-, for, drug
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, and, name
+Borderline Personality Disorder,., a, is, patient,</s>, the, with, drug, for, to
+Borderline Personality Disorder,., a, patient, is,</s>, the, with, for, drug, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, name
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient, the,</s>, with, drug, for, and
+Multiple Myeloma,., a, is, patient, with,</s>, the, drug, for, name
+Multiple Myeloma,., a, is, patient,</s>, the, with, for, name, drug
+Multiple Myeloma,., a, patient, is,</s>, the, with, name, for, drug
+Multiple Myeloma,., a, is, patient,</s>, with, the, for, drug, name
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, name, for
+Multiple Myeloma,., a, patient, is,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+HIV Infection,., a, is, patient,</s>, the, with, drug, for, name
+HIV Infection,., a, patient, is,</s>, the, with, for, drug, disease
+HIV Infection,., a, is, patient,</s>, the, with, for, drug, name
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, disease
+HIV Infection,., a, is, patient, the,</s>, with, drug, for, and
+HIV Infection,., a, patient, is,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Psoriasis,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, at
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, and
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, name, for
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient, the,</s>, with, for, drug, to
+Osteoarthritis,., a, patient, is, the,</s>, with, for, drug, name
+Osteoarthritis,., a, is, patient, the,</s>, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Osteoarthritis,., a, is, patient,</s>, the, with, drug, for, name
+Osteoarthritis,., a, is, patient,</s>, the, with, for, name, drug
+Osteoarthritis,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Chronic Fatigue Syndrome,., a, patient, is,</s>, the, with, drug, name, for
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, for, drug, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, name
+Chronic Fatigue Syndrome,., a, is, patient,</s>, the, with, drug, for, to
+Chronic Fatigue Syndrome,., a, patient, is, the,</s>, with, drug, name, for
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Oral Thrush,., a, is, patient,</s>, the, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Cruris,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Pedis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Tinea Corporis,., a, is, patient,</s>, the, with, for, drug, name
+Tinea Corporis,., a, is, patient, the,</s>, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, for, name, drug
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, is, patient,</s>, the, with, for, drug, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, and
+Schizophrenia,., a, patient, is,</s>, the, with, for, drug, name
+Schizophrenia,., a, patient, is,</s>, the, with, drug, for, name
+Schizophrenia,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient,</s>, the, with, for, drug, name
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, is, patient,</s>, the, with, drug, for, name
+Angina,., a, is, patient, the,</s>, with, for, drug, at
+Angina,., a, is, patient, the, with,</s>, for, drug, at
+Angina,., a, is, patient,</s>, the, with, for, name, drug
+Angina,., a, patient, is,</s>, the, with, drug, for, and
+Angina,., a, is, patient,</s>, the, with, for, at, drug
+Angina,., a, is, patient, the,</s>, with, drug, for, at
+Angina,., a, patient, is,</s>, the, with, drug, for, at
+Dermal Ulcer,., a, patient, is,</s>, with, the, drug, for, name
+Dermal Ulcer,., a, is, patient,</s>, the, with, drug, name, for
+Dermal Ulcer,., a, is, patient,</s>, the, with, for, name, at
+Muscle Pain,., a, is, patient,</s>, the, with, drug, name, for
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, and
+Muscle Pain,., a, is, patient,</s>, the, with, for, drug, and
+Muscle Pain,., a, patient, is, the,</s>, with, for, drug, name
+Muscle Pain,., a, is, patient,</s>, the, with, for, name, drug

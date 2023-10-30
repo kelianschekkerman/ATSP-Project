@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is,</s>, patient,Pat,ient, disease, drug, 
+Angina,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Angina,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, name
+Muscle Pain,., a, is, disease, patient,</s>,Pat,ient, drug, State
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, disease, patient,</s>,Pat,',ient, drug
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, State
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, State
+HIV Infection,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, , drug
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug,'
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,ient, disease,Pat, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,ient, disease,Pat, drug,'s
+Acute Myeloid Leukemia,., a, is,</s>, patient,Pat, disease,ient, drug,'s
+Acute Myeloid Leukemia,., a, is,</s>, patient,Pat, disease,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, name
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, Related
+HIV Infection,., a, is, patient,ient,</s>, disease,Pat, drug, State
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+HIV Infection,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug,'
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Angina,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient,Pat,ient, disease, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient,Pat, disease,ient, drug, State
+Angina,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,ient,Pat, disease, drug, name
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, patient, is,</s>, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Angina,., a, patient, is,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Angina,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Angina,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Angina,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Angina,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, name
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Muscle Pain,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Muscle Pain,., a, is,</s>, patient,Pat, disease,ient, drug, Related
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, , drug
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, disease,</s>, patient,ient,Pat, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, the
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, the
+Osteoarthritis,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Osteoarthritis,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Tinea Pedis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Tinea Pedis,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, name
+Dermal Ulcer,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient, disease,</s>,ient,Pat, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, the
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is,</s>, patient,Pat,ient, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Borderline Personality Disorder,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, patient, is,</s>,Pat, disease,ient,','s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Muscle Pain,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Muscle Pain,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient,', drug
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,ient,</s>,Pat, disease, drug, 
+Acute Myeloid Leukemia,., a, is, patient,Pat,</s>, disease,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, disease, patient,</s>,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, the
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Acute Myeloid Leukemia,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, the
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient, disease,</s>,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is,</s>, patient,ient,Pat, disease, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,ient,</s>, disease,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,ient, disease,Pat, drug,'s
+Multiple Myeloma,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient, disease,</s>,Pat,ient, drug,'s
+Multiple Myeloma,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, the
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, , drug
+Multiple Myeloma,., a, is,</s>, patient,Pat, disease,ient, drug,'s
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Oral Thrush,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Oral Thrush,., a, is,</s>, patient,Pat, disease,ient, drug, State
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,Pat,</s>, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,ient, disease,Pat, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>,Pat, disease,ient, drug, State
+High Cholesterol,., a, is, patient,</s>,ient, disease,Pat, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>,Pat, disease,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,ient,Pat, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,ient,Pat, drug, 
+High Cholesterol,., a, is, patient,</s>,Pat,ient, disease, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient, disease,</s>,Pat,ient, drug, State
+High Cholesterol,., a, is, patient,</s>,ient, disease,Pat, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, patient, is,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, State
+High Cholesterol,., a, is, patient,</s>,ient,Pat, disease, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is,</s>, patient, disease,Pat,ient, drug, 
+High Cholesterol,., a, is,</s>, patient,Pat, disease,ient, drug, State
+High Cholesterol,., a, is, patient,</s>, disease,ient,Pat, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, State
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is,</s>, patient,Pat,ient, disease, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, 
+HIV Infection,., a, is,</s>, patient, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is,</s>, patient, disease,Pat,ient, drug, 
+HIV Infection,., a, is,</s>, patient, disease,Pat,ient, drug,'s
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,',ient,'s
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Dermal Ulcer,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, , drug
+Osteoarthritis,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Osteoarthritis,., a, is,</s>, patient,Pat, disease,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is,</s>, patient, disease,ient,Pat, drug, 
+Dermal Ulcer,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,ient,Pat,', drug
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Dermal Ulcer,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Dermal Ulcer,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is,</s>, patient, disease,ient,Pat, drug, the
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Osteoarthritis,., a, is,</s>, patient,Pat,ient, disease, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient,Pat,ient, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is,</s>, patient, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, patient, is,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, disease, patient,Pat,ient, , Related
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient, disease,</s>,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, the
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient, disease,</s>,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, , drug
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, Related
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, patient, is,Pat,</s>, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug, State
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>,Pat, patient,ient, disease, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Borderline Personality Disorder,., a, is, patient,ient,</s>,Pat, disease, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'
+Borderline Personality Disorder,., a, is,</s>, patient,ient, disease,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient, disease,Pat, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,Pat,</s>, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, patient, is,</s>,Pat, disease,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, Related
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,Pat, disease,</s>,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient, disease,Pat, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient,Pat,ient, disease, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Psoriasis,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Psoriasis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient,Pat, disease,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient,Pat, disease,ient, , drug
+Borderline Personality Disorder,., a, patient, is,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient, disease,</s>,Pat,ient, , drug
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, patient, is,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>,ient,Pat, disease, drug, 
+High Cholesterol,., a, is, patient,</s>,Pat, disease,ient, drug, State
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>,ient,Pat, disease, drug, name
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, patient, is,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Tinea Pedis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Pedis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Cruris,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Cruris,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient, disease,</s>,Pat,ient, drug, 
+Osteoarthritis,., a, is,</s>, disease, patient,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is,</s>, patient, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Psoriasis,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Psoriasis,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient, disease,Pat,ient, drug,'s
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, patient, is,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,ient,Pat, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, State
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is,</s>, patient, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient,Pat, disease,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, State
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, name
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is,</s>, patient, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug, State
+HIV Infection,., a, is, patient,</s>, disease,ient,Pat, drug, State
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug, 
+HIV Infection,., a, is,</s>, patient, disease,Pat,ient, drug, 
+HIV Infection,., a, patient, is,Pat,</s>, disease,ient, drug, State
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat,ient, disease, drug, 
+HIV Infection,., a, is,</s>, patient, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat,ient, disease, drug, State
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,ient,Pat, disease, drug, State
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is,</s>, patient,ient,Pat, disease, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>,Pat, disease,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,',ient,'s
+High Cholesterol,., a, is, patient,</s>,Pat, disease,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>,Pat, disease,ient,', drug
+High Cholesterol,., a, is,</s>, patient, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, patient, is,</s>, disease,Pat,ient, drug,'s
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, State
+High Cholesterol,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+High Cholesterol,., a, is, patient,</s>, disease,ient,Pat, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is,</s>, patient, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, disease, patient,</s>,Pat,ient, , drug
+High Cholesterol,., a, is, patient,</s>,Pat,ient, disease, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,ient,Pat, drug, 
+High Cholesterol,., a, is,</s>, patient,Pat, disease,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Chronic Fatigue Syndrome,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Chronic Fatigue Syndrome,., a, is,</s>, patient, disease,Pat,ient, , drug
+Muscle Pain,., a, is, patient, disease,</s>,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,Pat,</s>,ient, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, disease, patient,</s>,Pat,ient, , drug
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Pedis,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Tinea Pedis,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Tinea Cruris,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Tinea Cruris,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,ient, disease,Pat, drug,'s
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Psoriasis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Psoriasis,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, , drug
+Borderline Personality Disorder,., a, is,</s>, patient, disease,ient,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug, State
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Dermal Ulcer,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Dermal Ulcer,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Tinea Cruris,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Cruris,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is,</s>, patient,ient,Pat, disease, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is,</s>, patient, disease,Pat,ient, , drug
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Acute Myeloid Leukemia,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Acute Myeloid Leukemia,., a, is, patient,</s>, disease,ient,Pat, drug, State
+High Cholesterol,., a, is, patient,</s>,Pat, disease,ient, drug, the
+High Cholesterol,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+High Cholesterol,., a, is,</s>, patient, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, 
+High Cholesterol,., a, is, patient,</s>,ient,Pat, disease, drug, State
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+High Cholesterol,., a, is,</s>, patient,Pat,ient, disease, drug, State
+High Cholesterol,., a, patient, is,</s>, disease,ient,Pat, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,ient,Pat, drug, 
+High Cholesterol,., a, is, patient,</s>, disease,Pat,ient, drug, name
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient,ient,Pat, disease, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient,ient, disease,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>,Pat, disease,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient,Pat, disease,ient, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,Pat,</s>, disease,ient, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient,Pat, disease,ient,', State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, , drug
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, patient, is,</s>, disease,Pat,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,ient,Pat, disease, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient,', drug
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, , drug
+Multiple Myeloma,., a, is,</s>, patient,Pat, disease,ient, drug,'s
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Chronic Fatigue Syndrome,., a, is,</s>, patient, disease,Pat,ient, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Oral Thrush,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Oral Thrush,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Chronic Fatigue Syndrome,., a, patient, is,</s>,Pat, disease,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Chronic Fatigue Syndrome,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient,','s
+Multiple Myeloma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,Pat,</s>, disease,ient, drug,'s
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient,Pat, disease,ient, drug, the
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, , drug
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient,', drug
+Non-Hodgkin's Lymphoma,., a, is, patient, disease,</s>,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Non-Hodgkin's Lymphoma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is,</s>, patient, disease,ient,Pat, drug,'s
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is,ient, patient,</s>,Pat, disease, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,Pat,</s>, disease,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is,</s>, patient, disease,Pat,ient, drug,'s
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Oral Thrush,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Oral Thrush,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Oral Thrush,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Oral Thrush,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Oral Thrush,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Oral Thrush,., a, is, patient,</s>, disease,Pat,ient, drug, the
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, patient, is,ient,</s>, disease,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Osteoarthritis,., a, is,</s>, patient, disease,ient,Pat, drug, State
+Osteoarthritis,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Osteoarthritis,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, , drug
+Osteoarthritis,., a, is,</s>, patient,Pat,ient, disease, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Muscle Pain,., a, is,</s>, patient, disease,ient,Pat, drug, 
+Muscle Pain,., a, is,</s>, patient,Pat, disease,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is,</s>, patient, disease,Pat,ient, drug, State
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Muscle Pain,., a, patient, is,</s>, disease,Pat,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Muscle Pain,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Psoriasis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Psoriasis,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Schizophrenia,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Schizophrenia,., a, patient, is, disease,</s>,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,ient,Pat, disease, drug,'s
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Muscle Pain,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, patient, is,</s>, disease,Pat,ient, drug, State
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient, disease,Pat,ient, drug, name
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Borderline Personality Disorder,., a, patient, is,</s>, disease,Pat,ient, drug,'s
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Borderline Personality Disorder,., a, is,</s>, patient,Pat,ient, disease, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Multiple Myeloma,., a, is, patient,ient,</s>, disease,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Multiple Myeloma,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Multiple Myeloma,., a, is, patient,</s>,ient,Pat, disease, drug, State
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Multiple Myeloma,., a, is, patient, disease,</s>,Pat,ient, drug, State
+Multiple Myeloma,., a, is, patient,</s>,ient, disease,Pat, drug,'s
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Multiple Myeloma,., a, is, patient, disease,</s>,Pat,ient, , drug
+Multiple Myeloma,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,ient,Pat, drug, the
+Chronic Fatigue Syndrome,., a, is, patient, disease,</s>,Pat,ient, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>,Pat,ient, disease, drug, 
+HIV Infection,., a, is, patient,</s>,Pat, disease,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+HIV Infection,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient, disease,Pat,',ient,'s
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,ient,Pat, drug, State
+Angina,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Psoriasis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Psoriasis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Psoriasis,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Psoriasis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, name
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Tinea Pedis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Pedis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Cruris,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Tinea Cruris,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient, disease,</s>,ient,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Osteoarthritis,., a, is,</s>, patient,Pat, disease,ient, drug, State
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient, disease,</s>,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Osteoarthritis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Schizophrenia,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug,'s
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug,'s
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, name
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is,</s>, patient, disease,Pat,ient, drug, State
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, patient, is,Pat,</s>, disease,ient, drug,'s
+Schizophrenia,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, patient, is,Pat,</s>, disease,ient, drug,'s
+Schizophrenia,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Schizophrenia,., a, is, patient,</s>,ient, disease,Pat, drug,'s
+Schizophrenia,., a, is,</s>, patient, disease,Pat,ient, drug,'s
+Schizophrenia,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is,</s>, disease,Pat, patient,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, the
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, , drug
+Angina,., a, patient, is,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient, disease,Pat,ient, drug, the
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Chronic Fatigue Syndrome,., a, is, patient,</s>, disease,Pat,ient,', drug
+Chronic Fatigue Syndrome,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Oral Thrush,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Oral Thrush,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Tinea Corporis,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Cruris,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Tinea Cruris,., a, is,</s>, patient, disease,Pat,ient, drug, State
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Pedis,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Tinea Pedis,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Tinea Cruris,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Tinea Cruris,., a, is, patient,</s>,Pat,ient, disease, drug, State
+Tinea Pedis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Pedis,., a, is, patient,</s>,ient, disease,Pat, drug, 
+Tinea Corporis,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Tinea Corporis,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Tinea Corporis,., a, is,</s>, patient,Pat,ient, disease, drug,'s
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Schizophrenia,., a, is, patient,</s>, disease,Pat,ient, drug, State
+Schizophrenia,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Schizophrenia,., a, is, patient,</s>,Pat, disease,ient, drug, State
+Schizophrenia,., a, is, disease,</s>, patient,Pat,ient, drug, State
+Schizophrenia,., a, is, disease, patient,</s>,ient,Pat, drug, 
+Angina,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Angina,., a, is, patient,</s>,Pat,ient, disease, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug,'s
+Angina,., a, is,</s>, patient, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is,</s>, patient,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Angina,., a, is, patient,</s>,Pat, disease,ient, drug, 
+Angina,., a, is, patient,</s>,ient,Pat, disease, drug, 
+Dermal Ulcer,., a, is, patient,</s>,Pat,ient, disease, drug,'s
+Dermal Ulcer,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Dermal Ulcer,., a, is,</s>, patient,ient,Pat, disease, drug, 
+Muscle Pain,., a, patient, is,</s>,Pat, disease,ient, drug, State
+Muscle Pain,., a, is, patient,</s>, disease,ient,Pat, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is, patient,</s>, disease,Pat,ient, drug, 
+Muscle Pain,., a, is,</s>, patient, disease,Pat,ient, drug, 

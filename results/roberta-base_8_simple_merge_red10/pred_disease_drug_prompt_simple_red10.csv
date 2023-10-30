@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+vincristine,.,</s>, ().,., Bone,line,:, CNS,",", D
+daunorubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+idarubicin,.,</s>, ().,., Bone,line,:, CNS,",", D
+decitabine,.,</s>, ().,., Bone,line,:, CNS,",", D
+gemtuzumab,.,</s>, ().,., Bone,line,:, CNS,",", D
+midostaurin,.,</s>, ().,., Bone,line,:, CNS,",", D
+venetoclax,.,</s>, ().,., Bone,line,:, CNS,",", D
+enasidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+cytarabine liposomal AND daunorubicin liposomal,.,</s>, ().,., Bone,line,:, CNS,",", D
+ivosidenib,.,</s>, ().,., Bone,line,:, CNS,",", D
+gilteritinib,.,</s>, ().,., Bone,line,:, CNS,",", D
+glasdegib,.,</s>, ().,., Bone,line,:, CNS,",", D
+atorvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+pravastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+rosuvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+lovastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+gemfibrozil,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+niacin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+ezetimibe AND simvastatin,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+fenofibric acid,.,</s>, Pain, Bone,.,:," """, DSM, Oral, Risk
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+cyclophosphamide,.,</s>,., ().,line, Bone,:, CNS, D,","
+vincristine,.,</s>,., ().,line, Bone,:, CNS, D,","
+rituximab,.,</s>,., ().,line, Bone,:, CNS, D,","
+methotrexate,.,</s>,., ().,line, Bone,:, CNS, D,","
+bendamustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+cytarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+fludarabine,.,</s>,., ().,line, Bone,:, CNS, D,","
+bleomycin,.,</s>,., ().,line, Bone,:, CNS, D,","
+carmustine,.,</s>,., ().,line, Bone,:, CNS, D,","
+idelalisib,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibritumomab,.,</s>,., ().,line, Bone,:, CNS, D,","
+ibrutinib,.,</s>,., ().,line, Bone,:, CNS, D,","
+mitoxantrone,.,</s>,., ().,line, Bone,:, CNS, D,","
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+quetiapine,.,</s>,.," """, ().,line,:, Bone,",", e
+lamotrigine,.,</s>,.," """, ().,line,:, Bone,",", e
+lithium,.,</s>,.," """, ().,line,:, Bone,",", e
+risperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+fluoxetine,.,</s>,.," """, ().,line,:, Bone,",", e
+olanzapine,.,</s>,.," """, ().,line,:, Bone,",", e
+buspirone,.,</s>,.," """, ().,line,:, Bone,",", e
+clonazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+sertraline,.,</s>,.," """, ().,line,:, Bone,",", e
+aripiprazole,.,</s>,.," """, ().,line,:, Bone,",", e
+topiramate,.,</s>,.," """, ().,line,:, Bone,",", e
+diazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+lorazepam,.,</s>,.," """, ().,line,:, Bone,",", e
+escitalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+divalproex sodium,.,</s>,.," """, ().,line,:, Bone,",", e
+alprazolam,.,</s>,.," """, ().,line,:, Bone,",", e
+clozapine,.,</s>,.," """, ().,line,:, Bone,",", e
+oxcarbazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+citalopram,.,</s>,.," """, ().,line,:, Bone,",", e
+haloperidol,.,</s>,.," """, ().,line,:, Bone,",", e
+lurasidone,.,</s>,.," """, ().,line,:, Bone,",", e
+l-methylfolate,.,</s>,.," """, ().,line,:, Bone,",", e
+carbamazepine,.,</s>,.," """, ().,line,:, Bone,",", e
+asenapine,.,</s>,.," """, ().,line,:, Bone,",", e
+paliperidone,.,</s>,.," """, ().,line,:, Bone,",", e
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+dexamethasone,.,</s>,., ().," """, Bone, A, D, Pain,:
+thalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+cyclophosphamide,.,</s>,., ().," """, Bone, A, D, Pain,:
+lenalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+bortezomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+carfilzomib,.,</s>,., ().," """, Bone, A, D, Pain,:
+pomalidomide,.,</s>,., ().," """, Bone, A, D, Pain,:
+daratumumab,.,</s>,., ().," """, Bone, A, D, Pain,:
+melphalan,.,</s>,., ().," """, Bone, A, D, Pain,:
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+lamivudine,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+efavirenz AND emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+ritonavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+emtricitabine AND tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+tenofovir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+abacavir,.,</s>,.," """, DSM,:, ()., CNS, WHO, Bone
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+triamcinolone,</s>,.,.," """, e, C, µ, D, l,:
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+meloxicam,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+naproxen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+ibuprofen,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+celecoxib,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+chondroitin AND glucosamine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+diclofenac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+etodolac,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+prednisone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+aspirin,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+nabumetone,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+duloxetine,.,</s>,.," """, ().,:, Bone, CNS, Pain, e
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+modafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+duloxetine,.,</s>,., ().," """,:, e, Bone," "".",line
+lisdexamfetamine,.,</s>,., ().," """,:, e, Bone," "".",line
+amantadine,.,</s>,., ().," """,:, e, Bone," "".",line
+armodafinil,.,</s>,., ().," """,:, e, Bone," "".",line
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+miconazole,.,</s>,.," """, ().,:, DSM, Bone, CNS, µ
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+terbinafine,</s>,.,.," """, ®, µ, e,:, C, D
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+ketoconazole,</s>,.,.," """, e, µ, C,:, D, ®
+terbinafine,</s>,.,.," """, e, µ, C,:, D, ®
+risperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+clozapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+olanzapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+quetiapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aripiprazole,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+chlorpromazine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+paliperidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+ziprasidone,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+loxapine,</s>,.,.," """,:, ()., DSM, e, schizophrenia, ®
+aspirin,.,</s>,.," """, D, e, C, µ,:, ®
+nitroglycerin,.,</s>,.," """, D, e, C, µ,:, ®
+metoprolol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide mononitrate,.,</s>,.," """, D, e, C, µ,:, ®
+isosorbide dinitrate,.,</s>,.," """, D, e, C, µ,:, ®
+enoxaparin,.,</s>,.," """, D, e, C, µ,:, ®
+ranolazine,.,</s>,.," """, D, e, C, µ,:, ®
+atenolol,.,</s>,.," """, D, e, C, µ,:, ®
+carvedilol,.,</s>,.," """, D, e, C, µ,:, ®
+amlodipine AND atorvastatin,.,</s>,.," """, D, e, C, µ,:, ®
+collagenase,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+becaplermin,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+cadexomer iodine,.,</s>,.," """, ()., CNS, DSM, Bone, ®, µ
+ibuprofen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+naproxen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+acetaminophen,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+diclofenac,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS
+nabumetone,</s>,.,.," """, Pain, Bone, C, Oral, A, CNS

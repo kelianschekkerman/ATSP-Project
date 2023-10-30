@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin,.,Pat, patient,.],.},.,".""""",.), at," ""."
+nitroglycerin,.,.,.],Pat,.}, patient,.), aspirin,".""""", at
+metoprolol,.,.,.],Pat,.}, aspirin,.), patient,:, dispensary
+amlodipine,.,Pat,.,.],.}, patient,".""""",.), aspirin,:
+isosorbide mononitrate,.,.],.,.}, aspirin,Pat, patient, dispensary,.), at
+isosorbide dinitrate,.,Pat,., patient,.],.},.)," "".",".""""",:
+enoxaparin,.,Pat,.,.},.], patient, ().,.), at,:
+ranolazine,., aspirin,., patient,Pat,.),:,.]," "".",.}
+atenolol,.,Pat, patient,.},.],.,.),"."""""," "".", at
+carvedilol,.,., aspirin,Pat, patient,.),.],.},:," ""."
+amlodipine AND atorvastatin,., aspirin,.,.],.},.),Pat, patient,:,"."""""
+ibuprofen,., aspirin,.,.),:,Pat, patient,.]," "".","."""""
+naproxen,.,Pat,., patient,.],.},.), at, aspirin," ""."
+acetaminophen,.,., aspirin,.), patient,Pat,.]," "".",:,.}
+diclofenac,.,.],.,.},Pat, patient, aspirin,.),:,"."""""
+nabumetone,., aspirin,.,.),:," "".", patient, ().,".""","."""""
+lamivudine,.,., aspirin,.),.],Pat,.}, patient,:,"."""""
+efavirenz AND emtricitabine AND tenofovir,.,., aspirin,Pat,.], patient,.},.),:, dispensary
+ritonavir,.,.,.], aspirin,Pat,.},.), patient,".""""",:
+emtricitabine AND tenofovir,.,., aspirin,.),.],Pat, patient,.}, dispensary,"."""""
+tenofovir,.,., aspirin,.],.},.),Pat, patient,".""""", at
+abacavir,.,.,.], aspirin,Pat,.}, patient,.),:, dispensary
+lamivudine,.,Pat,.,.],.}, patient,.), aspirin, at,"."""""
+efavirenz AND emtricitabine AND tenofovir,.,.,Pat,.],.}, patient,.),:, aspirin," ""."
+ritonavir,.,Pat,., patient,.],.},.), at, aspirin," ""."
+emtricitabine AND tenofovir,.,.,Pat, aspirin,.],.), patient,.},".""""", at
+tenofovir,.,., aspirin, patient,.),Pat," "".",.],:,.}
+abacavir,.,.,.],Pat,.},.), aspirin, patient, at, dispensary
+cytarabine,.,.,Pat, patient,.],.),.}, aspirin, at,"."""""
+vincristine,.,Pat,., patient,.],.},.), at,ient, aspirin
+daunorubicin,.,Pat, patient,.,.],.},.)," "".", aspirin,"."""""
+idarubicin,.,.,Pat, patient,.},.],.), aspirin,"."""""," ""."
+decitabine,.,., aspirin,Pat,.],.},.), patient, dispensary,:
+gemtuzumab,.,.,Pat, patient,.],.),.}, aspirin,"."""""," ""."
+midostaurin,.,.,.},.], patient,Pat,.), aspirin, at,:
+venetoclax,.,Pat,.,.), patient, aspirin,.]," "".",.},"."""""
+enasidenib,.,.,Pat, patient, aspirin,.],.),.}," "".","."""""
+cytarabine liposomal AND daunorubicin liposomal,.,Pat,., patient,.],.),.}, aspirin,"."""""," ""."
+ivosidenib,.,.,Pat, patient,.],.},.), at,:, aspirin
+gilteritinib,.,Pat,., patient, aspirin,.],.},.),:," ""."
+glasdegib,.,.,Pat, aspirin,.), patient,.],.}," "".",:
+lamivudine,.,Pat,., patient,.],.), aspirin,.}, at," ""."
+efavirenz AND emtricitabine AND tenofovir,.,.,Pat, patient, aspirin,.),.]," "".",".""""",.}
+ritonavir,.,.,.],Pat,.}, patient, aspirin,.),:, at
+emtricitabine AND tenofovir,.,Pat,.],.}, patient,.,.),".""""", at,ient
+tenofovir,.,., aspirin,.],.},.), patient, at,:,"."""""
+abacavir,.,.,.],.},Pat, patient,.), at, aspirin,:
+cytarabine,.,.,.],Pat,.}, aspirin, dispensary,.), patient,"."""""
+vincristine,.,Pat,., patient,.],.),.}, aspirin," "".","."""""
+daunorubicin,.,Pat, patient,.,.],.},.),"."""""," "".", at
+idarubicin,.,Pat,.,.], patient,.},.)," "".", at,"."""""
+decitabine,.,Pat,., patient,.],.},.), aspirin,".""""", at
+gemtuzumab,.,Pat, patient,.,.],.},.), aspirin," "".",:
+midostaurin,.,.,Pat, patient,.),.], aspirin,.}," "".",:
+venetoclax,.,Pat,., patient,.],.},.), aspirin,".""""", at
+enasidenib,.,Pat,., patient,.],.},.), at,ient,"."""""
+cytarabine liposomal AND daunorubicin liposomal,.,Pat, patient,.,.],.},.), at,".""""",ient
+ivosidenib,.,.,Pat,.], patient,.},.), at, aspirin," ""."
+gilteritinib,.,Pat,.,.], patient,.},.), at,".""""",ient
+glasdegib,.,.,Pat,.], patient,.},.)," "".",".""""",:
+cytarabine,.,.,.], aspirin,.),Pat,.},".""""", patient,:
+vincristine,.,.,.],.},.), patient,Pat, aspirin,:, at
+daunorubicin,.,., aspirin,.],.}, patient,Pat,:,.),"."""""
+idarubicin,.,.,.],.}, patient,Pat, aspirin,:,.), at
+decitabine,.,.,Pat, patient,.},.],.), at, aspirin,"."""""
+gemtuzumab,., aspirin,., patient,.),:," "".",.],Pat, ().
+midostaurin,.,.,.],.),.},Pat, aspirin, patient,".""""",:
+venetoclax,., aspirin,.,.),:, patient," "".",Pat, ().,.]
+enasidenib,.,.,Pat, patient,.],.},.), aspirin, at,"."""""
+cytarabine liposomal AND daunorubicin liposomal,.,Pat,., patient,.],.},.),".""""", at," ""."
+ivosidenib,.,.,Pat,.],.}, patient,.),".""""", at," ""."
+gilteritinib,.,.,Pat, patient,.], aspirin,.},.),".""""",:
+glasdegib,.,., aspirin,Pat, patient,.),.],:," "".","."""""
+lamivudine,.,Pat,., patient,.],.},.), at," "".","."""""
+efavirenz AND emtricitabine AND tenofovir,.,Pat,.],.},., patient,".""""",ient, at,.)
+ritonavir,.,Pat,., patient,.],.},.),".""""", at,:
+emtricitabine AND tenofovir,.,.,.], aspirin,.},Pat, patient,.), dispensary,"."""""
+tenofovir,.,., aspirin,.],.}, patient,Pat,.),".""""",:
+abacavir,.,Pat,.],.,.}, patient, aspirin,.),:,ient
+lamivudine,.,., aspirin,Pat, patient,.),.],.}," "".","."""""
+efavirenz AND emtricitabine AND tenofovir,.,.,Pat,.], patient,.),.}, aspirin, at," ""."
+ritonavir,.,Pat,.,.],.}, patient,.),".""""", at, aspirin
+emtricitabine AND tenofovir,.,.,.], aspirin,.},Pat,.),".""""", patient, dispensary
+tenofovir,.,.],Pat,.},., at, patient,".""""",ient,.)
+abacavir,.,., aspirin,.],.},.),Pat, dispensary, at, patient
+lamivudine,.,Pat, patient,.],.,.},".""""",.)," "".", dispensary
+efavirenz AND emtricitabine AND tenofovir,.,Pat,.,.], patient,.},.),".""""", at," ""."
+ritonavir,.,Pat,.},.],., patient,".""""", aspirin,.), at
+emtricitabine AND tenofovir,.,.,Pat, aspirin, patient,.],.),.}," "".", dispensary
+tenofovir,.,Pat,.,.],.}, patient,.), aspirin, at," ""."
+abacavir,.,.,Pat,.],.}, patient, at,".""""", aspirin,.)
+cytarabine,.,., aspirin,Pat, patient,.),.],"."""""," "".",.}
+vincristine,.,.,Pat,.},.], patient,.), aspirin,"."""""," ""."
+daunorubicin,.,., aspirin,.],.},.), patient,:,".""""",Pat
+idarubicin,.,.,Pat,.],.), patient,.}, aspirin,"."""""," ""."
+decitabine,.,.,.],.},Pat, patient,.), at, aspirin,:
+gemtuzumab,.,.,Pat,.],.}, patient, aspirin,.),"."""""," ""."
+midostaurin,.,.,Pat, aspirin,.],.), patient,.},".""""", at
+venetoclax,.,Pat,., patient,.],.}, aspirin,.)," "".", at
+enasidenib,.,.,Pat, patient, aspirin,.),.],.}," "".","."""""
+cytarabine liposomal AND daunorubicin liposomal,.,Pat,.,.},.], patient,.),"."""""," "".", aspirin
+ivosidenib,.,Pat,.],.,.}, patient, aspirin,:, at,"."""""
+gilteritinib,., aspirin,.,.), patient,Pat,:," "".",.],"."""""
+glasdegib,.,Pat,.,.},.], patient,.),".""""", aspirin, at
+aspirin,.,Pat,.],.},., patient,ient,.),"."""""," ""."
+nitroglycerin,.,., aspirin,.],.),.},Pat, patient, dispensary,:
+metoprolol,.,.],.},Pat, aspirin,.,.), at, patient, dispensary
+amlodipine,.,.],.,.},Pat, patient,.), aspirin, at,ient
+isosorbide mononitrate,.,Pat,.],.},., dispensary,".""""", aspirin, patient,:
+isosorbide dinitrate,.,., aspirin, patient,.),.],Pat,.},".""""", at
+enoxaparin,.,.,Pat, patient,.],.},.), aspirin, at,:
+ranolazine,.,.,Pat, patient, aspirin,.),.],.},:," ""."
+atenolol,.,Pat,.,.],.}, patient, aspirin,".""""", at,.)
+carvedilol,.,., patient,.),Pat, aspirin,.],.}, at,"."""""
+amlodipine AND atorvastatin,.,Pat,., patient,.],.), aspirin,.}," "".","."""""
+aspirin,.,., aspirin,.},.],.), patient,Pat,:,"."""""
+nitroglycerin,.,Pat,.], patient,.,.},ient,.),"."""""," ""."
+metoprolol,.,.],.,Pat,.}, patient,.), aspirin,".""""", at
+amlodipine,.,.,Pat, patient,.], aspirin,.},.),:, at
+isosorbide mononitrate,.,Pat,.],.,.}, patient,.), aspirin,".""""",ient
+isosorbide dinitrate,.,Pat,.],.,.}, patient, at,.),".""""",ient
+enoxaparin,.,Pat,.,.],.}, patient,.),".""""", aspirin, at
+ranolazine,.,Pat,., patient,.],.),.}," "".", aspirin,"."""""
+atenolol,.,.,Pat,.],.}, patient,.), at,:, aspirin
+carvedilol,.,., aspirin,.],.},.),Pat, dispensary, patient,:
+amlodipine AND atorvastatin,.,.,Pat,.},.], patient,.), aspirin,".""""", dispensary
+aspirin,.,.,Pat,.],.}, patient,.), aspirin,".""""", at
+nitroglycerin,.,.,Pat, patient, aspirin,.],.),.}," "".","."""""
+metoprolol,., aspirin,.,.),:, patient,Pat,.]," "".", ().
+amlodipine,.,.,Pat, patient,.},.], aspirin,.), at,"."""""
+isosorbide mononitrate,.,.,Pat, patient,.], aspirin,.),.}," "".","."""""
+isosorbide dinitrate,.,., aspirin, patient,Pat,.],.),.}," "".",:
+enoxaparin,.,.,.],Pat,.}, patient,.), aspirin,:,"."""""
+ranolazine,.,.,Pat,.},.], aspirin, patient,.), at,:
+atenolol,.,.,.],.}, aspirin,Pat,.), patient,".""""", at
+carvedilol,.,.,Pat, patient, aspirin,.},.],.),".""""", at
+amlodipine AND atorvastatin,.,Pat,., patient,.],.},.)," "".",".""""", at
+aspirin,.,.,Pat, patient,.],.),.}, aspirin, at,"."""""
+nitroglycerin,.,.,Pat, patient,.),.], aspirin,.}," "".","."""""
+metoprolol,.,Pat,., patient,.},.],.)," "".",".""""", Related
+amlodipine,.,., patient,Pat,.],.), aspirin,.}, at,"."""""
+isosorbide mononitrate,.,., aspirin,Pat, patient,.),.],.},".""""", dispensary
+isosorbide dinitrate,.,.,Pat, patient,.],.},".""""", aspirin,.)," ""."
+enoxaparin,.,.,Pat,.],.}, aspirin,.), patient, dispensary,"."""""
+ranolazine,.,.,.],.},Pat, aspirin, patient,.), at,:
+atenolol,.,Pat,., patient,.),.],.}, aspirin," "".","."""""
+carvedilol,.,.,Pat, aspirin,.), patient,.],".""""",.}," ""."
+amlodipine AND atorvastatin,.,Pat,.],.,.}, patient,.),".""""", at," ""."
+aspirin,.,.,Pat,.],.}, patient,.),"."""""," "".", at
+nitroglycerin,.,., aspirin,Pat, patient,.),.],.},:," ""."
+metoprolol,.,.,.],.}, aspirin,Pat,:, patient,.),"."""""
+amlodipine,., aspirin,.,.), patient,Pat," "".",".""""",:, dispensary
+isosorbide mononitrate,.,., aspirin, patient,.],.),Pat,.}, at," ""."
+isosorbide dinitrate,.,., aspirin, patient,Pat,.)," "".",.],".""""", dispensary
+enoxaparin,., aspirin,.,.),:, patient," "".",".""",.], ().
+ranolazine,.,., aspirin,.],.},.),Pat,".""""", patient,:
+atenolol,.,Pat, patient,.,.],.}," "".",.),".""""",:
+carvedilol,.,., aspirin,Pat,.],.}, patient,.),:,"."""""
+amlodipine AND atorvastatin,.,., aspirin,.), patient,Pat,.],.},"."""""," ""."
+ibuprofen,.,Pat, patient,.},.],.,ient,".""""",.)," ""."
+naproxen,.,Pat, patient,.,.],.},ient,.), at,"."""""
+acetaminophen,.,.,.],Pat,.}, aspirin, patient,.),:,"."""""
+diclofenac,.,Pat,.,.],.}, patient,:,.), aspirin, at
+nabumetone,.,Pat,., patient,.],.),.},"."""""," "".", at
+ibuprofen,.,.],.,.},Pat, aspirin, patient,:,.), dispensary
+naproxen,.,Pat,., patient,.],.},.)," "".",".""""", at
+acetaminophen,.,Pat,.,.], patient,.},.)," "".", at,"."""""
+diclofenac,.,Pat,., patient,.],.},.),ient,".""""", at
+nabumetone,.,Pat, patient,.},.,.],.), at,"."""""," ""."
+ibuprofen,.,.,.], aspirin,.},.), patient,Pat, at,:
+naproxen,.,.,Pat, patient,.],.},.), aspirin,:, at
+acetaminophen,.,.,Pat,.], patient,.},.), at, aspirin,"."""""
+diclofenac,.,.,Pat, aspirin, patient,.],.),.}," "".","."""""
+nabumetone,.,.],.},Pat,., patient, at,.),ient, aspirin
+ibuprofen,.,., patient,Pat,.},.], aspirin,.), at,:
+naproxen,.,.,Pat, patient,.},.],.),".""""", aspirin," ""."
+acetaminophen,.,Pat,., patient,.],.}," "".",".""""",.), '.
+diclofenac,.,Pat,.],.},., patient,.),".""""", at," ""."
+nabumetone,.,.,Pat, aspirin, patient,.),.},.],"."""""," ""."
+ibuprofen,.,.],.,.}, aspirin,Pat,.), dispensary,".""""",:
+naproxen,.,., aspirin, patient,Pat,:,.),.],.}," ""."
+acetaminophen,.,., aspirin,Pat,.], patient,.),:,.}, at
+diclofenac,.,., aspirin,.), patient,.],.},Pat,:,"."""""
+nabumetone,.,.,Pat,.],.},.), patient, aspirin, at,"."""""
+lamivudine,.,.,Pat, patient, aspirin,.],.},.)," "".",:
+efavirenz AND emtricitabine AND tenofovir,.,.],Pat,.},., patient,.),ient,:," ""."
+ritonavir,.,., aspirin,Pat, patient,.),.],.},".""""", dispensary
+emtricitabine AND tenofovir,.,Pat, patient,.,.},.],.),".""""", at," ""."
+tenofovir,.,., aspirin, patient,.),Pat,:," "".",.],"."""""
+abacavir,.,Pat,.],.,.}, patient,.),"."""""," "".", at
+meloxicam,.,.], aspirin,.},.,Pat, dispensary,:, patient,.)
+diclofenac,.,Pat,., patient,.],.},.),:," "".", aspirin
+naproxen,., aspirin,.,.],.},.), dispensary,".""""",Pat, patient
+ibuprofen,.,Pat, patient,.],.,.},.), at,".""""", aspirin
+celecoxib,.,Pat, patient,.,.],.},".""""",.)," "".", at
+chondroitin AND glucosamine,.,Pat,., patient,.],.},.), aspirin, at,"."""""
+diclofenac,.,Pat,.],.},.,ient, at, patient, aspirin, dispensary
+etodolac,.,.,Pat, aspirin, patient,.],.),.},"."""""," ""."
+prednisone,.,.,Pat, patient,.],.}, aspirin,.), at,"."""""
+aspirin,.,Pat,., patient,.], aspirin,.),.}," "".","."""""
+nabumetone,.,.],.},Pat, patient,., aspirin,.), dispensary, at
+duloxetine,.,.,.],.},Pat, aspirin, patient,".""""",.), dispensary
+terbinafine,.,Pat,.,.],.}, patient, at,.),".""""", aspirin
+terbinafine,.,Pat,.],.},., patient,ient, at,".""""",.)
+collagenase,.,., aspirin,.],.},Pat,.),:, patient, dispensary
+becaplermin,.,Pat,.,.],.}, patient,.), at,"."""""," ""."
+cadexomer iodine,.,., patient, aspirin,Pat,.),.],:,.}," ""."
+modafinil,.,., aspirin,.),.], patient,Pat,:,.}," ""."
+duloxetine,.,.,Pat, patient, aspirin,.),:,.],.}," ""."
+lisdexamfetamine,., aspirin,.,.), patient,Pat,:," "".",.], ().
+amantadine,.,Pat,.,.],.}, patient,.), aspirin,".""""", at
+armodafinil,.,Pat,.],.,.}, patient, aspirin,".""""", dispensary, at
+ketoconazole,.,Pat,.,.],.}, patient, aspirin,".""""", dispensary,.)
+terbinafine,.,Pat,.],.}, patient,., aspirin,ient, at,"."""""
+ketoconazole,.,Pat, patient,.],.,.},.),ient," "".","."""""
+terbinafine,.,.,Pat, patient,.],.},.), aspirin, at,:
+quetiapine,.,Pat,., patient,.],.},.), at," "".", aspirin
+lamotrigine,.,Pat,., patient,.],.},.),".""""", at,ient
+lithium,.,.,.],Pat,.}, patient,.), aspirin, at,:
+risperidone,.,.,Pat,.],.}, patient, aspirin,.),".""""", dispensary
+fluoxetine,.,Pat,.],.},., at, patient,.),".""""",ient
+olanzapine,.,Pat,.,.], patient,.},.),".""""", aspirin, at
+buspirone,.,.,.],Pat,.}, patient, aspirin,:, at,.)
+clonazepam,.,., aspirin,.],.),.},:,Pat, patient, dispensary
+sertraline,.,Pat,., patient,.],.},.), at,ient," ""."
+aripiprazole,.,.,.],Pat, patient,.},.), aspirin, at,:
+topiramate,.,.,Pat, aspirin, patient,.)," "".",.],:,"."""""
+diazepam,.,.,Pat, patient,.], aspirin,.},.)," "".", at
+lorazepam,.,.],.},.,Pat, patient, at, aspirin,ient,:
+escitalopram,.,., aspirin, patient,Pat,.),.],.}," "".","."""""
+divalproex sodium,.,.,.],Pat,.}, aspirin,.), patient,".""""", dispensary
+alprazolam,.,., aspirin,.),Pat,.], patient,.}," "".", at
+clozapine,.,Pat,.,.],.}, patient,".""""", at, aspirin,.)
+oxcarbazepine,.,.,Pat, patient,.],.}, aspirin,.),"."""""," ""."
+citalopram,., aspirin,., patient,.)," "".",:,.],Pat, ().
+haloperidol,.,.,Pat,.], aspirin,.),.}, patient,:, at
+lurasidone,.,.,Pat, patient, aspirin,.],.},"."""""," "".",.)
+l-methylfolate,.,.},.],., aspirin,Pat,.), patient, dispensary, at
+carbamazepine,.,., patient,Pat, aspirin,.],.),.},:," ""."
+asenapine,.,., aspirin, patient,.),Pat,.],.},:," ""."
+paliperidone,.,Pat,., patient,.],.},.),ient, at," ""."
+quetiapine,.,Pat,.,.],.}, patient,".""""",.), at," ""."
+lamotrigine,.,.,.], aspirin,Pat,.},:,.), patient,"."""""
+lithium,.,.,Pat, patient,.), aspirin,.],.}," "".",:
+risperidone,.,.,Pat, patient,.), aspirin,.],.}," "".",:
+fluoxetine,.,., aspirin,Pat,.],.),.}, patient,:,"."""""
+olanzapine,.,Pat,.,.},.], patient,ient, aspirin,".""""", at
+buspirone,.,., aspirin,.],.},.),:,Pat, patient, dispensary
+clonazepam,.,.,.], aspirin,Pat,.},.), dispensary,".""""", patient
+sertraline,.,.,.),.],Pat,.}, patient, aspirin,:," ""."
+aripiprazole,.,., aspirin,.],.},Pat,:,.), at, patient
+topiramate,.,.,Pat,.], patient,.},.), aspirin,:, at
+diazepam,.,.,.],.}, aspirin,.),Pat, patient, at,:
+lorazepam,.,.,Pat, patient,.],.),.},".""""", at," ""."
+escitalopram,.,Pat, patient,.,.),.},.],".""""", at," ""."
+divalproex sodium,.,.,Pat, patient,.],.},.), aspirin,"."""""," ""."
+alprazolam,.,.,Pat, patient,.],.),.}, aspirin," "".","."""""
+clozapine,., aspirin,.,.],.},.), dispensary, patient,Pat,:
+oxcarbazepine,.,.,Pat,.],.}, patient, aspirin,.),".""""", at
+citalopram,., aspirin,.,.), patient,Pat,.],.},:," ""."
+haloperidol,.,.,Pat,.],.}, patient,.), aspirin,".""""", dispensary
+lurasidone,.,.,Pat,.],.}, patient, aspirin,.),"."""""," ""."
+l-methylfolate,.,.,Pat, patient, aspirin,.],:,.)," "".",.}
+carbamazepine,.,Pat,., patient,.),".""""", aspirin,.],.}," ""."
+asenapine,.,.,Pat,.], aspirin,.}, patient,.),".""""", dispensary
+paliperidone,.,.,Pat, patient,.],.},.)," "".", at,"."""""
+ibuprofen,.,Pat,.],.,.}, patient,:,ient, at,.)
+naproxen,.,Pat,.,.], patient,.},.),".""""", aspirin,ient
+acetaminophen,.,., aspirin,Pat,.], patient,.},.),:, at
+diclofenac,.,.,Pat, patient, aspirin,.],.),.}," "".", at
+nabumetone,.,Pat,.,.],.}, patient, at,".""""",ient,:
+ibuprofen,.,Pat, patient,.],.},.,".""""",.), at," ""."
+naproxen,.,Pat,., patient,.],.},.), at,".""""",:
+acetaminophen,.,.,Pat, patient,.],.}, aspirin,.),:,"."""""
+diclofenac,.,.,Pat, patient,.),.],.}, aspirin, at,"."""""
+nabumetone,.,Pat,.,.},.], patient,.),"."""""," "".", at
+ibuprofen,.,.,.], aspirin,.},Pat,:, patient,.), at
+naproxen,.,.,.],.}, patient,.),Pat, aspirin," "".","."""""
+acetaminophen,.,Pat,.,.),.], patient,.},"."""""," "".", '.
+diclofenac,., aspirin,.,.),:,.], patient,.}, dispensary," ""."
+nabumetone,., aspirin,.,:,.), patient," "".", ()., (.,"."""""
+cytarabine,.,., aspirin, patient,Pat,.)," "".",:,.],"."""""
+vincristine,.,.,Pat, aspirin, patient,.),.],:," "".",.}
+daunorubicin,.,Pat,., patient,.],.},.)," "".",".""""", at
+idarubicin,.,., aspirin,.],.},Pat,.), patient, dispensary,:
+decitabine,.,Pat,., patient,.],.},.), at, aspirin,"."""""
+gemtuzumab,.,Pat,.},.,.]," "".", patient,".""""", '.,ient
+midostaurin,.,.,Pat, patient, aspirin,.],.),.}, at,:
+venetoclax,.,Pat,., patient,.],.},.), at," "".","."""""
+enasidenib,.,Pat,., patient,.],.}, aspirin,.),:, at
+cytarabine liposomal AND daunorubicin liposomal,.,Pat,.],., patient,.},.),"."""""," "".", aspirin
+ivosidenib,.,.,Pat, aspirin,.],.},.),".""""", patient, at
+gilteritinib,.,.,Pat,.], patient,.},.), aspirin,"."""""," ""."
+glasdegib,.,Pat,., patient,.],.},.)," "".", '., at
+cytarabine,.,Pat,.,.],.}, patient,.), at,".""""",ient
+vincristine,.,., aspirin,Pat,.),.], patient,.},:,"."""""
+daunorubicin,.,.,Pat, patient,.],.),.}, aspirin, at,:
+idarubicin,.,., aspirin,.],.}, patient,.),Pat," "".", dispensary
+decitabine,.,.,.],.},Pat, patient, at,.), aspirin,ient
+gemtuzumab,.,Pat,.,.], patient,.},.), at,".""""",ient
+midostaurin,.,Pat,.],.,.}, patient, aspirin,.),".""""", at
+venetoclax,.,Pat,., patient,.],.},.), at,"."""""," ""."
+enasidenib,.,.},.],.,Pat,".""""", dispensary,.), patient, aspirin
+cytarabine liposomal AND daunorubicin liposomal,.,.,Pat,.],.}, patient,.), aspirin,"."""""," ""."
+ivosidenib,.,., aspirin, patient,Pat,.],.),.},:," ""."
+gilteritinib,.,.,Pat, patient,.],.), aspirin,.}, at,"."""""
+glasdegib,.,., aspirin,.],.},Pat,.),:, patient, at
+cytarabine,.,.,Pat, aspirin,.],.}, patient,".""""",.), dispensary
+vincristine,.,Pat,.,.],.}, patient,.), aspirin, at,"."""""
+daunorubicin,.,., aspirin,.],Pat,.}, patient,.),".""""",:
+idarubicin,.,., aspirin,Pat, patient,.),.]," "".",.},"."""""
+decitabine,., aspirin,.,.), patient,:,Pat,.], name,"."""""
+gemtuzumab,.,.,.],Pat,.}, patient, aspirin, dispensary,:,.)
+midostaurin,.,Pat,.],.,.}, patient,".""""",.), aspirin," ""."
+venetoclax,.,Pat,.],.,.}, patient, aspirin,.), at,"."""""
+enasidenib,.,.,Pat, patient,.],.},.), aspirin," "".", at
+cytarabine liposomal AND daunorubicin liposomal,.,.,Pat,.],.}, patient, aspirin,:,.),"."""""
+ivosidenib,.,.,.],Pat,.}, patient,.), aspirin,".""""", dispensary
+gilteritinib,.,.,Pat, patient,.],.),.}, aspirin, at,:
+glasdegib,.,Pat,.,.],.}, patient,.),".""""", at, aspirin
+dexamethasone,.,Pat, patient,.],.,.},.),ient, at," ""."
+thalidomide,.,., patient,Pat,.],.}, aspirin,.),".""""",:
+cyclophosphamide,.,.,Pat,.],.}, patient,.), at,:," ""."
+lenalidomide,.,Pat,., patient,.},.],.),".""""", at, aspirin
+bortezomib,.,Pat,., patient,.],.),.}, aspirin,:,"."""""
+carfilzomib,.,Pat,., patient,.],.},.), at," "".","."""""
+pomalidomide,.,.,Pat, patient,.], aspirin,.),.},:," ""."
+daratumumab,.,.,Pat, patient,.],.}, aspirin,.),"."""""," ""."
+melphalan,., aspirin,., patient,.),:,.],Pat," "".",.}
+dexamethasone,.,Pat,., patient,.],.},.), aspirin,".""""", at
+thalidomide,.,.,.],Pat,.}, aspirin, patient,.),".""""", at
+cyclophosphamide,.,.,Pat, patient,.],.},.), at, aspirin,:
+lenalidomide,.,Pat,., patient,.],.},.),".""""", at," ""."
+bortezomib,.,.,Pat, patient,.],.},.), aspirin, at,"."""""
+carfilzomib,.,.,Pat, patient,.},.],.), aspirin, at," ""."
+pomalidomide,.,Pat,.],.,.}, patient, at,.),:, aspirin
+daratumumab,.,.,Pat, patient,.],.},.), aspirin," "".", at
+melphalan,., aspirin,.,.),:, patient,Pat," "".", ().,"."""""
+cyclophosphamide,.,.,Pat,.), aspirin, patient,.],.}," "".","."""""
+vincristine,.,.,.], aspirin,.},Pat, patient,.),:, dispensary
+rituximab,.,., aspirin,.],.}, patient,Pat,.),:, at
+methotrexate,.,Pat, patient,.,.],.},.),ient, at," ""."
+bendamustine,.,Pat,., patient,.], aspirin,.),.}," "".", at
+cytarabine,., aspirin,.},.,.], patient,Pat,.), at, dispensary
+fludarabine,.,.,Pat,.},.], patient, aspirin,.), at,:
+bleomycin,.,.,Pat,.], patient,.},.), aspirin," "".","."""""
+carmustine,.,.],Pat,.},., patient, at,.),:,"."""""
+idelalisib,.,Pat,.,.},.], aspirin,.), patient," "".","."""""
+ibritumomab,.,.,Pat,.},.], patient,.), aspirin, at,"."""""
+ibrutinib,.,Pat,.,.], patient,.},".""""",.), aspirin,:
+mitoxantrone,.,.,Pat,.],.},.), patient,".""""", at, aspirin
+dexamethasone,.,.,.],Pat,.}, aspirin,.), patient,:,"."""""
+thalidomide,.,., aspirin,Pat, patient,.),.]," "".",:,.}
+cyclophosphamide,.,Pat,.,.], patient,.},.), aspirin, at,</s>
+lenalidomide,.,Pat, patient,.,.]," "".",.),.},".""""", aspirin
+bortezomib,.,.,Pat, patient,.],.),.},:, aspirin, at
+carfilzomib,.,Pat,., patient,.],.},.), at, aspirin," ""."
+pomalidomide,.,.,Pat,.], patient,.),.}, aspirin," "".","."""""
+daratumumab,.,Pat,., patient,.],.},.), at,".""""", aspirin
+melphalan,.,Pat,., patient,.],.},.),ient, at," ""."
+dexamethasone,.,., patient,Pat, aspirin,.],.),"."""""," "".",:
+thalidomide,., aspirin,.,.],.},.), dispensary,".""""",:,Pat
+cyclophosphamide,.,.,.],.},Pat,.), aspirin, patient,:, at
+lenalidomide,.,Pat, patient,.,.],.},.),ient,".""""", at
+bortezomib,.,.,Pat, patient,.],.},.), aspirin, at," ""."
+carfilzomib,.,Pat,.], patient,.},.,.),ient, at," ""."
+pomalidomide,.,., aspirin,.],.),.},:, patient, at,Pat
+daratumumab,.,.,Pat, aspirin,.], patient,.),.}," "".", at
+melphalan,.,Pat, patient,.,.],.},.)," "".",ient,"."""""
+miconazole,.,Pat,.,.],.}, patient,".""""",.), at," ""."
+miconazole,.,Pat,.,.], patient,.},.), at,".""""", aspirin
+risperidone,.,.,Pat, patient, aspirin,.),.]," "".",.},:
+clozapine,.,.,.},.],Pat,".""""", aspirin,.), at, dispensary
+olanzapine,.,., aspirin,.],.},Pat,:, patient,.),"."""""
+quetiapine,.,Pat,.,.],.}, aspirin, patient,.),:,"."""""
+aripiprazole,.,Pat,.,.],.}, patient,".""""",.), at," ""."
+chlorpromazine,.,., patient,Pat,.],.),.}, aspirin, at," ""."
+paliperidone,., aspirin,.,.),:," "".", patient, ().,".""""", (.
+ziprasidone,.,Pat,., patient,.],.},.), at,"."""""," ""."
+loxapine,.,Pat,.},.,.], patient,.), at,".""""", aspirin
+modafinil,.,Pat,.,.], patient,.},.),ient,".""""", aspirin
+duloxetine,.,.,Pat, patient,.), aspirin,.],.},:, at
+lisdexamfetamine,.,.],Pat,.},., patient, aspirin,.), dispensary," ""."
+amantadine,.,.,.],.},Pat, patient,.), aspirin,:, at
+armodafinil,.,.,.], aspirin,Pat,.),.}, patient,:, at
+modafinil,.,Pat,.,.],.}, patient,.),".""""", at,ient
+duloxetine,.,Pat,., patient,.],.},.), aspirin, at,:
+lisdexamfetamine,.,.,.],.},Pat,.), patient, aspirin, at,"."""""
+amantadine,.,Pat,., patient,.],.),.}, aspirin,".""""", at
+armodafinil,.,., aspirin,Pat,.],.},.), patient, dispensary, at
+atorvastatin,.,.,.],Pat,.}, aspirin, patient,:,.), at
+simvastatin,.,Pat,.,.],.}, patient,.), aspirin, at,"."""""
+pravastatin,.,., aspirin, patient,.),Pat," "".",".""""",.],.}
+rosuvastatin,.,Pat,.],.},., patient,.), aspirin,ient, at
+lovastatin,.,.,.],Pat, aspirin,.},.),:, patient,"."""""
+ezetimibe,.,.,Pat, patient, aspirin,.],.),.},:, at
+gemfibrozil,.,Pat,.],., patient,.}, aspirin,:,".""""", at
+niacin,.,.,.],.},Pat, aspirin,.), patient,".""""", at
+ezetimibe AND simvastatin,.,.,Pat, patient,.], aspirin,.),.},:,"."""""
+fenofibric acid,.,Pat,., patient,.},.],.), at,"."""""," ""."
+atorvastatin,.,Pat,., patient,.],.},.),ient, at, aspirin
+simvastatin,.,Pat,.],.},., patient,.), aspirin, at, dispensary
+pravastatin,.,Pat,., patient,.],.},.)," "".", aspirin, at
+rosuvastatin,.,.,Pat,.],.), patient,.}, aspirin,".""""", at
+lovastatin,.,., aspirin,Pat,.), patient,.], dispensary,.},:
+ezetimibe,.,.},.],Pat,., patient,.), at, aspirin,"."""""
+gemfibrozil,.,.,Pat, patient,.],.},.), aspirin, at,:
+niacin,.,.,Pat,.],.}, patient,.), aspirin, at,"."""""
+ezetimibe AND simvastatin,., aspirin,.,.), patient,:,Pat," "".",.], dispensary
+fenofibric acid,.,.],.},Pat,., patient, at,".""""",:,.)
+atorvastatin,.,.,Pat,.],.}, patient, aspirin,.),".""""",:
+simvastatin,.,., aspirin,.),Pat, patient,.],.}," "".","."""""
+pravastatin,.,Pat,.},.,.], patient,".""""",.), aspirin, dispensary
+rosuvastatin,., aspirin,.,.), patient,Pat,.]," "".",:,.}
+lovastatin,.,., aspirin,.],.},Pat,:, patient, dispensary, at
+ezetimibe,.,.],Pat,.,.}, patient,.), at,:, aspirin
+gemfibrozil,.,Pat,., patient,.],.},.), aspirin, at,"."""""
+niacin,.,., aspirin,Pat,.),.], patient,.}," "".","."""""
+ezetimibe AND simvastatin,., aspirin,.,.],.},Pat,:,.), dispensary,"."""""
+fenofibric acid,.,Pat,.,.}, patient,.],".""""",.)," "".", at
+atorvastatin,.,.,.],.},:, aspirin,Pat,".""""", patient, at
+simvastatin,.,.,.],Pat, aspirin,.},.), patient, dispensary,"."""""
+pravastatin,.,.,Pat,.],.}, aspirin, patient,.),".""""", at
+rosuvastatin,.,.,Pat, patient,.],.},.), aspirin, at,:
+lovastatin,.,Pat,.,.],.}, patient,.), aspirin, at,"."""""
+ezetimibe,.,., aspirin, patient,.),:,Pat,.],.}," ""."
+gemfibrozil,.,Pat,.,.],.}, patient, aspirin,.),".""""", at
+niacin,.,., aspirin,Pat, patient,.),.],.},"."""""," ""."
+ezetimibe AND simvastatin,.,Pat,., patient,.},.],.)," "".",".""""", aspirin
+fenofibric acid,.,.,.],Pat,.}, aspirin,.), patient,".""""",:
+modafinil,.,Pat,., patient,.],.},.),"."""""," "".", aspirin
+duloxetine,.,., aspirin,.],Pat,.},.),".""""", patient, dispensary
+lisdexamfetamine,.,., aspirin,.},.],Pat,.), patient, dispensary,:
+amantadine,.,Pat,.,.],.}, patient,".""""",.), at, aspirin
+armodafinil,.,Pat,., patient,.},.],.), at,ient,"."""""
+modafinil,.,.,.],.},Pat, aspirin, patient,.),".""""", dispensary
+duloxetine,.,., aspirin,Pat, patient,.),.],.},:," ""."
+lisdexamfetamine,.,.,Pat, patient,.), aspirin,.],.}, at,"."""""
+amantadine,.,.,Pat, patient,.), aspirin,.],".""""",.}," ""."
+armodafinil,.,Pat,., patient,.],.},.),ient," "".","."""""
+lamivudine,.,., aspirin,.),.],Pat,.}, patient,:, at
+efavirenz AND emtricitabine AND tenofovir,.,.,.],Pat, aspirin, patient,.},.),:,"."""""
+ritonavir,.,Pat,., patient,.],.},.), at,"."""""," ""."
+emtricitabine AND tenofovir,.,.,.],.}, aspirin,.),Pat, patient,".""""", at
+tenofovir,.,.,.],Pat,.}, patient, aspirin,.), at,:
+abacavir,., aspirin,.,Pat,.), patient," "".",:,.],"."""""
+collagenase,., aspirin,.,.),Pat, patient," "".",".""""",.],:
+becaplermin,.,Pat,.,.},.], patient,".""""",.)," "".", '.
+cadexomer iodine,.,Pat,., patient,.},.],.), at,"."""""," ""."
+collagenase,.,., aspirin, patient,.),.],.},"."""""," "".",Pat
+becaplermin,.,.,.],Pat, patient,.}, aspirin,.), at,:
+cadexomer iodine,.,.,Pat, patient, aspirin,.),.],.}, at,"."""""
+meloxicam,.,Pat,., patient,.],.},.), aspirin, at,ient
+diclofenac,.,.],.,.}, aspirin,Pat, patient, dispensary,.),:
+naproxen,.,.,Pat,.],.}, patient,.),".""""", aspirin, at
+ibuprofen,.,.,.], aspirin,.},.),Pat, dispensary, patient,"."""""
+celecoxib,., aspirin,., patient,.],.},.),Pat,:, dispensary
+chondroitin AND glucosamine,.,., aspirin,.],Pat,.),.}, patient,".""""",:
+diclofenac,.,.,.],.},Pat, aspirin,.), patient,".""""", at
+etodolac,.,Pat,., patient,.],.},.)," "".",".""""", at
+prednisone,.,.,.],Pat,.}, patient, aspirin,.), at,:
+aspirin,.,.,Pat, patient,.],.),.}, aspirin,:," ""."
+nabumetone,.,.,.], aspirin,Pat,.},.), patient,:,]:
+duloxetine,.,.,Pat, patient,.],.},.), aspirin," "".", at
+meloxicam,.,.,.],Pat, patient, aspirin,.},.),".""""", at
+diclofenac,.,.],.,Pat,.}, patient, aspirin,.), at,"."""""
+naproxen,.,.,.},Pat,.], patient, aspirin, at,.),"."""""
+ibuprofen,.,.,.],.}, aspirin,Pat, patient,.),".""""",:
+celecoxib,., aspirin,.,Pat,.), patient,".""""",.]," "".",:
+chondroitin AND glucosamine,.,Pat,.,.],.}, patient,.),".""""", at,ient
+diclofenac,.,.,.],.},Pat,.), patient, aspirin, dispensary, at
+etodolac,.,.,.],.},Pat, patient,:, aspirin,.), at
+prednisone,.,., aspirin,.},.],Pat,.), patient, dispensary,"."""""
+aspirin,.,.,Pat, patient,.],.),.}, aspirin,:, at
+nabumetone,.,Pat,., patient,.],.),.},ient,"."""""," ""."
+duloxetine,.,.,Pat,.], aspirin,.},.), patient, dispensary,"."""""
+collagenase,.,.,Pat, aspirin, patient,.],.),.},:," ""."
+becaplermin,.,., aspirin,.], patient,.},.),:," "".",Pat
+cadexomer iodine,.,.,Pat, patient," "".", '.,.),".""""", aspirin,.]
+collagenase,.,.,Pat, patient, aspirin,.)," "".",.],.},:
+becaplermin,.,., aspirin,Pat, patient,.),.],"."""""," "".",:
+cadexomer iodine,.,.,Pat, aspirin,.), patient,.],.},:,"."""""
+collagenase,.,.,.],Pat,.}, patient,.), aspirin,:, at
+becaplermin,.,Pat,.,.],.}, patient,.), aspirin,".""""", at
+cadexomer iodine,.,., aspirin,.],.},Pat, patient,.),:, dispensary
+ibuprofen,.,Pat,.,.],.}, patient, aspirin,.),".""""",:
+naproxen,.,.,Pat,.], patient,.},.), aspirin," "".",:
+acetaminophen,.,Pat,., patient,.],.},.), at,ient," ""."
+diclofenac,.,.},.,.],Pat, patient,.), aspirin, at,"."""""
+nabumetone,.,.,.],Pat,.}, aspirin, patient,.),:, dispensary
+risperidone,.,Pat,.],.},., patient,.),".""""",:, at
+clozapine,.,Pat,.,.], patient,.}, aspirin,.),".""""", at
+olanzapine,.,Pat,., patient,.],.},.), at," "".","."""""
+quetiapine,.,.,Pat,.],.}, patient,.), aspirin,"."""""," ""."
+aripiprazole,., aspirin,.],.},.,Pat, patient, dispensary,.), at
+chlorpromazine,.,Pat,.,.],.}, patient,.), aspirin,:,"."""""
+paliperidone,.,Pat,.],.,.}, patient, at,ient,:,.)
+ziprasidone,.,., aspirin,.],Pat,:,.}, patient,.), at
+loxapine,.,., aspirin,Pat,.],.},.), patient,:, at
+meloxicam,.,Pat,.,.],.}, patient,.), aspirin,".""""", at
+diclofenac,.,.,Pat, patient,.],.},.), aspirin, at,"."""""
+naproxen,.,.],.},., aspirin,Pat, patient, at,".""""",.)
+ibuprofen,.,Pat,.},.],., patient,".""""",.), aspirin, at
+celecoxib,.,.,Pat, patient,.],.),.}, aspirin," "".", at
+chondroitin AND glucosamine,., aspirin,.,.),.],.}, patient, drug, dispensary, at
+diclofenac,.,.,Pat, patient,.),.], aspirin,.}," "".","."""""
+etodolac,.,Pat,.],.},., patient, at,ient,.),"."""""
+prednisone,.,Pat, patient,.,.},.],.), at,"."""""," ""."
+aspirin,.,.,.],Pat,.}, aspirin, patient,.),".""""", dispensary
+nabumetone,.,Pat,.},., patient,.],.), at,".""""",ient
+duloxetine,.,., patient, aspirin,Pat,.)," "".",:,.],.}
+quetiapine,.,Pat,., patient,.],.},.), aspirin,".""""", at
+lamotrigine,.,.,.], aspirin,.},Pat,.), patient,".""""", at
+lithium,.,., aspirin,.],.},.), patient,:,Pat, dispensary
+risperidone,.,Pat,., patient,.), aspirin,.},.],"."""""," ""."
+fluoxetine,.,.,Pat, aspirin, patient,.),.],:,.}," ""."
+olanzapine,.,.,Pat,.],.}, patient, aspirin,.),".""""",:
+buspirone,.,., aspirin,.),Pat, patient,.],.},:,"."""""
+clonazepam,.,Pat,.],., aspirin,.}, patient,".""""", dispensary,.)
+sertraline,.,., aspirin,.],Pat,.}, patient,.),:, at
+aripiprazole,.,.,.},.],Pat, patient,.),".""""", aspirin, at
+topiramate,.,Pat,.],.,.}, patient,:, aspirin,.),"."""""
+diazepam,.,.,Pat, aspirin,.), patient,.],.}," "".", dispensary
+lorazepam,.,.,Pat,.],.}, patient,.), aspirin," "".",:
+escitalopram,.,., aspirin, patient,Pat,.],.},.),".""""",:
+divalproex sodium,.,Pat,.,.], aspirin,.}, patient, at,:,"."""""
+alprazolam,.,Pat,., patient,.),.], aspirin,.}," "".",:
+clozapine,.,Pat, patient,.,.],.},.), aspirin, at,"."""""
+oxcarbazepine,.,Pat,.,.], patient,.},.),:, at," ""."
+citalopram,.,.,.],Pat,.}, patient,.), aspirin, dispensary,:
+haloperidol,.,.,Pat, patient,.],.),.}, aspirin, at,"."""""
+lurasidone,.,.,Pat, patient,.], aspirin,.},".""""",.)," ""."
+l-methylfolate,.,., patient,Pat, aspirin,.),.],.}," "".", at
+carbamazepine,.,.,Pat,.],.}, patient,.), aspirin, at,:
+asenapine,.,.,Pat, patient,.],.),.}, aspirin," "".","."""""
+paliperidone,.,.,Pat,.], patient,.}, aspirin,.),:,"."""""
+quetiapine,.,Pat,.,.],.}, patient,.), at, aspirin,"."""""
+lamotrigine,.,Pat,.,.], patient,.},.),".""""", aspirin, at
+lithium,.,., patient,Pat, aspirin,.],:, at,.)," ""."
+risperidone,.,.,Pat, patient,.], aspirin,.},.), at,"."""""
+fluoxetine,.,., aspirin,.],Pat, patient,.},.),:, at
+olanzapine,.,.,Pat,.],.}, aspirin,.), patient,".""""", at
+buspirone,.,., aspirin,Pat,.), patient,.],.},:," ""."
+clonazepam,.,.,.],:, aspirin,.}, patient,Pat,.), at
+sertraline,.,Pat,.],.,.}, patient,.),".""""", at,:
+aripiprazole,.,.,Pat,.},.], patient,.), aspirin,".""""", at
+topiramate,.,.],.,.}, aspirin,.),Pat,".""""", patient, dispensary
+diazepam,., aspirin,.,.),:," "".", patient, ().,".""""",.]
+lorazepam,.,.],.,Pat,.}, patient, aspirin, at,:,"."""""
+escitalopram,.,., aspirin,.],.},.), patient,Pat, dispensary,:
+divalproex sodium,.,.],.},Pat,.),., aspirin, patient,".""""",.)
+alprazolam,.,.,Pat,.], aspirin,.}, patient,.),".""""", dispensary
+clozapine,., aspirin,.,.),:, patient," "".", lithium, ()., name
+oxcarbazepine,.,.,Pat, aspirin, patient,.],.},.),:, dispensary
+citalopram,.,.,Pat,.],.}, patient, aspirin,.), at,"."""""
+haloperidol,.,.,Pat, patient,.],.},.), at,"."""""," ""."
+lurasidone,.,.,Pat,.], patient,.},.), aspirin," "".","."""""
+l-methylfolate,.,.,Pat,.],.}, aspirin, patient,.), dispensary,:
+carbamazepine,.,., aspirin,.],.},.),Pat, patient,".""""",:
+asenapine,.,Pat,.],.,.}, patient,.), aspirin,]:,:
+paliperidone,.,Pat,.,.},.], patient,.),".""""", at," ""."
+ibuprofen,.,.,.],.},Pat, aspirin, patient,.),:, at
+naproxen,.,.,Pat, patient,.], aspirin,.),.},"."""""," ""."
+acetaminophen,., aspirin,., patient,.),.],.},Pat,:," ""."
+diclofenac,.,.,Pat,.}, aspirin,.],.),".""""",:, patient
+nabumetone,.,.,Pat,.], patient, aspirin,.),.}," "".","."""""
+quetiapine,.,., aspirin,.), patient,:,Pat," "".",.], ().
+lamotrigine,.,Pat, patient,.},.],.,.)," "".",ient, at
+lithium,.,., aspirin,.),Pat, patient,.],.},:," ""."
+risperidone,.,Pat, patient,.],.,.},.),ient," "".", at
+fluoxetine,.,.,.],Pat, aspirin,.}, patient,".""""", dispensary,:
+olanzapine,.,.],.,Pat,.}, patient, aspirin,.),".""""", dispensary
+buspirone,.,Pat,.,.],.}, patient, aspirin,.), at,"."""""
+clonazepam,.,.,Pat, patient,.],.},.), at, aspirin,"."""""
+sertraline,.,Pat,., patient,.],.},.), at,"."""""," ""."
+aripiprazole,.,., aspirin,Pat,.},.],.), patient,".""""", at
+topiramate,.,Pat,., patient,.],.),.}, at,ient," ""."
+diazepam,., aspirin,.,.), patient,:," "".", dispensary,Pat,"."""""
+lorazepam,.,.,Pat,.],.},.), aspirin, patient,:, at
+escitalopram,.,.,Pat, patient,.],.), aspirin," "".",.},:
+divalproex sodium,.,.,.),.], aspirin,Pat,.}, patient, dispensary,"."""""
+alprazolam,.,Pat,., patient,.],.},.),ient," "".", at
+clozapine,.,.,.],Pat,.}, patient, aspirin,.),:, at
+oxcarbazepine,.,.,Pat,.],.},.), patient, aspirin,".""""",:
+citalopram,.,.,Pat,.], patient,.},.), aspirin, at," ""."
+haloperidol,.,., aspirin,.],.),.},Pat, patient, at,:
+lurasidone,.,Pat,.,.},.], patient, aspirin,.)," "".","."""""
+l-methylfolate,.,.],Pat,.,.}, patient,.), at,ient, aspirin
+carbamazepine,.,.,.},Pat, aspirin,.], at, dispensary, patient,.)
+asenapine,.,.,Pat, aspirin, patient,.),.],.},"."""""," ""."
+paliperidone,.,.,Pat,.],.}, aspirin, patient,.), at,"."""""
+quetiapine,., aspirin,.,.),:, patient," "".",Pat,".""""",.]
+lamotrigine,.,., aspirin,.],:,.),.}, patient,Pat,"."""""
+lithium,.,.,Pat, aspirin,.], patient,.},.),".""""",:
+risperidone,.,.},.,.],Pat, aspirin, patient,".""""",.), dispensary
+fluoxetine,.,.,Pat, patient,.],.),.}, aspirin,".""""", at
+olanzapine,.,Pat,.],.},., patient,.),".""""", at,ient
+buspirone,.,Pat,., patient,.],.},.), at, aspirin,"."""""
+clonazepam,.,.,Pat, patient,.),.],.}, aspirin, at," ""."
+sertraline,.,., patient, aspirin,Pat,.),.]," "".",:,.}
+aripiprazole,.,., aspirin,.],.},.),Pat, patient, dispensary,"."""""
+topiramate,.,Pat,.],.}, patient,.,ient,".""""",</s>," ""."
+diazepam,.,Pat, patient,.,.],.},.),".""""",ient, at
+lorazepam,.,Pat,., patient,.},.],.), at,"."""""," ""."
+escitalopram,.,.,.], aspirin,.}, patient,Pat,.),:,"."""""
+divalproex sodium,.,.], aspirin,.},., patient,Pat,.), dispensary,:
+alprazolam,.,.,Pat, patient,.],.),.}, at,".""""", aspirin
+clozapine,., aspirin,.,.],.},.), patient,Pat,:, dispensary
+oxcarbazepine,.,Pat,., patient,.),.},.], aspirin,"."""""," ""."
+citalopram,.,., aspirin,Pat,.), patient,.],:," "".",.}
+haloperidol,.,Pat,.},.],., patient,ient,".""""", at,.)
+lurasidone,.,.,Pat, patient,.],.},.), aspirin, at," ""."
+l-methylfolate,.,Pat,., patient,.],.},.),"."""""," "".", at
+carbamazepine,.,.,Pat,.],.}, patient,.), aspirin,:, dispensary
+asenapine,.,Pat,.,.],.}, aspirin, patient,".""""",.), dispensary
+paliperidone,.,.],.,Pat,.},".""""", patient,.), aspirin, at
+quetiapine,.,., aspirin,Pat, patient,.),.],"."""""," "".",.}
+lamotrigine,.,., aspirin,.], patient,Pat,:,.},.), at
+lithium,.,.,Pat, aspirin, patient,.),.],.}," "".",:
+risperidone,.,., patient, aspirin,Pat,.),.]," "".",.},:
+fluoxetine,.,Pat,., patient,.],.},.)," "".",".""""",ient
+olanzapine,., aspirin,Pat, drug,., dispensary, patient,.), name," ""."
+buspirone,.,Pat,.},.,.], patient,".""""",ient,.), at
+clonazepam,.,.,Pat,.], patient,.},:,.), at, aspirin
+sertraline,.,.,.], aspirin,.},.),Pat,:, patient, dispensary
+aripiprazole,.,Pat,.,.], patient,.},.), at," "".","."""""
+topiramate,.,., patient,Pat, aspirin,.),.],.},:," ""."
+diazepam,.,.,Pat, patient,.), aspirin,.],.}," "".","."""""
+lorazepam,.,Pat,.,.], patient,.},.),".""""", at, dispensary
+escitalopram,.,.,Pat, patient,.], aspirin,.},.)," "".", dispensary
+divalproex sodium,.,.],.,.},Pat, patient,.),:,".""""", at
+alprazolam,.,.,Pat,.], patient,.},.), aspirin,:, at
+clozapine,.,Pat,.],.},., patient,".""""", at,:, dispensary
+oxcarbazepine,.,., aspirin, patient,.),Pat,.],.},:," ""."
+citalopram,.,Pat,.],.,.}, patient,".""""",.),ient, at
+haloperidol,., aspirin,.,.), patient,:," "".",Pat, ().,"."""""
+lurasidone,.,Pat,.],., patient,.},.),".""""", aspirin, at
+l-methylfolate,.,Pat,., patient,.],.},.),"."""""," "".", at
+carbamazepine,.,Pat,.,.],.}, patient, aspirin,.),".""""", at
+asenapine,.,.,Pat, patient,.],.},.), aspirin,".""""", at
+paliperidone,.,.,Pat, aspirin, patient,.],.)," "".",.},:
+quetiapine,.,.,Pat, patient,.],.),.}, aspirin, at,"."""""
+lamotrigine,.,.,Pat, patient, aspirin,.),.],.},:," ""."
+lithium,.,Pat, patient,.,.],.},.),ient," "".", at
+risperidone,.,Pat, patient,.,.},.],.),".""""", at," ""."
+fluoxetine,., aspirin,.,.),:, patient," "".",.],Pat, ().
+olanzapine,.,.,Pat,.],.}, patient,.), aspirin,".""""", dispensary
+buspirone,.,.,.],Pat,.}, patient, aspirin,:,.),"."""""
+clonazepam,.,., aspirin,Pat,.],.},.), patient,".""""", dispensary
+sertraline,.,.,.], aspirin,Pat,.}, patient,.), dispensary,:
+aripiprazole,.,.,Pat,.], patient,.}, aspirin,.), at, dispensary
+topiramate,.,.,Pat,.), patient,.],.}, aspirin, at," ""."
+diazepam,.,.,.], aspirin,.}, patient,.),Pat,:, at
+lorazepam,.,.,.], aspirin,.},Pat,.),".""""", patient, dispensary
+escitalopram,.,.,Pat, patient, aspirin,.],.)," "".",:,.}
+divalproex sodium,.,., aspirin,Pat, patient,.],.},.), dispensary,:
+alprazolam,., aspirin,.,.],.},.),Pat, patient, dispensary,"."""""
+clozapine,.,.,Pat,.],.}, patient, aspirin,".""""",.)," ""."
+oxcarbazepine,.,., aspirin,Pat,.},.], patient,:,.), at
+citalopram,.,.,.],Pat,.},.), aspirin, patient, at, dispensary
+haloperidol,.,.,.],Pat,.}, patient, aspirin,.),:,"."""""
+lurasidone,.,., aspirin,.),.],:, patient,.},Pat, dispensary
+l-methylfolate,.,.,Pat,.},.], patient,".""""", at,.), aspirin
+carbamazepine,.,Pat,.],.,.}, patient,.),".""""", at, aspirin
+asenapine,., aspirin,.,.),.],.},:, dispensary, patient,"."""""
+paliperidone,.,., aspirin,Pat, patient,.),"."""""," "".",.],.}
+quetiapine,., aspirin,.,.), patient,:,Pat," "".",.],"."""""
+lamotrigine,., aspirin,.,.), patient,:," "".",Pat,".""""", name
+lithium,., aspirin,.,.), patient,:,.]," "".",Pat,"."""""
+risperidone,.,Pat,., patient,.},.],".""""",.), at," ""."
+fluoxetine,.,Pat,., patient, aspirin,.],.),.},:,"."""""
+olanzapine,.,.,Pat,.}, patient,.],.), aspirin,".""""",:
+buspirone,.,.,Pat, patient, aspirin,.],.},.),".""""", dispensary
+clonazepam,.,.,Pat,.), patient,.],.}, aspirin,"."""""," ""."
+sertraline,.,.,.},.],Pat, aspirin, patient, dispensary,.),:
+aripiprazole,.,Pat,.,.], patient,.}, at,:,.),ient
+topiramate,.,.,Pat, patient,.],.},.)," "".", at,"."""""
+diazepam,.,., aspirin,.],.},Pat,:,.), patient,"."""""
+lorazepam,.,.,Pat, aspirin, patient,.),.]," "".",.},"."""""
+escitalopram,.,Pat,., patient,.],.},.),ient, at,"."""""
+divalproex sodium,.,.,Pat, aspirin,.],.}, patient,.), at, dispensary
+alprazolam,.,.,Pat,.], aspirin,.),.}, patient,".""""", at
+clozapine,.,Pat,., patient,.},.],.),".""""", aspirin, at
+oxcarbazepine,.,.,Pat,.], patient,.},".""""",.)," "".", aspirin
+citalopram,.,., aspirin, patient,Pat,.),.]," "".",:,.}
+haloperidol,.,., aspirin,.],Pat, patient,.),.},:, dispensary
+lurasidone,.,Pat,.,.],.}, patient,.), aspirin, at,"."""""
+l-methylfolate,.,Pat,.,.], patient,.},.),:, aspirin, at
+carbamazepine,.,.,.},.],Pat, patient,.), aspirin,".""""", at
+asenapine,.,Pat,.,.], patient,.},.),ient,".""""", at
+paliperidone,.,Pat,., patient,.],.},.),"."""""," "".", at
+quetiapine,.,.],.,.},Pat, aspirin, patient,".""""", dispensary,.)
+lamotrigine,.,., aspirin,.},Pat,.], patient,.),".""""", dispensary
+lithium,.,., aspirin, patient,.],Pat,.},:,.), dispensary
+risperidone,.,.,Pat,.], patient,.},.), aspirin,:,"."""""
+fluoxetine,.,Pat,., patient,.], aspirin," "".",.),.},:
+olanzapine,.,., aspirin, patient,.),.],Pat,:," "".",.}
+buspirone,.,Pat,.},.,.], patient,.), at,"."""""," ""."
+clonazepam,.,., aspirin,.),Pat,.], patient,.},".""""", dispensary
+sertraline,.,.,Pat,.],.), patient,.}, aspirin," "".","."""""
+aripiprazole,.,., aspirin,.),Pat, patient,:,.]," "".","."""""
+topiramate,.,.,.], aspirin,.},Pat,.), patient, dispensary,:
+diazepam,.,.,.],Pat,.}, patient, aspirin,.), at, dispensary
+lorazepam,.,Pat,., patient,.],.},.), aspirin, at," ""."
+escitalopram,.,Pat,.,.],.}, patient,.),ient, at,"."""""
+divalproex sodium,.,.,Pat, patient,.],.},.), aspirin,"."""""," ""."
+alprazolam,.,Pat,.],.,.}, patient,.),".""""", at,ient
+clozapine,.,Pat,.,.], patient,.},.), at,ient, '.
+oxcarbazepine,.,.,Pat, aspirin, patient,.],.),.},:, dispensary
+citalopram,.,.,Pat,.), aspirin,.], patient,.}," "".",:
+haloperidol,.,Pat,., patient,.],.),.}, aspirin,".""""",:
+lurasidone,.,.],.},.,Pat,.), patient,:, at,"."""""
+l-methylfolate,.,.,Pat, patient,.), aspirin,.]," "".",".""""",.}
+carbamazepine,.,.,.],.}, aspirin,Pat,.), patient,".""""", dispensary
+asenapine,.,.,Pat,.], aspirin, patient,.},.), at,:
+paliperidone,.,Pat,., patient,.},.],.),".""""", at," ""."
+triamcinolone,.,Pat,.],., patient,.},.)," "".", '., at
+triamcinolone,.,Pat, patient,.,.],.},".""""", at,.),ient
+quetiapine,.,., aspirin,.],:,Pat,.),.}, patient, dispensary
+lamotrigine,.,.,Pat,.],.}, patient, aspirin,.), at,:
+lithium,., aspirin,., patient,.),:,Pat," "".",.],"."""""
+risperidone,.,.,.],.}, aspirin,Pat,.), patient, dispensary,:
+fluoxetine,.,Pat,.,.],.}, patient, aspirin,".""""",.), at
+olanzapine,.,.,Pat,.], aspirin,.}, patient,.), at,"."""""
+buspirone,.,., aspirin,.],.), patient,:,.}, at,Pat
+clonazepam,.,., patient, aspirin,Pat,.),.]," "".",".""""",:
+sertraline,.,.,Pat,.], patient,.},.), at,".""""", aspirin
+aripiprazole,.,., aspirin, patient,Pat," "".",.),.],:,"."""""
+topiramate,.,.], aspirin,.},.,Pat, patient, dispensary,.), at
+diazepam,.,.,Pat,.], patient,.),.}," "".", aspirin,"."""""
+lorazepam,.,.,Pat,.], aspirin, patient,.}," "".",.),"."""""
+escitalopram,.,Pat,.],.,.}, patient,.), at, aspirin,"."""""
+divalproex sodium,.,.,.],Pat,.},.), aspirin, dispensary,".""""", patient
+alprazolam,.,.,.],Pat,.}, patient, aspirin,.),".""""",:
+clozapine,.,.},.],Pat,., patient,.), at,ient,"."""""
+oxcarbazepine,.,Pat,.],.}, patient,.,ient, at,".""""",.)
+citalopram,.,.,.],.},Pat, patient,.),".""""", aspirin, at
+haloperidol,.,.,.},.], aspirin,.),Pat, patient,:, at
+lurasidone,.,., aspirin,.), patient,:,Pat," "".",.], ().
+l-methylfolate,.,Pat,., patient,.],.},.), at," "".","."""""
+carbamazepine,.,.,Pat, aspirin, patient,.)," "".",.],:,"."""""
+asenapine,.,.,Pat,.], patient,.}, aspirin,.),".""""", at
+paliperidone,., aspirin,.,.], dispensary,.},".""""",Pat,.),:
+atorvastatin,.,Pat,., patient,.],.},.), aspirin,".""""", at
+simvastatin,.,Pat,.,.],.}, patient,".""""", at,.),ient
+pravastatin,.,Pat,., patient,.],.},".""""", aspirin,.), at
+rosuvastatin,.,.,Pat,.], patient,.),.}, at,"."""""," ""."
+lovastatin,.,.,Pat, patient,.),.], aspirin,.},:," ""."
+ezetimibe,.,Pat, patient,.,.],.),.},ient," "".",</s>
+gemfibrozil,.,.,Pat, aspirin, patient,.],.),.},:," ""."
+niacin,.,Pat,.],.},., patient,".""""",.)," "".", at
+ezetimibe AND simvastatin,.,Pat,.,.],.},.), patient, aspirin,".""""", dispensary
+fenofibric acid,.,., aspirin,.],.},Pat, patient,.), dispensary,:
+ketoconazole,.,Pat,.],.,.}, patient,".""""",.), aspirin,:
+terbinafine,.,Pat,.,.], patient,.},.), aspirin,".""""", at
+ketoconazole,., aspirin,.,Pat,.), patient," "".",".""""",:, dispensary
+terbinafine,., aspirin,.,.),:," "".", ()., patient,".""""", (.
+terbinafine,.,.,Pat, patient,.],.},.), aspirin,"."""""," ""."
+terbinafine,., aspirin,.,.), patient,:," "".",.],Pat,"."""""
+terbinafine,.,.,Pat, aspirin,.], patient,.}, dispensary,".""""",.)
+terbinafine,.,., aspirin,.],Pat,.),.}, patient,:, dispensary
+meloxicam,.,Pat,.,.},.], patient,.), at,".""""", aspirin
+diclofenac,.,.],.},Pat,., patient,.),".""""",:," ""."
+naproxen,., aspirin,., patient,.),Pat," "".",:, ()., name
+ibuprofen,.,Pat,.],.},., patient,ient, at,".""""",.)
+celecoxib,.,.,Pat, patient,.],.},.), at, aspirin,:
+chondroitin AND glucosamine,.,Pat,.], patient,.},.,ient, at,.)," ""."
+diclofenac,.,.,Pat, patient, aspirin,.),.],.}," "".","."""""
+etodolac,.,., aspirin,.],.),:,.},Pat, patient, dispensary
+prednisone,.,Pat,.,.}, patient,.],.),".""""", at, aspirin
+aspirin,.,.,.],.},Pat, aspirin,.), patient,:,"."""""
+nabumetone,.,.,Pat,.},.], patient,.),".""""", aspirin, at
+duloxetine,.,.,Pat,.], patient,.},.), aspirin,"."""""," ""."
+triamcinolone,.,Pat,., patient,.],.},.),"."""""," "".", aspirin
+triamcinolone,.,Pat,.},.],., patient,.),ient," "".","."""""
+aspirin,.,.,.],Pat, patient,.}, aspirin,.), at,"."""""
+nitroglycerin,.,., aspirin,.],.),Pat, patient,.},:,"."""""
+metoprolol,.,.,.],Pat,.}, patient,.), aspirin, at,"."""""
+amlodipine,.,Pat, patient,.,.],.},".""""",.), at," ""."
+isosorbide mononitrate,.,.,Pat,.],.), patient,.}, aspirin, at," ""."
+isosorbide dinitrate,.,Pat,.},.,.], patient,".""""",.), at,ient
+enoxaparin,.,Pat,., patient,.],.},.),".""""", at," ""."
+ranolazine,., aspirin,.,.), patient,:," "".",.],Pat,.}
+atenolol,.,., aspirin,.],.},Pat, patient,.), dispensary,"."""""
+carvedilol,.,.,.},.],Pat, patient,.),".""""", at," ""."
+amlodipine AND atorvastatin,.,Pat,., patient,.],.},.), aspirin,"."""""," ""."
+atorvastatin,.,.,.},.], aspirin,Pat,.),".""""", patient,:
+simvastatin,.,.,Pat,.],.}, patient, aspirin,.),:, at
+pravastatin,.,Pat,.,.], patient,.}, at, aspirin,.),ient
+rosuvastatin,.,., aspirin,.],.),.},Pat, patient,".""""", at
+lovastatin,.,Pat,., patient,.],.},.)," "".",".""""", at
+ezetimibe,.,Pat,.,.], patient,.},.), aspirin, at,"."""""
+gemfibrozil,.,., aspirin,.], patient,.),.},Pat,:," ""."
+niacin,.,.,Pat,.],.},.), patient, aspirin, at," ""."
+ezetimibe AND simvastatin,.,Pat,.],.,.}, patient,.),".""""", at, aspirin
+fenofibric acid,.,.,Pat, aspirin, patient,.],.),.}," "".",:
+cyclophosphamide,.,Pat,., patient,.],.},.),"."""""," "".", aspirin
+vincristine,.,Pat,.],.,.}, patient,.), aspirin, at,"."""""
+rituximab,., aspirin,.,.), patient,:,.]," "".",Pat, ().
+methotrexate,.,.,Pat,.],.},.), patient, aspirin,".""""", at
+bendamustine,.,.,Pat, patient,.],.},.), aspirin,"."""""," ""."
+cytarabine,.,., aspirin,Pat, patient,.],.},.), at,"."""""
+fludarabine,.,Pat, patient,.,.],.},.),ient, at,"."""""
+bleomycin,.,.,Pat, aspirin,.], patient,.},.),".""""",:
+carmustine,.,.,Pat,.],.}, patient, aspirin, dispensary,.),"."""""
+idelalisib,.,Pat,.],.},., patient,ient, at,*., '.
+ibritumomab,.,Pat,., patient,.],.},.)," "".", aspirin,"."""""
+ibrutinib,.,.,Pat,.], patient,.),.}, aspirin," "".",:
+mitoxantrone,.,., aspirin,.],.},.),Pat, patient,:, dispensary
+lamivudine,.,.,Pat, patient,.], aspirin,.),:,.}, at
+efavirenz AND emtricitabine AND tenofovir,.,., aspirin,.],.),.},:, patient,Pat, at
+ritonavir,.,., aspirin, patient,Pat,.),.],:,.}," ""."
+emtricitabine AND tenofovir,.,Pat,., patient,.],.),.}," "".", aspirin,"."""""
+tenofovir,.,.,Pat, patient,.),.],.}, aspirin,"."""""," ""."
+abacavir,.,., aspirin,Pat, patient,.),:," "".",.],"."""""
+lamivudine,.,Pat,., patient,.],.},.),"."""""," "".", at
+efavirenz AND emtricitabine AND tenofovir,.,Pat,., patient,.},.],.), aspirin,".""""", at
+ritonavir,.,.,.],Pat,.}, aspirin, patient,".""""",.)," ""."
+emtricitabine AND tenofovir,.,.,Pat,.],.}, patient, aspirin,.),".""""", at
+tenofovir,.,Pat,.,.], patient,.},.)," "".",:, aspirin
+abacavir,.,Pat, patient,.,.],.},ient,.),".""""", at
+lamivudine,.,.],.,.},Pat, patient,.), aspirin, at,"."""""
+efavirenz AND emtricitabine AND tenofovir,.,.,.],Pat,.}, patient,.),:, aspirin, at
+ritonavir,., aspirin,.,:,.), patient," "".", ().,".""",.]
+emtricitabine AND tenofovir,., aspirin,.,Pat, patient,.)," "".",:,.],"."""""
+tenofovir,.,.,Pat, patient,.],.},.),".""""", aspirin," ""."
+abacavir,.,., aspirin,.), patient,:,Pat," "".",.], name
+lamivudine,.,.,Pat,.], patient,.},.), aspirin,:,"."""""
+efavirenz AND emtricitabine AND tenofovir,.,.],.},.,Pat, aspirin, dispensary,".""""", at, patient
+ritonavir,.,Pat,., patient, aspirin,.),.],.},"."""""," ""."
+emtricitabine AND tenofovir,.,.,.],Pat,.}, patient, aspirin,.), at,:
+tenofovir,.,.,.],.},Pat, aspirin, patient,.),".""""", at
+abacavir,.,Pat, patient,.,.],.},.), aspirin, at,"."""""
+lamivudine,.,., aspirin,.],Pat,.}, patient,.), dispensary,"."""""
+efavirenz AND emtricitabine AND tenofovir,.,., patient,Pat,.],.},.), aspirin, at,"."""""
+ritonavir,.,.],.},.,Pat,.), patient, at,".""""", aspirin
+emtricitabine AND tenofovir,.,Pat,.,.},.], patient, aspirin,".""""",.), at
+tenofovir,.,.,.],Pat,.},.), patient, aspirin, at,:
+abacavir,.,Pat,.,.],.}, patient, aspirin,.),".""""", at
+lamivudine,.,Pat,., patient,.],.),.},ient, at, aspirin
+efavirenz AND emtricitabine AND tenofovir,.,.,Pat, patient,.),.], aspirin,.}," "".",:
+ritonavir,.,., aspirin,.],.},:,.), patient, dispensary,Pat
+emtricitabine AND tenofovir,.,Pat, patient,.,.},.],.),"."""""," "".",ient
+tenofovir,.,., aspirin,.],Pat,.},.), patient, dispensary,"."""""
+abacavir,.,.,Pat, patient,.],.},.), at,".""""", aspirin
+atorvastatin,.,Pat,.,.],.}, patient,.), at,".""""",:
+simvastatin,.,.,Pat, aspirin, patient,.),"."""""," "".",.],.}
+pravastatin,.,.,Pat, aspirin,.],.}, patient,.),".""""", dispensary
+rosuvastatin,.,Pat,.,.),.], patient,.},".""""", aspirin, at
+lovastatin,.,., aspirin,.],.},.),Pat, patient, dispensary,"."""""
+ezetimibe,.,.,.],.},Pat, aspirin,.), patient,".""""", dispensary
+gemfibrozil,.,.,Pat,.],.}, patient,.), aspirin, at,"."""""
+niacin,., aspirin,.,:,.), patient," "".", ().,.],"."""""
+ezetimibe AND simvastatin,.,.,Pat, aspirin, patient,.)," "".",".""""",.],"."""
+fenofibric acid,.,Pat, patient,.,.],.},.),ient," "".", '.
+atorvastatin,.,., aspirin,Pat, patient,.),.],.}," "".",:
+simvastatin,.,., aspirin,Pat,.), patient," "".",.], '.,:
+pravastatin,., aspirin,.,.},.],.),Pat, patient, dispensary,"."""""
+rosuvastatin,.,., patient,Pat,.],.),.}, aspirin, at," ""."
+lovastatin,.,Pat,., patient,.],.},.), aspirin," "".","."""""
+ezetimibe,.,.,.],Pat,.},.), patient, aspirin,:, at
+gemfibrozil,.,.,Pat, patient, aspirin,.),.]," "".",.},"."""""
+niacin,.,., aspirin,.],.),Pat, patient,.},:, dispensary
+ezetimibe AND simvastatin,.,.,Pat, patient,.],.}, aspirin,.),".""""", at
+fenofibric acid,.,.,.], aspirin, patient,.},.),Pat,:," ""."
+atorvastatin,., aspirin,.,:,.), patient," "".", name, ()., dispensary
+simvastatin,., aspirin,.,.),Pat, patient,.],:," "".", dispensary
+pravastatin,.,.,Pat, patient,.), aspirin,.],.}," "".","."""""
+rosuvastatin,.,Pat,.],.},., patient,.),".""""", at, aspirin
+lovastatin,.,.,Pat,.], patient,.},.), aspirin,".""""", at
+ezetimibe,.,Pat,.,.],.}, patient, aspirin,.), dispensary,"."""""
+gemfibrozil,.,.},Pat,.],.,.), patient,".""""",ient," ""."
+niacin,.,., aspirin, patient,Pat,.),.],.},:," ""."
+ezetimibe AND simvastatin,., aspirin,.,.),:, patient, ().," "".",.], name
+fenofibric acid,.,Pat,.,.],.}, patient,.),".""""",ient,:
+meloxicam,.,.,.],.), patient,.},Pat, aspirin,:," ""."
+diclofenac,., aspirin,.,.),:, patient, ().," "".",.],"."""""
+naproxen,.,.],.},.,Pat,.), at,".""""", patient,:
+ibuprofen,.,.,Pat,.], aspirin,.), patient,.}, dispensary," ""."
+celecoxib,.,Pat,.,.],.}, patient,.), at,ient,"."""""
+chondroitin AND glucosamine,.,Pat,.,.],.},.), patient,".""""", aspirin, at
+diclofenac,.,.,Pat, patient,.],.), aspirin,.},".""""", at
+etodolac,.,.,Pat, patient,.),.], aspirin," "".",.},"."""""
+prednisone,.,.,.], aspirin, patient,Pat,.},.),:, dispensary
+aspirin,.,Pat,., patient,.},.],.), at,".""""",ient
+nabumetone,.,.,Pat,.], patient,.}, aspirin,.), at,:
+duloxetine,.,.,Pat, patient,.), aspirin,.],.},"."""""," ""."
+modafinil,.,Pat,., patient,.],.), aspirin,.}," "".","."""""
+duloxetine,.,Pat,., patient,.],.},.),ient, at,"."""""
+lisdexamfetamine,.,.,.},.],Pat, patient, aspirin,".""""",.),:
+amantadine,.,.,.}, aspirin,.],Pat,.), patient,".""""", dispensary
+armodafinil,.,Pat,.],.},., patient,".""""", aspirin,.), at
+ibuprofen,., aspirin,.,.),:, patient," "".", ().,.],Pat
+naproxen,.,.,Pat,.],.}, patient,.), aspirin,".""""", at
+acetaminophen,.,Pat,.],.,.}, patient,".""""",:, at,.)
+diclofenac,.,Pat,.,.], patient,.},.)," "".",ient, at
+nabumetone,.,Pat,., patient,.),.]," "".", aspirin,.}, at
+quetiapine,.,Pat,.,.],.}, patient,.),".""""", at, aspirin
+lamotrigine,.,.,Pat,.},.], aspirin, patient,.),".""""", dispensary
+lithium,.,.,.], aspirin,Pat,.}, patient,.),:, at
+risperidone,.,Pat,.,.], patient,.},.),ient, '.," ""."
+fluoxetine,.,.,Pat, patient,.],.),.}, aspirin,"."""""," ""."
+olanzapine,.,Pat,.},.],., patient, aspirin,:,.),"."""""
+buspirone,.,Pat,., patient,.],.),.}," "".", aspirin,"."""""
+clonazepam,.,Pat,., patient,.],.},.), aspirin,"."""""," ""."
+sertraline,.,.,Pat, patient, aspirin,.],.),.}," "".","."""""
+aripiprazole,.,Pat,., patient,.],.},.), at," "".", aspirin
+topiramate,.,Pat,.,.},.], patient,.), aspirin,"."""""," ""."
+diazepam,., aspirin,.,:, patient,Pat,.)," "".",.], name
+lorazepam,.,Pat,.],.},., patient, aspirin, at,".""""", dispensary
+escitalopram,.,., patient,Pat,.], aspirin,.),.},:," ""."
+divalproex sodium,.,.},.,.], aspirin,.),Pat,".""""", patient,:
+alprazolam,.,Pat,.,.],.}, patient,.), aspirin,".""""",:
+clozapine,.,Pat,.,.],.}, patient,.), at,".""""", aspirin
+oxcarbazepine,., aspirin,.,:,.), patient, ().," "".", (.,Pat
+citalopram,.,Pat,.,.], patient,.},.),".""""", aspirin, at
+haloperidol,.,., aspirin,.),.],Pat,.}, patient,".""""", at
+lurasidone,., aspirin,.,Pat, patient,.)," "".",".""""",.], dispensary
+l-methylfolate,.,Pat, patient,.,.],.},ient, at,".""""",.)
+carbamazepine,.,.,Pat,.], patient,.},.), at," "".","."""""
+asenapine,.,Pat,., patient,.],.},"."""""," "".",.), at
+paliperidone,.,Pat,.,.],.}, patient,.),".""""", aspirin, dispensary
+ketoconazole,.,Pat,.,.], patient,.},.), at,"."""""," ""."
+terbinafine,.,Pat, patient,.,.],.},.)," "".",ient,"."""""
+ketoconazole,.,Pat,., patient,.],.},.), aspirin,".""""", at
+terbinafine,., aspirin,.,.),.],.},:,Pat, patient,"."""""
+terbinafine,.,.,Pat, patient,.),.], aspirin,.}," "".","."""""
+terbinafine,.,.,.], patient,Pat,.},:, aspirin, at,.)
+terbinafine,.,., aspirin,Pat, patient,.),.],.},"."""""," ""."
+terbinafine,.,.,.], aspirin,Pat,.},.), patient,"."""""," ""."
+ibuprofen,.,Pat,.,.], patient,.}, at,.), aspirin,"."""""
+naproxen,.,Pat,.,.], patient,.}, aspirin,.), dispensary,"."""""
+acetaminophen,.,.,Pat, patient,.],.),.},".""""", aspirin," ""."
+diclofenac,.,.,Pat,.],.}, aspirin,".""""", patient,.), at
+nabumetone,., aspirin,.],.,Pat,.},.),".""""", patient, at
+ibuprofen,.,Pat,., patient,.],.},.), at," "".", aspirin
+naproxen,.,Pat,., patient,.], aspirin,.),.},:," ""."
+acetaminophen,.,., patient,Pat,.},.], aspirin,.),"."""""," ""."
+diclofenac,.,.,Pat, patient,.],.),.}, aspirin, at,:
+nabumetone,.,Pat,.],.}, patient,.,ient,.), at,"."""""
+ibuprofen,.,.,Pat, aspirin,.],.),.}, patient,".""""", dispensary
+naproxen,., aspirin,.,.),.], patient,.}, dispensary,Pat,:
+acetaminophen,.,.,Pat, patient,.},.],.), aspirin," "".","."""""
+diclofenac,.,., aspirin,.],.),.},Pat,:, patient, dispensary
+nabumetone,.,.,Pat, aspirin, patient,.),.],.},".""""", dispensary
+triamcinolone,.,.,Pat,.},.], patient, aspirin,.),".""""", dispensary
+triamcinolone,.,.,Pat,.], patient,.}, aspirin,.)," "".",:
+quetiapine,.,.,.],Pat,.}, patient,.), aspirin,:, at
+lamotrigine,., aspirin,.,.), patient,Pat," "".",:,".""""", ().
+lithium,., aspirin,.,Pat, patient,.),.],.},".""""", dispensary
+risperidone,.,Pat,.],.},., patient,ient,".""""", at,.)
+fluoxetine,.,Pat,.},.],.,".""""", patient,ient, at,.)
+olanzapine,.,Pat, patient,.,.],.}, aspirin,.),".""""", at
+buspirone,.,.,.], aspirin,.},.),Pat, patient,"."""""," ""."
+clonazepam,., aspirin,.,Pat,.], patient,.},.),]:,:
+sertraline,.,.],.,.}, aspirin,Pat, patient,.),:, dispensary
+aripiprazole,.,.,.],.},Pat, patient, aspirin, at,.),:
+topiramate,.,Pat,., patient,.],.},".""""",.), at," ""."
+diazepam,.,Pat,.,.],.}, patient,.), aspirin,:,"."""""
+lorazepam,.,., aspirin, patient,.),Pat," "".",:,.],"."""""
+escitalopram,.,.,Pat, patient,.), aspirin,.},.],"."""""," ""."
+divalproex sodium,.,.,.], aspirin,Pat, patient,:,.},.), dispensary
+alprazolam,.,.,Pat,.], patient,.}, aspirin,.)," "".",:
+clozapine,.,.],Pat,.,.}, patient,.),"."""""," "".", at
+oxcarbazepine,.,.,Pat,.], patient,.},.), aspirin," "".", at
+citalopram,.,.,Pat,.], patient,.}, aspirin,.),".""""", at
+haloperidol,.,.,Pat, patient,.],.),.}," "".", aspirin,:
+lurasidone,.,Pat,., patient,.],.),.}, aspirin," "".","."""""
+l-methylfolate,.,.,Pat,.],.}, patient, aspirin,.),:, dispensary
+carbamazepine,.,.],.,.}, patient,Pat, aspirin,.), at,:
+asenapine,.,.],Pat,.,.}, patient,.), aspirin, dispensary, at
+paliperidone,.,.,Pat, patient,.],.},.), aspirin,".""""", at
+collagenase,.,., aspirin,.],.},Pat,.), patient,".""""", dispensary
+becaplermin,.,.,.],.},Pat, aspirin, patient,.), dispensary,"."""""
+cadexomer iodine,.,.,Pat,.],.}, patient, aspirin,".""""",.),:
+terbinafine,.,., aspirin,.],.},.),Pat, patient,".""""", at
+terbinafine,.,.,Pat, patient, aspirin,.],.)," "".",.},"."""""
+meloxicam,.,Pat,., patient,.],.),.}," "".", aspirin,"."""""
+diclofenac,., aspirin,.,.), patient,:," "".",".""""",Pat, dispensary
+naproxen,.,.,Pat, patient,.],.},.),".""""", aspirin, at
+ibuprofen,.,Pat,.,.],.}, patient,.),".""""", aspirin,ient
+celecoxib,.,.,Pat,.],.}, patient, aspirin,.), at,:
+chondroitin AND glucosamine,.,Pat, patient,.],.,.},ient,".""""",.)," ""."
+diclofenac,.,Pat, patient,.,.],.},ient," "".", at,.)
+etodolac,.,., aspirin,.],.},Pat,.), patient, dispensary,:
+prednisone,.,.,Pat, patient,.],.},.)," "".",:,"."""""
+aspirin,.,.,Pat,.), patient,.], aspirin,.}," "".", at
+nabumetone,.,Pat,.},.], aspirin,., dispensary,".""""", patient,.)
+duloxetine,.,.,Pat,.},.], patient,.), aspirin, at,"."""""
+cytarabine,.,.,.],.}, aspirin,Pat,:, dispensary, patient, at
+vincristine,.,.,.],Pat,.}, patient, aspirin,:,.),"."""""
+daunorubicin,.,.,.], patient,.},Pat, aspirin,.), at,:
+idarubicin,.,.,Pat, aspirin, patient,.),.],"."""""," "".",.}
+decitabine,.,., aspirin,Pat, patient,.],.),.}," "".","."""""
+gemtuzumab,.,Pat,., patient,.],.),.}, aspirin, at,:
+midostaurin,.,Pat,.,.],.}, patient,.),".""""", at, aspirin
+venetoclax,.,.,Pat, patient, aspirin,.),.],.}," "".", at
+enasidenib,., aspirin,.,.],Pat,.},.), patient,"."""""," ""."
+cytarabine liposomal AND daunorubicin liposomal,.,.,.],Pat,.}, patient,:, aspirin,.), at
+ivosidenib,.,.,Pat,.],.}, aspirin,".""""", patient,.), at
+gilteritinib,.,., aspirin, patient,Pat,.],.},.),:," ""."
+glasdegib,.,Pat,., patient,.],.},.), at,"."""""," ""."
+cytarabine,., aspirin,.,:,.), patient, ().," "".",.], lithium
+vincristine,.,Pat, patient,.,.],.},.),ient," "".", at
+daunorubicin,.,Pat,., patient, aspirin,.],.}," "".",".""""",.)
+idarubicin,.,.,.],Pat,.}, patient, aspirin,.),:, at
+decitabine,.,.,.],Pat,.}, patient,.), aspirin,:, at
+gemtuzumab,.,.,.], aspirin,.},Pat,.), patient,:,"."""""
+midostaurin,.,.,Pat, patient,.), aspirin,.]," "".",.},"."""""
+venetoclax,.,Pat,.,.], patient,.),.}, aspirin,:, at
+enasidenib,.,., aspirin,.},Pat,.],.), patient,".""""", dispensary
+cytarabine liposomal AND daunorubicin liposomal,.,Pat,., patient,.],.}," "".",.),:, aspirin
+ivosidenib,.,.,Pat,.],.}, aspirin, patient,.),".""""", at
+gilteritinib,., aspirin,.,.),:, patient," "".", ().,".""""","."""
+glasdegib,.,Pat, patient,.,.],.},.), at,"."""""," ""."
+cytarabine,.,.],.},Pat,., patient,.), at,:, aspirin
+vincristine,.,Pat,., patient,.],.},.),"."""""," "".",ient
+daunorubicin,.,.,Pat, patient,.],.},.), aspirin,:, at
+idarubicin,.,.,Pat, patient,.],.},.),".""""", aspirin, at
+decitabine,., aspirin,.,Pat,.},.], patient,.), dispensary,"."""""
+gemtuzumab,.,.,Pat, patient, aspirin,.],.),.},:," ""."
+midostaurin,.,., aspirin,.),Pat, patient,.],.}," "".","."""""
+venetoclax,., aspirin,.,.],.},.), dispensary, patient,Pat,"."""""
+enasidenib,.,Pat,., patient,.],.},.),ient, at,"."""""
+cytarabine liposomal AND daunorubicin liposomal,.,Pat,.,.],.}, patient,.), at,".""""",:
+ivosidenib,.,Pat,., patient,.},.], aspirin,.),".""""", at
+gilteritinib,.,.,.],.},Pat, aspirin, patient,.),".""""", dispensary
+glasdegib,.,.,Pat, patient,.],.},.), aspirin,".""""", at
+atorvastatin,.,Pat,., patient,.],.},.), aspirin, at,"."""""
+simvastatin,.,., patient,Pat,.],.},.), at, aspirin," ""."
+pravastatin,.,., aspirin,.),Pat,.],.}, patient,".""""", dispensary
+rosuvastatin,.,.,.],Pat,.}, patient, aspirin,:,.), at
+lovastatin,.,.,Pat, patient,.],.},.)," "".",".""""", aspirin
+ezetimibe,.,.,Pat,.], patient, aspirin,.),.}, at,"."""""
+gemfibrozil,.,.,.],.}, aspirin,Pat,:, patient,".""""", dispensary
+niacin,., aspirin,.],.,.}, dispensary,Pat,.),:,]:
+ezetimibe AND simvastatin,.,., aspirin,.], patient,.},.),:,Pat, at
+fenofibric acid,.,Pat,.}, patient,.,.],.), at," "".","."""""
+cyclophosphamide,., aspirin,.,.],Pat, patient,.},.), dispensary,:
+vincristine,.,Pat,., patient,.],.),.}, aspirin, at," ""."
+rituximab,.,.,.], aspirin,.},Pat, patient,:,.), dispensary
+methotrexate,.,.,.),Pat, aspirin,.], patient,.},"."""""," ""."
+bendamustine,.,Pat,.},.],., patient,ient,".""""", at,:
+cytarabine,.,Pat,.,.], patient,.},.),"."""""," "".", at
+fludarabine,.,Pat,.,.],.}, patient,.), at," "".","."""""
+bleomycin,.,Pat,.], patient,.},.,.), aspirin,ient," ""."
+carmustine,.,Pat,., patient,.},.],.), aspirin,".""""", at
+idelalisib,., aspirin,.,.), patient,:," "".", ().,".""""",Pat
+ibritumomab,.,., aspirin,Pat,.],.),.},".""""", dispensary, patient
+ibrutinib,.,.,Pat,.], patient,.},.), aspirin, at," ""."
+mitoxantrone,.,.,Pat,.},.], patient,.), aspirin,".""""", at
+cyclophosphamide,.,Pat,.],.},., patient,ient, at,.),"."""""
+vincristine,.,Pat, patient,.],.,.},.),ient,".""""", at
+rituximab,.,.,Pat, aspirin, patient,.],.)," "".",.},"."""""
+methotrexate,., aspirin,., patient,.),:,Pat," "".",.],"."""""
+bendamustine,.,Pat,.,.],.}, patient,.), at,".""""", aspirin
+cytarabine,.,., aspirin,.), patient,:,Pat," "".",.], ().
+fludarabine,.,Pat,.,.},.], patient,.), at, aspirin,"."""""
+bleomycin,.,.,Pat, aspirin,.],.}, patient,.),".""""", dispensary
+carmustine,.,.,.],Pat,.}, patient,.), aspirin, at,:
+idelalisib,.,., aspirin,.],.},Pat,.), patient,:, dispensary
+ibritumomab,.,Pat,., patient,.],.}, aspirin,.)," "".","."""""
+ibrutinib,.,., aspirin, patient,.),Pat,.],.},:," ""."
+mitoxantrone,.,., aspirin, patient,Pat,.],.},.),:, at
+cyclophosphamide,.,., aspirin,.],Pat,.}, patient,:,.), dispensary
+vincristine,.,.],.,Pat,.}, patient, aspirin,:, dispensary,"."""""
+rituximab,.,Pat,.], patient,.},.,ient,.),".""""", at
+methotrexate,.,., aspirin, patient,Pat,.),.},.]," "".", at
+bendamustine,.,.,Pat, aspirin, patient,.),"."""""," "".", '.,.]
+cytarabine,.,.},.],.,Pat,.), patient, aspirin, at,"."""""
+fludarabine,.,Pat,.,.], patient,.}, aspirin,.),".""""",:
+bleomycin,.,., aspirin,Pat,.],.},.), patient,:,"."""""
+carmustine,.,Pat,., patient,.],.},.),ient, at," ""."
+idelalisib,.,Pat,., patient,.},.],.), aspirin, at,:
+ibritumomab,.,.,Pat, patient,.), aspirin,.]," "".",.},:
+ibrutinib,.,Pat,., patient,.],.},.),ient, at," ""."
+mitoxantrone,.,.,Pat,.],.}, patient,.), aspirin,:, at
+cyclophosphamide,.,.,Pat, patient,.},.], aspirin,.),".""""", at
+vincristine,.,.,Pat,.], patient,.}, aspirin,.),:, at
+rituximab,.,.],.,Pat,.}, aspirin, patient,.),:, at
+methotrexate,.,.,Pat,.], patient,.}, aspirin,.),:," ""."
+bendamustine,.,Pat,.,.], patient,.},.), at, '.," ""."
+cytarabine,.,.,.],Pat,.}, patient,.), aspirin,:, at
+fludarabine,.,.],Pat,.},., patient, aspirin, at,.),"."""""
+bleomycin,.,.,Pat, patient, aspirin,.),.],.}," "".","."""""
+carmustine,.,Pat,., patient,.},.],.), aspirin, at,"."""""
+idelalisib,.,., aspirin,Pat, patient,.),.],.},".""""",:
+ibritumomab,.,.,Pat, patient,.],.),.}, aspirin,:, at
+ibrutinib,.,.,.],.}, aspirin,.), patient,Pat,:, at
+mitoxantrone,.,Pat,., patient,.],.},.)," "".", aspirin, at
+cyclophosphamide,.,Pat,.], patient,.,.}, aspirin,.),ient," ""."
+vincristine,.,.,Pat, patient, aspirin,.],.),.}," "".","."""""
+rituximab,.,.,Pat,.], aspirin,.},.), patient,".""""", dispensary
+methotrexate,.,., aspirin,.],.},.),Pat, patient, dispensary,"."""""
+bendamustine,., aspirin,.,.],.},Pat,.), patient, at, dispensary
+cytarabine,.,Pat,.,.},.], patient, aspirin,".""""",.), dispensary
+fludarabine,.,.,Pat, patient,.],.),.}, aspirin," "".","."""""
+bleomycin,.,Pat, patient,.,.],.},.),"."""""," "".",ient
+carmustine,., aspirin,.,.],.),.},:,".""""", dispensary, at
+idelalisib,.,.,Pat,.],.},.), patient, aspirin,"."""""," ""."
+ibritumomab,.,.,Pat,.],.},.), aspirin, patient,:,"."""""
+ibrutinib,.,Pat,., patient,.],.},.), at,"."""""," ""."
+mitoxantrone,., aspirin,.,.},.],.), dispensary,:, patient,"."""""
+cyclophosphamide,.,Pat,.,.], patient,.},.), aspirin,"."""""," ""."
+vincristine,.,Pat,., patient,.],.},.), aspirin,".""""", at
+rituximab,.,.,.], aspirin,.),Pat,.}, patient,:, at
+methotrexate,.,., patient,Pat, aspirin,.)," "".",.],".""""",:
+bendamustine,.,.,Pat, patient,.],.},.), aspirin,"."""""," ""."
+cytarabine,.,.,Pat,.], patient,.}, aspirin,.),:, at
+fludarabine,.,Pat,., patient,.},.],.),".""""", aspirin," ""."
+bleomycin,.,., aspirin,Pat,.), patient,".""""",.],.}," ""."
+carmustine,.,., aspirin,.},.],Pat,.), patient,".""""", dispensary
+idelalisib,.,.,Pat, patient, aspirin,.],.),.},".""""", at
+ibritumomab,.,.,Pat,.},.], patient, aspirin,:,.),"."""""
+ibrutinib,.,.,.],Pat,.},.), aspirin, patient,".""""", dispensary
+mitoxantrone,., aspirin,.,:,.), patient," "".", ()., name, lithium
+dexamethasone,.,.,.), aspirin,Pat,.], patient,.},:, at
+thalidomide,.,.,.],Pat, aspirin,.}, patient,.),".""""",:
+cyclophosphamide,.,Pat,.,.],.}, patient,.),".""""",:," ""."
+lenalidomide,.,.,.],.}, aspirin,.),Pat, patient,".""""", dispensary
+bortezomib,.,Pat,.,.], patient,.},.), at," "".","."""""
+carfilzomib,.,.,Pat,.],.}, patient, aspirin,".""""",:, at
+pomalidomide,.,Pat,.],.},.,.),".""""", patient, at," ""."
+daratumumab,.,Pat,.],., patient,.}, aspirin,.),:, dispensary
+melphalan,., aspirin,.,.),:, patient," "".",Pat, ().,"."""
+modafinil,.,Pat,., patient,.),.],.}, aspirin, at," ""."
+duloxetine,.,Pat,.},.],., patient,.),".""""", aspirin, dispensary
+lisdexamfetamine,., aspirin,.,.), patient," "".",".""""",:,.],Pat
+amantadine,.,., aspirin,.],Pat,.}, patient,:, dispensary,.)
+armodafinil,.,., aspirin,.],Pat,.),.},:, patient, dispensary
+modafinil,., aspirin,.,.),:, patient," "".",Pat,.], ().
+duloxetine,.,.,Pat, aspirin,.],.}, patient,.),".""""",:
+lisdexamfetamine,.,.,Pat, aspirin, patient,.],.),.},:, at
+amantadine,.,.,Pat,.},.], patient, aspirin,.),".""""", at
+armodafinil,.,Pat, patient,.,.],.},.)," "".",:, at
+miconazole,.,., aspirin,Pat,.],.), patient,.}, at,:
+miconazole,.,.,.],.},Pat, aspirin,.), patient,".""""", at
+dexamethasone,., aspirin,.,.],.),.},:, dispensary, patient,Pat
+thalidomide,.,., aspirin, patient,.),Pat,.],:," "".",.}
+cyclophosphamide,.,.,Pat, patient,.],.), aspirin,.}," "".","."""""
+lenalidomide,.,.,Pat,.],.}, patient, aspirin,.),:,"."""""
+bortezomib,.,.,Pat,.],.}, patient, aspirin,".""""",:, at
+carfilzomib,.,Pat,., patient,.},.],.),".""""", at, aspirin
+pomalidomide,.,Pat,., patient,.],.},.), aspirin,".""""", dispensary
+daratumumab,.,.,.],.}, aspirin,Pat, patient,.),:, at
+melphalan,.,.,.],Pat,.}, patient, aspirin,.),:,"."""""
+ibuprofen,.,Pat,., patient,.],.),.}, aspirin, at,"."""""
+naproxen,.,Pat,., patient,.],.},.),".""""", at," ""."
+acetaminophen,.,.,.},.], aspirin,Pat,.), patient,".""""", dispensary
+diclofenac,.,Pat,.},.],., patient,".""""", at,ient,.)
+nabumetone,.,Pat,.],.,.}, aspirin, patient,".""""",.), at
+ibuprofen,.,.,Pat, patient,.],.},.),".""""", aspirin," ""."
+naproxen,.,Pat,.,.], patient,.},.), at,"."""""," ""."
+acetaminophen,.,.,Pat,.],.}, patient,.), aspirin, at,"."""""
+diclofenac,.,Pat,.,.], patient,.}, aspirin,:,".""""",.)
+nabumetone,.,.,.],Pat,.}, patient, aspirin,.),:, at
+ibuprofen,.,Pat,.,.],.}, patient,.),".""""", aspirin,ient
+naproxen,.,.,Pat, aspirin," "".", patient,.],".""""",.),.}
+acetaminophen,.,Pat,., patient,.],.},.), at,".""""", aspirin
+diclofenac,.,.,.],Pat, aspirin,.}, patient,:,.),"."""""
+nabumetone,.,.,Pat,.],.}, patient,.), aspirin, at,"."""""
+modafinil,.,Pat,., patient,.},.], aspirin,.),"."""""," ""."
+duloxetine,., aspirin,.,.],.},Pat,.), dispensary, patient,"."""""
+lisdexamfetamine,.,Pat,.,.], patient,.}, at,.),".""""",ient
+amantadine,.,.],.},.,Pat, aspirin, patient, at,.),:
+armodafinil,.,.,Pat, patient,.},.],.),".""""", at, aspirin
+modafinil,.,.,.],Pat,.}, patient,ient,.), aspirin, at
+duloxetine,.,., aspirin,Pat,.), patient,.]," "".",:, dispensary
+lisdexamfetamine,.,.,Pat,.], patient,.},.), at,".""""", aspirin
+amantadine,.,., aspirin,.],:,.),Pat,.}, patient, dispensary
+armodafinil,.,.,.],Pat,.}, aspirin, patient,".""""",.),:
+dexamethasone,.,Pat,.,.], patient,.},.)," "".",".""""", aspirin
+thalidomide,.,Pat,.,.],.}, patient, aspirin,.), dispensary,"."""""
+cyclophosphamide,.,., aspirin,Pat,.],.),.}, patient, dispensary,:
+lenalidomide,.,Pat,., patient,.],.},.), aspirin," "".","."""""
+bortezomib,.,Pat,.],.}, patient,.,ient,".""""",.), at
+carfilzomib,.,.,Pat, aspirin, patient,.],.),.},:," ""."
+pomalidomide,.,Pat,., patient,.],.},.),"."""""," "".", aspirin
+daratumumab,., aspirin,.,Pat,.), patient,"."""""," "".",.],"."""
+melphalan,.,.,Pat, patient,.],.),.}, aspirin, at,"."""""
+collagenase,.,.,Pat,.],.}, patient,.), aspirin, at,"."""""
+becaplermin,.,.,Pat, patient,.],.},.), aspirin," "".","."""""
+cadexomer iodine,.,Pat,.,.],.}, patient,.), aspirin, at,"."""""
+aspirin,.,., aspirin,Pat, patient,.), dispensary,:,.]," ""."
+nitroglycerin,.,Pat,., patient,.},.],.),".""""", aspirin," ""."
+metoprolol,.,.,Pat,.],.}, aspirin, patient,.),".""""", at
+amlodipine,.,.,Pat, patient,.],.},.),".""""", aspirin," ""."
+isosorbide mononitrate,.,Pat,.],.},., patient,.), at,".""""", aspirin
+isosorbide dinitrate,.,Pat,., patient,.],.},.)," "".", at,"."""""
+enoxaparin,.,Pat,., patient,.],.), aspirin,.}," "".","."""""
+ranolazine,.,.,Pat, aspirin, patient,.],.),.},"."""""," ""."
+atenolol,.,., aspirin, patient,Pat,.],.),.},"."""""," ""."
+carvedilol,.,., aspirin,Pat, patient,.],.)," "".",:,.}
+amlodipine AND atorvastatin,.,Pat,.],.,.}, patient, at, aspirin,:,ient
+cyclophosphamide,.,., aspirin,Pat,.},.], patient,.),".""""", dispensary
+vincristine,.,.,Pat, '.," "".",".""""",.},.], patient,.)
+rituximab,.,.,Pat, patient,.],.},.), aspirin, at," ""."
+methotrexate,.,Pat,., patient,.],.},.), at," "".","."""""
+bendamustine,.,Pat,.,.],.}, patient,".""""",.), aspirin," ""."
+cytarabine,.,Pat,., patient,.],.},.)," "".", aspirin,ient
+fludarabine,.,.,Pat,.],.}, patient, aspirin,.), at,"."""""
+bleomycin,.,.,Pat, aspirin,.), patient,.]," "".",".""""",.}
+carmustine,.,.,Pat,.],.}, patient,.), aspirin,:,"."""""
+idelalisib,.,Pat,., patient,.],.},.),ient, at," ""."
+ibritumomab,.,Pat,., patient,.],.},.),".""""", at, aspirin
+ibrutinib,.,., aspirin,.],.),.},:, patient,Pat, at
+mitoxantrone,.,Pat,., patient,.],.},.),"."""""," "".", aspirin
+cyclophosphamide,.,Pat,., patient,.],.},.),:, at, aspirin
+vincristine,.,.,Pat, patient,.),.},.], aspirin,".""""", at
+rituximab,.,Pat,.,.],.}, patient, aspirin,.),".""""", dispensary
+methotrexate,., aspirin,.,.),:, patient,.]," "".", ()., (.
+bendamustine,.,.,.],.},Pat, patient, aspirin,.),:, at
+cytarabine,.,.},.],.,Pat, patient,.), at,:, aspirin
+fludarabine,.,Pat,.],.,.}, patient,.), at,".""""", aspirin
+bleomycin,.,., aspirin,.],.},:,.),Pat, patient, at
+carmustine,.,Pat,., patient,.],.},.), aspirin, at,"."""""
+idelalisib,.,Pat,., patient,.],.},.),".""""", at, aspirin
+ibritumomab,.,Pat,., patient,.],.},.), at," "".","."""""
+ibrutinib,.,Pat,., patient,.],.},.),ient,".""""", at
+mitoxantrone,.,Pat,.,.],.}, patient,.),".""""", at, aspirin
+meloxicam,.,.],.,.},Pat, aspirin,.), at, patient,:
+diclofenac,.,.,Pat,.], patient,.},.), aspirin,"."""""," ""."
+naproxen,.,.,.],Pat,.}, patient, aspirin,.), at,"."""""
+ibuprofen,.,.,Pat, patient,.],.),.}," "".",:, at
+celecoxib,.,Pat,., patient,.],.),.},:," "".", aspirin
+chondroitin AND glucosamine,., aspirin,.,:,.), patient," "".", ()., (.,"."""""
+diclofenac,., aspirin,.,.), patient,Pat,.]," "".",:,"."""""
+etodolac,.,., aspirin,.],.},.),:,Pat, patient, at
+prednisone,.,., aspirin,.],Pat,:, patient,.},".""""",.)
+aspirin,.,.,Pat,.],.}, patient,.),".""""", at, aspirin
+nabumetone,.,., aspirin,.],Pat,.}, patient,.),:," ""."
+duloxetine,.,.,.],Pat,.}, patient, aspirin,.),:, at
+miconazole,.,.,Pat, patient, aspirin,.],:,.),.}," ""."
+miconazole,.,.},.],., aspirin,Pat,.),".""""", patient, dispensary
+miconazole,.,., aspirin,.],.),.},:, patient,Pat, at
+miconazole,.,Pat,.,.],.}, patient,.), at, aspirin,"."""""
+miconazole,.,.,Pat, patient,.],.), aspirin,.}," "".", at
+miconazole,., aspirin,.,.),:, patient," "".",".""""",Pat,.]
+meloxicam,.,.,Pat, patient,.], aspirin,.),.}," "".","."""""
+diclofenac,.,.,Pat,.], patient,.}, aspirin,.),".""""", dispensary
+naproxen,., aspirin,.,.),:, patient,Pat,.]," "".","."""""
+ibuprofen,.,Pat,.],., patient,.},.),ient," "".", at
+celecoxib,.,.,Pat,.], patient,.}, aspirin,.)," "".",:
+chondroitin AND glucosamine,.,.,Pat, patient,.), aspirin,.]," "".",.},:
+diclofenac,.,Pat,., patient, aspirin,.],.},.),"."""""," ""."
+etodolac,.,Pat,., patient, aspirin,.],.)," "".",.},"."""""
+prednisone,.,Pat, patient,.,.],.},.),"."""""," "".",ient
+aspirin,.,Pat,.,.], patient,.),.}, aspirin," "".", at
+nabumetone,., aspirin,.,.),Pat, patient," "".", dispensary,.],"."""""
+duloxetine,.,.,Pat, aspirin,.],.},.), patient,:,"."""""
+meloxicam,.,., aspirin, patient,.),Pat,.]," "".",.},"."""""
+diclofenac,.,., aspirin,.],.), patient,Pat,.},:,"."""""
+naproxen,.,Pat,.,.], patient,.}, aspirin,.),".""""", at
+ibuprofen,.,Pat,.],.},., patient,.), aspirin,".""""",ient
+celecoxib,.,.,Pat,.},.], patient, aspirin,.), at,"."""""
+chondroitin AND glucosamine,.,.,Pat, aspirin,.],.},.), dispensary, patient,"."""""
+diclofenac,.,Pat,.,.],.}, patient,.),".""""", aspirin, at
+etodolac,.,Pat,., patient,.],.},.), aspirin, at,"."""""
+prednisone,.,.,.], aspirin,.},Pat, patient,:,.),"."""""
+aspirin,.,., patient,Pat,.], aspirin,.},.)," "".","."""""
+nabumetone,.,.],.},Pat,., patient, aspirin, at,".""""", dispensary
+duloxetine,.,.,.], aspirin,.), patient,.},:,Pat, at
+ibuprofen,.,., aspirin,Pat,.],.},.), patient, at, dispensary
+naproxen,.,.,Pat,.],.}, patient, aspirin,.), at,:
+acetaminophen,.,., aspirin,.), patient,Pat,.],.},:," ""."
+diclofenac,.,Pat,.,.], patient,.},".""""",.), aspirin,:
+nabumetone,.,.,Pat,.},.], patient, aspirin,.),".""""", dispensary
+ibuprofen,.,Pat,.,.], patient,.}, at,.),".""""", aspirin
+naproxen,., aspirin,.,.),:, patient," "".", ().,".""""","."""
+acetaminophen,., aspirin,.,:," "".",.), patient,Pat,".""""",.]
+diclofenac,.,.,.],Pat,.}, patient,.), aspirin, at,"."""""
+nabumetone,.,.,.},.], patient,Pat,.), at, aspirin,"."""""
+ibuprofen,.,., aspirin,.],Pat,.},.), patient,:,"."""""
+naproxen,.,Pat,., patient,.],.},.), at,".""""", aspirin
+acetaminophen,.,Pat,.],.,.}, patient,.),".""""", at,ient
+diclofenac,.,.,Pat,.], patient,.),.}," "".", aspirin, at
+nabumetone,.,Pat,.,.],.}, patient, aspirin,.),".""""", at
+ibuprofen,.,., aspirin, patient,.),Pat,.],:," "".",.}
+naproxen,., aspirin,.,.)," "".", patient,Pat,.],:,"."""""
+acetaminophen,.,.,Pat, aspirin,.],.},.), patient,".""""", at
+diclofenac,.,.,.],.},.),Pat, aspirin, patient,:, dispensary
+nabumetone,.,.,Pat,.],.}, patient,.), aspirin,".""""", at
+triamcinolone,.,.,Pat,.], patient,.),.}, aspirin,".""""", at
+triamcinolone,.,.,Pat, aspirin, patient,.],.),:,.}," ""."
+risperidone,.,Pat,.,.],.}, patient,.),".""""", at, aspirin
+clozapine,.,.,Pat, patient,.],.},.), aspirin, at," ""."
+olanzapine,.,Pat,.,.], patient,.},.)," "".",".""""",:
+quetiapine,.,.,Pat, patient,.], aspirin,.},.),:, at
+aripiprazole,.,Pat,., patient, aspirin,.],.},:,.)," ""."
+chlorpromazine,., aspirin,.,.), patient," "".",:,Pat, name,"."""
+paliperidone,.,Pat,., patient,.},.],.),"."""""," "".", at
+ziprasidone,.,.,Pat, patient,.),.},.],".""""", aspirin," ""."
+loxapine,.,.,Pat,.], patient,.},.), aspirin, at,:
+ibuprofen,.,.,Pat,.], patient,.},.), aspirin, at," ""."
+naproxen,.,Pat, patient,.,.],.},.)," "".", aspirin,"."""""
+acetaminophen,.,Pat,., patient,.],.},.), at," "".",:
+diclofenac,.,.,.],.},Pat, aspirin,.), patient,:,"."""""
+nabumetone,.,Pat,.], patient,.},.,ient,.)," "".","."""""
+quetiapine,.,Pat,., patient,.],.},.)," "".",".""""", '.
+lamotrigine,.,Pat,.,.],.}, patient,.), at, aspirin,"."""""
+lithium,.,.,.], aspirin,Pat,.}, patient,.), at,:
+risperidone,., aspirin,.,.),:, patient,.],.}," "".","."""""
+fluoxetine,.,.,Pat, patient, aspirin,.),.],.}," "".",:
+olanzapine,.,., aspirin,.],Pat,.}, patient,:,.), dispensary
+buspirone,.,Pat,., patient,.],.},.)," "".", at,"."""""
+clonazepam,.,Pat,., patient,.],.},.), at,ient,"."""""
+sertraline,.,Pat,., patient,.],.},.), at, aspirin,"."""""
+aripiprazole,.,.,Pat, patient, aspirin,.),.]," "".",.},:
+topiramate,.,., aspirin,.},.],:,.),Pat,".""""", patient
+diazepam,.,Pat,.],.,.},.), patient, aspirin,".""""", at
+lorazepam,.,.,Pat,.], patient,.},.), aspirin," "".",:
+escitalopram,.,Pat,.,.],.}, patient,.),".""""", at,:
+divalproex sodium,.,., aspirin,.], patient,.),Pat,.},:," ""."
+alprazolam,.,Pat,., patient,.],.},.), at," "".","."""""
+clozapine,., aspirin,., patient,.),Pat,:," "".",".""""",.]
+oxcarbazepine,.,.,Pat,.],.}, aspirin, patient,.),:,"."""""
+citalopram,.,.,Pat, patient,.),.],.}, aspirin,"."""""," ""."
+haloperidol,., aspirin,.,.), patient,:," "".",Pat,".""""",.]
+lurasidone,.,.,Pat,.],.}, aspirin, patient,.),".""""", at
+l-methylfolate,.,Pat,.},.,.], patient,.),".""""", dispensary, aspirin
+carbamazepine,.,.,.],Pat,.}, aspirin,.), patient,:,"."""""
+asenapine,.,Pat,.,.],.}, patient,".""""", aspirin,.), at
+paliperidone,.,Pat,., patient,.],.),.}," "".",".""""", at
+dexamethasone,.,., aspirin,.), patient,Pat,.],.},:,"."""""
+thalidomide,.,.,.],Pat,.}, aspirin,.), patient,".""""", at
+cyclophosphamide,.,.,Pat, patient,.],.},.), aspirin, at,:
+lenalidomide,.,., patient,Pat,.],.}, aspirin,.)," "".",:
+bortezomib,.,., aspirin,.],.},.),:,Pat, patient,"."""""
+carfilzomib,., aspirin,.,.],.},.),Pat, patient, dispensary,"."""""
+pomalidomide,., aspirin,.,.),Pat, patient," "".",:,.],"."""""
+daratumumab,.,.,.],Pat, patient,.},.), aspirin, at," ""."
+melphalan,.,Pat,.,.],.}, aspirin, patient,".""""",.), dispensary
+dexamethasone,.,.,.], aspirin,Pat,.}, patient,.),:, dispensary
+thalidomide,.,.,.],.}, aspirin,.),Pat, patient,:, at
+cyclophosphamide,.,Pat,., patient,.],.}, aspirin,.),"."""""," ""."
+lenalidomide,.,., aspirin,.),.], patient,Pat,.},:,"."""""
+bortezomib,.,Pat,.,.],.}, patient, at,.), aspirin,"."""""
+carfilzomib,.,., patient,Pat,.], aspirin,.),.}," "".",:
+pomalidomide,.,.,Pat, patient,.),.],.},".""""", at, aspirin
+daratumumab,.,Pat,., patient,.],.},.), aspirin,:, at
+melphalan,.,Pat,.,.], patient,.},.), at," "".","."""""
+dexamethasone,.,Pat,.,.},.], patient,.),".""""", at," ""."
+thalidomide,.,Pat,., patient,.],.}, aspirin," "".",:,.)
+cyclophosphamide,.,.,Pat, patient, aspirin,.),.],"."""""," "".",.}
+lenalidomide,.,.,Pat, patient, aspirin,.],.},.),".""""", at
+bortezomib,.,.,Pat, patient,.],.),.}, aspirin, at,"."""""
+carfilzomib,.,.,Pat,.), patient,.],.}, aspirin,".""""", at
+pomalidomide,.,Pat,., patient,.],.},".""""",.), at," ""."
+daratumumab,.,Pat,.,.],.},.), patient, aspirin,".""""", at
+melphalan,.,.,Pat, patient, aspirin,.],.),.},:,"."""""
+modafinil,.,.,.],Pat,.}, patient,ient, at,.),:
+duloxetine,., aspirin,., patient,.),Pat,:," "".",.],"."""""
+lisdexamfetamine,.,Pat,., patient,.],.},.),"."""""," "".", at
+amantadine,.,., aspirin,Pat, patient,.),.],.}," "".",:
+armodafinil,.,.,Pat,.], patient,.}, aspirin,:,.), at
+collagenase,., aspirin,.,.),:, patient," "".", ().,.],"."""
+becaplermin,.,.],.,Pat,.}, patient,:, aspirin,.), at
+cadexomer iodine,.,., aspirin,.],.}, patient,.),Pat,:, dispensary
+collagenase,.,.},.,.],Pat, aspirin, patient,.), at,"."""""
+becaplermin,.,., aspirin,.),Pat, patient,:,.]," "".",.}
+cadexomer iodine,.,.,.],.},Pat, aspirin, patient,.),:, dispensary
+lamivudine,.,Pat,.,.], patient,.},.), at,".""""", aspirin
+efavirenz AND emtricitabine AND tenofovir,.,Pat,.,.],.}, patient,.),"."""""," "".", at
+ritonavir,., aspirin,.,.),.], patient,:,Pat,.}," ""."
+emtricitabine AND tenofovir,.,.,.],Pat, patient,.}, aspirin,.),".""""",:
+tenofovir,.,.,Pat,.], patient,.},.), aspirin," "".","."""""
+abacavir,.,., aspirin,Pat, patient,.),.],".""""",.}," ""."
+aspirin,.,., aspirin,.],.}, patient,.),Pat,:, at
+nitroglycerin,.,.,Pat,.], aspirin,.},.), patient,".""""",:
+metoprolol,., aspirin,.,.), patient,:," "".",.], dispensary,.}
+amlodipine,., aspirin,.,Pat, patient,.),:," "".",.],"."""""
+isosorbide mononitrate,., aspirin,.,.),:," "".",".""",".""""", patient, ().
+isosorbide dinitrate,., aspirin,.,.],.),.},Pat, dispensary, patient," ""."
+enoxaparin,.,.,Pat, patient,.],.),.}, aspirin,:," ""."
+ranolazine,.,.,Pat, patient, aspirin,.],.),.},"."""""," ""."
+atenolol,.,.,.], aspirin,Pat,.},".""""", dispensary,.), patient
+carvedilol,.,., aspirin,.],.},.),Pat,:, patient, at
+amlodipine AND atorvastatin,.,.,Pat, patient,.],.},.), aspirin," "".","."""""
+triamcinolone,.,., aspirin,Pat,.],.},.), patient,".""""", at
+triamcinolone,.,.}, aspirin,.],.,Pat, patient, dispensary,.), at
+triamcinolone,.,.,Pat,.],.}, aspirin, patient,.),:, dispensary
+triamcinolone,.,.,Pat, patient,.],.},.), at," "".",:
+risperidone,.,Pat,., patient,.],.},.),"."""""," "".", at
+clozapine,.,Pat,., patient,.],.},.),ient, at,"."""""
+olanzapine,.,., patient,Pat, aspirin,.],.),.},:," ""."
+quetiapine,.,.,Pat, patient, aspirin,.),.],.}," "".","."""""
+aripiprazole,.,Pat, patient,.,.],.},.),ient,"."""""," ""."
+chlorpromazine,.,., aspirin,Pat, patient,.),".""""",.]," "".",.}
+paliperidone,., aspirin,.,.},.],.), patient,Pat, dispensary,"."""""
+ziprasidone,.,.,Pat, patient,.],.}, aspirin,:,.), at
+loxapine,., aspirin,.,.), patient,:,Pat," "".",.], dispensary
+ketoconazole,.,Pat, patient,.,.],.},.), at," "".","."""""
+terbinafine,.,., aspirin,.],.},Pat, dispensary,".""""",.), patient
+ketoconazole,.,., aspirin, patient,Pat,.),:,.]," "".","."""""
+terbinafine,.,Pat,.,.], patient, aspirin,.},.),".""""", at
+ketoconazole,.,.,Pat, patient, aspirin,.],.},.)," "".",:
+terbinafine,.,Pat,.},.],., patient, at,.),ient,"."""""
+ketoconazole,.,.,Pat,.},.],.), patient, aspirin,"."""""," ""."
+terbinafine,.,.,Pat, patient,.],.},.)," "".", aspirin, at
+terbinafine,.,.],.},.,Pat, patient, aspirin,.),ient, at
+terbinafine,.,.,Pat,.},.], aspirin, patient,.), dispensary,"."""""
+terbinafine,.,.,.],Pat,.}, patient,.), aspirin,:,"."""""
+terbinafine,.,Pat,.,.], patient,.},.),".""""", at, aspirin
+ibuprofen,.,.,Pat, patient,.],.), aspirin,.},"."""""," ""."
+naproxen,.,.],.},., aspirin,Pat,.),".""""", dispensary, patient
+acetaminophen,.,.,Pat,.],.}, aspirin, patient,.),".""""",:
+diclofenac,.,.,Pat, patient,.], aspirin,.)," "".",.},"."""""
+nabumetone,.,.,.], aspirin,Pat,.}, patient,.),:, at
+meloxicam,.,Pat,., patient,.},.],.),".""""", at," ""."
+diclofenac,.,., aspirin,.),Pat, patient,.],"."""""," "".",.}
+naproxen,.,.],.,.},Pat, aspirin,:,.), patient, at
+ibuprofen,.,Pat,.,.],.},.), patient, aspirin,".""""", at
+celecoxib,.,.},Pat,.],., patient,.),ient, at,"."""""
+chondroitin AND glucosamine,.,Pat,.,.], patient,.},.),"."""""," "".",:
+diclofenac,.,.,.},.],Pat, patient, aspirin,.),:, at
+etodolac,., patient,Pat,.,.],.},.), at," "".",ient
+prednisone,.,.],Pat,.},., patient,.), at,".""""",:
+aspirin,.,.,.],Pat,.}, patient,.), aspirin, at,:
+nabumetone,.,Pat,., patient,.],.},:,.)," "".","."""""
+duloxetine,.,.,Pat,.},.], aspirin, patient,".""""", at, dispensary
+risperidone,.,., aspirin,.), patient,Pat,:," "".",.],"."""""
+clozapine,.,., aspirin, patient,.],Pat,.),:,.}," ""."
+olanzapine,.,.,Pat,.],.}, patient,.), aspirin, dispensary,"."""""
+quetiapine,.,.,Pat, patient,.],.},.), at,"."""""," ""."
+aripiprazole,.,Pat,.,.], patient,.},.), at, '.," ""."
+chlorpromazine,.,.,Pat, patient,.},.], aspirin,.),"."""""," ""."
+paliperidone,.,Pat,., patient,.],.},.), aspirin,"."""""," ""."
+ziprasidone,.,.,.],Pat,.}, aspirin,.), patient,".""""", at
+loxapine,., aspirin,.,.),.], dispensary,.},:,Pat,"."""""
+risperidone,.,Pat,.,.],.}, patient,.), at,ient,"."""""
+clozapine,.,.,.],.},Pat, aspirin, patient,:, at,.)
+olanzapine,.,Pat,.],.}, patient,.,ient, at," "".",.)
+quetiapine,.,.,.],Pat, patient,.},.),:, at," ""."
+aripiprazole,.,Pat,.],.,.},.), patient, at,".""""",:
+chlorpromazine,.,.,.],.},Pat, aspirin, patient,:,.), at
+paliperidone,.,.,Pat,.],.}, patient, aspirin,.), at,:
+ziprasidone,.,Pat,.],.},., aspirin, patient,.), dispensary,"."""""
+loxapine,.,., aspirin, patient,Pat,.),.],:,.}," ""."
+risperidone,.,Pat,., patient,.],.},.), aspirin, at,"."""""
+clozapine,.,Pat,., patient,.],.},"."""""," "".", at,.)
+olanzapine,.,Pat,., patient,.],.),.}, at," "".", '.
+quetiapine,.,Pat,.,.], patient,.},:,.), at,"."""""
+aripiprazole,.,., aspirin,.],:,.),.}, dispensary,Pat,"."""""
+chlorpromazine,.,.,.],Pat,.}, aspirin, patient,.),".""""", at
+paliperidone,.,Pat,., patient,.],.),.}, at," "".","."""""
+ziprasidone,.,.,.], aspirin,.},Pat, patient,:,.), at
+loxapine,.,.,.], aspirin,.}, patient,Pat,.),:, dispensary
+risperidone,.,Pat,., patient,.],.),.}," "".", aspirin,"."""""
+clozapine,.,Pat,., patient, aspirin,.],.},.),"."""""," ""."
+olanzapine,.,Pat,.,.],.}, patient,.), at,ient," ""."
+quetiapine,.,., aspirin,.],.},.),Pat,:, patient, dispensary
+aripiprazole,.,., aspirin,.},.],Pat, patient,:,.), dispensary
+chlorpromazine,.,., patient, aspirin,Pat,.],.),.},:, at
+paliperidone,.,.,.},.],Pat, aspirin, patient,.), at,:
+ziprasidone,.,.,Pat, patient, aspirin,.),.],.},".""""", at
+loxapine,.,., patient,Pat, aspirin,.],.),.}," "".",:
+risperidone,.,., aspirin,.],.}, patient,Pat, dispensary,:,.)
+clozapine,.,Pat,., patient,.], aspirin,.),.},"."""""," ""."
+olanzapine,.,Pat,.,.],.}, patient,.), at,".""""",ient
+quetiapine,.,Pat,.,.],.}, patient,.), aspirin,".""""", at
+aripiprazole,.,.,.),Pat, patient, aspirin,.],.}," "".", at
+chlorpromazine,.,.,Pat,.],.), patient, aspirin,.},".""""", at
+paliperidone,.,Pat,.,.},.], patient,.),".""""", aspirin, at
+ziprasidone,.,.,Pat, patient,.],.},.), aspirin,".""""", at
+loxapine,.,.,Pat, patient,.],.},:, aspirin, at,.)
+risperidone,.,., aspirin,Pat,.], patient,.),.},"."""""," ""."
+clozapine,.,Pat, patient,.,.},.],.), at, aspirin,"."""""
+olanzapine,.,Pat,., patient,.],.},.),".""""", at,ient
+quetiapine,.,Pat,.,.],.}, patient,.),:, aspirin, at
+aripiprazole,., aspirin,.,.],.},:,.), patient,Pat, dispensary
+chlorpromazine,., aspirin,.,.), patient,:," "".",".""""",.], dispensary
+paliperidone,.,Pat,., patient,.],.},.),ient,".""""", at
+ziprasidone,.,.],.},Pat,., patient,.), aspirin, at,:
+loxapine,.,.,Pat, patient,.],.},.),".""""", aspirin," ""."
+aspirin,.,Pat,., patient,.],.},".""""", at,.)," ""."
+nitroglycerin,.,.],.},Pat,., aspirin,.), patient, at, dispensary
+metoprolol,.,.,.},Pat,.], patient, aspirin,.), at,"."""""
+amlodipine,.,.,Pat, patient, aspirin,.),.]," "".",.},"."""""
+isosorbide mononitrate,.,.,Pat,.],.}, patient,.), aspirin," "".","."""""
+isosorbide dinitrate,.,Pat,.],.},., patient,.),ient, at, dispensary
+enoxaparin,.,.,Pat, patient, aspirin,.],.),.},:,"."""""
+ranolazine,.,., aspirin,Pat,.],.},.), patient, dispensary,"."""""
+atenolol,.,Pat,.},.],., patient,ient,.), at,"."""""
+carvedilol,.,.,Pat, patient, aspirin,.},.),.],"."""""," ""."
+amlodipine AND atorvastatin,.,Pat,.,.], patient,.},.),".""""", at," ""."
+modafinil,.,.,Pat, patient,.],.},.), aspirin,:, at
+duloxetine,.,., aspirin, patient,Pat,:,.),.]," "".","."""""
+lisdexamfetamine,.,Pat,.,.],.}, patient,.),".""""",ient," ""."
+amantadine,., aspirin,.,.), patient,Pat," "".",:,.],"."""""
+armodafinil,.,.,Pat, patient, aspirin,.),.]," "".",.},"."""""
+miconazole,.,Pat,.],., patient,.}, aspirin,.),:, at
+miconazole,.,., aspirin,.],:,.),.}, patient,Pat, dispensary
+ketoconazole,.,., patient,Pat,.],.),.}, aspirin,".""""",:
+terbinafine,.,.,.), aspirin,Pat, patient,.],.},"."""""," ""."
+ketoconazole,.,., aspirin, patient,Pat,.],.},.),:," ""."
+terbinafine,.,.,Pat,.), patient,.], aspirin,.}," "".","."""""
+ketoconazole,.,Pat,.},.],., patient,.),".""""", at," ""."
+terbinafine,.,., aspirin,.),:, patient,Pat," "".", ().,.]
+ketoconazole,.,.,Pat, patient,.),.],.}, aspirin," "".", at
+terbinafine,.,Pat,., patient,.],.},.),"."""""," "".", at
+terbinafine,.,.,.], aspirin,Pat,.),.}, patient, dispensary,:
+terbinafine,.,Pat,., patient, aspirin,.],.},.),".""""", at
+ketoconazole,.,.,Pat, patient,.],.),.}, aspirin, at,:
+terbinafine,.,.,Pat, patient,.],.),.}, at, aspirin,"."""""
+ketoconazole,.,., patient,Pat,.],.},.),:, at, aspirin
+terbinafine,.,Pat,., patient,.},.],.), aspirin,"."""""," ""."
+terbinafine,.,Pat,.},.], patient,.,.),ient,".""""", at
+terbinafine,.,., aspirin,Pat,.],.), patient,.}," "".",:
+terbinafine,.,., patient,Pat, aspirin,.],.),.}," "".",:
+terbinafine,.,.,Pat,.], patient,.}, aspirin,.), at,:
+terbinafine,.,., patient,Pat,.},.),.], aspirin, at,"."""""
+terbinafine,.,.,Pat,.], patient,.}, aspirin,.),:, at
+ketoconazole,.,.],Pat,.,.}, patient,".""""", aspirin,:,.)
+terbinafine,.,Pat,.],.}, patient,.,ient,.), at,"."""""
+ketoconazole,.,Pat,.,.],.}, patient,.),".""""", at," ""."
+terbinafine,.,.},.],Pat,., patient,.), at,".""""",ient
+risperidone,., aspirin,.,.),:, patient," "".",".""""", ().,.]
+clozapine,.,.,.},.],Pat, aspirin,.),".""""", dispensary, patient
+olanzapine,.,., aspirin,Pat,.), patient,:,.]," "".","."""""
+quetiapine,.,Pat,.,.],.}, patient,".""""",.), at,ient
+aripiprazole,.,.],Pat,.,.}, patient,.), at,:,"."""""
+chlorpromazine,.,.,Pat, patient,.],.},.),".""""", at," ""."
+paliperidone,.,Pat,., patient,.],.}, aspirin,.)," "".","."""""
+ziprasidone,., aspirin,.,:,.)," "".", patient,".""""", ()., (.
+loxapine,.,., patient,Pat,.), aspirin,.],.}," "".",:
+aspirin,.,., patient, aspirin,Pat,.),:,.]," "".",.}
+nitroglycerin,.,.,Pat, patient,.],.}, aspirin,:,.), at
+metoprolol,.,Pat,.,.], patient,.},.),".""""",:, at
+amlodipine,.,., aspirin, patient,.),Pat,:,.]," "".",.}
+isosorbide mononitrate,.,Pat,., patient,.],.),.}, aspirin, at,"."""""
+isosorbide dinitrate,.,.,Pat, patient,.],.),.}, aspirin," "".","."""""
+enoxaparin,.,., aspirin,Pat,.),.], patient,.},".""""", at
+ranolazine,.,.,.],Pat,.}, patient,.), aspirin,:,"."""""
+atenolol,.,Pat,., patient,.],.},.), aspirin," "".","."""""
+carvedilol,.,.],.,.}, aspirin,Pat,".""""",.), patient, dispensary
+amlodipine AND atorvastatin,.,.,.],Pat,.}, patient,:, aspirin, at,.)
+collagenase,.,., aspirin,Pat, patient,.),.},.]," "".","."""""
+becaplermin,.,Pat,., patient,.],.},ient,.), at,"."""""
+cadexomer iodine,.,Pat,.,.], patient,.},.),".""""", at, aspirin
+ibuprofen,.,.,Pat, patient, aspirin,.],.),.}," "".",:
+naproxen,.,.,Pat,.],.}, patient, aspirin,.),".""""", at
+acetaminophen,.,.,.],.},Pat, patient,.), aspirin,".""""", at
+diclofenac,.,.,.],.},Pat, patient, aspirin,.),:, dispensary
+nabumetone,.,.,.],Pat,.},.), aspirin,".""""", patient, dispensary

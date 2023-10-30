@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called,?, at, ().
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, at,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, Edit,?, called, ().
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, Edit, ().,..,.*
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, called, Edit,?, ().
+Acute Myeloid Leukemia,.,.,",",:,</s>,;, ()., Edit,?,..
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ().,.*,?, Edit
+Acute Myeloid Leukemia,.,.,:,",",;,</s>, ()., at, Edit, called
+Acute Myeloid Leukemia,.,.,:,",", Edit,).,</s>,?,;,.)
+Acute Myeloid Leukemia,.,.,:,",",</s>,;, ()., Edit, called,?
+Acute Myeloid Leukemia,.,.,:,",",</s>,;,?, Edit,.., called
+Acute Myeloid Leukemia,.,.,",",:,</s>,;,?,)., at,.)
+High Cholesterol,.,.,",",:,</s>,;, ()., Edit,..,?
+High Cholesterol,.,.,",",:,</s>,;, ()., at, called, Edit
+High Cholesterol,.,.,",",:,</s>,;, Edit, at,?,..
+High Cholesterol,.,.,",",:,</s>,;, ()., called, Edit, at
+High Cholesterol,.,.,",",:,</s>,;, ().,?,..,.*
+High Cholesterol,.,.,:,",",</s>,;, Edit, ().,.*,?
+High Cholesterol,.,.,:,",",</s>, Edit,?,;,.., ().
+High Cholesterol,.,.,:,",",</s>,;,?,.), Edit,).
+High Cholesterol,.,.,:,",", Edit,;,</s>,?,).,.*
+High Cholesterol,.,.,:,",",;,</s>,.*, ().,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+Non-Hodgkin's Lymphoma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, called,..
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, called, ().,..
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;,?,..,.*, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called, at,?, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, at, ().
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit, ().,?, called
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, Edit,?, ().,.*
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;,?,.., at, Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, ().,?, at, Edit
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, Edit, called, ().,?
+Non-Hodgkin's Lymphoma,.,.,",",:,</s>,;, ().,?,.., Edit
+Non-Hodgkin's Lymphoma,.,.,:,",",</s>,;, called,?, ().,..
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?, ().,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?, ()., Edit,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,?,..,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.*, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*,?, ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,?,.., ().
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,",",:,</s>,;,?,.., Edit, called
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,.*, called
+Borderline Personality Disorder,.,.,:,",",;,</s>, Edit,.*, ().,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, Edit,..,?,.*
+Borderline Personality Disorder,.,.,:,",",;,</s>,.., Edit,.*, ().
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,..,.*,?
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at, Edit,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit, ().,..,?
+Borderline Personality Disorder,.,.,:,",",;,</s>, ()., Edit,..,.*
+Borderline Personality Disorder,.,.,",",:,</s>,;, called, at,?,..
+Borderline Personality Disorder,.,.,:,",",;,</s>, ().,.*,.., Edit
+Borderline Personality Disorder,.,.,",",:,</s>,;, ().,.., Edit,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ().,..,?,.*
+Borderline Personality Disorder,.,.,:,",",</s>,;, ()., Edit,?,..
+Borderline Personality Disorder,.,.,:,",",</s>,;, Edit,.*, ()., called
+Borderline Personality Disorder,.,.,:,",",</s>,;, at,?,.., Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, ()., at,?
+Multiple Myeloma,.,.,:,",",;,</s>, Edit,.., ().,.*
+Multiple Myeloma,.,.,:,",",;,</s>,.*, ()., Edit,..
+Multiple Myeloma,.,.,",",:,;,</s>, ()., Edit,..,.*
+Multiple Myeloma,.,.,",",:,</s>,;, called,?, at, Edit
+Multiple Myeloma,.,.,",",:,</s>,;, called, Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, ()., Edit,?,..
+Multiple Myeloma,.,.,:,",",</s>,;, called, at,?, Edit
+Multiple Myeloma,.,.,:,",",</s>,;, Edit, called,?,.)
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+HIV Infection,.,.,:,",",;,</s>, ().,?,..,.*
+HIV Infection,.,:,.,",",</s>,?, Edit,;,).,!
+HIV Infection,.,.,:,",",;,</s>, Edit, ()., called,..
+HIV Infection,.,.,",",:,</s>,?,)., Edit,;,..
+HIV Infection,.,.,:,",",;,</s>, ()., Edit,.*,..
+HIV Infection,.,.,:,",",;,</s>, Edit, called,?, ().
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Psoriasis,.,.,:,",",</s>, at,;,?, called,..
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,.)
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",</s>,;, called, at,?, Edit
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,.*,..
+Osteoarthritis,.,.,:,",",;,</s>, Edit, called,?,.*
+Osteoarthritis,.,.,:,",",;,?,</s>, Edit,.*,!
+Osteoarthritis,.,.,:,",",</s>,;, Edit, at,..,?
+Osteoarthritis,.,.,:,",",;,</s>, ()., Edit,.*,..
+Osteoarthritis,.,.,",",:,;,</s>, Edit,..,.*, ().
+Osteoarthritis,.,.,",",:,</s>,;, Edit,?,).,..
+Osteoarthritis,.,:,.,",",</s>,;, at, called,?,..
+Osteoarthritis,.,.,:,",",</s>,;,..,?, ()., called
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, Edit, ().,?,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;,..,?, ()., called
+Chronic Fatigue Syndrome,.,.,:,",",;,</s>, Edit,.*, called, ().
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,..,.*
+Chronic Fatigue Syndrome,.,.,:,",",</s>,;, ()., Edit,?,..
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Oral Thrush,.,.,",",:,</s>,;, at, called, Edit,?
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Cruris,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Pedis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Tinea Corporis,.,.,:,",",</s>,;, ()., Edit, called,..
+Tinea Corporis,.,.,",",:,;,</s>, Edit,?, called,..
+Schizophrenia,.,.,:,",",;,</s>, Edit,?,..,.*
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,..,?
+Schizophrenia,.,.,:,",",;,</s>, Edit,.*,?, ().
+Schizophrenia,.,.,:,",",</s>,;, Edit,?, ().,..
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,.*, called
+Schizophrenia,.,.,:,",",;,</s>, ()., Edit,?,..
+Schizophrenia,.,.,:,",",</s>,;, at,?,.., Edit
+Schizophrenia,.,.,:,",",</s>,;, Edit, ().,?,..
+Schizophrenia,.,.,:,",",</s>,;, ().,..,?, Edit
+Angina,.,.,",",:,</s>,;, Edit,?,).,..
+Angina,.,.,",",:,</s>,;, Edit, ().,..,.*
+Angina,.,.,",",:,;,</s>, Edit,.*,.., ().
+Angina,.,.,:,",",</s>,;, ().,.*,?,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,..
+Angina,.,.,:,",",</s>, ()., Edit,;,.*,?
+Angina,.,.,:,",",;,</s>, ()., Edit,.*,..
+Angina,.,.,",",:,;,</s>, ().,.*,..,?
+Angina,.,.,:,",",</s>,;, ().,?,.., Edit
+Angina,.,.,",",:,</s>,;, called, Edit, at,?
+Angina,.,.,:,",",?,;,)., Edit,</s>,.*
+Dermal Ulcer,.,.,",",:,</s>,;, ().,?,..,).
+Dermal Ulcer,.,:,.,",",</s>,?, called, at,;, Edit
+Dermal Ulcer,.,.,:,",",?, ().,;,</s>,..,.*
+Muscle Pain,.,.,:,",",;,</s>, Edit, called,.*,..
+Muscle Pain,.,.,:,",",</s>,;, called, at,?, Edit
+Muscle Pain,.,.,:,",",;,</s>,.., ()., Edit,?
+Muscle Pain,.,.,:,",",</s>,;, Edit, at,..,?
+Muscle Pain,.,:,.,",",</s>,;, at, called,?,..

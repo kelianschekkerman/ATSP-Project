@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin,.,.,:,</s>, Pain,",", Edit, drug, N, D
+nitroglycerin,.,.,:,</s>,",", aspirin, Pain, Edit,;, drug
+metoprolol,.,.,:, aspirin,</s>, Pain, Edit,",", insulin, Taken
+amlodipine,.,.,:,",", Edit, aspirin,</s>,;, Pain, Anonymous
+isosorbide mononitrate,.,.,:,",", aspirin,</s>,;, Edit, insulin, Anonymous
+isosorbide dinitrate,.,.,:, aspirin,",",</s>, Edit, drug, Pain,;
+enoxaparin,.,.,:,",",</s>, Edit,;, Anonymous, Pain, insulin
+ranolazine,.,.,:,</s>, drug,",", Pain, D, MS, M
+atenolol,.,.,:,",",</s>, drug, aspirin, Edit,;, insulin
+carvedilol,.,.,:, aspirin,</s>,",", drug, insulin, Pain, MS
+amlodipine AND atorvastatin,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+ibuprofen,.,.,:, aspirin, drug,</s>, insulin, Pain,",", Edit
+naproxen,.,.,:,</s>,",", D, Pain, aspirin, drug, MS
+acetaminophen,.,.,:,",",</s>, aspirin, insulin,;, Edit, Pain
+diclofenac,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, drug
+nabumetone,.,., aspirin,</s>,:, Taken, Pain, Edit, HIV, insulin
+lamivudine,.,.,:, aspirin,",",</s>,;, Edit, insulin, Pain
+efavirenz AND emtricitabine AND tenofovir,.,.,:,</s>,",", aspirin, Edit, Pain,;, Anonymous
+ritonavir,.,.,:,</s>,",", Edit,;, aspirin, Pain, drug
+emtricitabine AND tenofovir,.,.,:,</s>,",", Edit,;, Pain, aspirin, D
+tenofovir,.,.,:, aspirin,</s>, Edit,",", Pain, insulin, drug
+abacavir,.,.,:, aspirin,",",</s>, Edit, Pain, insulin,;
+lamivudine,.,.,:, aspirin,</s>, drug, Pain, Edit, insulin, Taken
+efavirenz AND emtricitabine AND tenofovir,.,.,:,</s>, aspirin, Edit,",", drug, insulin, D
+ritonavir,.,.,:,</s>,",", Edit,;, D, aspirin, Pain
+emtricitabine AND tenofovir,.,.,:, aspirin,</s>,",", Pain,;, insulin, drug
+tenofovir,.,.,:, aspirin,</s>,",", Pain, insulin, Edit, drug
+abacavir,.,.,:,",",</s>, Edit, aspirin,;, insulin, drug
+cytarabine,.,.,:, aspirin,</s>,",", Pain, insulin, Edit,;
+vincristine,.,.,:, aspirin,",", drug,</s>, insulin, D, Pain
+daunorubicin,.,.,:, aspirin,</s>,",", D, drug, MS, insulin
+idarubicin,.,.,:, aspirin,</s>,",", drug, Pain, insulin, Edit
+decitabine,.,.,:,</s>,",",;, Edit, Pain, aspirin, D
+gemtuzumab,.,.,:, aspirin,</s>, Pain,",", Edit, insulin, drug
+midostaurin,.,.,:,",",</s>, aspirin, Edit,;, MS, Pain
+venetoclax,.,.,:,</s>, aspirin,",", Pain, drug," """, Edit
+enasidenib,.,.,:,</s>, Edit,",", aspirin, drug,;, Pain
+cytarabine liposomal AND daunorubicin liposomal,.,.,:,",",</s>, Pain, drug, Edit, D,;
+ivosidenib,.,.,:, aspirin,</s>, Edit,",", drug, insulin, Pain
+gilteritinib,.,., aspirin,:, insulin, drug,</s>, Pain,",", D
+glasdegib,.,.,:, aspirin, drug,</s>, Edit, Pain, MS,","
+lamivudine,.,.,:, aspirin,</s>, drug,",", insulin, Pain, D
+efavirenz AND emtricitabine AND tenofovir,.,.,:,",", aspirin, drug, D,</s>, M, insulin
+ritonavir,.,.,:, aspirin,</s>, Edit,",", Pain, insulin,;
+emtricitabine AND tenofovir,.,.,:,",", Edit,</s>, Pain, drug, MS,","
+tenofovir,.,.,:,</s>,",", Edit,;, aspirin, insulin, D
+abacavir,.,.,:, aspirin,",",</s>, insulin, Pain, Edit, MS
+cytarabine,.,.,:, aspirin,",",</s>, Edit,;, Pain, Anonymous
+vincristine,.,.,:,</s>,",", drug, aspirin,;, Edit, D
+daunorubicin,.,.,:,</s>,",", drug, Pain, D, aspirin, MS
+idarubicin,.,.,:, aspirin,</s>, Edit, drug,",", Pain, insulin
+decitabine,.,.,:,</s>, aspirin,",", Edit, drug, insulin, Pain
+gemtuzumab,.,.,:,</s>, drug, aspirin,",", D, Pain, MS
+midostaurin,.,.,:, drug,",",</s>, Pain, aspirin, MS, Edit
+venetoclax,.,.,:,</s>, D, drug, aspirin, M,",", Pain
+enasidenib,.,.,:, aspirin,",",</s>, Pain, Edit, insulin, MS
+cytarabine liposomal AND daunorubicin liposomal,.,.,:, aspirin,</s>,",", drug, Pain, insulin, MS
+ivosidenib,.,.,:,</s>,",", Edit, aspirin, drug, D,;
+gilteritinib,.,.,:,</s>, Edit,",", Pain,;, drug, aspirin
+glasdegib,.,.,:, aspirin,</s>, drug, Edit, insulin, Pain,","
+cytarabine,.,.,:,",",</s>, aspirin, Edit,;, Pain, insulin
+vincristine,.,.,:,</s>,",", Pain, Edit, aspirin, Anonymous, insulin
+daunorubicin,.,.,:, aspirin,",",</s>, Edit,;, Pain, D
+idarubicin,.,.,:, Edit,",",</s>, aspirin,;, drug, Pain
+decitabine,.,.,:, aspirin,",",</s>, insulin, drug,;, Edit
+gemtuzumab,.,.,:,</s>, drug,",", aspirin, D, insulin, M
+midostaurin,.,.,:,",",</s>, Edit, aspirin,;, drug, Pain
+venetoclax,.,.,:, aspirin, drug, insulin,</s>,",", Pain, MS
+enasidenib,.,.,:,</s>, aspirin,",", Pain, Edit, insulin, drug
+cytarabine liposomal AND daunorubicin liposomal,.,.,:,</s>, Pain, aspirin,",", Edit, D, MS
+ivosidenib,.,.,:,</s>,",", D, aspirin, M, N, Edit
+gilteritinib,.,.,:, aspirin,</s>, drug, Edit, Pain,",", insulin
+glasdegib,.,.,:,</s>,",", aspirin, Pain, drug, insulin, D
+lamivudine,.,.,:, aspirin,</s>,",", Edit, insulin, Pain, D
+efavirenz AND emtricitabine AND tenofovir,.,.,:, aspirin, Pain, Edit,</s>,",", insulin, Anonymous
+ritonavir,.,.,:, aspirin,</s>, Edit,",", Pain, drug, insulin
+emtricitabine AND tenofovir,.,.,:, aspirin,</s>, Edit,",", drug, Pain,;
+tenofovir,.,.,:,",", aspirin,</s>, Edit, insulin,;, D
+abacavir,.,.,:,</s>,",", Edit,;, Pain, Anonymous, D
+lamivudine,.,.,:, aspirin,</s>,",", Edit, Pain, drug, insulin
+efavirenz AND emtricitabine AND tenofovir,.,.,:, aspirin,</s>,",", Edit, Pain, drug,;
+ritonavir,.,.,:, aspirin,</s>,",", Pain, Edit, drug, insulin
+emtricitabine AND tenofovir,.,.,:, aspirin,</s>, Edit,",", Pain,;, drug
+tenofovir,.,.,:, aspirin, Edit,",",</s>, insulin, Pain,;
+abacavir,.,.,:, Edit,",",</s>, aspirin,;, Anonymous, D
+lamivudine,.,.,:,</s>,",", Edit, aspirin, Pain,;, insulin
+efavirenz AND emtricitabine AND tenofovir,.,.,:,",", drug,</s>, aspirin, Pain, insulin, D
+ritonavir,.,.,:,",",</s>, Edit,;, aspirin, insulin, Pain
+emtricitabine AND tenofovir,.,.,:,</s>,",", Pain, Edit, D, aspirin, MS
+tenofovir,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, drug
+abacavir,.,.,:,",", Pain,</s>, aspirin, Edit, Anonymous,;
+cytarabine,.,.,:,",", aspirin,</s>, drug, Edit, Pain,;
+vincristine,.,.,:, aspirin, drug, Pain,</s>,",", Edit, insulin
+daunorubicin,.,.,:,</s>,",", Edit, aspirin,;, insulin, Pain
+idarubicin,.,.,:,",",</s>, drug,;, aspirin, Edit, insulin
+decitabine,.,.,:,",",</s>, Edit, Pain,;,",", insulin
+gemtuzumab,.,.,:,</s>,",", D, Edit, MS, Pain, aspirin
+midostaurin,.,.,:, aspirin,</s>,",", drug, Edit, Pain, insulin
+venetoclax,.,.,:, aspirin,</s>,",", Edit, Pain,;, insulin
+enasidenib,.,.,:, aspirin,</s>, drug,",", insulin, Pain, Edit
+cytarabine liposomal AND daunorubicin liposomal,.,.,:,</s>, aspirin, insulin,",", D, Pain, drug
+ivosidenib,.,.,:, aspirin,",", Edit,;,</s>, Anonymous, Pain
+gilteritinib,.,.,:, aspirin,",",</s>, drug, Edit, Pain, insulin
+glasdegib,.,.,:,",", aspirin,</s>, Edit, Pain, MS,;
+aspirin,.,.,:,",",</s>, Edit,;, Anonymous, D, Pain
+nitroglycerin,.,.,:, aspirin,",",</s>, Edit,;, Pain, Anonymous
+metoprolol,.,.,:, aspirin,",", insulin,</s>, Edit, Pain,;
+amlodipine,.,.,:,",",</s>, Edit,;, Anonymous,.., •
+isosorbide mononitrate,.,.,:, aspirin, Edit,",", insulin, drug,</s>,;
+isosorbide dinitrate,.,.,:,</s>,",", Edit, aspirin, D, drug, C
+enoxaparin,.,.,:,</s>,",", aspirin, D, drug, Edit, insulin
+ranolazine,.,.,:, aspirin,</s>,",", drug, insulin, Edit, D
+atenolol,.,.,:,</s>, aspirin, Edit, Pain,",", insulin, Anonymous
+carvedilol,.,.,:,</s>,",", drug, Pain, aspirin, D,;
+amlodipine AND atorvastatin,.,.,:,</s>,",", aspirin, drug, Edit, Pain,;
+aspirin,.,.,:, aspirin,</s>,",", Edit, insulin,;, Pain
+nitroglycerin,.,.,:,</s>,",", Pain, drug, Edit, D, aspirin
+metoprolol,.,.,:,</s>, aspirin,",", Edit, Pain, Anonymous, D
+amlodipine,.,.,:,</s>, aspirin,",", insulin, Pain, drug, Edit
+isosorbide mononitrate,.,.,:, Edit,",",</s>, Pain, drug,;, aspirin
+isosorbide dinitrate,.,.,:, aspirin,</s>, Pain, Edit,",", Anonymous, drug
+enoxaparin,.,.,:,",",</s>, Edit,;, aspirin, Anonymous, Pain
+ranolazine,.,.,:,</s>,",", drug, Pain, Edit, D," """
+atenolol,.,.,:, aspirin, Edit,",",</s>, Pain, Anonymous,;
+carvedilol,.,.,:, aspirin,</s>,",", Pain,;, D, Edit
+amlodipine AND atorvastatin,.,.,:, aspirin, drug, insulin, Pain, Edit,",",</s>
+aspirin,.,.,:,",",</s>, aspirin, Edit, Pain,;, drug
+nitroglycerin,.,.,:, aspirin,</s>,",", drug, Edit, insulin,;
+metoprolol,.,.,:, drug,</s>, aspirin, MS,",", D, Edit
+amlodipine,.,.,:, aspirin,",",</s>, insulin, drug, Pain, Edit
+isosorbide mononitrate,.,.,:, aspirin,</s>,",", Edit, Pain, insulin," """
+isosorbide dinitrate,.,.,:,</s>, aspirin,",", drug, Pain, Edit, insulin
+enoxaparin,.,.,:,</s>,",", Edit, aspirin,;, Pain,...
+ranolazine,.,.,:, aspirin, Edit, Anonymous, Pain,</s>,",", MDMA
+atenolol,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, D
+carvedilol,.,.,:,</s>, drug, D,",", M, C, MS
+amlodipine AND atorvastatin,.,.,:,",",</s>, aspirin, Pain, D,;, drug
+aspirin,.,.,:, aspirin,</s>,",", Edit,;, insulin, Pain
+nitroglycerin,.,.,:, aspirin,</s>, Edit,",", Pain, insulin, drug
+metoprolol,.,.,:, drug,",", Pain,</s>, insulin, MS, aspirin
+amlodipine,.,.,:, aspirin,",",</s>, insulin, Pain, drug, Edit
+isosorbide mononitrate,.,.,:,",", aspirin,</s>,;, Edit, insulin, drug
+isosorbide dinitrate,.,.,:,</s>,",", aspirin, drug, Pain, D," """
+enoxaparin,.,.,:, aspirin,</s>,",", Edit, Pain, drug,;
+ranolazine,.,.,:,</s>,",", Edit, Pain,;, D, Anonymous
+atenolol,.,.,:,",",</s>, aspirin, Pain, Edit, drug, insulin
+carvedilol,.,.,:,</s>,",", drug, Pain, Edit, aspirin, insulin
+amlodipine AND atorvastatin,.,.,:,</s>, drug,",", D, aspirin, Pain, insulin
+aspirin,.,.,:, aspirin, Edit,",",</s>, Pain, insulin,;
+nitroglycerin,.,.,:, aspirin,</s>,",", Pain, insulin, drug, Edit
+metoprolol,.,.,:,",",</s>,;, Edit, aspirin, D, :
+amlodipine,.,.,:,</s>, drug,",", aspirin," """, insulin, D
+isosorbide mononitrate,.,.,:,</s>, aspirin,",", Edit, Pain, drug,;
+isosorbide dinitrate,.,.,:,</s>,",", Pain, aspirin, Edit, drug," """
+enoxaparin,.,.,:, drug, aspirin,</s>,",", insulin, MS, D
+ranolazine,.,.,:,",", aspirin, Pain, Edit, D,;, drug
+atenolol,.,.,:,</s>, drug, Pain, Drug, MS,",", Edit
+carvedilol,.,.,:, aspirin,</s>,",", Edit,;, Pain, Anonymous
+amlodipine AND atorvastatin,.,.,:,",",</s>, aspirin,;, Edit, MS, D
+ibuprofen,.,.,:, aspirin,</s>, Pain,",", Edit, insulin, drug
+naproxen,.,.,:, aspirin,</s>, Pain,",", Edit, drug, insulin
+acetaminophen,.,:,., Edit,",",</s>,;, aspirin, LSD, Anonymous
+diclofenac,.,.,:, aspirin,</s>,",", insulin, drug, D, Pain
+nabumetone,.,.,:,",",</s>, Pain, aspirin, Edit,;, insulin
+ibuprofen,.,.,:, aspirin, Edit,",",</s>, Pain,;, Anonymous
+naproxen,.,.,:,",",</s>, Pain, drug, aspirin, insulin, Edit
+acetaminophen,.,.,:,</s>,",", aspirin, Edit,;, insulin, Pain
+diclofenac,.,.,:,</s>,",", Pain, D, M, drug, aspirin
+nabumetone,.,.,:,</s>,",", drug, aspirin, Edit, Pain, insulin
+ibuprofen,.,.,:, aspirin, Edit, Pain,",",</s>, drug, insulin
+naproxen,.,.,:, aspirin,</s>,",", Pain, Edit, drug, insulin
+acetaminophen,.,.,:, aspirin,</s>,",", Pain, drug, Edit, insulin
+diclofenac,.,.,:,</s>, aspirin, drug,",", Edit, D, MS
+nabumetone,.,.,:,",", Edit,</s>, aspirin,;, Pain, insulin
+ibuprofen,.,.,:, aspirin,</s>,",", drug, insulin, Edit, Pain
+naproxen,.,.,:,</s>, aspirin,",", Edit, Pain, insulin,;
+acetaminophen,.,.,:,</s>,",", aspirin, drug, D, insulin,;
+diclofenac,.,.,:, drug,</s>, aspirin, Edit,",", Pain, MS
+nabumetone,.,.,:, aspirin,</s>,",", drug, Pain, Edit, insulin
+ibuprofen,.,.,:, aspirin, Pain, Edit,</s>, THC, Taken, drug
+naproxen,.,., aspirin,:, drug, insulin,</s>, MS,",", Pain
+acetaminophen,.,.,:,</s>,",", Edit, Pain, D, aspirin,;
+diclofenac,.,.,:,",",</s>, aspirin, D, drug, insulin, MS
+nabumetone,.,.,:,</s>,",", D, Edit, drug,;, aspirin
+lamivudine,.,.,:,",",</s>, drug, aspirin, MS, insulin, D
+efavirenz AND emtricitabine AND tenofovir,.,.,:, aspirin, Pain, drug, Anonymous, Edit, insulin, MS
+ritonavir,.,.,:, aspirin,</s>, Edit, Pain,",", insulin, drug
+emtricitabine AND tenofovir,.,.,:,</s>,",", aspirin, Pain, Edit, D, M
+tenofovir,.,.,:, drug,</s>, aspirin,",", Pain, insulin, MS
+abacavir,.,.,:, aspirin,",", Edit, Pain,</s>, insulin,;
+meloxicam,.,.,:, aspirin, Pain, Edit,",", THC, insulin,</s>
+diclofenac,.,.,:,",", drug,</s>, aspirin, Edit, MS,","
+naproxen,.,.,:,</s>,",", Edit,;, Anonymous, Pain, D
+ibuprofen,.,.,:,</s>, Pain, D, M," """,",", N
+celecoxib,.,.,:, aspirin,</s>,",", Edit, Pain, drug, insulin
+chondroitin AND glucosamine,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, D
+diclofenac,.,.,:, aspirin,",", Pain, insulin, Edit,</s>,;
+etodolac,.,.,:,",",</s>, drug, Pain, Edit, MS, D
+prednisone,.,.,:,",",</s>, Edit, D, Pain, M, MS
+aspirin,.,.,:, aspirin,</s>, drug, insulin, Edit,",", Pain
+nabumetone,.,.,:,",",</s>, Pain, drug, D,;, Edit
+duloxetine,.,.,:, aspirin,</s>,",", Edit,;, Pain, D
+terbinafine,.,.,:, Edit,</s>,",", aspirin,;, Pain, Anonymous
+terbinafine,.,.,:,",", Edit,</s>,;, Pain, Anonymous, drug
+collagenase,.,.,:, aspirin, Edit,",", Pain, MS, insulin,</s>
+becaplermin,.,.,:, aspirin,</s>,",", Edit,..., D,;
+cadexomer iodine,.,.,:,</s>,",", drug, D, MS, Pain, Edit
+modafinil,.,.,:, aspirin,</s>, Edit,",", Pain, drug, Anonymous
+duloxetine,.,.,:, aspirin,</s>,",", Edit, drug, insulin,;
+lisdexamfetamine,.,.,:,</s>, aspirin, drug,",", insulin, Pain, Edit
+amantadine,.,.,:,",", aspirin,</s>, Edit,;, Pain, Anonymous
+armodafinil,.,.,:,</s>, aspirin,",", Edit, Pain, drug,;
+ketoconazole,.,.,:,",",</s>, Edit,;, Pain, D, MS
+terbinafine,.,.,:, aspirin,",", Edit, insulin,</s>, Pain, drug
+ketoconazole,.,.,:,",",</s>, drug, aspirin, insulin, Pain, Edit
+terbinafine,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, drug
+quetiapine,.,.,:,</s>, aspirin, Edit, Pain,",", drug, insulin
+lamotrigine,.,.,:,</s>, aspirin,",", drug, Pain, Edit, D
+lithium,.,.,:,",",</s>, aspirin, Edit, insulin, MS, D
+risperidone,.,.,:, aspirin,</s>, Edit,",",;, insulin, MS
+fluoxetine,.,.,:,",",</s>, Edit,;, aspirin, drug, insulin
+olanzapine,.,.,:,</s>,",", aspirin, Pain, drug, Edit, D
+buspirone,.,.,:, aspirin,</s>, Edit,",", Pain, insulin,;
+clonazepam,.,.,:, aspirin, Edit,</s>,",", Pain,;, insulin
+sertraline,.,.,:, aspirin, insulin,",", Pain, drug, Edit,</s>
+aripiprazole,.,.,:, aspirin,</s>,",", insulin, drug, Edit, Pain
+topiramate,.,.,:,</s>, aspirin, drug,",", Edit, Pain, insulin
+diazepam,.,.,:,</s>,",", Edit, aspirin,;, Pain, D
+lorazepam,.,:,., aspirin, Edit, Pain, Taken,</s>,",", insulin
+escitalopram,.,.,:, aspirin,",",</s>, Edit, insulin, drug, Pain
+divalproex sodium,.,.,:,</s>, aspirin, Edit,",", MS, drug,;
+alprazolam,.,.,:,</s>,",", Edit, drug, Pain, aspirin,;
+clozapine,.,.,:,",",</s>,;, Edit, Anonymous, :, •
+oxcarbazepine,.,.,:,</s>, aspirin,",", drug, Pain, Edit, insulin
+citalopram,.,.,:, drug,</s>, aspirin, insulin, Pain,","," """
+haloperidol,.,.,:,</s>,",", Edit, D,;, C, aspirin
+lurasidone,.,.,:, aspirin,</s>, Edit, Pain, drug,",", insulin
+l-methylfolate,.,.,:, aspirin,",", Edit,;, insulin,</s>, Pain
+carbamazepine,.,.,:, aspirin, drug, MS, Edit, Pain,</s>,","
+asenapine,.,.,:,",",</s>, aspirin,;, insulin, D, Edit
+paliperidone,.,.,:, aspirin,</s>, Edit,",", drug, Pain, insulin
+quetiapine,.,.,:,</s>, aspirin,",", Edit, Pain, insulin, drug
+lamotrigine,.,.,:, aspirin, Edit,",",</s>, Pain, insulin,;
+lithium,.,., aspirin,:,</s>,",", insulin, Edit, Pain, drug
+risperidone,.,.,:, aspirin,</s>,",", Edit, drug, Pain, insulin
+fluoxetine,.,.,:, aspirin, Edit,</s>,",", Pain,;, drug
+olanzapine,.,.,:,",",</s>, Edit,;, aspirin, Anonymous, insulin
+buspirone,.,.,:, aspirin,",",</s>, insulin, Edit, Pain,;
+clonazepam,.,.,:,</s>,",", Edit," """, D,;, Pain
+sertraline,.,.,:, aspirin,</s>,",", insulin, Pain, Edit, drug
+aripiprazole,.,.,:,",", aspirin,</s>, Edit, insulin, Pain,;
+topiramate,.,.,:, aspirin,</s>, Edit,",", drug, Pain, insulin
+diazepam,.,.,:,</s>, Edit, aspirin,",", Pain,;, Anonymous
+lorazepam,.,.,:,</s>, Pain,",", aspirin, Edit, drug, MS
+escitalopram,.,.,:, aspirin,</s>, drug, insulin,",", Pain, D
+divalproex sodium,.,.,:,</s>,",", Edit, drug, Pain,;, D
+alprazolam,.,.,:, aspirin,",", Edit, Pain,</s>, insulin,;
+clozapine,.,.,:,",",</s>, Edit,;, aspirin, D, Pain
+oxcarbazepine,.,.,:, aspirin,</s>, Pain, Edit, drug,",", insulin
+citalopram,.,.,:, aspirin, drug, insulin, Pain,</s>,",", Edit
+haloperidol,.,.,:, aspirin,</s>, Edit,",", drug, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>,",", Edit, Pain, insulin,;
+l-methylfolate,.,.,:,</s>, aspirin,",", Edit, Pain, drug, MS
+carbamazepine,.,.,:, aspirin, drug, insulin,</s>, Edit, Pain,","
+asenapine,.,.,:,</s>,",", aspirin, Edit,;, Pain, insulin
+paliperidone,.,.,:,</s>, aspirin,",", Edit, drug, insulin,;
+ibuprofen,.,.,:, aspirin, Edit,</s>,",", Pain, Anonymous,;
+naproxen,.,.,:,</s>, aspirin, Pain,",", Edit, drug, insulin
+acetaminophen,.,., aspirin,:, insulin,</s>, Pain, drug,",", Edit
+diclofenac,.,.,:, aspirin,</s>,",", Pain, Edit, drug, insulin
+nabumetone,.,.,:,</s>, aspirin,",", Edit, Pain, insulin, Anonymous
+ibuprofen,.,., aspirin,:, Pain, drug, insulin, Edit,</s>,","
+naproxen,.,.,:, aspirin,</s>, drug, Edit, Pain, insulin,","
+acetaminophen,.,.,:, aspirin,</s>,",", Edit, Pain, insulin,;
+diclofenac,.,.,:,",", aspirin,</s>, Pain, Edit, drug, insulin
+nabumetone,.,.,:,</s>,",", Edit, aspirin, D, Pain,;
+ibuprofen,.,.,:, aspirin, Edit, Pain,</s>, drug, insulin,","
+naproxen,.,.,:, aspirin, drug,</s>, Edit, Pain,",", insulin
+acetaminophen,.,.,:,</s>, aspirin,",", D, drug, Pain, Edit
+diclofenac,.,.,:, aspirin,",",</s>, insulin, MS, drug, Pain
+nabumetone,.,.,:,",",</s>, drug, aspirin, Edit," """, insulin
+cytarabine,.,.,:, aspirin, drug, insulin,</s>,",", Pain, Edit
+vincristine,.,.,:,</s>,",", aspirin, D, Edit, insulin, Pain
+daunorubicin,.,.,:,</s>,",", aspirin, MS, insulin, D,;
+idarubicin,.,.,:, aspirin,",",</s>, Edit, Pain,;, insulin
+decitabine,.,.,:, aspirin,</s>, Pain, MS, Edit,",", D
+gemtuzumab,.,.,:, aspirin,</s>,",",;, MS, drug, D
+midostaurin,.,.,:, aspirin, insulin, drug, Edit, Pain,",", MS
+venetoclax,.,.,:,</s>, drug, Pain, aspirin,","," """,...
+enasidenib,.,.,:, aspirin,</s>, drug, insulin,",", Pain, MS
+cytarabine liposomal AND daunorubicin liposomal,.,.,:,</s>, aspirin,",", Edit, Pain, drug, insulin
+ivosidenib,.,.,:,",",</s>, Edit,;, aspirin, Anonymous, Pain
+gilteritinib,.,.,:, aspirin, Edit,",",</s>, drug, Pain, insulin
+glasdegib,.,.,:, aspirin, Pain,</s>, Edit,",", drug, insulin
+cytarabine,.,.,:,",",</s>, Edit, drug, Pain, MS,","
+vincristine,.,.,:, aspirin, Edit, Pain, insulin, Anonymous, drug,","
+daunorubicin,.,.,:,",", aspirin, drug,</s>, Edit,",", insulin
+idarubicin,.,.,:,",",</s>, D, drug, M, Pain, aspirin
+decitabine,.,.,:,",",</s>, Edit,;, aspirin, insulin, Pain
+gemtuzumab,.,.,:,</s>, drug,",", Pain,;, aspirin, Edit
+midostaurin,.,.,:, aspirin,</s>, Pain, Edit, drug,",", insulin
+venetoclax,.,.,:, aspirin, Pain,</s>, Edit,",", insulin, drug
+enasidenib,.,:,.,",", Edit,;,</s>, Pain, aspirin, insulin
+cytarabine liposomal AND daunorubicin liposomal,.,.,:,</s>, aspirin,",", Pain, Edit,;, insulin
+ivosidenib,.,.,:,</s>, aspirin, drug, Pain,",", Edit, insulin
+gilteritinib,.,.,:,",",</s>, drug, MS, D," """, insulin
+glasdegib,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+cytarabine,.,.,:,</s>,",", Edit,;, Pain, drug, aspirin
+vincristine,.,.,:, aspirin, Pain,",",</s>, Edit, insulin, drug
+daunorubicin,.,.,:,</s>,",", Edit,;, aspirin, Pain, Anonymous
+idarubicin,.,.,:, aspirin,",", drug, MS, insulin,</s>, Pain
+decitabine,.,.,:, aspirin,</s>,",", drug, insulin, Edit, Pain
+gemtuzumab,.,.,:, aspirin,</s>, Edit, Pain,",", Anonymous, drug
+midostaurin,.,.,:, Edit,</s>, aspirin, Anonymous, Pain,",", drug
+venetoclax,.,.,:, aspirin,",",</s>, Edit, Pain, insulin, D
+enasidenib,.,.,:, aspirin,</s>, drug,",", insulin, Edit, Pain
+cytarabine liposomal AND daunorubicin liposomal,.,.,:,",",</s>, aspirin, drug, Edit, Pain,;
+ivosidenib,.,.,:,",",</s>, Edit, Pain, drug,;, aspirin
+gilteritinib,.,.,:, aspirin,</s>, Pain, drug, insulin, Edit,","
+glasdegib,.,.,:,",", Edit,</s>,;, Pain, Anonymous, aspirin
+dexamethasone,.,.,:,</s>, Edit," """,",",",", drug, Pain
+thalidomide,.,.,:,</s>, aspirin,",", Edit, Pain,;, insulin
+cyclophosphamide,.,.,:,",", Edit,</s>, aspirin,;, insulin, D
+lenalidomide,.,.,:,</s>,",", drug, aspirin, Edit, D,;
+bortezomib,.,.,:,</s>,",", Pain, Edit, D, drug, aspirin
+carfilzomib,.,.,:,</s>, aspirin,",", Pain, Edit, D, insulin
+pomalidomide,.,.,:, aspirin, drug, Pain, Edit,</s>, insulin, MS
+daratumumab,.,.,:,</s>, aspirin,",", drug, insulin, Edit," """
+melphalan,.,.,:,</s>,",", D, M, drug, N, C
+dexamethasone,.,.,:, aspirin,</s>,",", Edit, drug, Pain, insulin
+thalidomide,.,.,:,",", Edit, aspirin,</s>, Pain,;, drug
+cyclophosphamide,.,.,:, aspirin,",", drug, insulin, Pain,</s>, MS
+lenalidomide,.,.,:, aspirin,</s>, Edit, drug,",", insulin, Pain
+bortezomib,.,.,:,</s>, aspirin,",", Pain, Edit, drug, insulin
+carfilzomib,.,.,:, aspirin, drug,</s>,",", insulin, Edit, MS
+pomalidomide,.,.,:,",",</s>, Edit, aspirin, Pain,;, Anonymous
+daratumumab,.,.,:, aspirin,</s>,",", Pain, Edit,;, insulin
+melphalan,.,.,:, aspirin,</s>, drug,",", insulin, Edit, Pain
+cyclophosphamide,.,.,:,</s>, aspirin,",", drug, Edit, Pain, M
+vincristine,.,.,:, aspirin,</s>, Edit,",",;, Anonymous, Pain
+rituximab,.,.,:, aspirin,</s>,",", insulin, Edit, Pain, drug
+methotrexate,.,.,:,</s>, drug,",", Edit, Pain," """,;
+bendamustine,.,.,:, aspirin,</s>, Pain,",", Edit, drug, insulin
+cytarabine,.,.,:,",", aspirin, Edit,</s>,;, insulin, D
+fludarabine,.,.,:, aspirin,",", Edit,</s>,;, insulin, D
+bleomycin,.,.,:,</s>,",", D, Pain," """, M, aspirin
+carmustine,.,.,:, aspirin,</s>, Edit,",", Pain, drug, insulin
+idelalisib,.,.,:, aspirin,</s>,",", D, insulin, Anonymous,;
+ibritumomab,.,.,:,</s>, aspirin,",", Edit, drug, Pain, insulin
+ibrutinib,.,.,:,",",</s>, aspirin, Edit, Pain,;, insulin
+mitoxantrone,.,.,:,</s>,",", Edit,;, drug, Pain, D
+dexamethasone,.,.,:, aspirin,</s>,",", Edit,;, Pain, Anonymous
+thalidomide,.,.,:, aspirin, drug,</s>, insulin,",", Edit, Pain
+cyclophosphamide,.,.,:, aspirin,</s>, Pain, Edit, drug,",", insulin
+lenalidomide,.,.,:, aspirin,</s>,",", Edit, Pain, drug, insulin
+bortezomib,.,.,:, aspirin,</s>, Edit,",", Pain, D, drug
+carfilzomib,.,.,:, aspirin, drug,",",</s>, insulin, Edit, D
+pomalidomide,.,.,:,</s>, aspirin, Pain,",", Edit, D, drug
+daratumumab,.,.,:,</s>, aspirin,",", Pain, Edit, insulin,;
+melphalan,.,.,:,",",</s>, aspirin, Edit, Pain, insulin, drug
+dexamethasone,.,.,:,</s>, aspirin,",", Edit, drug, Pain, D
+thalidomide,.,.,:,",",</s>, Edit,;, Pain, D, aspirin
+cyclophosphamide,.,.,:, aspirin,</s>, Edit,",", Anonymous, Pain, insulin
+lenalidomide,.,.,:,</s>, aspirin, Pain, Edit,",", drug, Anonymous
+bortezomib,.,.,:, aspirin,</s>, drug,",", Pain, Edit, insulin
+carfilzomib,.,.,:, Pain,</s>, Edit,",", Anonymous, aspirin,;
+pomalidomide,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+daratumumab,.,.,:, aspirin,</s>, Edit, drug,",", Pain, insulin
+melphalan,.,.,:, aspirin, Pain, drug, insulin, Edit,",", MS
+miconazole,.,.,:,</s>, aspirin, Edit,",", Pain, drug, insulin
+miconazole,.,.,:, aspirin, drug,</s>,",", insulin, Pain, Edit
+risperidone,.,.,:, aspirin, drug,</s>, Pain, insulin, Taken,","
+clozapine,.,.,:,",",</s>, aspirin,;, insulin, Anonymous, Edit
+olanzapine,.,.,:, aspirin,</s>,",", Edit, drug,;, insulin
+quetiapine,.,.,:,</s>,",", aspirin, drug, insulin, Pain, D
+aripiprazole,.,.,:,</s>,",", Edit, Pain,;, drug, aspirin
+chlorpromazine,.,.,:,",",</s>, aspirin, drug,;, Edit, Pain
+paliperidone,.,.,:,",",</s>, drug, Edit,;, aspirin, insulin
+ziprasidone,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, drug
+loxapine,.,.,:,</s>,",", Pain, D, Edit, M, N
+modafinil,.,.,:,</s>, aspirin,",", Edit, insulin,;, D
+duloxetine,.,.,:, aspirin,</s>,",", insulin, drug, Edit, Pain
+lisdexamfetamine,.,.,:, aspirin,</s>,",", Pain, Edit, Anonymous, insulin
+amantadine,.,.,:,",", aspirin, Edit,;,</s>, Pain, Anonymous
+armodafinil,.,.,:, aspirin,",", Edit,</s>, drug,;, insulin
+modafinil,.,.,:, aspirin,</s>,",", Pain, drug, Edit, insulin
+duloxetine,.,.,:, aspirin,</s>,",", Edit, insulin, drug, Pain
+lisdexamfetamine,.,.,:,</s>,",", Edit, Pain, Anonymous, D,;
+amantadine,.,.,:,</s>, aspirin,",", Pain, Edit,;, D
+armodafinil,.,.,:, aspirin, Pain, Edit, drug,</s>, insulin, Taken
+atorvastatin,.,.,:, aspirin,",",</s>, Edit, Pain, insulin, drug
+simvastatin,.,.,:,</s>, aspirin, Edit, Pain,",", drug, D
+pravastatin,.,.,:,</s>,",", drug,;, Edit, insulin, D
+rosuvastatin,.,:,.,",",</s>,;, Edit, aspirin, insulin, Pain
+lovastatin,.,.,:, aspirin, insulin,</s>, Pain, Edit,",", drug
+ezetimibe,.,.,:,</s>,",", Edit, aspirin, Pain, MS, D
+gemfibrozil,.,.,:,",", aspirin, Pain,</s>, Edit, insulin,;
+niacin,.,:,.,",",</s>, Edit,;, Pain, drug, insulin
+ezetimibe AND simvastatin,.,.,:,</s>,",", Edit, drug, Pain, D,...
+fenofibric acid,.,.,:,</s>, drug, aspirin,",", insulin," """, Pain
+atorvastatin,.,.,:, aspirin,</s>, Edit, Pain, insulin, drug,","
+simvastatin,.,.,:,</s>,",", Edit,;, aspirin, D, insulin
+pravastatin,.,.,:,</s>, aspirin,",", Pain, Edit,;, insulin
+rosuvastatin,.,.,:, aspirin,",",</s>, Edit, drug, Pain, insulin
+lovastatin,.,.,:,</s>, aspirin,",", MS, D,;, M
+ezetimibe,.,.,:,",",</s>, Edit,;, Pain, Anonymous, aspirin
+gemfibrozil,.,.,:,</s>,",", Edit, aspirin, Pain, drug,;
+niacin,.,.,:,</s>,",", aspirin, Pain, insulin,;, Edit
+ezetimibe AND simvastatin,.,.,:,</s>, aspirin, drug,",", Edit, insulin, Pain
+fenofibric acid,.,.,:, aspirin, Edit, Anonymous, Pain,</s>,",", drug
+atorvastatin,.,.,:, aspirin,",", Edit, Pain,;,</s>, insulin
+simvastatin,.,.,:,</s>, drug,",", aspirin, insulin, Edit, MS
+pravastatin,.,.,:, aspirin, Edit, Pain,</s>,",", Anonymous,;
+rosuvastatin,.,.,:, aspirin,</s>,",", drug, insulin, Edit,;
+lovastatin,.,., aspirin,:, Edit, drug,</s>, Pain,",", insulin
+ezetimibe,.,.,:, Edit, aspirin,</s>,",", Pain,;, Anonymous
+gemfibrozil,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, drug
+niacin,.,.,:,</s>, drug,",", Pain, Edit, aspirin, Drug
+ezetimibe AND simvastatin,.,.,:, aspirin,</s>, Edit,",", Anonymous, Pain, MDMA
+fenofibric acid,.,.,:, aspirin,",",</s>, Edit, insulin, drug, Pain
+atorvastatin,.,.,:, aspirin, Edit,",", Pain,;, Anonymous,</s>
+simvastatin,.,.,:,</s>, aspirin, Edit,",",;, Pain, D
+pravastatin,.,.,:,</s>,",",;, Edit, D, Anonymous, Pain
+rosuvastatin,.,.,:,</s>, aspirin,",", drug, insulin, Edit, Pain
+lovastatin,.,.,:,",",</s>, Edit,;, aspirin, Pain, D
+ezetimibe,.,.,:,</s>, aspirin, drug,",", Edit, Pain,;
+gemfibrozil,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+niacin,.,.,:,</s>, drug,",", Pain, aspirin, D, Drug
+ezetimibe AND simvastatin,.,.,:, aspirin,</s>,",", drug, Pain, insulin, Edit
+fenofibric acid,.,.,:, Edit, aspirin,",",</s>,;, drug, Pain
+modafinil,.,.,:, aspirin,</s>, drug, Pain,",", insulin, D
+duloxetine,.,.,:, aspirin,</s>, Edit, Pain,",", drug, insulin
+lisdexamfetamine,.,.,:, aspirin, Edit,",",</s>,;, insulin, Pain
+amantadine,.,.,:,</s>,",", aspirin, Edit,;, Pain, insulin
+armodafinil,.,.,:, aspirin, Edit,</s>, Pain, drug, insulin,","
+modafinil,.,.,:,",", aspirin,</s>, Edit,;, Pain, D
+duloxetine,.,.,:,",", drug,</s>, insulin, aspirin, Edit, MS
+lisdexamfetamine,.,.,:,</s>,",", drug, aspirin,;, insulin, Edit
+amantadine,.,.,:,</s>,",", Pain, aspirin, drug, Edit, insulin
+armodafinil,.,.,:, drug,</s>,",", Edit, aspirin, Pain, insulin
+lamivudine,.,.,:, aspirin,</s>, Pain, insulin, Edit, drug, MS
+efavirenz AND emtricitabine AND tenofovir,.,.,:, aspirin,",",</s>, insulin, drug, Pain,;
+ritonavir,.,.,:, aspirin, drug, Edit, Pain,</s>, insulin,","
+emtricitabine AND tenofovir,.,.,:,</s>,",", aspirin, Edit,;, insulin, drug
+tenofovir,.,.,:, Edit,</s>,",", Pain, aspirin, Anonymous, Taken
+abacavir,.,.,:, drug, aspirin,</s>, Edit, MS, Drug, insulin
+collagenase,.,.,:,</s>, drug,",", Pain, aspirin, Edit, MS
+becaplermin,.,.,:, aspirin,</s>,",", Pain, drug, Edit, insulin
+cadexomer iodine,.,.,:,",", Edit, aspirin,</s>, Pain,;, insulin
+collagenase,.,.,:,</s>, aspirin,",", Edit, Pain,;, insulin
+becaplermin,.,.,:,</s>,",", aspirin, Edit,;, insulin, D
+cadexomer iodine,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, D
+meloxicam,.,.,:, aspirin,</s>,",", Pain, Edit, Anonymous,;
+diclofenac,.,.,:,",", aspirin, Edit,;,</s>, insulin, Pain
+naproxen,.,.,:, Edit,",",</s>, aspirin,;, Anonymous, Pain
+ibuprofen,.,.,:,</s>,",", D, Edit,;, aspirin, M
+celecoxib,.,.,:, aspirin, insulin,",", Edit, drug,</s>, MS
+chondroitin AND glucosamine,.,.,:, aspirin,",",</s>,;, Edit, Pain, Anonymous
+diclofenac,.,.,:,",", aspirin,</s>, Edit, insulin,;, Pain
+etodolac,.,.,:,",",</s>, MS, Pain, Edit,",", insulin
+prednisone,.,.,:, aspirin, Pain, Edit,</s>, insulin, Taken, Anonymous
+aspirin,.,.,:, aspirin,",", Edit,</s>,;, Pain, drug
+nabumetone,.,.,:, aspirin, Edit,",",</s>,;, Pain, Anonymous
+duloxetine,.,.,:, aspirin,</s>,",", drug, insulin, Edit, Pain
+meloxicam,.,.,:, aspirin,</s>,",", Pain, Edit, drug,;
+diclofenac,.,.,:, aspirin,</s>, Edit,",", Pain, insulin, drug
+naproxen,.,.,:, aspirin,",",</s>, Edit,;, insulin, Pain
+ibuprofen,.,.,:,</s>, aspirin,",", Edit,;, Pain, insulin
+celecoxib,.,.,:, aspirin, drug, insulin,",",</s>, Pain, D
+chondroitin AND glucosamine,.,.,:,</s>, aspirin,",", Pain, Edit,;, insulin
+diclofenac,.,.,:, drug, aspirin,",",</s>, Edit, Pain, insulin
+etodolac,.,.,:,</s>, aspirin, Edit,",", Pain, MS, insulin
+prednisone,.,.,:, aspirin, Edit, Pain, insulin,</s>,",", drug
+aspirin,.,.,:, aspirin,</s>,",", drug, Edit, Pain,;
+nabumetone,.,.,:,</s>, aspirin,",", Pain, Edit,;, D
+duloxetine,.,.,:,</s>,",", aspirin, Edit,;, Pain, D
+collagenase,.,.,:, aspirin,</s>,",", drug, Edit,;, insulin
+becaplermin,.,.,:, aspirin,</s>,",", Edit, insulin, Pain, drug
+cadexomer iodine,.,.,:,</s>, aspirin,",", Edit, drug, insulin,;
+collagenase,.,.,:, aspirin,</s>,",", drug, Edit, insulin, Pain
+becaplermin,.,.,:,</s>,",", aspirin, drug, insulin, Pain, D
+cadexomer iodine,.,.,:,</s>, drug,",", aspirin, Pain, D, M
+collagenase,.,.,:,</s>,",", D, N, Edit,;, C
+becaplermin,.,.,:,</s>,",", D, Edit, C, N, M
+cadexomer iodine,.,., aspirin,:, Edit, Pain,</s>, Anonymous, drug, Taken
+ibuprofen,.,.,:, aspirin,</s>,",", Edit, Pain,;, insulin
+naproxen,.,.,:,",",</s>, aspirin, Pain, D, Edit,;
+acetaminophen,.,.,:, aspirin,</s>,",", insulin, Edit,;, drug
+diclofenac,.,:,., aspirin,",", Edit, Pain,</s>, insulin, Anonymous
+nabumetone,.,.,:, Edit,</s>,",", aspirin, Anonymous, Pain,;
+risperidone,.,.,:, aspirin, Pain, drug, Edit,</s>, insulin, LSD
+clozapine,.,.,:,</s>,",", Pain, D, M, C, N
+olanzapine,.,.,:, aspirin,</s>, Pain, Edit,",", insulin, drug
+quetiapine,.,.,:, aspirin,</s>, Pain, Edit, drug,",", insulin
+aripiprazole,.,.,:,",", aspirin,</s>, Edit,;, Anonymous, Pain
+chlorpromazine,.,.,:,</s>, aspirin,",", Edit, Pain, insulin,;
+paliperidone,.,.,:, aspirin, Edit,</s>, Pain, Anonymous,",", insulin
+ziprasidone,.,.,:,</s>,",", aspirin, Edit,;, insulin, Anonymous
+loxapine,.,.,:,</s>,",", aspirin, Edit,;, Pain, Anonymous
+meloxicam,.,.,:,",",</s>, Edit, aspirin, Pain, Anonymous, insulin
+diclofenac,.,.,:,</s>,",", aspirin, Pain, Edit, drug,;
+naproxen,.,.,:, aspirin, Pain, Edit,</s>,",", insulin, Taken
+ibuprofen,.,.,:,",",</s>, Edit,;, aspirin, Pain, Anonymous
+celecoxib,.,.,:,</s>, aspirin, drug, D, Pain,",", MS
+chondroitin AND glucosamine,.,.,:, aspirin, drug, insulin,",",</s>,;, dex
+diclofenac,.,.,:,</s>,",", D, Pain, M, Edit," """
+etodolac,.,.,:,",",</s>, Edit,;, Anonymous, insulin, drug
+prednisone,.,.,:, aspirin,",", drug,</s>, D, insulin, Pain
+aspirin,.,.,:,",",</s>, D,;, Edit, Pain, MS
+nabumetone,.,.,:,</s>, Pain,",", aspirin, Edit, D,;
+duloxetine,.,.,:, aspirin, drug,</s>, insulin,",", Pain, Edit
+quetiapine,.,.,:, aspirin,</s>,",", Edit, drug, insulin,;
+lamotrigine,.,.,:,</s>,",", Edit,;, aspirin, D, insulin
+lithium,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+risperidone,.,.,:, aspirin,</s>,",", insulin, D, Pain, drug
+fluoxetine,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, drug
+olanzapine,.,.,:, aspirin,</s>,",", Edit,;, insulin, MS
+buspirone,.,.,:, aspirin,",",</s>, Edit, insulin, drug,;
+clonazepam,.,.,:,",",</s>, Edit,;, Pain, D, C
+sertraline,.,.,:,",",</s>, Edit, D, aspirin, insulin,;
+aripiprazole,.,.,:,</s>,",", aspirin, Edit, Pain,;, insulin
+topiramate,.,:,., aspirin, Edit,</s>, insulin,",", Pain, drug
+diazepam,.,.,:,</s>, aspirin,",", drug, MS,..., Edit
+lorazepam,.,.,:, aspirin,</s>, drug, insulin, Pain, Edit,","
+escitalopram,.,.,:, aspirin,</s>, Edit, Pain, drug,",", insulin
+divalproex sodium,.,.,:,</s>,",", aspirin, drug, Pain,;, Edit
+alprazolam,.,.,:, aspirin,</s>, drug, Pain,",", insulin, Edit
+clozapine,.,.,:,</s>,",", Edit, Pain, D,...,;
+oxcarbazepine,.,.,:, aspirin, drug,</s>,",", Edit, insulin, Pain
+citalopram,.,.,:, aspirin, Edit, Pain,</s>, Anonymous,",", drug
+haloperidol,.,.,:,</s>,",", aspirin, drug, Edit," """, Pain
+lurasidone,.,.,:, aspirin,</s>,",", Pain, Edit, drug, insulin
+l-methylfolate,.,.,:,</s>, aspirin,",", drug, Edit, insulin," """
+carbamazepine,.,.,:,</s>, aspirin,",", Edit, Pain, Anonymous, insulin
+asenapine,.,.,:, aspirin, Edit,</s>,",", drug, Pain,;
+paliperidone,.,.,:,</s>, aspirin,",", Edit, Pain, insulin,;
+quetiapine,.,.,:,</s>,",", aspirin, Edit, D,;, Pain
+lamotrigine,.,.,:,</s>,",", Edit,;, Pain, Anonymous, aspirin
+lithium,.,.,:,</s>,",", drug, Edit, D, Pain,...
+risperidone,.,.,:, aspirin,</s>, Pain,",", Edit, drug, insulin
+fluoxetine,.,.,:,</s>, Edit,",", aspirin, D,;, Pain
+olanzapine,.,.,:,",", Edit, aspirin,</s>,;, insulin, Anonymous
+buspirone,.,.,:,",",</s>, aspirin, Pain, drug, D, insulin
+clonazepam,.,.,:,",",</s>, Edit, aspirin,;, Pain, insulin
+sertraline,.,.,:, aspirin, Pain,</s>,",", Edit, MS, D
+aripiprazole,.,.,:, aspirin, Pain, Edit,",", insulin,</s>,;
+topiramate,.,.,:,",",</s>, aspirin,;, insulin, Edit, MS
+diazepam,.,.,:,</s>,",", aspirin, D,;, insulin, drug
+lorazepam,.,:,.,",", Edit,</s>,;, :, Anonymous, Pain
+escitalopram,.,.,:, Edit,</s>,",", aspirin,;, D, Pain
+divalproex sodium,.,.,:,</s>, aspirin,",", D, Pain, insulin, Edit
+alprazolam,.,.,:, aspirin, Edit,</s>,",", Pain,;, insulin
+clozapine,.,.,:, aspirin, Pain, drug,",",</s>, insulin, Edit
+oxcarbazepine,.,.,:,</s>, aspirin,",", D, Pain, Edit, drug
+citalopram,.,.,:,</s>, aspirin, Edit,",", Pain, insulin,;
+haloperidol,.,.,:, aspirin,</s>, drug, insulin,",", Pain, Edit
+lurasidone,.,.,:,</s>, aspirin,",", drug, insulin, D,;
+l-methylfolate,.,.,:,",",</s>, Edit,;, aspirin, drug, MS
+carbamazepine,.,.,:,</s>,",", Edit,;, aspirin, Pain, Anonymous
+asenapine,.,.,:,</s>,",", Edit,;, aspirin, Anonymous, D
+paliperidone,.,.,:,",", aspirin, Pain, insulin,</s>, drug, MS
+ibuprofen,.,.,:, aspirin, Edit,</s>,",",;, Anonymous, LSD
+naproxen,.,.,:, aspirin,</s>,",", Edit, drug, Pain, insulin
+acetaminophen,.,.,:, aspirin, drug,</s>, MS, insulin,",", Pain
+diclofenac,.,.,:, aspirin,</s>,",", insulin, Edit,;, Pain
+nabumetone,.,.,:, aspirin,</s>, drug, Pain,",", Edit, insulin
+quetiapine,.,.,:, aspirin,</s>, drug, insulin, Pain, Edit,","
+lamotrigine,.,.,:, Pain, drug,",", Edit,</s>, aspirin,;
+lithium,.,.,:, aspirin,",", drug, Edit,</s>, insulin, Pain
+risperidone,.,.,:,</s>,",", aspirin, drug, Edit, Pain, D
+fluoxetine,.,.,:, aspirin,</s>, Edit,",", Pain, D,;
+olanzapine,.,.,:, aspirin,",", Edit, Pain,</s>,;, insulin
+buspirone,.,.,:,",",</s>, Edit,;, Pain, aspirin, Anonymous
+clonazepam,.,.,:,</s>,",", aspirin, Edit, Pain,;, D
+sertraline,.,.,:,</s>,",", drug, aspirin, Edit, MS, D
+aripiprazole,.,.,:,",",</s>, drug, Pain, aspirin, D, Edit
+topiramate,.,.,:, aspirin, Pain, insulin, drug,</s>, Edit, MS
+diazepam,.,.,:, aspirin, drug,</s>,",", Edit, insulin,;
+lorazepam,.,:,., aspirin,",", Edit,;,</s>, insulin, Pain
+escitalopram,.,.,:, aspirin,</s>,",", Edit, Pain, drug, insulin
+divalproex sodium,.,.,:, aspirin,",", Edit,</s>, Pain,;, drug
+alprazolam,.,.,:,</s>,",", Edit, D,;, aspirin, M
+clozapine,.,.,:,</s>, aspirin,",", Edit, insulin, drug, Pain
+oxcarbazepine,.,.,:,",",</s>, Edit, aspirin, Pain,;, D
+citalopram,.,.,:, aspirin,</s>, Edit,",", drug, Pain, insulin
+haloperidol,.,.,:,</s>,",", Pain, aspirin, Edit, MS, drug
+lurasidone,.,.,:, aspirin,</s>, Pain, Edit, drug, insulin,","
+l-methylfolate,.,.,:,",", Edit, aspirin,</s>,;, Anonymous, Pain
+carbamazepine,.,.,:, aspirin,</s>, Edit, drug, MDMA,",",;
+asenapine,.,.,:, aspirin,</s>,",", insulin, D, Pain, drug
+paliperidone,.,.,:,</s>,",", Edit, aspirin,;, insulin, drug
+quetiapine,.,.,:, aspirin,</s>, drug,",", Edit, Pain, insulin
+lamotrigine,.,.,:,",",</s>, Edit, aspirin,;, Pain, drug
+lithium,.,.,:, aspirin,</s>, Edit, Pain, drug, insulin,","
+risperidone,.,.,:,</s>,",", Edit, D,;," """, Pain
+fluoxetine,.,.,:,</s>,",", drug, Pain, aspirin,;, Edit
+olanzapine,.,.,:,</s>,",", Edit, aspirin, drug, Pain,;
+buspirone,.,.,:,</s>,",", aspirin, Pain, Edit, drug,;
+clonazepam,.,.,:,</s>, aspirin, Pain, drug, Edit,",", D
+sertraline,.,.,:, drug,</s>, D, aspirin, C, insulin, Pain
+aripiprazole,.,.,:,</s>, aspirin, drug,",", Pain, Edit, insulin
+topiramate,.,.,:,",",</s>, aspirin, Pain, Edit,;, D
+diazepam,.,.,:, aspirin,</s>, Edit, insulin, Pain,",", Taken
+lorazepam,.,.,:,</s>, drug, D,",", C, N," """
+escitalopram,.,.,:, aspirin, Edit,</s>,",", Pain,;, drug
+divalproex sodium,.,.,:, aspirin,</s>, Edit,",",;, Pain, Anonymous
+alprazolam,.,.,:,</s>,",", Edit,;, Pain, aspirin, D
+clozapine,.,.,:, aspirin, Edit,",",</s>, Pain, insulin, Anonymous
+oxcarbazepine,.,.,:,</s>,",", aspirin, Edit, D,;, Pain
+citalopram,.,., aspirin,:,</s>, drug, Pain, insulin,",", Edit
+haloperidol,.,.,:, aspirin, Edit,</s>,",",;, insulin, D
+lurasidone,.,.,:, aspirin, drug,</s>,",", insulin, MS, Edit
+l-methylfolate,.,.,:, aspirin,</s>,",", Pain, Edit, drug, insulin
+carbamazepine,.,.,:, aspirin,</s>,",", insulin, Edit, drug,;
+asenapine,.,.,:, aspirin,</s>, Edit,",", insulin, drug,;
+paliperidone,.,.,:,</s>,",", aspirin, Edit, D, Anonymous,;
+quetiapine,.,.,:,",",</s>, drug, Pain, MS, aspirin, D
+lamotrigine,.,.,:,",",</s>, Edit, aspirin,;, Pain, MS
+lithium,.,.,:,</s>, aspirin,",", D, insulin, Pain, drug
+risperidone,.,.,:,</s>, drug,","," """, aspirin, Pain, Edit
+fluoxetine,.,.,:, aspirin, Pain, Edit, drug,</s>, insulin, MS
+olanzapine,.,.,:, drug,</s>, aspirin, Pain,",", Edit," """""
+buspirone,.,.,:, aspirin, Pain, Edit,</s>,",",;, Anonymous
+clonazepam,.,.,:,",", aspirin, Edit,</s>,;, Pain, insulin
+sertraline,.,.,:,",",</s>, aspirin, Edit,;, Pain, insulin
+aripiprazole,.,.,:,</s>, Edit,",", aspirin, drug, Pain,;
+topiramate,.,., aspirin,:, drug, Edit, Pain,</s>, insulin, Taken
+diazepam,.,.,:, aspirin,</s>, Pain,",", drug, insulin, Edit
+lorazepam,.,.,:, aspirin,</s>, Pain, Edit,",", insulin, drug
+escitalopram,.,.,:,</s>, aspirin,",", Edit, Pain, drug, D
+divalproex sodium,.,.,:,</s>,",", Edit, aspirin, Pain,;, Anonymous
+alprazolam,.,.,:, aspirin,</s>, insulin,",", drug, Pain, Edit
+clozapine,.,.,:, Edit, Pain,</s>,",", aspirin, Anonymous, drug
+oxcarbazepine,.,.,:,",",</s>, Edit, aspirin, drug, Pain, D
+citalopram,.,.,:,",",</s>,;, Edit, insulin, drug, :
+haloperidol,.,.,:, aspirin, drug,</s>, insulin,",", Pain, D
+lurasidone,.,.,:, Edit,</s>,",",;, Pain, aspirin, drug
+l-methylfolate,.,.,:,</s>, aspirin, Edit,",", Pain, drug,;
+carbamazepine,.,.,:,</s>,",", Pain, Edit, D, aspirin,;
+asenapine,.,.,:, aspirin, Pain, drug, Edit, insulin,</s>, THC
+paliperidone,.,.,:, aspirin, drug, insulin, Pain,</s>, Edit,","
+quetiapine,.,.,:,</s>,",", drug, D, insulin, MS, Pain
+lamotrigine,.,.,:,</s>,",", aspirin, drug," """, insulin,","
+lithium,.,.,:,</s>, Edit," """,","," """"",",", D
+risperidone,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, drug
+fluoxetine,.,.,:, aspirin,</s>, drug, Edit, Pain, insulin,","
+olanzapine,.,.,:,</s>, Edit,",", aspirin, Pain,;, insulin
+buspirone,.,.,:, aspirin,</s>, Pain, Edit,",", Anonymous, insulin
+clonazepam,.,., aspirin,:, Edit, Pain, insulin, Anonymous,</s>, Taken
+sertraline,.,.,:, aspirin,</s>, Edit, Pain,",", Anonymous, insulin
+aripiprazole,.,.,:, aspirin,</s>,",", drug, insulin, Pain, D
+topiramate,.,.,:, aspirin,",",</s>, Edit, drug, Pain, insulin
+diazepam,.,.,:, Edit,",", aspirin,</s>, Pain, Anonymous, insulin
+lorazepam,.,.,:,</s>,",", Pain, Edit, aspirin, drug,;
+escitalopram,.,.,:,</s>, aspirin,",", Pain, Edit, drug, D
+divalproex sodium,.,.,:,</s>,",", aspirin, drug, D, Edit, insulin
+alprazolam,.,.,:, aspirin,",", Pain, Edit,</s>, insulin,;
+clozapine,.,.,:,</s>,",", Pain, aspirin, Edit, drug, D
+oxcarbazepine,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, Anonymous
+citalopram,.,.,:,</s>,",", aspirin, Edit,;, insulin, D
+haloperidol,.,.,:, aspirin, insulin, Pain,",", Edit,</s>, drug
+lurasidone,.,.,:,",", aspirin,</s>, Edit,;, insulin, Pain
+l-methylfolate,.,.,:,</s>,",", Pain, D, Edit,;, N
+carbamazepine,.,.,:,",",</s>, Edit,;, Pain, drug," """
+asenapine,.,.,:, aspirin,",",</s>, Edit, Pain,;, insulin
+paliperidone,.,.,:, aspirin,</s>, Pain, Edit,",", insulin, drug
+quetiapine,.,.,:, aspirin, drug,</s>,",", Edit, insulin, Pain
+lamotrigine,.,.,:, aspirin,</s>, drug,",", insulin, Pain, Edit
+lithium,.,.,:, drug,</s>, aspirin,",", Pain, insulin, D
+risperidone,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, drug
+fluoxetine,.,.,:, aspirin,</s>, insulin, drug, Pain,",", Edit
+olanzapine,.,.,:, aspirin,",",</s>, Edit, Pain,;, insulin
+buspirone,.,.,:, aspirin,</s>, drug, Pain, Edit,",", insulin
+clonazepam,.,.,:, aspirin,",",</s>, Pain, Edit, insulin,;
+sertraline,.,.,:,",", aspirin, Edit, insulin,</s>, drug,;
+aripiprazole,.,.,:, aspirin,</s>, Edit,",", Pain, drug, insulin
+topiramate,.,.,:,</s>,",", aspirin, drug, Pain, Edit,;
+diazepam,.,.,:, aspirin, Edit, Pain,",",</s>, Anonymous, MS
+lorazepam,.,.,:, aspirin,</s>, drug,",", Edit, insulin, Pain
+escitalopram,.,.,:,</s>,",", Edit, D, drug, Pain,;
+divalproex sodium,.,.,:, aspirin, Edit,</s>, Pain,",", Anonymous, Taken
+alprazolam,.,.,:, Edit,",", aspirin,</s>,;, Pain, insulin
+clozapine,.,.,:,</s>,",", drug, D," """, aspirin, C
+oxcarbazepine,.,.,:,",",</s>, Edit,;, Pain, aspirin, drug
+citalopram,.,.,:, aspirin,</s>, drug, insulin,",", Edit, Pain
+haloperidol,.,.,:, aspirin,</s>, Edit,",", Pain, insulin, drug
+lurasidone,.,.,:,</s>,",", aspirin, Edit, D, Pain,;
+l-methylfolate,.,.,:, aspirin,</s>, Pain, drug, Edit,",", insulin
+carbamazepine,.,.,:,",", Edit,</s>, aspirin,;, Pain, Anonymous
+asenapine,.,.,:, aspirin,</s>,",", Edit, insulin, Pain, drug
+paliperidone,.,.,:,</s>, aspirin,",", Edit, Pain, drug, MS
+quetiapine,.,.,:, aspirin,</s>, Edit, Pain,",", Anonymous, insulin
+lamotrigine,.,.,:, aspirin,</s>, Pain, Edit,",", insulin, Taken
+lithium,.,.,:,</s>,",", aspirin, Edit, Pain, insulin, Anonymous
+risperidone,.,.,:, aspirin,",",</s>, Edit, insulin,;, Pain
+fluoxetine,.,.,:, aspirin, drug,</s>, Pain, insulin, Edit,","
+olanzapine,.,.,:,</s>, drug,",", insulin, aspirin, D, MS
+buspirone,.,.,:,</s>,",", drug, Pain, aspirin, D, MS
+clonazepam,.,.,:,</s>, aspirin,",", drug, insulin, Pain, Edit
+sertraline,.,.,:,</s>,",", drug, aspirin, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>,",", drug, insulin, Edit,;
+topiramate,.,.,:, aspirin, Pain,",", Anonymous, insulin,</s>, Edit
+diazepam,.,.,:, aspirin,</s>, Pain, Edit,",", insulin,;
+lorazepam,.,.,:,</s>,",", aspirin, Pain, Edit, D, insulin
+escitalopram,.,.,:,</s>,",", aspirin,;, Edit, Pain, insulin
+divalproex sodium,.,.,:,",",</s>,;, aspirin, D, Pain, insulin
+alprazolam,.,.,:,</s>,",", Pain, D, Edit, aspirin, insulin
+clozapine,.,.,:,</s>, aspirin, Edit, drug,",", Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, drug, insulin,",", D, Pain
+citalopram,.,.,:,</s>, drug, Edit," """,",",",", Pain
+haloperidol,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, drug
+lurasidone,.,.,:, Edit,",", Pain,</s>,;, Anonymous, MS
+l-methylfolate,.,.,:,",",</s>, drug, Pain, Edit, MS," """""
+carbamazepine,.,.,:, aspirin, Edit,",",</s>, insulin, Pain,;
+asenapine,.,.,:,</s>, aspirin,",", Edit, Pain, drug, insulin
+paliperidone,.,.,:,</s>,",", Edit, drug, aspirin, Pain, insulin
+triamcinolone,.,.,:, aspirin,</s>, Edit,",", Pain, drug,;
+triamcinolone,.,.,:, aspirin, Pain, Edit, drug,",",</s>, insulin
+quetiapine,.,.,:,",",</s>, Edit, aspirin,;, Pain, D
+lamotrigine,.,.,:,</s>, aspirin,",", Edit, Pain,;, drug
+lithium,.,.,:,</s>, aspirin,",", drug, Pain, Edit, D
+risperidone,.,.,:,",",</s>, Edit,;, aspirin, drug, insulin
+fluoxetine,.,.,:,",",</s>, Edit, Pain,;, aspirin, Anonymous
+olanzapine,.,.,:, aspirin, Edit,</s>,",", Pain, insulin, Taken
+buspirone,.,.,:,</s>,",", aspirin, Edit,;, Pain, D
+clonazepam,.,.,:,</s>,",", drug, Pain, Edit, D," """
+sertraline,.,.,:,",",</s>, drug, Edit,;, aspirin,","
+aripiprazole,.,.,:,</s>, drug, aspirin,",", Edit, Pain, D
+topiramate,.,.,:, aspirin, Edit,",", Pain,</s>,;, Anonymous
+diazepam,.,.,:,</s>, aspirin, Edit,",", Pain, drug,;
+lorazepam,.,.,:,</s>, drug,",", aspirin, MS, insulin, Pain
+escitalopram,.,.,:,</s>, Edit,",", Pain, aspirin,;, Anonymous
+divalproex sodium,.,.,:,",",</s>, Edit, MS, insulin,;, aspirin
+alprazolam,.,.,:, aspirin,</s>,",", Edit, insulin, drug, Pain
+clozapine,.,.,:,</s>,",", Edit,;, Pain, :, Anonymous
+oxcarbazepine,.,.,:, aspirin, Edit,</s>, Anonymous,",",;, drug
+citalopram,.,.,:,</s>,",", aspirin, Pain, Edit,;, Anonymous
+haloperidol,.,.,:,",", aspirin,</s>, insulin, Pain, Edit, D
+lurasidone,.,.,:, aspirin, drug,</s>, insulin, Edit,",", Pain
+l-methylfolate,.,.,:, aspirin,</s>, Edit,",", Pain, D, drug
+carbamazepine,.,.,:,</s>,",", drug, Edit," """, aspirin," """""
+asenapine,.,.,:,</s>,",", Pain, Edit, aspirin, drug,;
+paliperidone,.,.,:,</s>,",", Edit, aspirin,;, Pain, Anonymous
+atorvastatin,.,.,:, aspirin,",", Edit,</s>, Pain, insulin,;
+simvastatin,.,.,:,</s>,",", Edit, aspirin,;, insulin, drug
+pravastatin,.,.,:,</s>,",", Pain, drug, Edit, D, MS
+rosuvastatin,.,.,:,</s>,",", drug,;, insulin, D, Pain
+lovastatin,.,.,:, aspirin, Edit,",", insulin,</s>, Pain, drug
+ezetimibe,.,.,:,",",</s>, D, N, drug,;, C
+gemfibrozil,.,.,:,",",</s>, aspirin, drug, Pain,;, insulin
+niacin,.,.,:,</s>,",", Edit, Pain, aspirin, drug, Anonymous
+ezetimibe AND simvastatin,.,.,:, aspirin, Edit,</s>,",",;, Pain, insulin
+fenofibric acid,.,.,:,</s>, aspirin, Edit,",", Pain, drug, Anonymous
+ketoconazole,.,.,:, aspirin,</s>,",", Edit, insulin,;, Pain
+terbinafine,.,.,:,</s>,",", aspirin, drug, Edit, Pain,;
+ketoconazole,.,.,:,</s>,",", Edit, D, Pain, MS, C
+terbinafine,.,.,:,</s>,",", aspirin, drug, D, Pain, insulin
+terbinafine,.,.,:,</s>,",", aspirin, Edit, Pain,;, drug
+terbinafine,.,.,:, aspirin,</s>, drug,",", insulin, Edit, Pain
+terbinafine,.,.,:, aspirin,</s>, drug, Pain,",", Edit, insulin
+terbinafine,.,.,:, aspirin,",", Edit,</s>, Pain, insulin,;
+meloxicam,.,.,:, aspirin,</s>,",", Edit, Pain,;, insulin
+diclofenac,.,.,:, drug,</s>, D, Drug,",", M, N
+naproxen,.,.,:,</s>, aspirin, drug,",", Pain, D, insulin
+ibuprofen,.,.,:, aspirin, Edit,</s>,",",;, Pain, drug
+celecoxib,.,.,:, aspirin,</s>,",", Edit, insulin, D, Pain
+chondroitin AND glucosamine,.,:,.,",", Edit,</s>,;, aspirin, insulin, Anonymous
+diclofenac,.,.,:,</s>, aspirin, drug,",", D, Pain, insulin
+etodolac,.,.,:,",", aspirin,</s>, Edit, Pain,;, insulin
+prednisone,.,.,:,",",</s>, aspirin, Pain, Edit, MS, insulin
+aspirin,.,.,:, Edit,</s>,",", aspirin, D,;, MS
+nabumetone,.,.,:,",",</s>, Edit,;, Pain, D, aspirin
+duloxetine,.,.,:, aspirin, Pain,</s>, Edit,",", Anonymous,;
+triamcinolone,.,.,:,",",</s>,;, drug, Edit, D, aspirin
+triamcinolone,.,.,:,</s>,",", Edit, Pain,;, Anonymous, drug
+aspirin,.,.,:,</s>, Edit,",", aspirin, Pain,;, insulin
+nitroglycerin,.,.,:,</s>,",", Edit,;, D, Anonymous, Pain
+metoprolol,.,.,:, aspirin, Edit,",", Pain,</s>,;, insulin
+amlodipine,.,.,:,</s>, aspirin,",", Pain, drug, Edit, insulin
+isosorbide mononitrate,.,.,:,</s>,",", Pain, D, drug," """,;
+isosorbide dinitrate,.,.,:, aspirin,</s>, Pain, Edit, drug, insulin,;
+enoxaparin,.,.,:, aspirin, Edit,</s>, Pain,",", insulin, drug
+ranolazine,.,.,:, aspirin,</s>,",", Edit, drug, Pain, insulin
+atenolol,.,.,:,",", aspirin,;,</s>, Edit, insulin, D
+carvedilol,.,.,:,</s>,",", Edit, aspirin,;, Pain, insulin
+amlodipine AND atorvastatin,.,.,:,",",</s>, Edit, aspirin, Pain, insulin,;
+atorvastatin,.,.,:,</s>, aspirin,",", Edit, Pain,;, insulin
+simvastatin,.,.,:, aspirin,</s>, Edit, Pain,",", Anonymous, insulin
+pravastatin,.,.,:, aspirin,</s>,",", Edit, drug, insulin, Pain
+rosuvastatin,.,.,:, aspirin, Pain, insulin, Edit,",",</s>, drug
+lovastatin,.,.,:,</s>,",", Pain, drug,;, aspirin, D
+ezetimibe,.,.,:, aspirin, Pain, Edit,",",</s>,;, insulin
+gemfibrozil,.,.,:,",", aspirin,</s>, drug, insulin,;, Pain
+niacin,.,.,:, Pain,",",</s>, Edit, drug, aspirin, MS
+ezetimibe AND simvastatin,.,.,:,",", Edit, aspirin,</s>,;, Pain, drug
+fenofibric acid,.,.,:, drug,</s>,",", Pain, aspirin," """, D
+cyclophosphamide,.,.,:,</s>,",", drug, Pain, aspirin, D,;
+vincristine,.,., aspirin,:, Edit, Pain,</s>, drug, insulin, Taken
+rituximab,.,.,:, drug,",",</s>, Edit, aspirin," """," """""
+methotrexate,.,.,:,</s>,",",;, aspirin, Edit, drug, insulin
+bendamustine,.,.,:, aspirin,",",</s>, insulin, drug, MS,;
+cytarabine,.,.,:,</s>,",", Edit,;, aspirin, D, Pain
+fludarabine,.,.,:, aspirin,</s>,",", Pain, drug, Edit, insulin
+bleomycin,.,.,:, aspirin,</s>, Edit,",", Anonymous, Pain, insulin
+carmustine,.,.,:, aspirin,</s>,",", Edit, Pain, insulin,;
+idelalisib,.,.,:,",",;,</s>, Edit, aspirin, •, :
+ibritumomab,.,.,:, aspirin,</s>, Pain, drug, Edit,",", insulin
+ibrutinib,.,.,:,</s>,",", Edit, aspirin, Pain,;, insulin
+mitoxantrone,.,.,:, aspirin,",",</s>, Edit, insulin,;, Pain
+lamivudine,.,.,:,</s>,",", Edit, drug, Pain, aspirin, insulin
+efavirenz AND emtricitabine AND tenofovir,.,.,:,</s>,",", D, C, Edit, insulin, Pain
+ritonavir,.,.,:, drug,",", insulin,</s>, aspirin, MS, Edit
+emtricitabine AND tenofovir,.,.,:, drug, Pain, aspirin, Edit,",",</s>, insulin
+tenofovir,.,.,:,</s>,",", D, drug, aspirin, M, C
+abacavir,.,.,:, drug,</s>, aspirin,",", Pain, insulin, D
+lamivudine,.,.,:,</s>, aspirin,",", Pain, Edit, D,;
+efavirenz AND emtricitabine AND tenofovir,.,.,:,",",</s>, aspirin, D, insulin, Edit, Pain
+ritonavir,.,.,:, aspirin, Pain,</s>,",", insulin, Edit, drug
+emtricitabine AND tenofovir,.,.,:,",",</s>, Edit,;, aspirin, drug, Pain
+tenofovir,.,.,:,</s>, aspirin,",", Edit, Pain,;, Anonymous
+abacavir,.,.,:,</s>,",", drug, Pain, D, M, N
+lamivudine,.,:,.,",",</s>, Edit,;, aspirin, drug, insulin
+efavirenz AND emtricitabine AND tenofovir,.,.,:, aspirin,</s>, Pain, Edit,",", insulin, drug
+ritonavir,.,.,:,</s>, aspirin,",", drug, insulin, Pain, Edit
+emtricitabine AND tenofovir,.,.,:, aspirin,</s>, drug, Pain, insulin,",", Edit
+tenofovir,.,.,:,</s>,",", aspirin,;, Edit, Pain, insulin
+abacavir,.,.,:, drug,</s>,",", aspirin, MS, D," """
+lamivudine,.,.,:,</s>, aspirin,",",;, insulin, drug, Edit
+efavirenz AND emtricitabine AND tenofovir,.,.,:,</s>, aspirin, Edit,",", Pain, Anonymous,;
+ritonavir,.,.,:, aspirin, drug, Edit,</s>,",", Pain, insulin
+emtricitabine AND tenofovir,.,.,:, aspirin,</s>, Edit,",", insulin, Pain,;
+tenofovir,.,.,:, aspirin, Edit,",", Pain,</s>,;, insulin
+abacavir,.,.,:, aspirin, Pain, drug,</s>, Edit, D, insulin
+lamivudine,.,.,:, aspirin, Edit,</s>, Pain,",", Anonymous,;
+efavirenz AND emtricitabine AND tenofovir,.,.,:, aspirin,",",</s>, Edit, drug, insulin,;
+ritonavir,.,.,:,",", Edit,</s>, aspirin,;, Anonymous, insulin
+emtricitabine AND tenofovir,.,.,:,</s>,",", aspirin, Edit, Pain, Anonymous,;
+tenofovir,.,.,:,</s>,",",;, Edit, aspirin, Pain, drug
+abacavir,.,.,:,</s>,",", Edit,;, D, Pain, aspirin
+lamivudine,.,.,:,",",</s>, aspirin, Edit,;, insulin, Pain
+efavirenz AND emtricitabine AND tenofovir,.,.,:,</s>,",", aspirin, drug, D, Pain, insulin
+ritonavir,.,.,:,",",</s>, aspirin,;, Edit, D, insulin
+emtricitabine AND tenofovir,.,.,:,",",</s>, aspirin, Pain, drug, MS, D
+tenofovir,.,.,:, aspirin,</s>,",", Edit, insulin, Pain, drug
+abacavir,.,.,:, aspirin,</s>, Edit,",", insulin, drug, Anonymous
+atorvastatin,.,.,:, aspirin,</s>, Edit, Pain, insulin,",", drug
+simvastatin,.,.,:, aspirin,</s>, drug,",", insulin, Pain, D
+pravastatin,.,.,:,</s>,",", aspirin, Edit, Pain, insulin,;
+rosuvastatin,.,.,:,</s>, drug, D, Pain,",", M," """
+lovastatin,.,.,:,",",</s>, Edit, aspirin,;, insulin, MS
+ezetimibe,.,.,:, aspirin,</s>,",", Edit, Pain,;, drug
+gemfibrozil,.,.,:,</s>, drug, Edit,",", Pain, aspirin, insulin
+niacin,.,.,:,</s>,",", Edit, drug,;, Pain, aspirin
+ezetimibe AND simvastatin,.,.,:, aspirin, drug,</s>,",", insulin, Pain, Edit
+fenofibric acid,.,.,:, aspirin, Pain,</s>, insulin, drug,",", D
+atorvastatin,.,.,:, aspirin,</s>, Pain, drug,",", insulin, Edit
+simvastatin,.,.,:, aspirin,",",</s>, drug, Edit, Pain, insulin
+pravastatin,.,.,:,</s>,",", aspirin, Edit,;, Pain, insulin
+rosuvastatin,.,.,:, aspirin,</s>,",", Edit, Pain, drug,;
+lovastatin,.,.,:, aspirin,</s>, drug,",", Pain, Edit, insulin
+ezetimibe,.,.,:,</s>, aspirin,",", Edit,;, Pain,...
+gemfibrozil,.,.,:, drug,",",</s>, aspirin, insulin, Pain, MS
+niacin,.,.,:, aspirin,</s>,",", Edit, insulin,;, Pain
+ezetimibe AND simvastatin,.,.,:, aspirin,",",</s>, drug, insulin, Pain, Edit
+fenofibric acid,.,.,:,",",</s>, aspirin, drug, Edit, insulin,;
+atorvastatin,.,.,:, aspirin, drug,</s>,",", Edit, insulin,;
+simvastatin,.,.,:, aspirin, drug, insulin,",",</s>, Pain, Edit
+pravastatin,.,.,:,</s>, aspirin, drug,",", D, insulin, MS
+rosuvastatin,.,.,:,",",</s>, aspirin, insulin, Edit,;, MS
+lovastatin,.,.,:, aspirin, Edit, Pain, drug,</s>,",", insulin
+ezetimibe,.,.,:,</s>,",", aspirin, Edit,;, insulin, Pain
+gemfibrozil,.,.,:,</s>, Edit,",", Pain, Anonymous, drug, insulin
+niacin,.,.,:,</s>, aspirin,",", Edit,;, drug, insulin
+ezetimibe AND simvastatin,.,.,:, aspirin, drug, insulin,</s>, Pain,",", MS
+fenofibric acid,.,.,:, aspirin,</s>, Edit,",", insulin, Pain,;
+meloxicam,.,.,:,",",</s>, Edit, aspirin,;, Pain, Anonymous
+diclofenac,.,.,:, aspirin,</s>, drug,",", insulin, Edit, Pain
+naproxen,.,.,:,",", Edit,</s>,;, drug, Pain, aspirin
+ibuprofen,.,.,:,</s>,",", aspirin, drug, Pain, insulin, Edit
+celecoxib,.,.,:,</s>,",", aspirin,;, Edit, Pain, insulin
+chondroitin AND glucosamine,.,.,:,</s>, drug, D, M,",", N, C
+diclofenac,.,.,:,</s>,",", Edit, Pain,;, Anonymous, aspirin
+etodolac,.,.,:, drug, aspirin,",",</s>, insulin,",", MS
+prednisone,.,.,:, aspirin,</s>,",", Edit,;, insulin, Anonymous
+aspirin,.,.,:, aspirin,",", Edit,</s>, insulin, Pain, D
+nabumetone,.,.,:,</s>, aspirin, drug, Edit, Pain, LSD, Anonymous
+duloxetine,.,.,:,</s>, aspirin, drug,",", insulin, Edit, Pain
+modafinil,.,.,:, aspirin,</s>, drug,",", Pain, insulin, Edit
+duloxetine,.,.,:, drug, aspirin, Pain,",", insulin, MS, Drug
+lisdexamfetamine,.,.,:, aspirin,",",</s>, Edit, insulin,;, Pain
+amantadine,.,.,:, aspirin,",",</s>, Pain, Edit, insulin, D
+armodafinil,.,:,.,",",;,</s>, Edit, aspirin, insulin,...
+ibuprofen,.,.,:, drug, aspirin,</s>,",", insulin, Edit, Drug
+naproxen,.,.,:, aspirin,</s>, Edit, Pain,",", insulin, Anonymous
+acetaminophen,.,.,:,</s>,",", aspirin, Edit, Pain, insulin,;
+diclofenac,.,.,:,</s>,",", Pain, Edit, aspirin, M,;
+nabumetone,.,.,:, aspirin,</s>,",", drug, Pain, insulin, Edit
+quetiapine,.,.,:, aspirin,",",</s>, insulin, Pain, drug, Edit
+lamotrigine,.,.,:, aspirin,</s>,",", Edit, Pain, D,;
+lithium,.,.,:,</s>, aspirin,",", Edit, Pain, Anonymous,;
+risperidone,.,.,:, aspirin, drug,</s>, insulin, Pain,",", Edit
+fluoxetine,.,.,:,",",</s>, Edit,;, D, Pain, aspirin
+olanzapine,.,.,:,",", aspirin, Edit,</s>,;, insulin, Pain
+buspirone,.,.,:, aspirin,</s>, drug,",", Pain, insulin, Edit
+clonazepam,.,.,:, aspirin,</s>,",",;, insulin, Edit, D
+sertraline,.,.,:, aspirin,</s>, drug, Pain,",", insulin, Edit
+aripiprazole,.,.,:,</s>,",", Edit, Pain, drug, aspirin, D
+topiramate,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, drug
+diazepam,.,.,:, drug, aspirin,</s>, Pain, insulin,",", MS
+lorazepam,.,.,:,",", Edit,</s>, aspirin,;, Anonymous, D
+escitalopram,.,.,:,</s>,",", aspirin, Pain, Edit,;, insulin
+divalproex sodium,.,.,:,",",</s>, Edit,;, aspirin, Pain, MS
+alprazolam,.,.,:,",",</s>, N, D,;, C, drug
+clozapine,.,.,:,",",</s>, Edit,;, aspirin, insulin, Pain
+oxcarbazepine,.,.,:,</s>, aspirin, drug,",", Edit, insulin, Pain
+citalopram,.,.,:,</s>,",", Pain, M, D, N, C
+haloperidol,.,.,:,</s>, aspirin,",", Edit, drug,;, Pain
+lurasidone,.,.,:,</s>, D,",", C, MS, M, Pain
+l-methylfolate,.,.,:,</s>,",", drug, D,;, N, Pain
+carbamazepine,.,.,:,",",</s>, drug,;, Edit, aspirin, insulin
+asenapine,.,.,:,</s>,",", Pain, D, drug, aspirin, Edit
+paliperidone,.,.,:,",",</s>, Edit, Pain, D, Anonymous, MS
+ketoconazole,.,.,:,</s>,",", Pain, drug, aspirin, Edit,;
+terbinafine,.,.,:,</s>,",", Edit, Pain,;, drug, aspirin
+ketoconazole,.,.,:, aspirin, Pain,",", Edit,</s>, drug, insulin
+terbinafine,.,.,:,",",</s>, Edit,;, aspirin, drug, insulin
+terbinafine,.,.,:, drug,</s>, Pain, aspirin,",", Edit, Drug
+terbinafine,.,.,:,</s>,",", Edit, aspirin, Pain,;, drug
+terbinafine,.,.,:, aspirin,</s>,",", Edit,;, drug, insulin
+terbinafine,.,.,:,</s>,",", Edit, Pain, D,;, C
+ibuprofen,.,.,:,</s>,",", aspirin, Edit,;, Pain, D
+naproxen,.,.,:,</s>,",", Edit,;, D, Pain, aspirin
+acetaminophen,.,.,:, aspirin,</s>,",", D, drug, insulin, Edit
+diclofenac,.,.,:,",",</s>,;, Edit, aspirin, Pain, D
+nabumetone,.,:,.,",", Edit,;, aspirin,</s>, Anonymous, Pain
+ibuprofen,.,.,:, aspirin, Edit,</s>, drug, Pain,",", insulin
+naproxen,.,.,:, aspirin,</s>, Pain,",", Edit, drug, insulin
+acetaminophen,.,.,:, drug,</s>, Pain, Edit, D,",", insulin
+diclofenac,.,.,:, aspirin, Edit, Pain, insulin,",",</s>, drug
+nabumetone,.,.,:,",", Edit,</s>, Pain,;, Anonymous, insulin
+ibuprofen,.,.,:, aspirin,</s>,",", Edit, drug, Pain, insulin
+naproxen,.,.,:, aspirin,</s>, Edit,",", Pain, insulin, D
+acetaminophen,.,.,:, aspirin,</s>,",", Pain, Edit, drug, insulin
+diclofenac,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+nabumetone,.,.,:,</s>,",", D, Pain, Edit, drug, aspirin
+triamcinolone,.,.,:,</s>, Edit,",", aspirin, Pain,;, D
+triamcinolone,.,.,:, aspirin,",",</s>, drug, Pain, insulin, Edit
+quetiapine,.,.,:,",",</s>, aspirin, Edit,;, insulin, drug
+lamotrigine,.,.,:, aspirin, drug,</s>,",", insulin, Edit, Pain
+lithium,.,.,:,</s>, Edit,",", :,?,..., Pain
+risperidone,.,:,.,",",;, Edit,</s>, aspirin, insulin, Anonymous
+fluoxetine,.,.,:, Edit, aspirin, Pain,</s>, Anonymous,",", drug
+olanzapine,.,.,:,</s>, aspirin,",", Edit, Pain, D, MS
+buspirone,.,.,:,",",</s>, Edit,;, Pain, aspirin, insulin
+clonazepam,.,.,:, aspirin,</s>,",", Pain, Edit,;, insulin
+sertraline,.,:,., aspirin,",", Edit,</s>,;, insulin, drug
+aripiprazole,.,.,:,</s>,",", aspirin, Edit,;, Anonymous, Pain
+topiramate,.,.,:,</s>, aspirin,",", Pain, drug, insulin, Edit
+diazepam,.,.,:,</s>,",", Edit,;, aspirin, Pain,...
+lorazepam,.,.,:,</s>,",", aspirin, drug," """, Pain, D
+escitalopram,.,.,:, aspirin, drug, insulin,</s>,",", Pain, D
+divalproex sodium,.,.,:, aspirin, Pain,</s>, Edit, MS, insulin,","
+alprazolam,.,.,:, aspirin,</s>, drug,",", Pain, Edit, insulin
+clozapine,.,.,:, aspirin, Edit,",", Pain,</s>, drug, Anonymous
+oxcarbazepine,.,.,:,</s>, aspirin, Pain,",", Edit, drug, D
+citalopram,.,.,:,</s>, aspirin, Edit, drug, Pain,",", C
+haloperidol,.,.,:, aspirin, drug,</s>,",", Pain, insulin, Edit
+lurasidone,.,.,:,</s>,",", aspirin, D, insulin, Pain,;
+l-methylfolate,.,.,:,",", Edit,</s>, aspirin,;, Pain, drug
+carbamazepine,.,.,:, Edit,",", Pain,</s>, aspirin, insulin,;
+asenapine,.,.,:,",", Edit,</s>, aspirin,;, insulin, Pain
+paliperidone,.,., aspirin,:, Pain, insulin,</s>, drug,",", Edit
+collagenase,.,.,:,</s>,",", aspirin, Edit, Pain,;, insulin
+becaplermin,.,.,:,",",</s>, Edit, aspirin,;, insulin, Pain
+cadexomer iodine,.,.,:, aspirin, Edit, Pain,</s>,",", Anonymous, insulin
+terbinafine,.,.,:,</s>, Edit,",",;, Pain, Anonymous, aspirin
+terbinafine,.,.,:,</s>, aspirin,",", insulin, drug, Edit, Pain
+meloxicam,.,.,:,</s>, aspirin,",", drug, Pain, Edit, insulin
+diclofenac,.,.,:,</s>, aspirin,",", D, Edit, insulin, M
+naproxen,.,.,:, drug,</s>,",", aspirin, Pain, MS," """
+ibuprofen,.,:,.,",",</s>,;, Edit, drug, aspirin, :
+celecoxib,.,.,:,",", aspirin,</s>,;, Edit, insulin, drug
+chondroitin AND glucosamine,.,.,:, aspirin,</s>,",", Pain, Edit,;, drug
+diclofenac,.,.,:,",",</s>, Edit, Pain, aspirin,;, drug
+etodolac,.,.,:, aspirin,</s>,",", Edit, insulin, Pain, Anonymous
+prednisone,.,.,:,</s>, aspirin, Edit,",", Pain, Taken, drug
+aspirin,.,.,:,</s>,",", aspirin,;, drug, D, Pain
+nabumetone,.,.,:,</s>,",", aspirin, Edit, Pain,;, insulin
+duloxetine,.,.,:,</s>,",", Edit,;, Pain, aspirin, D
+cytarabine,.,.,:, aspirin,</s>, Edit,",",;, drug, Pain
+vincristine,.,.,:,</s>, Edit,",", aspirin, Pain,;, Anonymous
+daunorubicin,.,.,:, aspirin,</s>, Edit, insulin,",", Pain, D
+idarubicin,.,.,:,</s>, aspirin,",", Edit,;, D, drug
+decitabine,.,.,:, aspirin,</s>,",", drug, Pain, Edit, insulin
+gemtuzumab,.,.,:, aspirin,</s>, Edit,",", insulin, Pain, drug
+midostaurin,.,.,:,",",</s>, Edit, aspirin, Pain, drug, insulin
+venetoclax,.,.,:, drug,</s>, aspirin,",", Pain, insulin, D
+enasidenib,.,.,:,</s>, aspirin, Edit,",", MS, Pain, drug
+cytarabine liposomal AND daunorubicin liposomal,.,.,:, Edit,</s>, aspirin,",", Pain, Anonymous,;
+ivosidenib,.,.,:,",",</s>, Edit,;, Anonymous, aspirin, D
+gilteritinib,.,.,:, aspirin, drug,</s>, Pain,",", insulin, MS
+glasdegib,.,.,:, aspirin,</s>, Pain, drug, insulin,",", Edit
+cytarabine,.,.,:, aspirin,</s>, drug,",", Pain, Edit, insulin
+vincristine,.,.,:, aspirin,</s>, Pain, insulin,",", Edit, drug
+daunorubicin,.,.,:, aspirin,</s>, drug,",", Pain, Edit, insulin
+idarubicin,.,.,:,",",</s>, aspirin, Edit,;, D, Pain
+decitabine,.,.,:,</s>,",", Edit, Pain, D,;, Anonymous
+gemtuzumab,.,.,:, aspirin, Edit,</s>,",", Pain, drug, insulin
+midostaurin,.,.,:,</s>,",", drug, MS, aspirin, D, Edit
+venetoclax,.,.,:, aspirin,</s>,",", insulin, Pain, Edit, drug
+enasidenib,.,.,:, aspirin,</s>,",", Edit, Pain, insulin,;
+cytarabine liposomal AND daunorubicin liposomal,.,.,:, aspirin,</s>,",", insulin, drug, D, Edit
+ivosidenib,.,.,:,</s>, aspirin,",", Edit, Pain,;, drug
+gilteritinib,.,.,:, drug, aspirin,</s>,",", Pain, insulin, MS
+glasdegib,.,.,:,",", Edit, aspirin,</s>, Pain, D, insulin
+cytarabine,.,.,:, aspirin,</s>,",", Edit,;, D, insulin
+vincristine,.,.,:,</s>, D,",", N, C, drug, M
+daunorubicin,.,.,:, aspirin,</s>,",", drug, insulin, Pain, Edit
+idarubicin,.,.,:, drug, aspirin, Pain,</s>,",", D, Drug
+decitabine,.,.,:, aspirin,",", drug, insulin,</s>, Edit, D
+gemtuzumab,.,.,:,</s>,",", drug, aspirin, Edit, Pain, MS
+midostaurin,.,.,:, aspirin,",",</s>, Edit, drug,;, insulin
+venetoclax,.,.,:, aspirin,",",</s>, Edit, insulin, drug, Pain
+enasidenib,.,.,:, aspirin,</s>, Edit, Pain,",", insulin, Anonymous
+cytarabine liposomal AND daunorubicin liposomal,.,.,:,</s>,",", Edit, drug, Pain,;," """
+ivosidenib,.,.,:,",",</s>,;, Edit, aspirin, D, Pain
+gilteritinib,.,.,:,",",</s>, Edit, aspirin,;, Pain, MS
+glasdegib,.,.,:, aspirin,</s>,",", insulin, Pain, D, drug
+atorvastatin,.,.,:, aspirin,",",</s>, drug, Pain, Edit, insulin
+simvastatin,.,.,:, aspirin,</s>,",", Edit, drug, insulin, Pain
+pravastatin,.,.,:,</s>, drug, aspirin, Edit,",", D, Pain
+rosuvastatin,.,.,:, aspirin,</s>,",", Edit,;, insulin, D
+lovastatin,.,.,:,",",</s>,;, Edit, D, aspirin, insulin
+ezetimibe,.,.,:, aspirin, Edit,",",</s>, insulin, drug, Pain
+gemfibrozil,.,.,:,</s>,",", aspirin, Edit, Pain,;, insulin
+niacin,.,., aspirin,:, drug, LSD, cocaine, MDMA, insulin, heroin
+ezetimibe AND simvastatin,.,.,:, aspirin,",",</s>, Edit, Pain,;, Anonymous
+fenofibric acid,.,.,:,</s>,",", Pain, Edit, drug," """, aspirin
+cyclophosphamide,.,.,:,",",</s>, Edit, aspirin, D,;, Anonymous
+vincristine,.,.,:, aspirin,",",</s>, Edit, insulin, Pain, drug
+rituximab,.,.,:, aspirin,",",</s>, Edit,;, insulin, Pain
+methotrexate,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, D
+bendamustine,.,.,:, Edit, aspirin, Pain, Anonymous,",",</s>,;
+cytarabine,.,.,:,</s>, aspirin,",", Pain, Edit, D, Anonymous
+fludarabine,.,.,:,</s>, aspirin, Edit,",", drug, insulin,...
+bleomycin,.,.,:, aspirin,</s>, insulin,",", D, Edit, C
+carmustine,.,.,:, aspirin,",",</s>, Pain, drug, insulin, Edit
+idelalisib,.,.,:, drug, aspirin,",",</s>, insulin, Edit, D
+ibritumomab,.,.,:,",",</s>, aspirin, drug, Edit,;, D
+ibrutinib,.,.,:,",",</s>, Edit,;, Pain, insulin, aspirin
+mitoxantrone,.,.,:, aspirin,</s>, Edit,",", Pain, MS,;
+cyclophosphamide,.,.,:,",", Edit,</s>,;, aspirin, Anonymous, insulin
+vincristine,.,.,:,",", Edit,</s>," """,",", Pain, drug
+rituximab,.,.,:, drug,</s>,",", D, aspirin, Pain, MS
+methotrexate,.,.,:, aspirin,</s>, drug,",", insulin, Edit, Pain
+bendamustine,.,.,:,",",</s>,;, Edit, aspirin, D, C
+cytarabine,.,.,:, aspirin, drug, insulin,</s>, Pain, Edit,","
+fludarabine,.,.,:, aspirin,</s>, Edit,",", Pain, insulin, drug
+bleomycin,.,.,:,",",</s>, Edit,;, D, aspirin, insulin
+carmustine,.,.,:, aspirin,</s>, Edit,",", Pain, drug,;
+idelalisib,.,.,:,</s>,",", aspirin, Edit,;, Anonymous, insulin
+ibritumomab,.,.,:,</s>,",", aspirin, Pain, drug, D, Edit
+ibrutinib,.,.,:, aspirin,</s>,",", D, drug, MS, Pain
+mitoxantrone,.,.,:,",", D, Edit, aspirin, Pain, C,</s>
+cyclophosphamide,.,.,:, aspirin,",",</s>, insulin, Edit, Pain,;
+vincristine,.,.,:, Edit, aspirin, Pain,",",</s>, Anonymous, insulin
+rituximab,.,.,:, aspirin, Pain, drug,</s>, Edit, D, insulin
+methotrexate,.,.,:,",",</s>, aspirin, insulin, MS, drug,;
+bendamustine,.,.,:, aspirin, drug,",",</s>, Edit, Pain, insulin
+cytarabine,.,.,:,</s>,",", Edit, Pain, D,;, aspirin
+fludarabine,.,.,:, aspirin,",", Edit,</s>,;, Pain, MS
+bleomycin,.,.,:, aspirin,</s>,",", insulin, drug, Edit,;
+carmustine,.,.,:,",",</s>, drug, D, aspirin, Pain,;
+idelalisib,.,.,:, aspirin,",",</s>, Edit, drug, insulin, Pain
+ibritumomab,.,.,:, aspirin, drug, insulin,",", Edit,</s>, Pain
+ibrutinib,.,.,:,</s>,",", drug, Edit, aspirin, insulin, Pain
+mitoxantrone,.,.,:,",",</s>, Edit,;, aspirin, D, insulin
+cyclophosphamide,.,.,:, aspirin,</s>, Edit,",", Pain, insulin, drug
+vincristine,.,.,:,</s>, aspirin,",", drug, Edit, Pain, insulin
+rituximab,.,.,:,</s>,",", aspirin, Edit, Anonymous, Pain, drug
+methotrexate,.,., aspirin,:, drug, Pain,</s>, insulin, Edit, Taken
+bendamustine,.,.,:, aspirin, Edit,</s>,",", Pain, drug, insulin
+cytarabine,.,.,:,</s>,",", Edit,;, aspirin, Anonymous, insulin
+fludarabine,.,.,:, aspirin, Edit,",",</s>,;, insulin, Anonymous
+bleomycin,.,.,:, aspirin, drug, insulin,</s>, Pain,",", Edit
+carmustine,.,.,:,</s>, aspirin, Edit, drug, Pain,",", insulin
+idelalisib,.,.,:,</s>, aspirin,",", drug, Edit," """"", Pain
+ibritumomab,.,.,:,",", aspirin,</s>, Edit, drug, Pain, D
+ibrutinib,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+mitoxantrone,.,.,:, aspirin,</s>, Edit, Pain, drug,",", insulin
+cyclophosphamide,.,.,:,</s>,",", Edit,;, Pain, aspirin, Anonymous
+vincristine,.,.,:,</s>,",", drug,;, Edit, D, Pain
+rituximab,.,.,:,</s>, aspirin,",", Edit, D, insulin,;
+methotrexate,.,.,:, aspirin,</s>,",", Edit, drug, insulin, Pain
+bendamustine,.,.,:,",",</s>, aspirin, Edit, Pain, D,;
+cytarabine,.,.,:, aspirin,",", Edit,;,</s>, D, insulin
+fludarabine,.,.,:, aspirin,</s>, drug, Edit,",", Pain,;
+bleomycin,.,.,:,</s>,",",;, aspirin, Edit, Pain, D
+carmustine,.,.,:,",",</s>, Edit,;, Pain, aspirin, insulin
+idelalisib,.,.,:,</s>,",", aspirin, Edit, drug, Pain, D
+ibritumomab,.,.,:, aspirin,</s>, Edit,",", drug, Pain,;
+ibrutinib,.,.,:,</s>,",", aspirin, Edit, drug, Pain,;
+mitoxantrone,.,.,:, aspirin,",", Edit, Pain, insulin,</s>,;
+cyclophosphamide,.,.,:, aspirin, drug,</s>, Pain, Edit, insulin,","
+vincristine,.,.,:,</s>, Edit,",", aspirin, Pain, drug, MS
+rituximab,.,.,:, aspirin,</s>, Edit,",", drug, Pain, insulin
+methotrexate,.,.,:, aspirin, Edit,",",</s>, drug, Pain, insulin
+bendamustine,.,.,:, aspirin,</s>, Pain, drug,",", insulin, Edit
+cytarabine,.,.,:,</s>,",", Edit,;, drug, Pain, MS
+fludarabine,.,.,:, aspirin,</s>, drug,",", Pain, Edit, insulin
+bleomycin,.,.,:, drug, aspirin,",",</s>, insulin, Pain,;
+carmustine,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, drug
+idelalisib,.,.,:,</s>,",", aspirin, Edit, D, insulin,;
+ibritumomab,.,.,:, aspirin,</s>,",", insulin, drug, Edit, Pain
+ibrutinib,.,.,:,</s>,",", Edit,;, D, Pain, aspirin
+mitoxantrone,.,.,:, drug,</s>,",", insulin, Pain, MS, aspirin
+dexamethasone,.,.,:, aspirin, Edit,</s>, insulin, Pain, drug,","
+thalidomide,.,.,:,</s>,",", aspirin, Edit,;, Pain, insulin
+cyclophosphamide,.,.,:, aspirin, Edit, Pain, drug,",",</s>, insulin
+lenalidomide,.,.,:, aspirin,",", Edit,</s>,;, insulin, Pain
+bortezomib,.,.,:,</s>,","," """, D,;, Edit, C
+carfilzomib,.,.,:,</s>,",", aspirin, Pain, Edit,;, MS
+pomalidomide,.,.,:,</s>,",", Edit, aspirin, Pain, D, drug
+daratumumab,.,.,:, aspirin,</s>,..., Pain, Edit,",", Taken
+melphalan,.,.,:, aspirin,</s>, drug,",", insulin,;, Edit
+modafinil,.,.,:,</s>, drug,",", Pain, insulin, M, MS
+duloxetine,.,.,:,</s>,",", aspirin, D, drug, Pain, insulin
+lisdexamfetamine,.,.,:,",",</s>, aspirin, drug,;, Edit, insulin
+amantadine,.,.,:,</s>, aspirin,",", Edit, Pain,;, Anonymous
+armodafinil,.,.,:, Edit,",",</s>,;, aspirin, Pain, Anonymous
+modafinil,.,.,:,</s>, drug,",", aspirin, D, Edit, MS
+duloxetine,.,.,:, aspirin,</s>,",", Edit, drug, insulin,;
+lisdexamfetamine,.,.,:,</s>,",", drug, Pain, Edit," """, aspirin
+amantadine,.,.,:, aspirin, Pain, insulin,",", Edit,</s>, drug
+armodafinil,.,.,:,",", aspirin,</s>, Edit, Pain,;, insulin
+miconazole,.,.,:,</s>,",", aspirin, Edit, drug, insulin, Pain
+miconazole,.,.,:,",",</s>, Edit, aspirin,;, Pain, insulin
+dexamethasone,.,.,:,",",</s>,;, Edit, aspirin, D, insulin
+thalidomide,.,.,:, aspirin,</s>,",", drug, insulin, Edit,;
+cyclophosphamide,.,.,:, aspirin,</s>, drug, Pain,",", insulin, Edit
+lenalidomide,.,.,:,",",</s>, Edit, aspirin,;, MS, D
+bortezomib,.,.,:,</s>,",", aspirin, Edit, Pain, Anonymous,;
+carfilzomib,.,.,:,</s>,",", Edit, drug, aspirin, Pain, insulin
+pomalidomide,.,.,:, aspirin,</s>,",", drug,;, Pain, Edit
+daratumumab,.,.,:, aspirin,",",</s>, Edit, Pain, insulin,;
+melphalan,.,.,:, aspirin,</s>, Edit,",", Pain, Anonymous,;
+ibuprofen,.,.,:, aspirin,</s>,",", insulin, drug, Edit, D
+naproxen,.,.,:,</s>,",", aspirin, Edit, drug, Pain, D
+acetaminophen,.,.,:, aspirin,</s>, drug,",", Pain, Edit, D
+diclofenac,.,.,:,",", Edit,</s>,;, Pain, :, drug
+nabumetone,.,.,:, Edit,</s>,",", aspirin, Pain,;, insulin
+ibuprofen,.,.,:,",",</s>, drug, D,;, M, aspirin
+naproxen,.,.,:,</s>,",", Edit, Pain, aspirin, drug,;
+acetaminophen,.,.,:, aspirin,</s>,",", Pain, drug, insulin, Edit
+diclofenac,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, Anonymous
+nabumetone,.,.,:,</s>,",", Edit,;, aspirin, Pain,...
+ibuprofen,.,.,:,</s>,",", aspirin, Edit, Pain, Anonymous,;
+naproxen,.,.,:,</s>,",", drug,;, aspirin, D, insulin
+acetaminophen,.,.,:,</s>,",", aspirin, Edit, D, Pain, C
+diclofenac,.,.,:,</s>,",", Edit, aspirin, Pain,;, Anonymous
+nabumetone,.,.,:, aspirin,",", Edit,</s>, insulin,;, Pain
+modafinil,.,.,:, aspirin,</s>, Pain, Edit, insulin, drug,","
+duloxetine,.,.,:, aspirin,</s>, Edit,",", Pain, drug, Anonymous
+lisdexamfetamine,.,.,:, aspirin,</s>, Edit, Pain,",", drug, insulin
+amantadine,.,.,:, aspirin, Edit,",",</s>, Pain,;, insulin
+armodafinil,.,.,:, aspirin, drug, insulin,",", Edit,</s>, Pain
+modafinil,.,.,:,</s>,",", Edit, Pain, aspirin, D, MS
+duloxetine,.,.,:, aspirin, drug,</s>, Pain, insulin, Edit,","
+lisdexamfetamine,.,.,:,</s>,",", Edit,;, drug, Pain, D
+amantadine,.,.,:,",",</s>, Edit, aspirin,;, D, insulin
+armodafinil,.,.,:,",",</s>, Edit, aspirin, D,;, Pain
+dexamethasone,.,.,:, aspirin,</s>,",", Pain, Edit, drug, insulin
+thalidomide,.,.,:,",",</s>, Edit, aspirin,;, Pain, MS
+cyclophosphamide,.,.,:,</s>,",", D, C, B,;, Edit
+lenalidomide,.,.,:,</s>,",", drug, Edit, Pain, aspirin,;
+bortezomib,.,:,.,</s>,",", Edit, aspirin, Pain,;, insulin
+carfilzomib,.,.,:, aspirin,</s>, drug,",", Pain, insulin, Edit
+pomalidomide,.,.,:,",", aspirin,</s>, drug, Edit,;, Pain
+daratumumab,.,.,:, drug,",",</s>, D, C, insulin, Oral
+melphalan,.,.,:, aspirin,</s>, Pain, drug,",", Edit, insulin
+collagenase,.,.,:, aspirin,",",</s>, Edit, insulin, Pain, MS
+becaplermin,.,.,:,</s>, aspirin, drug,",", Pain, Edit, insulin
+cadexomer iodine,.,.,:,</s>, Edit, Pain, aspirin,",", drug, Anonymous
+aspirin,.,.,:, aspirin, drug,</s>,",", insulin, Edit, Pain
+nitroglycerin,.,.,:,</s>, aspirin,",", drug, Edit, insulin, MS
+metoprolol,.,.,:, aspirin,",", Edit, Pain, insulin,</s>, drug
+amlodipine,.,.,:, aspirin,",",</s>, Pain, Edit,;, insulin
+isosorbide mononitrate,.,.,:,",",</s>,;, Pain, Edit, insulin, aspirin
+isosorbide dinitrate,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, drug
+enoxaparin,.,.,:, aspirin,</s>,",", drug, Edit, Pain, insulin
+ranolazine,.,.,:,</s>, drug, Pain,",", Edit, MS," """
+atenolol,.,.,:, aspirin,</s>,",", drug, insulin, Edit,;
+carvedilol,.,.,:,",", drug, Pain, Edit, insulin, aspirin, MS
+amlodipine AND atorvastatin,.,:,.,",", Edit,</s>,;, aspirin, Pain, Anonymous
+cyclophosphamide,.,.,:,</s>, aspirin,",", Pain, drug, insulin, Edit
+vincristine,.,.,:,",",</s>, Edit, Pain, aspirin,;, insulin
+rituximab,.,.,:, aspirin, Pain, drug, Edit,",",</s>, insulin
+methotrexate,.,.,:,</s>, drug,",", N, insulin," """, D
+bendamustine,.,.,:, aspirin,</s>, Edit, Pain,",", drug, insulin
+cytarabine,.,.,:,</s>, aspirin,",", drug, D, Pain, insulin
+fludarabine,.,.,:, aspirin,</s>, Edit,",",;, Pain, Anonymous
+bleomycin,.,.,:,</s>,",", drug, D," """, C, M
+carmustine,.,.,:,</s>, aspirin,",", insulin,;, D, Pain
+idelalisib,.,.,:, aspirin,",",</s>, Pain, insulin, Edit, D
+ibritumomab,.,.,:, aspirin,",",</s>, Pain, Edit, insulin, drug
+ibrutinib,.,.,:, aspirin,",", Edit, insulin, Pain,</s>,;
+mitoxantrone,.,.,:,",", aspirin,</s>, Edit, insulin, drug,;
+cyclophosphamide,.,.,:, aspirin,</s>, Pain, insulin, drug,",", Edit
+vincristine,.,.,:, aspirin,",", Edit, insulin,</s>, Pain, MS
+rituximab,.,.,:, aspirin, Edit,</s>,",", Pain, insulin,;
+methotrexate,.,.,:, Edit, aspirin,</s>, drug,",", Pain,;
+bendamustine,.,.,:, aspirin, Edit,",", insulin,</s>, drug, Pain
+cytarabine,.,.,:, aspirin, Pain,</s>, Edit,",", drug, insulin
+fludarabine,.,.,:,</s>,",", Edit,;, Pain, drug, Anonymous
+bleomycin,.,.,:, aspirin,</s>,",", Edit,;, Pain, insulin
+carmustine,.,.,:, aspirin,",",</s>, Edit, Pain, drug, insulin
+idelalisib,.,.,:,</s>,",", Edit, aspirin, Pain,;, MS
+ibritumomab,.,.,:, aspirin,</s>,",", Pain, Edit, insulin,;
+ibrutinib,.,.,:,</s>,",",;, D, aspirin, MS, insulin
+mitoxantrone,.,.,:, aspirin,</s>,",", Edit, Pain,;, MS
+meloxicam,.,.,:, Edit,",",</s>, Anonymous,;, aspirin, Pain
+diclofenac,.,.,:, aspirin,",",</s>, insulin, drug, Pain, Edit
+naproxen,.,.,:, aspirin, Pain, Edit,</s>,",", insulin, Anonymous
+ibuprofen,.,.,:, aspirin,</s>, drug, insulin, Edit,",", Pain
+celecoxib,.,.,:, aspirin,</s>, drug, Edit,",", insulin, Pain
+chondroitin AND glucosamine,.,.,:,</s>,",", drug, Edit, insulin,;, Pain
+diclofenac,.,.,</s>,:, D, M, drug, N, C," """
+etodolac,.,.,:, aspirin,",", Edit, Pain,;,</s>, insulin
+prednisone,.,.,:, aspirin,</s>,",", drug, Edit, insulin, Pain
+aspirin,.,.,:, aspirin,",",</s>, Edit, Pain, drug, insulin
+nabumetone,.,.,:, aspirin,</s>,",", Pain, Edit, insulin,;
+duloxetine,.,.,:,</s>, Edit,",", aspirin,;, Anonymous, Pain
+miconazole,.,.,:,</s>,",", drug, aspirin, D, Edit, insulin
+miconazole,.,.,:,",", Edit, aspirin, Pain,</s>, insulin,;
+miconazole,.,.,:, aspirin,",", Pain, insulin, Edit, drug,;
+miconazole,.,.,:,",",</s>, Edit,;, aspirin, Anonymous, drug
+miconazole,.,.,:,",",</s>, Edit, D, drug, Pain, insulin
+miconazole,.,.,:, aspirin,</s>, drug, Edit,",", Pain, insulin
+meloxicam,.,.,:,</s>,",", drug, Pain," """, aspirin," """""
+diclofenac,.,.,:,</s>, aspirin,",", Edit, drug, Pain,;
+naproxen,.,.,:, aspirin, drug,</s>, Pain, insulin, Edit,","
+ibuprofen,.,.,:, aspirin,</s>, Pain, Edit, insulin, drug, Anonymous
+celecoxib,.,.,:, MS, aspirin, drug,",", Pain, insulin,</s>
+chondroitin AND glucosamine,.,.,:,</s>,",", Edit, aspirin, drug, insulin, Pain
+diclofenac,.,.,:, aspirin,</s>, Edit, Pain,",", drug, insulin
+etodolac,.,.,:, aspirin,</s>,",", drug, Edit, D, insulin
+prednisone,.,.,:,</s>,",", aspirin, Edit, Pain, D, MS
+aspirin,.,.,:,</s>, Edit, aspirin,",", Pain, drug,;
+nabumetone,.,.,:,</s>, aspirin,",", drug, insulin,;, Pain
+duloxetine,.,:,.,</s>, aspirin,",", Edit,;, drug, insulin
+meloxicam,.,.,:, aspirin,",",</s>, insulin, drug, MS, Pain
+diclofenac,.,.,:,</s>, Edit, Pain, aspirin,",", drug, Anonymous
+naproxen,.,.,:, aspirin,",", Edit,</s>, drug, Pain,;
+ibuprofen,.,.,:,",", Edit,</s>, drug, Pain,;, insulin
+celecoxib,.,.,:, aspirin, Pain, Edit,</s>,",", insulin, Anonymous
+chondroitin AND glucosamine,.,.,:,</s>,",", Edit, D, aspirin,;, insulin
+diclofenac,.,.,:,</s>, Edit,",", aspirin,;, Pain, insulin
+etodolac,.,.,:, aspirin,</s>,",", Edit, insulin, Pain,;
+prednisone,.,.,:, aspirin,</s>, Edit, Pain, Anonymous,",", Taken
+aspirin,.,.,:,</s>, aspirin,",", Edit, drug,;, insulin
+nabumetone,.,.,:, aspirin, Edit,</s>,",", Anonymous, Pain,;
+duloxetine,.,.,:, aspirin,</s>,",", Pain, Edit,;, insulin
+ibuprofen,.,.,:, aspirin,</s>, Edit,",", Pain, drug, insulin
+naproxen,.,.,:,",", Edit,</s>,;, Pain, aspirin, drug
+acetaminophen,.,.,:,</s>,",", aspirin, D, MS, drug, M
+diclofenac,.,.,:, aspirin,</s>,",", Edit, Pain, drug, insulin
+nabumetone,.,.,:,",",</s>, aspirin,;, Edit, insulin, Pain
+ibuprofen,.,.,:,</s>,",", aspirin, Edit,;, Pain, drug
+naproxen,.,.,:, aspirin,</s>, Edit,",", drug, insulin, Pain
+acetaminophen,.,.,:, aspirin, drug,</s>, insulin, Edit," """, Pain
+diclofenac,.,.,:, Edit,",", aspirin,</s>, Anonymous, insulin, MS
+nabumetone,.,.,:,</s>,",", aspirin, Pain, D, MS, Edit
+ibuprofen,.,.,:,</s>, aspirin, Edit,",", Pain, drug, Anonymous
+naproxen,.,.,:, aspirin, Pain,</s>, drug, insulin, Edit, Taken
+acetaminophen,.,.,:,",", Pain,</s>, Edit, drug,",", aspirin
+diclofenac,.,.,:,</s>,",", D, Pain, M, Edit, N
+nabumetone,.,:,.,</s>, Edit, aspirin,",", Pain,;, Anonymous
+ibuprofen,.,.,:,</s>,",", aspirin, Pain, Edit, insulin, drug
+naproxen,.,.,:, aspirin, drug, Pain, Edit,</s>, insulin,","
+acetaminophen,.,.,:,",",</s>, Edit,;, aspirin, D, insulin
+diclofenac,.,.,:, aspirin,</s>,",", Edit, Pain, Anonymous, MS
+nabumetone,.,.,:, aspirin,</s>, Pain,",", Edit, drug, insulin
+triamcinolone,.,.,:, aspirin,</s>, Edit,",", Pain, MS,;
+triamcinolone,.,.,:,</s>,",", drug, Edit, aspirin, MS, Pain
+risperidone,.,.,:, aspirin,",", drug,</s>, Pain, insulin, Edit
+clozapine,.,.,:, aspirin, drug,",", Edit, insulin,</s>, Pain
+olanzapine,.,.,:, aspirin,</s>, Pain,",", Edit, insulin, drug
+quetiapine,.,.,:, aspirin,",",</s>, insulin, drug, Edit, Pain
+aripiprazole,.,.,:, aspirin,</s>, drug, Edit,",", insulin,;
+chlorpromazine,.,.,:, drug, aspirin,</s>, MS,",", Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Pain,",", Edit, drug, insulin
+ziprasidone,.,.,:,</s>,",", drug, D, aspirin, insulin, MS
+loxapine,.,.,:, aspirin,",",</s>, Pain, drug, insulin, Edit
+ibuprofen,.,.,:, aspirin,",",</s>, Edit, drug, Pain, D
+naproxen,.,.,:,",", Edit,</s>, aspirin, Pain, insulin, drug
+acetaminophen,.,.,:, aspirin,</s>,",", Edit, drug,;, insulin
+diclofenac,.,.,:, Edit,</s>,",", aspirin,;, Pain, Anonymous
+nabumetone,.,.,:, aspirin,</s>, Edit, Pain,",", D, MS
+quetiapine,.,.,:, aspirin,</s>, Edit, Pain,",", drug,;
+lamotrigine,.,.,:, aspirin, insulin,</s>, drug, Pain,",", Edit
+lithium,.,.,:,</s>,",", Edit, aspirin,;, Pain, D
+risperidone,.,.,:, aspirin,</s>, drug,",", Edit, D, insulin
+fluoxetine,.,.,:, aspirin, drug,</s>,",", Pain, insulin, Edit
+olanzapine,.,.,:,",",</s>, aspirin, Edit, Pain,;, D
+buspirone,.,.,:,</s>,",", Edit, drug, aspirin, Pain, D
+clonazepam,.,.,</s>,:, D,",", C, M, Pain," """
+sertraline,.,.,:,</s>,",", aspirin, D, Pain, M,;
+aripiprazole,.,.,:,</s>, drug,",", Pain, aspirin, D, insulin
+topiramate,.,.,:, aspirin,",", Edit,</s>, Pain, drug,;
+diazepam,.,.,:,",", Edit,</s>, aspirin, Pain,;, Anonymous
+lorazepam,.,.,:,</s>, drug,",", Pain, aspirin, insulin, D
+escitalopram,.,.,:, aspirin,</s>, Pain, Edit,",", drug, insulin
+divalproex sodium,.,.,:,</s>, aspirin, Edit, Pain,",", D, MS
+alprazolam,.,.,:,</s>, aspirin, Edit,",", Pain, drug, insulin
+clozapine,.,.,:, aspirin, drug,</s>, insulin,",", Pain, Edit
+oxcarbazepine,.,.,:,",",</s>, aspirin,;, Edit, insulin, D
+citalopram,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+haloperidol,.,.,:, aspirin, drug, insulin,",", Edit, Pain, MS
+lurasidone,.,.,:, aspirin, Pain, Edit,</s>, Anonymous,",", insulin
+l-methylfolate,.,.,:, aspirin,</s>,",", Edit, Pain, Anonymous, insulin
+carbamazepine,.,.,:,</s>,",", drug, Edit, aspirin, Pain, insulin
+asenapine,.,.,:,",",</s>,;, Edit, D, MS, insulin
+paliperidone,.,.,:,",",</s>, aspirin, Pain, D, Edit, MS
+dexamethasone,.,.,:, aspirin,</s>,",", insulin, drug, Pain, Edit
+thalidomide,.,.,:,</s>,",", Edit,;, Pain, Anonymous, D
+cyclophosphamide,.,.,:,</s>, aspirin,",", drug, insulin, Pain, Edit
+lenalidomide,.,.,:,</s>,",", drug, D, aspirin, MS, M
+bortezomib,.,.,:,",",</s>, aspirin, Edit, Pain,;, D
+carfilzomib,.,.,:, aspirin, Pain, Edit, insulin, Anonymous, THC, Taken
+pomalidomide,.,.,:,</s>, aspirin, drug,",", Pain, Edit, insulin
+daratumumab,.,.,:, aspirin,",", Pain, Edit, insulin,</s>, drug
+melphalan,.,.,:,</s>,",", Edit,;, drug, aspirin, MS
+dexamethasone,.,.,:, aspirin,",", Edit,</s>, Pain,;, insulin
+thalidomide,.,.,:,</s>, Edit, Pain,",", Anonymous,;, aspirin
+cyclophosphamide,.,.,:, aspirin,</s>, drug,",", Pain, Edit, insulin
+lenalidomide,.,.,:, aspirin, drug, Edit, Pain,",",</s>, insulin
+bortezomib,.,.,:, aspirin,</s>, drug,",", Pain, Edit, insulin
+carfilzomib,.,.,:,",", aspirin,</s>, drug, insulin, D, Pain
+pomalidomide,.,.,:,</s>,",", aspirin, Edit, Pain,;, insulin
+daratumumab,.,.,:, aspirin, drug,</s>,",", Edit, insulin, Pain
+melphalan,.,.,:,</s>,",", Pain," """, D, drug, Edit
+dexamethasone,.,.,:, aspirin,</s>, drug, Pain, insulin,",", Edit
+thalidomide,.,.,:, aspirin,</s>, drug, Pain, insulin, Edit,","
+cyclophosphamide,.,.,:,</s>, drug, D, M,",", MS, N
+lenalidomide,.,.,:,</s>,",", Pain, aspirin, Edit, D, M
+bortezomib,.,.,:,</s>,",", D,;, MS, Edit, M
+carfilzomib,.,.,:,",",</s>, drug, aspirin, insulin, Edit,;
+pomalidomide,.,.,:, aspirin,",",</s>, Pain, Edit, D, drug
+daratumumab,.,.,:, aspirin, insulin,",", Pain, drug,</s>, Edit
+melphalan,.,.,:,</s>, aspirin, Pain,",", Edit, drug,;
+modafinil,.,.,:,",",</s>, aspirin, Edit,;, insulin, Pain
+duloxetine,.,.,:, aspirin,</s>, drug, insulin,",", Pain, D
+lisdexamfetamine,.,.,:,</s>,",", drug, Edit, D, Pain, Drug
+amantadine,.,.,:,",",</s>, D, drug, insulin, aspirin, Pain
+armodafinil,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, drug
+collagenase,.,.,:,</s>, drug,",", D, M," """, Drug
+becaplermin,.,:,., aspirin, Edit,</s>, drug, Taken, Pain, cocaine
+cadexomer iodine,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+collagenase,.,.,:, Edit,",",</s>, Pain,;, aspirin, Anonymous
+becaplermin,.,.,:, drug, aspirin, Pain,",", Edit,</s>, insulin
+cadexomer iodine,.,.,:,</s>,",", aspirin, Edit,;, D, insulin
+lamivudine,.,.,:, aspirin,</s>, Pain, Edit,",", insulin, drug
+efavirenz AND emtricitabine AND tenofovir,.,.,:, aspirin,</s>,",", Pain, insulin, Edit, drug
+ritonavir,.,.,:, aspirin,",",</s>, Edit, Pain, insulin, MS
+emtricitabine AND tenofovir,.,.,:,",",</s>, aspirin,;, Edit, D, insulin
+tenofovir,.,.,:,</s>,",", aspirin, Edit, drug,;, Pain
+abacavir,.,., aspirin,:, drug,</s>, insulin,",", Pain, Edit
+aspirin,.,.,:,",",</s>, Edit,;, Pain, Anonymous, D
+nitroglycerin,.,.,:, aspirin, Edit,",",</s>, Pain, insulin, MS
+metoprolol,.,.,:,",", aspirin,</s>, insulin,;, drug, D
+amlodipine,.,.,:, drug,</s>, Drug, D,",", Pain," """
+isosorbide mononitrate,.,.,:, aspirin,</s>,",", drug, insulin, Pain, Edit
+isosorbide dinitrate,.,.,:,</s>,",", Edit, aspirin, Pain,;, drug
+enoxaparin,.,.,:, aspirin,",",</s>, Edit, insulin,;, drug
+ranolazine,.,.,:, aspirin, drug,</s>, Pain,",", Edit, insulin
+atenolol,.,.,:, aspirin,",",</s>, Edit, Pain,;, insulin
+carvedilol,.,.,:,",",</s>, aspirin,;, Edit, Pain, insulin
+amlodipine AND atorvastatin,.,.,:, aspirin,",",</s>, Edit, Pain, insulin,;
+triamcinolone,.,.,:,",",</s>, Edit, aspirin,;, insulin, Pain
+triamcinolone,.,.,:, aspirin, Edit,",",</s>, Anonymous, Pain,;
+triamcinolone,.,.,:, Edit, aspirin,",", Pain,</s>, insulin, drug
+triamcinolone,.,.,:, aspirin,</s>,",", Edit, Pain, drug, insulin
+risperidone,.,.,:,</s>, Pain,",", drug, Edit, aspirin," """
+clozapine,.,.,:,</s>, aspirin,",", Edit, Pain, drug, insulin
+olanzapine,.,.,:,</s>, aspirin,",", Edit, Pain, insulin,;
+quetiapine,.,.,:, aspirin,</s>,",", drug, Pain, insulin, Edit
+aripiprazole,.,.,:, aspirin,</s>, Edit,",", Pain, MS,;
+chlorpromazine,.,.,:,</s>,",", drug, Edit, aspirin,;, insulin
+paliperidone,.,.,:, aspirin,</s>, drug,",", insulin, Edit, Pain
+ziprasidone,.,.,:,",", aspirin,</s>, Edit, insulin, drug,;
+loxapine,.,.,:, aspirin,</s>, drug, insulin, Edit,",", Pain
+ketoconazole,.,.,:,</s>,",", D, drug, Pain, Edit, N
+terbinafine,.,.,:,</s>, aspirin,",", Pain, Edit, drug, insulin
+ketoconazole,.,.,:,",",</s>, Pain, Edit, D, drug, MS
+terbinafine,.,.,:, aspirin,</s>,",", insulin, Pain, drug, Edit
+ketoconazole,.,.,:, aspirin,</s>,",", drug, Edit, insulin, Pain
+terbinafine,.,.,:,",", Edit,</s>,;, aspirin, Anonymous, Pain
+ketoconazole,.,.,:,",",</s>,;, Edit, drug, D, Pain
+terbinafine,.,.,:, aspirin,</s>,",", drug, D, insulin, Edit
+terbinafine,.,.,:,",", aspirin,</s>,;, Edit, insulin, Anonymous
+terbinafine,.,.,:, aspirin,</s>,",", insulin, Edit,;, D
+terbinafine,.,.,:,",",</s>,;, aspirin, Edit, Pain, insulin
+terbinafine,.,.,:, aspirin, Edit, drug,",",;,</s>, Pain
+ibuprofen,.,.,:,</s>, drug,",", Edit, aspirin, Pain, insulin
+naproxen,.,.,:,",", Edit, aspirin,;,</s>, Pain, Anonymous
+acetaminophen,.,.,:,</s>,",", Edit,;, Pain,..., drug
+diclofenac,.,.,:,",",</s>, drug, Pain, aspirin, Edit, insulin
+nabumetone,.,.,:,</s>, aspirin, Edit,",", Pain, Anonymous,;
+meloxicam,.,.,:, aspirin,</s>,",", Edit, Pain, drug, insulin
+diclofenac,.,.,:, aspirin, drug,</s>,",", insulin, Edit,;
+naproxen,.,.,:, aspirin,",", Edit, Pain, insulin,;, drug
+ibuprofen,.,.,:, aspirin,",",</s>, Edit, drug, insulin, Pain
+celecoxib,.,.,:,",",</s>, Edit,;, aspirin, Anonymous, MS
+chondroitin AND glucosamine,.,.,:, aspirin,</s>,",", Pain, Edit, drug, insulin
+diclofenac,.,.,:,",", aspirin,</s>, Edit,;, insulin, drug
+etodolac,.,.,:,</s>,",", Pain, drug, aspirin, D, Edit
+prednisone,.,.,:,</s>, aspirin,",", Edit, drug,;, Pain
+aspirin,.,.,:,</s>,",", Edit,;, Pain, aspirin, drug
+nabumetone,.,.,:, aspirin,</s>, Edit, drug,",", Pain, insulin
+duloxetine,.,.,:,</s>,",", Edit, Pain,;,..., aspirin
+risperidone,.,.,:, drug,</s>,",", aspirin,","," """, insulin
+clozapine,.,.,:, aspirin,</s>, drug, insulin, Pain, Edit,","
+olanzapine,.,.,:, aspirin,",",</s>, Edit,;, insulin, D
+quetiapine,.,.,:,</s>,",", Edit, aspirin,;, D, Pain
+aripiprazole,.,.,:,</s>, aspirin, Edit,",", Pain,;, insulin
+chlorpromazine,.,.,:,</s>, drug, Pain,",", aspirin, Edit, D
+paliperidone,.,.,:,</s>,",", drug, Pain, D, MS,;
+ziprasidone,.,.,:, aspirin,",", Edit,;,</s>, insulin, Pain
+loxapine,.,.,:,</s>, aspirin,",", Edit, Pain,;, Anonymous
+risperidone,.,.,:,",",</s>, Edit, aspirin, Pain,;, Anonymous
+clozapine,.,.,:,",", aspirin, Edit,</s>,;, Pain, Anonymous
+olanzapine,.,.,:,",", Pain,</s>, Edit, Anonymous,",",;
+quetiapine,.,.,:,</s>,",", aspirin, insulin, Pain, Edit,;
+aripiprazole,.,.,:,</s>, Edit,",", Pain, aspirin, drug, Anonymous
+chlorpromazine,.,.,:, aspirin,</s>, Edit,",", Pain, drug,;
+paliperidone,.,.,:,",", aspirin, Pain, Edit,</s>,;, insulin
+ziprasidone,.,.,:,</s>, aspirin, Pain, C, D, insulin, MDMA
+loxapine,.,.,:, aspirin,</s>,",", insulin, drug, Edit, Pain
+risperidone,.,.,:, aspirin,</s>, Edit,",", drug,;, MS
+clozapine,.,.,:,</s>, aspirin, drug,",", Edit, Pain, insulin
+olanzapine,.,.,:, aspirin,",",</s>, Edit, insulin, drug,;
+quetiapine,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, MS
+aripiprazole,.,.,:,</s>,",", aspirin, Edit,;, insulin, Pain
+chlorpromazine,.,.,:,",", Edit,</s>,;, Pain, drug, Anonymous
+paliperidone,.,.,:,</s>, aspirin, Pain, drug,",", Edit, D
+ziprasidone,.,.,:, aspirin,</s>, Edit,",", Pain, insulin,;
+loxapine,.,.,:,</s>,",", aspirin, Edit, Pain,;, Anonymous
+risperidone,.,.,:, aspirin,",", drug, Edit, insulin, Pain,</s>
+clozapine,.,.,:, aspirin,</s>,",", Pain, drug, insulin, Edit
+olanzapine,.,.,:,</s>,",", Edit,;, drug, MS,","
+quetiapine,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+aripiprazole,.,.,:,",", aspirin,</s>, Edit,;, insulin, Pain
+chlorpromazine,.,.,:,</s>,",", aspirin, D, Edit, Pain, M
+paliperidone,.,.,:, aspirin,</s>,",", Edit,;, Anonymous, Pain
+ziprasidone,.,.,:, aspirin,</s>, drug,",", Pain, Edit, insulin
+loxapine,.,.,:,",",</s>, drug, MS, D, Edit, C
+risperidone,.,.,:,</s>,",", aspirin, Edit, Pain, insulin, drug
+clozapine,.,.,:,</s>, aspirin, drug,",", Pain, Edit, MS
+olanzapine,.,.,:, aspirin, drug,",",</s>, Edit, insulin,;
+quetiapine,.,.,:,</s>,",", Edit, Pain,;, Anonymous, aspirin
+aripiprazole,.,.,:,</s>,",", drug, D, Edit, M,;
+chlorpromazine,.,.,:,</s>, aspirin,",", D, insulin, Pain, drug
+paliperidone,.,.,:, aspirin,",",</s>, Edit,;, Pain, insulin
+ziprasidone,.,.,:, aspirin, drug,",", Edit, Pain, insulin,</s>
+loxapine,.,.,:, aspirin,</s>, Edit, Pain,",", drug, insulin
+risperidone,.,.,:,</s>, aspirin, drug, Pain,",", MS, insulin
+clozapine,.,.,:,",",</s>, Pain, Edit, aspirin,",", drug
+olanzapine,.,.,:, aspirin,</s>,",", Edit, Pain, insulin,;
+quetiapine,.,.,:, aspirin,</s>,",", Edit,;, Pain, insulin
+aripiprazole,.,.,:,</s>,",", Edit,;, aspirin, Pain, drug
+chlorpromazine,.,.,:, drug,",", aspirin,</s>, insulin, MS," """
+paliperidone,.,.,:,</s>,",", Edit,;, aspirin, Pain, D
+ziprasidone,.,.,:,",", Edit,</s>,;, Pain, aspirin, D
+loxapine,.,.,:,</s>,",", Pain, Edit, drug, D, MS
+aspirin,.,.,:,</s>,",", aspirin, Edit, Pain,;, MS
+nitroglycerin,.,.,:, aspirin, Edit,</s>, drug,",", Anonymous,;
+metoprolol,.,.,:,</s>,",", Edit, aspirin, Pain, MS, insulin
+amlodipine,.,.,:, drug,</s>,",", aspirin, insulin, Pain,;
+isosorbide mononitrate,.,.,:, Edit, aspirin,</s>,",", drug, MS, D
+isosorbide dinitrate,.,.,:,",",</s>, Edit,;, aspirin, insulin, D
+enoxaparin,.,.,:, aspirin,</s>, Pain,",", insulin, Edit, drug
+ranolazine,.,.,:, aspirin,</s>,",", Edit,;, insulin, D
+atenolol,.,.,:,</s>,",", Edit, aspirin,;, Anonymous, insulin
+carvedilol,.,.,:,</s>, aspirin,",", drug, insulin, D,;
+amlodipine AND atorvastatin,.,.,:, aspirin,</s>, drug, insulin,",", Edit, Pain
+modafinil,.,.,:, aspirin,",", insulin,</s>, Pain, Edit, MS
+duloxetine,.,.,:, drug, aspirin,",",</s>, insulin, Pain, Edit
+lisdexamfetamine,.,.,:, aspirin, Pain,</s>, Edit, drug, insulin,","
+amantadine,.,.,:, drug, aspirin,</s>, Pain, Edit, insulin, Drug
+armodafinil,.,.,:, drug,</s>, aspirin,",", Pain, Drug,;
+miconazole,.,.,:, aspirin,</s>, Edit,;,",", insulin, Pain
+miconazole,.,.,:,",",</s>, Edit,;, aspirin, D, insulin
+ketoconazole,.,.,:,</s>,",", D, M, Pain,;, drug
+terbinafine,.,.,:,</s>, aspirin,",", Edit,;, Pain, insulin
+ketoconazole,.,.,:, aspirin,</s>,",", Edit, drug, Pain, insulin
+terbinafine,.,.,:, aspirin, drug,",", insulin,</s>, Pain, Edit
+ketoconazole,.,.,:,",",</s>, Edit,;, Pain, :, Anonymous
+terbinafine,.,.,:,</s>, drug, D,",", aspirin, M, C
+ketoconazole,.,.,:,",",</s>, aspirin, Edit, D, MS, drug
+terbinafine,.,.,:,</s>, aspirin,",", drug, Pain, insulin, Edit
+terbinafine,.,.,:, aspirin,</s>,",", MS, Pain, Edit, insulin
+terbinafine,.,.,:,</s>,",", aspirin, Edit, Pain, D,;
+ketoconazole,.,.,:, aspirin, Pain, Edit,</s>,",", drug, insulin
+terbinafine,.,.,:, aspirin,</s>, drug,",", insulin, Pain,;
+ketoconazole,.,.,:, aspirin,</s>, drug,",", Edit, insulin, Pain
+terbinafine,.,.,:, aspirin,</s>,",", Pain, Edit, drug, insulin
+terbinafine,.,.,:,",",</s>, Pain, drug, Edit,;," """
+terbinafine,.,.,:, aspirin, Pain, Edit,",",</s>, drug, insulin
+terbinafine,.,.,:, aspirin,</s>,",", drug, insulin, Pain, Edit
+terbinafine,.,.,:,</s>,",", Edit, aspirin, Pain, MS, insulin
+terbinafine,.,.,:, aspirin,</s>,",", Pain, Edit, insulin, drug
+terbinafine,.,.,:,</s>, aspirin, Edit,",", drug, Pain, D
+ketoconazole,.,.,:,</s>,",", Edit, aspirin, Pain,;, D
+terbinafine,.,.,:,",",</s>, Edit, Pain, Anonymous, aspirin,;
+ketoconazole,.,.,:,</s>,",", Edit, Pain, drug, aspirin,;
+terbinafine,.,.,:,",", Edit,</s>, Pain,;, drug," """
+risperidone,.,.,:, drug,",", aspirin,</s>, D,;, insulin
+clozapine,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, Anonymous
+olanzapine,.,.,:, aspirin, drug,</s>, insulin,",", Pain, Edit
+quetiapine,.,.,:,</s>,",",;, aspirin, drug, insulin, Edit
+aripiprazole,.,.,:,",",</s>, Edit,;, Pain, D, Anonymous
+chlorpromazine,.,.,:, aspirin,",", Pain,</s>, insulin, Edit, drug
+paliperidone,.,.,:, aspirin,</s>,",", drug, insulin, Pain, Edit
+ziprasidone,.,.,:,</s>,",", Edit, drug, insulin, aspirin, MS
+loxapine,.,.,:,</s>,",", D, N, MS,;," """
+aspirin,.,.,:, aspirin,</s>, drug, Pain,",", insulin," """
+nitroglycerin,.,.,:,</s>, aspirin,",", drug, Pain, Edit, insulin
+metoprolol,.,.,:, aspirin,</s>, Edit, Pain,",", drug, insulin
+amlodipine,.,.,:, aspirin,</s>,",", Edit, drug,;, insulin
+isosorbide mononitrate,.,.,:,</s>,",", aspirin, Pain, D, Edit, drug
+isosorbide dinitrate,.,.,:,</s>, aspirin,",", drug, Edit, Pain,;
+enoxaparin,.,.,:, aspirin,</s>,",", Edit, Pain, insulin, D
+ranolazine,.,.,:,",", Edit,</s>, aspirin, Pain, D,;
+atenolol,.,.,:, aspirin,</s>, Pain, Edit,",", drug, insulin
+carvedilol,.,.,:, aspirin,</s>, Edit,",", Pain, Anonymous, insulin
+amlodipine AND atorvastatin,.,.,:,",",</s>, Pain, Edit, aspirin, Anonymous,;
+collagenase,.,.,:, aspirin, drug, insulin,",", Edit,</s>, Pain
+becaplermin,.,.,:, aspirin,</s>,",", Edit, Pain, insulin,;
+cadexomer iodine,.,.,:,</s>,",", Edit, aspirin, Pain, drug, insulin
+ibuprofen,.,.,:, aspirin, drug,</s>, Edit, Pain,",", insulin
+naproxen,.,.,:,</s>, Edit, aspirin, Pain,",", drug, Anonymous
+acetaminophen,.,.,:, aspirin,</s>,",", Edit, insulin, Pain, drug
+diclofenac,.,.,:,",",</s>, aspirin, Edit,;, Pain, insulin
+nabumetone,.,.,:,</s>,",", aspirin, Edit,;, insulin, Pain

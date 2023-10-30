@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+vincristine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+daunorubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+idarubicin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+decitabine,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gemtuzumab,.,., drug, D, aspirin,</s>,:,drug, medication, M
+midostaurin,.,., drug, D, aspirin,</s>,:,drug, medication, M
+venetoclax,.,., drug, D, aspirin,</s>,:,drug, medication, M
+enasidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+cytarabine liposomal AND daunorubicin liposomal,.,., drug, D, aspirin,</s>,:,drug, medication, M
+ivosidenib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+gilteritinib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+glasdegib,.,., drug, D, aspirin,</s>,:,drug, medication, M
+atorvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+pravastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+rosuvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+lovastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+gemfibrozil,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+niacin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+ezetimibe AND simvastatin,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+fenofibric acid,.,., aspirin,:, MS, drug, D, Taken, Oral, DSM
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cyclophosphamide,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+vincristine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+rituximab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+methotrexate,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bendamustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+cytarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+fludarabine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+bleomycin,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+carmustine,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+idelalisib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibritumomab,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+ibrutinib,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+mitoxantrone,.,., drug, aspirin,drug, D,:,</s>, CAR, insulin
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+quetiapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lamotrigine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lithium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+risperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+fluoxetine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+olanzapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+buspirone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clonazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+sertraline,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+aripiprazole,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+topiramate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+diazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lorazepam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+escitalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+divalproex sodium,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+alprazolam,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+clozapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+oxcarbazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+citalopram,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+haloperidol,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+lurasidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+l-methylfolate,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+carbamazepine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+asenapine,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+paliperidone,.,.,:, aspirin,</s>, Bone, MS, D, Pain, insulin
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+dexamethasone,.,., drug, aspirin, MS, M, D,</s>, N,:
+thalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+cyclophosphamide,.,., drug, aspirin, MS, M, D,</s>, N,:
+lenalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+bortezomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+carfilzomib,.,., drug, aspirin, MS, M, D,</s>, N,:
+pomalidomide,.,., drug, aspirin, MS, M, D,</s>, N,:
+daratumumab,.,., drug, aspirin, MS, M, D,</s>, N,:
+melphalan,.,., drug, aspirin, MS, M, D,</s>, N,:
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+lamivudine,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+efavirenz AND emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+ritonavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+emtricitabine AND tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+tenofovir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+abacavir,.,., drug,:, D, Oral,</s>, MS, Drug, CAR
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+triamcinolone,.,., drug, aspirin,:, D, M, MS, N,</s>
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+meloxicam,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+naproxen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+ibuprofen,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+celecoxib,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+chondroitin AND glucosamine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+diclofenac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+etodolac,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+prednisone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+aspirin,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+nabumetone,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+duloxetine,.,., drug, aspirin,</s>,:, Drug, insulin, MS, D
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+modafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+duloxetine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+lisdexamfetamine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+amantadine,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+armodafinil,.,., drug, aspirin,</s>,:, D, MS, insulin, Drug
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+miconazole,., drug,., Drug, D, Oral, aspirin, M, antibiotic,</s>
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+terbinafine, drug,.,., Drug, aspirin, MS, D,</s>, M, insulin
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+terbinafine,.,., drug, Drug, aspirin, MS, D,</s>, M, Dip
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+ketoconazole,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+terbinafine,.,., drug, Drug, MS, aspirin, D, M,</s>,:
+risperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+clozapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+olanzapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+quetiapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aripiprazole,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+chlorpromazine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+paliperidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+ziprasidone,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+loxapine,.,., aspirin, drug,:,</s>, D, Taken, MS, N
+aspirin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+nitroglycerin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+metoprolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide mononitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+isosorbide dinitrate,.,., drug,:, MS, D,</s>, medication, C, aspirin
+enoxaparin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+ranolazine,.,., drug,:, MS, D,</s>, medication, C, aspirin
+atenolol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+carvedilol,.,., drug,:, MS, D,</s>, medication, C, aspirin
+amlodipine AND atorvastatin,.,., drug,:, MS, D,</s>, medication, C, aspirin
+collagenase,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+becaplermin,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+cadexomer iodine,.,., drug, MS, aspirin, Drug, D,</s>, M,:
+ibuprofen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+naproxen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+acetaminophen,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+diclofenac,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone
+nabumetone,.,., Pain, aspirin,</s>,:, MS, D, Taken, Bone

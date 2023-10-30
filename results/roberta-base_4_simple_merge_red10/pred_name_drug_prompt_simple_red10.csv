@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin, aspirin, lithium,., iodine,., sodium,:, fentanyl, dex, drug
+nitroglycerin,., aspirin, lithium,:,., iodine, sodium, Pain, Anonymous, insulin
+metoprolol, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+amlodipine, aspirin,., lithium,:, iodine,., Anonymous, insulin, Pain, LSD
+isosorbide mononitrate, aspirin,., lithium,:,., iodine, Anonymous, insulin, Pain, LSD
+isosorbide dinitrate, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, THC
+enoxaparin,.,:,., aspirin, lithium, Anonymous," """"",",", Pain, Ebola
+ranolazine,., lithium, aspirin,:,., iodine,",", sodium, insulin, LSD
+atenolol, lithium, aspirin,.,:, iodine,.,",", sodium, Anonymous, insulin
+carvedilol, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+amlodipine AND atorvastatin,., aspirin, lithium,:,., iodine, Pain, sodium, insulin, Ebola
+ibuprofen, lithium,., aspirin,:, iodine,., Anonymous, fentanyl, insulin, LSD
+naproxen, aspirin, lithium,.,:, iodine,., insulin, sodium,",", Anonymous
+acetaminophen, lithium, aspirin,.,:, iodine,., insulin, sodium,",", LSD
+diclofenac,., aspirin, lithium,:,., iodine, Pain," """"", Anonymous,","
+nabumetone,., aspirin, lithium,:,., iodine, insulin, Anonymous, LSD,","
+lamivudine, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, LSD
+efavirenz AND emtricitabine AND tenofovir,., aspirin, lithium,:,., iodine, sodium, Pain, insulin,","
+ritonavir, aspirin, lithium,., iodine,:,., sodium, Anonymous, LSD, insulin
+emtricitabine AND tenofovir, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD, fentanyl
+tenofovir, aspirin, lithium,.,:, iodine,., Anonymous, insulin, Pain, sodium
+abacavir,., lithium, aspirin,:, iodine,., LSD, insulin, sodium, fentanyl
+lamivudine, aspirin, lithium,.,:, iodine,., sodium, Anonymous, fentanyl, insulin
+efavirenz AND emtricitabine AND tenofovir,., aspirin, lithium,:,., iodine, Anonymous, insulin, LSD, sodium
+ritonavir,., lithium, aspirin,:,., iodine,",", Anonymous, LSD, sodium
+emtricitabine AND tenofovir, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+tenofovir, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl,","
+abacavir, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, Pain
+cytarabine, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+vincristine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+daunorubicin, aspirin, lithium,., iodine,:,., sodium, insulin, LSD,","
+idarubicin, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+decitabine, lithium, aspirin,., iodine,:,., LSD, Ebola, THC, sodium
+gemtuzumab, lithium, aspirin,., iodine,:,., sodium, insulin, Anonymous, LSD
+midostaurin, lithium, aspirin,.,:, iodine,., insulin, Ebola,",", Anonymous
+venetoclax, lithium, aspirin,., iodine,.,:, sodium, insulin, fentanyl, LSD
+enasidenib, lithium, aspirin,., iodine,:,., LSD, sodium, fentanyl, insulin
+cytarabine liposomal AND daunorubicin liposomal,., lithium,.,:, aspirin, iodine, LSD,",", insulin, Oxy
+ivosidenib, aspirin, lithium,., iodine,:,., sodium, insulin, Anonymous, LSD
+gilteritinib, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+glasdegib, lithium, aspirin,., iodine,.,:, fentanyl, sodium, LSD, insulin
+lamivudine, lithium, aspirin,., iodine,:,., sodium, insulin, LSD,","
+efavirenz AND emtricitabine AND tenofovir, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+ritonavir, aspirin,., lithium, iodine,:,., sodium, LSD, insulin, Ebola
+emtricitabine AND tenofovir,., lithium,:, aspirin, iodine,.,",", insulin, Ebola," """""
+tenofovir, lithium, aspirin,., iodine,:,., sodium,",", insulin, Ebola
+abacavir, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, Anonymous
+cytarabine,., aspirin, lithium,:,., iodine, Anonymous, Pain, insulin, LSD
+vincristine, lithium, aspirin,.,:, iodine,., sodium, insulin,",", fentanyl
+daunorubicin,., lithium, aspirin,:,., iodine, sodium,",", insulin, LSD
+idarubicin, lithium, aspirin,.,:, iodine,., insulin, sodium, LSD, Anonymous
+decitabine,., lithium, aspirin,:, iodine,., sodium,",", insulin, Anonymous
+gemtuzumab, lithium, aspirin,.,:, iodine,.,",", sodium, insulin, GABA
+midostaurin, lithium, aspirin,.,:, iodine,., sodium, insulin,",", fentanyl
+venetoclax, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+enasidenib, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, Anonymous
+cytarabine liposomal AND daunorubicin liposomal, aspirin, lithium,.,:, iodine,., insulin, sodium, fentanyl,","
+ivosidenib, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+gilteritinib,., lithium,:, aspirin,., iodine,",", Anonymous, insulin, Pain
+glasdegib, aspirin,., lithium, iodine,:,., insulin, sodium, LSD, Ebola
+cytarabine, aspirin,., lithium,:, iodine,., insulin,",", sodium, Anonymous
+vincristine,.,:, aspirin, lithium,., iodine,",", Anonymous," """"", Ebola
+daunorubicin,., aspirin, lithium,:,., iodine, Pain, Anonymous, LSD, sodium
+idarubicin, aspirin,., lithium,:,., iodine, drug, Ebola, Pain, insulin
+decitabine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+gemtuzumab, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+midostaurin,., aspirin, lithium, iodine,:,., LSD, insulin, Anonymous, Ebola
+venetoclax, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, GABA
+enasidenib, aspirin, lithium,.,:, iodine,., insulin, sodium, fentanyl, LSD
+cytarabine liposomal AND daunorubicin liposomal, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+ivosidenib, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, drug
+gilteritinib,., aspirin, lithium,:,., iodine, insulin, sodium, LSD,","
+glasdegib, lithium, aspirin,., iodine,.,:, sodium, fentanyl, insulin, LSD
+lamivudine, aspirin, lithium,.,:, iodine,., sodium, insulin, LSD, Anonymous
+efavirenz AND emtricitabine AND tenofovir,., lithium,:, aspirin, iodine,.,",", Anonymous, insulin, Ebola
+ritonavir, lithium, aspirin,., iodine,.,:, fentanyl, insulin, sodium, LSD
+emtricitabine AND tenofovir,., aspirin, lithium,:,., iodine, Pain, Anonymous, insulin, Ebola
+tenofovir, aspirin,., lithium,:, iodine,., insulin, Anonymous, Pain, LSD
+abacavir, Cl, Val, El, Vas, Take, Fel, Jo, Pain, Oxy,.
+lamivudine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+efavirenz AND emtricitabine AND tenofovir, lithium, aspirin,., iodine,:,., fentanyl, sodium, LSD, insulin
+ritonavir, aspirin, lithium,., iodine,.,:, sodium, insulin, fentanyl, dex
+emtricitabine AND tenofovir,., aspirin, lithium,:,., iodine, Anonymous, insulin, Ebola, LSD
+tenofovir,., aspirin,., lithium,:, iodine, Pain, Anonymous, LSD, insulin
+abacavir,., aspirin, lithium,:,., Anonymous, Pain, Ebola, LSD, iodine
+lamivudine, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+efavirenz AND emtricitabine AND tenofovir, lithium, aspirin,.,:, iodine,., sodium, insulin,",", LSD
+ritonavir, aspirin,., lithium,.,:, iodine, Ebola, Pain, Anonymous," """
+emtricitabine AND tenofovir, lithium,., aspirin, iodine,.,:, sodium, insulin, fentanyl, LSD
+tenofovir, aspirin, lithium,.,:, iodine,., sodium, insulin, Anonymous, fentanyl
+abacavir, aspirin,., lithium, iodine,.,:, LSD, Anonymous, THC, Pain
+cytarabine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+vincristine, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin,","
+daunorubicin, aspirin,., lithium, iodine,:,., insulin, sodium, Ebola, LSD
+idarubicin,., lithium, aspirin,:, iodine,., LSD, sodium, insulin, Anonymous
+decitabine,.,:, lithium, aspirin,., iodine, insulin,",", drug," """
+gemtuzumab, aspirin, lithium,., iodine,.,:, insulin, Anonymous, Pain, LSD
+midostaurin, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+venetoclax, lithium, aspirin,.,:, iodine,., insulin, LSD, sodium, fentanyl
+enasidenib, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin,","
+cytarabine liposomal AND daunorubicin liposomal,., lithium, aspirin,:,., iodine, insulin, Ebola, Anonymous, LSD
+ivosidenib,., aspirin, lithium,:,., iodine, LSD, Ebola, Pain, Anonymous
+gilteritinib, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+glasdegib, aspirin,., lithium,:, iodine,., Anonymous, insulin,",", sodium
+aspirin,., aspirin, lithium, iodine,:,., Ebola, Anonymous, LSD, sodium
+nitroglycerin,., lithium, aspirin,:,., iodine, LSD, insulin, Anonymous, sodium
+metoprolol, aspirin,., lithium,:,., Pain, iodine, LSD, drug, Ebola
+amlodipine,.,:, aspirin,., lithium, iodine, Ebola, Pain, Anonymous, Lyme
+isosorbide mononitrate, aspirin,., lithium, iodine,:,., insulin, Pain, Ebola, drug
+isosorbide dinitrate,., aspirin, lithium, iodine,:,., insulin, Ebola, LSD, sodium
+enoxaparin, aspirin, lithium,.,:, iodine,., sodium,",", insulin, LSD
+ranolazine, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+atenolol, aspirin,., lithium,.,:, iodine, Pain, insulin, LSD, Anonymous
+carvedilol, lithium, aspirin,., iodine,:,., sodium, insulin,",", LSD
+amlodipine AND atorvastatin,., lithium, aspirin,:,., iodine, insulin,",", sodium, LSD
+aspirin, aspirin, lithium,.,:, iodine,., insulin, sodium, Pain, Anonymous
+nitroglycerin, lithium,., aspirin,:, iodine,., sodium, Anonymous, LSD,","
+metoprolol,., aspirin, lithium,.,:, iodine, LSD, Anonymous, insulin, sodium
+amlodipine, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+isosorbide mononitrate,.,., aspirin,:, Oxy, drug, lithium, Pain, iodine," """
+isosorbide dinitrate, aspirin,., lithium, iodine,:,., Comfort, Pain, LSD, Anonymous
+enoxaparin,., aspirin, lithium,:,., iodine, insulin, Anonymous, LSD, Ebola
+ranolazine,., lithium, aspirin,:,., iodine,",", sodium, insulin, Anonymous
+atenolol, aspirin,., lithium,.,:, iodine, Anonymous, Pain, insulin, sodium
+carvedilol, aspirin, lithium,.,.,:, iodine, LSD, sodium, insulin, fentanyl
+amlodipine AND atorvastatin, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+aspirin, aspirin, lithium,.,:,., iodine, insulin, Anonymous, Pain, sodium
+nitroglycerin, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+metoprolol,., lithium, aspirin,:,., iodine,",", Anonymous, sodium, insulin
+amlodipine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+isosorbide mononitrate, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+isosorbide dinitrate, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin,","
+enoxaparin,., aspirin, lithium,:,., iodine, LSD, insulin, Pain, Anonymous
+ranolazine,., aspirin, lithium,:,., iodine, Anonymous, Pain, LSD,","
+atenolol, lithium,., aspirin,:,., iodine, Ebola, insulin, sodium, LSD
+carvedilol, aspirin, lithium,., iodine,:,., sodium, insulin, drug,","
+amlodipine AND atorvastatin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, Anonymous
+aspirin, aspirin, lithium,., iodine,:,., insulin, sodium, LSD,","
+nitroglycerin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, GABA
+metoprolol,., lithium, aspirin,:,., iodine, Anonymous,",", sodium, LSD
+amlodipine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+isosorbide mononitrate, aspirin,., lithium,:, iodine,., sodium, insulin,",", LSD
+isosorbide dinitrate, lithium,., aspirin,:, iodine,., sodium,",", insulin, fentanyl
+enoxaparin, aspirin,., lithium,:, iodine,., insulin, Pain, Anonymous, LSD
+ranolazine,., lithium, aspirin,.,:, iodine, Pain, Anonymous, LSD,","
+atenolol,., lithium, aspirin,:, iodine,.,",", sodium, insulin, LSD
+carvedilol, aspirin, lithium,., iodine,:,., sodium, insulin, drug, LSD
+amlodipine AND atorvastatin,., lithium, aspirin,., iodine,:, sodium, insulin,",", LSD
+aspirin, aspirin, lithium,.,., iodine,:, insulin, LSD, sodium, Anonymous
+nitroglycerin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+metoprolol,.,:, aspirin,., lithium, iodine," """"", Anonymous,",", Pain
+amlodipine,., lithium, aspirin,:,., iodine,",", sodium, insulin, fentanyl
+isosorbide mononitrate,., aspirin, lithium, iodine,:,., insulin, LSD, sodium, fentanyl
+isosorbide dinitrate, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+enoxaparin, lithium, aspirin,.,:, iodine,., insulin, sodium,",", LSD
+ranolazine, aspirin,., lithium,:, iodine,., Pain, insulin, sodium, Anonymous
+atenolol,., lithium, aspirin,:, iodine,., Anonymous, LSD,",", Pain
+carvedilol,., aspirin, lithium,:, iodine,., insulin, Anonymous, LSD, sodium
+amlodipine AND atorvastatin, aspirin, lithium,.,:, iodine,., insulin, sodium, LSD,","
+ibuprofen, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+naproxen, aspirin, lithium,.,:,., iodine, insulin, fentanyl, LSD, sodium
+acetaminophen,., aspirin,:, lithium,., Anonymous, iodine, Pain, LSD, Ebola
+diclofenac, aspirin,., lithium,., iodine,:, sodium, insulin, Pain, Anonymous
+nabumetone,., aspirin, lithium,:, iodine,., sodium, insulin,",", Anonymous
+ibuprofen,., aspirin,., lithium,:, iodine, Pain, Ebola, Lyme, Anonymous
+naproxen,., lithium, aspirin,:,., iodine,",", insulin, sodium, Anonymous
+acetaminophen, lithium,., aspirin,:, iodine,., sodium, LSD, insulin,","
+diclofenac, lithium, aspirin,., iodine,.,:," """, sodium,</s>, Meth
+nabumetone, lithium, aspirin,., iodine,:,., sodium,",", insulin, LSD
+ibuprofen, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+naproxen, lithium, aspirin,.,:, iodine,., sodium, LSD, insulin,","
+acetaminophen,., aspirin, lithium,.,:, iodine, sodium, Pain, insulin, Anonymous
+diclofenac, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+nabumetone,.,:, lithium, aspirin,., iodine, Pain, Anonymous, Lyme, Ebola
+ibuprofen, aspirin, lithium,., iodine,:,., sodium, insulin,",", fentanyl
+naproxen, lithium, aspirin,.,., iodine,:, insulin, sodium, fentanyl, LSD
+acetaminophen, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+diclofenac,., aspirin, lithium,:, iodine,., Anonymous, LSD, insulin,","
+nabumetone, aspirin, lithium,., iodine,:,., sodium, fentanyl, insulin,","
+ibuprofen,., aspirin, lithium,.,:, iodine, LSD, THC, insulin, fentanyl
+naproxen, aspirin, lithium,., iodine,.,:, fentanyl, insulin, sodium, LSD
+acetaminophen, lithium, aspirin,., iodine,.,:, sodium, insulin, LSD, fentanyl
+diclofenac, aspirin, lithium,., iodine,:, sodium,., insulin, LSD,","
+nabumetone, aspirin, lithium,., iodine,.,:, sodium, insulin, LSD,","
+lamivudine, lithium,., aspirin,:,., iodine, sodium,",", insulin, LSD
+efavirenz AND emtricitabine AND tenofovir,., aspirin, lithium,:, iodine,.,",", Anonymous, insulin, Ebola
+ritonavir, lithium, aspirin,., iodine,.,:, insulin, sodium, fentanyl,","
+emtricitabine AND tenofovir, aspirin, lithium,.,:,., iodine, insulin, sodium, dex, LSD
+tenofovir, lithium, aspirin,.,:,., iodine, sodium,",", insulin, LSD
+abacavir, lithium, aspirin,.,:, iodine,., sodium,",", LSD, insulin
+meloxicam,., aspirin, lithium,.,:, Pain, Anonymous, iodine, LSD, fentanyl
+diclofenac, lithium, aspirin,., iodine,:,., sodium, insulin, LSD,","
+naproxen,.,:, lithium, aspirin, iodine,.,","," """"", sodium, Anonymous
+ibuprofen, aspirin,., lithium,:,., iodine,",", Ebola, THC, Pain
+celecoxib, lithium, aspirin,.,.,:, iodine, sodium, insulin, Anonymous, LSD
+chondroitin AND glucosamine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+diclofenac,.,:, Pain,., aspirin, Ebola, Anonymous, lithium, Lyme, Oxy
+etodolac,., lithium, aspirin,:,., iodine, sodium, insulin,",", LSD
+prednisone, lithium,., aspirin,:, iodine,., sodium, insulin, LSD, THC
+aspirin, lithium, aspirin,., iodine,.,:, fentanyl, insulin, sodium, LSD
+nabumetone,.,:, lithium, aspirin, iodine,.,",", insulin, Anonymous," """
+duloxetine,., aspirin, lithium,:,., iodine, insulin,",", sodium, Pain
+terbinafine, aspirin, lithium,.,:, iodine,., Anonymous, Pain, LSD," """""
+terbinafine,.,., aspirin,:, lithium, Anonymous, Pain, iodine, LSD, sodium
+collagenase, aspirin,., lithium,:, iodine,., insulin, Pain, Anonymous, sodium
+becaplermin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+cadexomer iodine, lithium,., aspirin, iodine,:,., sodium, insulin, LSD, fentanyl
+modafinil, lithium, aspirin,., iodine,:,., LSD, sodium, fentanyl, insulin
+duloxetine, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+lisdexamfetamine, lithium, aspirin,., iodine,.,:, insulin, fentanyl, sodium, LSD
+amantadine, aspirin,., lithium,:, iodine,., Anonymous, LSD, insulin, Pain
+armodafinil,., aspirin, lithium,.,:, iodine, Pain, Ebola, LSD, insulin
+ketoconazole,., aspirin, lithium,:,., iodine, Oxy, Pain, Ebola, Anonymous
+terbinafine, aspirin,., lithium,:, iodine,., Ebola, sodium, insulin, Anonymous
+ketoconazole, lithium,., aspirin,:, iodine,., sodium,",", LSD, insulin
+terbinafine, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+quetiapine, lithium, aspirin,.,:, iodine,., fentanyl, sodium, LSD, insulin
+lamotrigine, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD, fentanyl
+lithium,., aspirin,:, lithium, iodine,., Anonymous, insulin,",", sodium
+risperidone, aspirin,., lithium,.,:, iodine, insulin, Anonymous, LSD, sodium
+fluoxetine,., aspirin,:, lithium,., iodine, Anonymous, Pain, insulin, LSD
+olanzapine, lithium, aspirin,.,:, iodine,., sodium,",", insulin, THC
+buspirone,., aspirin, lithium,.,:, iodine, Pain, Ebola, insulin,","
+clonazepam,., aspirin, lithium,.,:, iodine, Pain, Anonymous, LSD, Ebola
+sertraline, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl,","
+aripiprazole, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, LSD
+topiramate,., lithium, aspirin,:,., iodine,",", Anonymous, sodium, insulin
+diazepam, lithium,., aspirin,:, iodine,., insulin, sodium, Anonymous, fentanyl
+lorazepam,.,:, aspirin, lithium,., Pain, iodine, Anonymous, Ebola, Lyme
+escitalopram, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+divalproex sodium,., aspirin,:, Pain,., drug, Oxy, lithium, iodine, Vas
+alprazolam, lithium, aspirin,., iodine,:,., sodium, insulin,",", LSD
+clozapine,., aspirin, lithium,.,:, iodine, Anonymous," """"", LSD, Ebola
+oxcarbazepine, lithium, aspirin,., iodine,:,., sodium, insulin, Anonymous, LSD
+citalopram, lithium, aspirin,.,:, iodine,., sodium, insulin,",", fentanyl
+haloperidol,., aspirin, lithium,.,:, iodine, Anonymous, Ebola, LSD, Pain
+lurasidone, lithium, aspirin,., iodine,.,:, sodium, LSD, insulin, fentanyl
+l-methylfolate, aspirin,., lithium, iodine,:,., LSD, insulin, Ebola, sodium
+carbamazepine, lithium, aspirin,.,:, iodine,., sodium,",", LSD, insulin
+asenapine, aspirin, lithium,., iodine,:,., sodium, insulin,",", LSD
+paliperidone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+quetiapine,., aspirin, lithium,:,., iodine, Anonymous, Pain, LSD, Ebola
+lamotrigine, aspirin, lithium,., iodine,:,., insulin, LSD, Pain, Anonymous
+lithium, lithium, aspirin,., iodine,:,., fentanyl, sodium, insulin, GABA
+risperidone, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+fluoxetine, aspirin, lithium,.,:,., iodine, Pain, sodium, Ebola, Anonymous
+olanzapine,., aspirin, lithium,:,., iodine, Anonymous, Pain, LSD,","
+buspirone, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+clonazepam,., aspirin, iodine, lithium,:,., sodium, Ebola," """, drug
+sertraline, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, Anonymous
+aripiprazole,., aspirin, lithium,:,., iodine,",", drug, insulin, sodium
+topiramate, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+diazepam,., aspirin, lithium,:,., iodine, Pain, Anonymous, LSD, Ebola
+lorazepam, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+escitalopram, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+divalproex sodium, lithium,., aspirin, iodine,.,:, insulin, fentanyl, sodium, LSD
+alprazolam, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+clozapine, aspirin,., lithium,:, iodine,., Pain, insulin, sodium, Anonymous
+oxcarbazepine, lithium, aspirin,.,., iodine,:, fentanyl, sodium, insulin, LSD
+citalopram, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+haloperidol,., lithium, aspirin,:,., iodine, Anonymous, Pain, insulin, sodium
+lurasidone, lithium, aspirin,.,:, iodine,., LSD, insulin, sodium, THC
+l-methylfolate, lithium, aspirin,.,:,., iodine, sodium, insulin, LSD, fentanyl
+carbamazepine, aspirin, lithium,.,:, iodine,., insulin, sodium,",", fentanyl
+asenapine,., aspirin, lithium,:,., iodine, Pain, Anonymous, Ebola, LSD
+paliperidone, aspirin,., lithium,:,., iodine, insulin, fentanyl, sodium,","
+ibuprofen,., aspirin, lithium,.,:, iodine, Pain, Anonymous, LSD, Ebola
+naproxen, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD, fentanyl
+acetaminophen, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, Anonymous
+diclofenac, aspirin, lithium,.,:, iodine,., insulin, sodium, LSD,","
+nabumetone, aspirin, lithium,.,.,:, iodine, insulin, LSD, Pain, sodium
+ibuprofen, aspirin, lithium,., iodine,:,., sodium, insulin, Anonymous, LSD
+naproxen, lithium, aspirin,.,:, iodine,., insulin, sodium, LSD,","
+acetaminophen, aspirin,., lithium, iodine,.,:, insulin, sodium, fentanyl, LSD
+diclofenac, lithium, aspirin,., iodine,:,., sodium, insulin,",", LSD
+nabumetone,., lithium, aspirin,:,., iodine, sodium, Anonymous, insulin,","
+ibuprofen,., aspirin, lithium,:,., iodine, Pain, Ebola, Anonymous, LSD
+naproxen, lithium, aspirin,.,:, iodine,., sodium,",", drug, Ebola
+acetaminophen, lithium, aspirin,., iodine,.,:, sodium, fentanyl, insulin, LSD
+diclofenac, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+nabumetone,., lithium, aspirin,:,., iodine,",", insulin, sodium, Anonymous
+cytarabine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, GABA
+vincristine,., aspirin, lithium,:, iodine,., Anonymous, Ebola,",", sodium
+daunorubicin, aspirin, lithium,.,:, iodine,.,",", sodium, insulin, LSD
+idarubicin, aspirin, lithium,.,:,., iodine, insulin, LSD, sodium, Anonymous
+decitabine, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+gemtuzumab,., aspirin,:, lithium,., iodine,",", Gold," """"", THC
+midostaurin, lithium, aspirin,., iodine,:, sodium,., fentanyl, insulin, LSD
+venetoclax, lithium, aspirin,.,:, iodine,., insulin, LSD, sodium, Ebola
+enasidenib, lithium, aspirin,., iodine,:,., sodium, LSD, insulin, Anonymous
+cytarabine liposomal AND daunorubicin liposomal, lithium,., aspirin,:, iodine,., sodium,",", insulin, LSD
+ivosidenib,., aspirin, lithium,:,., iodine, Ebola, Anonymous, insulin, LSD
+gilteritinib, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+glasdegib,., aspirin, lithium,:,., iodine, Pain, insulin, Anonymous, LSD
+cytarabine,., aspirin, lithium,:,., iodine,",", Anonymous, insulin, sodium
+vincristine, aspirin, lithium,., iodine,.,:, LSD, Anonymous, insulin, Pain
+daunorubicin,.,:, aspirin, lithium, iodine,.,",", insulin, sodium, Anonymous
+idarubicin, lithium, aspirin,., iodine,.,:, sodium, fentanyl," """, insulin
+decitabine, aspirin,., lithium,:,., iodine, LSD, insulin, Anonymous, Pain
+gemtuzumab, aspirin,., lithium,:, iodine,., sodium,",", drug," """
+midostaurin,., aspirin, lithium,:,., iodine, LSD, Anonymous, insulin, Ebola
+venetoclax, aspirin, lithium,., iodine,:,., sodium, fentanyl, insulin, LSD
+enasidenib,., aspirin,:, lithium,., iodine,",", Pain, Anonymous, sodium
+cytarabine liposomal AND daunorubicin liposomal, lithium, aspirin,.,.,:, iodine, Anonymous, sodium, insulin, fentanyl
+ivosidenib, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+gilteritinib,., lithium,:, aspirin,., iodine,",", sodium, insulin," """""
+glasdegib, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, Pain
+cytarabine,., aspirin, lithium,:,., iodine, Ebola, Pain, insulin, LSD
+vincristine, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+daunorubicin,., aspirin, lithium,:,., iodine, insulin, Anonymous, Pain, LSD
+idarubicin, lithium, aspirin,., iodine,:, sodium,., fentanyl, insulin, LSD
+decitabine, lithium, aspirin,.,:,., iodine, sodium,",", insulin, LSD
+gemtuzumab,., lithium, aspirin,:, iodine,., Pain, LSD, Anonymous, THC
+midostaurin,., aspirin, lithium,., iodine,:, Anonymous, LSD, Ebola, Pain
+venetoclax, aspirin,., lithium,:,., iodine, Anonymous, Pain, LSD, insulin
+enasidenib, lithium, aspirin,., iodine,:,., sodium,",", insulin, THC
+cytarabine liposomal AND daunorubicin liposomal,., aspirin, lithium,:,., iodine, Pain, LSD, Ebola, sodium
+ivosidenib,., lithium, aspirin,:,., iodine,",", Anonymous, Ebola, Pain
+gilteritinib, aspirin, lithium,.,:, iodine,., sodium,",", insulin, THC
+glasdegib,., aspirin, lithium,:,., Anonymous, Pain, iodine, LSD,","
+dexamethasone,:,., lithium, aspirin,., iodine,","," """"", insulin, Anonymous
+thalidomide, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, Anonymous
+cyclophosphamide,., aspirin, lithium,:, iodine,., Anonymous, insulin,",", Ebola
+lenalidomide, aspirin, lithium,., iodine,.,:, sodium, insulin, LSD, dex
+bortezomib, lithium, aspirin,.,:,., iodine, sodium,",", fentanyl, insulin
+carfilzomib, lithium,., aspirin,:,., iodine, Anonymous, sodium,",", insulin
+pomalidomide, lithium, aspirin,., iodine,:,., sodium, LSD, fentanyl, insulin
+daratumumab, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+melphalan, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+dexamethasone, aspirin, lithium,., iodine,.,:, insulin, sodium, fentanyl, LSD
+thalidomide,., aspirin, lithium,.,:, iodine, sodium, insulin, fentanyl, LSD
+cyclophosphamide, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, THC
+lenalidomide, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+bortezomib, aspirin, lithium,., iodine,:,., sodium, insulin,",", THC
+carfilzomib, lithium, aspirin,., iodine,:,., sodium, insulin,",", LSD
+pomalidomide,.,:, aspirin, lithium,., iodine, Pain, Anonymous,","," """""
+daratumumab, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, THC
+melphalan, lithium, aspirin,.,:, iodine,., insulin, sodium, fentanyl,","
+cyclophosphamide, lithium,., aspirin, iodine,:,., sodium, fentanyl, insulin, LSD
+vincristine, aspirin, lithium,., iodine,.,:, LSD, Anonymous, insulin, Pain
+rituximab, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, chemotherapy
+methotrexate,.,:, aspirin, lithium,., iodine,",", Ebola, insulin, Anonymous
+bendamustine, lithium,., aspirin,:,., iodine,",", sodium, insulin, Anonymous
+cytarabine, aspirin, lithium,., iodine,:,., insulin, Pain, LSD, sodium
+fludarabine, aspirin,., lithium,:, iodine,.," """"", Ebola, Pain, sodium
+bleomycin, lithium, aspirin,., iodine,:,., sodium, LSD, insulin, fentanyl
+carmustine, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, Anonymous
+idelalisib, aspirin,., lithium,:, iodine,., Anonymous, insulin,",", LSD
+ibritumomab, aspirin,., lithium,:, iodine,., Pain, Anonymous,",", sodium
+ibrutinib, aspirin,., lithium,:,., iodine, sodium, Pain, insulin, LSD
+mitoxantrone,.,:, lithium,., aspirin, iodine," """,",", Ebola, sodium
+dexamethasone,., aspirin, lithium,:,., iodine, Anonymous, Ebola, LSD, Pain
+thalidomide, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+cyclophosphamide, lithium, aspirin,.,:,., iodine, sodium,",", LSD, insulin
+lenalidomide, lithium, aspirin,., iodine,:,., fentanyl, sodium, THC, LSD
+bortezomib,., aspirin, lithium,:, iodine,., sodium, insulin, LSD, Anonymous
+carfilzomib, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+pomalidomide, lithium, aspirin,., iodine,:,., sodium, fentanyl, LSD, insulin
+daratumumab, aspirin, lithium,.,.,:, iodine, sodium, insulin, Anonymous, LSD
+melphalan,., lithium, aspirin,:,., iodine, Anonymous, insulin,",", Pain
+dexamethasone, lithium,., aspirin,:, iodine,., insulin, sodium,",", LSD
+thalidomide,., aspirin, lithium,:,., iodine,",", Ebola, sodium, insulin
+cyclophosphamide, aspirin,., lithium,:,., iodine, insulin, Anonymous, LSD, Pain
+lenalidomide,., lithium, aspirin,:,., iodine, Anonymous, sodium, LSD, Pain
+bortezomib, aspirin, lithium,., iodine,:,., sodium, fentanyl, insulin, LSD
+carfilzomib,., aspirin,:, lithium,., Anonymous, iodine, Pain,",", Ebola
+pomalidomide, aspirin,., lithium,:, iodine,., insulin, sodium, LSD, Pain
+daratumumab, lithium, aspirin,., iodine,.,:, LSD, fentanyl, sodium, insulin
+melphalan, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+miconazole,., lithium, aspirin,.,:, iodine, Anonymous, insulin, sodium, LSD
+miconazole, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+risperidone, lithium, aspirin,., iodine,.,:, fentanyl, sodium, insulin, LSD
+clozapine,., aspirin, lithium,.,:, iodine, LSD, insulin, Anonymous, sodium
+olanzapine, aspirin, lithium,., iodine,.,:, insulin, LSD, Pain, sodium
+quetiapine,., Vas, Oxy, aspirin, Meth,., lithium,:, Val, El
+aripiprazole,., aspirin, lithium,.,:, iodine, insulin, Anonymous, sodium, Pain
+chlorpromazine, lithium,., aspirin,:, iodine,.,",", sodium, insulin, fentanyl
+paliperidone,., lithium, aspirin,:,., iodine,",", insulin, sodium, fentanyl
+ziprasidone, aspirin, lithium,., iodine,:,., fentanyl, sodium, insulin, LSD
+loxapine,.,:, aspirin, lithium,., iodine,",", Pain," """, Ebola
+modafinil, aspirin, lithium,., iodine,:,., sodium,",", insulin, LSD
+duloxetine, aspirin, lithium,., iodine,.,:, sodium, fentanyl, insulin, LSD
+lisdexamfetamine,., aspirin, lithium,:,., iodine, Pain, Anonymous, LSD, insulin
+amantadine, aspirin,., lithium,:, iodine,., insulin, Anonymous, Pain, LSD
+armodafinil, lithium, aspirin,., iodine,:,., insulin, sodium, LSD, THC
+modafinil, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+duloxetine, aspirin, lithium,.,:, iodine,., insulin, sodium, THC, fentanyl
+lisdexamfetamine,.,:, lithium, aspirin,., iodine,",", Anonymous, LSD, insulin
+amantadine, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, fentanyl
+armodafinil, lithium, aspirin,., iodine,:,., fentanyl, insulin, LSD, sodium
+atorvastatin, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, Anonymous
+simvastatin, lithium, aspirin,., iodine,:,., insulin, sodium, LSD, fentanyl
+pravastatin, lithium, aspirin,., iodine,:,., sodium, insulin, drug, LSD
+rosuvastatin, aspirin, lithium,., iodine,:,., insulin," """"", sodium, LSD
+lovastatin, aspirin,., lithium,:, iodine,., Pain, Ebola, LSD, insulin
+ezetimibe, aspirin, lithium,.,:,., iodine, insulin, LSD, sodium, THC
+gemfibrozil,., aspirin, lithium,:,., iodine, Ebola, Pain, Anonymous, sodium
+niacin,.,:, Cl, Pain, Oxy, drug, Val, Take, Lyme, El
+ezetimibe AND simvastatin,., lithium, aspirin,:,., iodine, Anonymous, LSD, sodium, insulin
+fenofibric acid, lithium,., aspirin,:,., iodine,",", insulin, sodium, Anonymous
+atorvastatin, lithium, aspirin,.,:, iodine,., sodium, insulin,",", Pain
+simvastatin,., aspirin,:, lithium,., iodine, Anonymous, Pain, LSD, insulin
+pravastatin, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+rosuvastatin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+lovastatin, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+ezetimibe,., aspirin,:, lithium,., iodine,",", Anonymous, Pain, Ebola
+gemfibrozil,., aspirin, lithium,:,., iodine, sodium,",", insulin, LSD
+niacin,., lithium, aspirin,:,., iodine, sodium, insulin,",", LSD
+ezetimibe AND simvastatin, lithium, aspirin,.,:, iodine,., sodium,",", insulin, LSD
+fenofibric acid,., aspirin,:, lithium,., iodine, Anonymous, Pain," """"", Ebola
+atorvastatin, aspirin,., lithium,:, iodine,., insulin, Anonymous, LSD, Pain
+simvastatin, lithium, aspirin,.,:, iodine,.,",", sodium, insulin, THC
+pravastatin, aspirin,., lithium,:, iodine,., Anonymous, insulin, sodium, LSD
+rosuvastatin, aspirin, lithium,., iodine,:, sodium,., insulin, fentanyl, LSD
+lovastatin, aspirin, lithium,.,:,., iodine, insulin, Pain, sodium, LSD
+ezetimibe,., lithium, aspirin,:,., iodine, Anonymous, Pain, LSD, insulin
+gemfibrozil, aspirin, lithium,., iodine,.,:, insulin, sodium, fentanyl, LSD
+niacin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+ezetimibe AND simvastatin,., aspirin, lithium,.,:, Pain, iodine, LSD, Anonymous, MDMA
+fenofibric acid, lithium, aspirin,.,:,., iodine, sodium, insulin, LSD, fentanyl
+atorvastatin,.,:,., aspirin, Pain, lithium, Anonymous, Ebola," """"", Lyme
+simvastatin, aspirin,., lithium,:, iodine,., insulin, LSD, Anonymous, Pain
+pravastatin,., aspirin, lithium,.,:, iodine, sodium," """"", Anonymous, insulin
+rosuvastatin, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, THC
+lovastatin, aspirin,., lithium,:, iodine,., Anonymous, sodium, insulin, LSD
+ezetimibe, aspirin, lithium,., iodine,.,:, LSD, sodium, Anonymous,","
+gemfibrozil,., aspirin, lithium,.,:, iodine, Pain, Anonymous, LSD, insulin
+niacin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, dex
+ezetimibe AND simvastatin, lithium, aspirin,., iodine,.,:, sodium, fentanyl, insulin, LSD
+fenofibric acid, aspirin,., lithium,:,., iodine, insulin, Anonymous, Pain, THC
+modafinil, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+duloxetine, lithium, aspirin,.,:, iodine,., insulin, sodium, LSD,","
+lisdexamfetamine, aspirin,., lithium,:, iodine,., Anonymous, insulin, sodium, LSD
+amantadine, aspirin,., lithium,:,., iodine, insulin, LSD, Pain, sodium
+armodafinil, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, Anonymous
+modafinil, aspirin,., lithium,.,:, iodine, Pain, Anonymous, LSD, insulin
+duloxetine, lithium, aspirin,., iodine,.,:, insulin, sodium, fentanyl, LSD
+lisdexamfetamine, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD,","
+amantadine, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+armodafinil, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+lamivudine, aspirin, lithium,., iodine,:,., insulin, fentanyl, Ebola, sodium
+efavirenz AND emtricitabine AND tenofovir, aspirin, lithium,., iodine,:,., fentanyl, insulin, Anonymous, sodium
+ritonavir, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+emtricitabine AND tenofovir,., aspirin, lithium,:,., iodine, insulin, Pain, Anonymous, sodium
+tenofovir,., aspirin, lithium,:,., iodine, Anonymous, LSD, insulin, Pain
+abacavir, lithium,., aspirin,:,., iodine, insulin, sodium, LSD, Anonymous
+collagenase, lithium,., aspirin,:,., iodine, sodium, LSD, insulin,","
+becaplermin, lithium, aspirin,., iodine,:,., fentanyl, sodium, insulin, LSD
+cadexomer iodine, lithium, aspirin,., iodine,:,., sodium, LSD, insulin, fentanyl
+collagenase, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+becaplermin, aspirin,., lithium, iodine,:,., insulin, sodium,",", Ebola
+cadexomer iodine, aspirin, lithium,.,:, iodine,., LSD, insulin, sodium, Anonymous
+meloxicam, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+diclofenac, aspirin, lithium,., iodine,:,., LSD, THC, sodium, Ebola
+naproxen,., aspirin, lithium,:,., iodine, Anonymous, Pain, LSD, insulin
+ibuprofen,., aspirin, lithium,.,:, iodine," """, sodium,",", insulin
+celecoxib, aspirin, lithium,., iodine,:, insulin,., sodium, LSD, THC
+chondroitin AND glucosamine, aspirin,., lithium,:, iodine,., Anonymous, insulin, Pain, sodium
+diclofenac, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, Pain
+etodolac, lithium,., aspirin,:, iodine,.,",", insulin, sodium, Anonymous
+prednisone, aspirin, lithium,.,:,., iodine, Pain, insulin, Anonymous, LSD
+aspirin, lithium,., aspirin,:, iodine,., sodium, insulin, LSD, Ebola
+nabumetone,., aspirin, lithium,:,., iodine, Pain, LSD, Anonymous, insulin
+duloxetine, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+meloxicam, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+diclofenac,., aspirin, lithium,.,:, iodine, LSD, Pain, Ebola, insulin
+naproxen,., aspirin, lithium,:, iodine,., insulin, LSD, Pain, Ebola
+ibuprofen, aspirin,., lithium,:, iodine,., insulin, sodium, LSD, Ebola
+celecoxib, lithium, aspirin,., iodine,.,:, sodium, insulin, fentanyl, LSD
+chondroitin AND glucosamine, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+diclofenac,., aspirin, lithium,:,., iodine, Anonymous, insulin, LSD, Pain
+etodolac, aspirin, lithium,., iodine,.,:, LSD, sodium, Ebola, Anonymous
+prednisone, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+aspirin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+nabumetone, aspirin, lithium,., iodine,:,., fentanyl, sodium, insulin, LSD
+duloxetine, lithium,., aspirin,.,:, iodine, sodium, THC, LSD, insulin
+collagenase, aspirin, lithium,., iodine,:,., insulin, sodium, LSD,","
+becaplermin, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+cadexomer iodine, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+collagenase, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+becaplermin, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin,","
+cadexomer iodine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+collagenase,., lithium,., aspirin,:," """, iodine,</s>, l, Ebola
+becaplermin,.,., aspirin,:, lithium, iodine," """,",", sodium, drug
+cadexomer iodine, aspirin, lithium,., iodine,.,:, LSD, fentanyl, insulin, THC
+ibuprofen, aspirin,., lithium,:,., iodine, LSD, Anonymous, Pain, THC
+naproxen, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+acetaminophen,., lithium, aspirin,:, iodine,., Anonymous, sodium, insulin, LSD
+diclofenac,., aspirin,:, lithium,., iodine, Anonymous, Pain, insulin, LSD
+nabumetone,., aspirin, lithium,.,:, Anonymous, Pain, iodine, LSD, Oxy
+risperidone, aspirin, lithium,., iodine,.,:, sodium, LSD, insulin, Pain
+clozapine,., lithium, aspirin,:,., iodine, Anonymous,",", Ebola, Pain
+olanzapine, lithium, aspirin,., iodine,.,:, LSD, sodium, fentanyl, insulin
+quetiapine, lithium, aspirin,.,:, iodine,., insulin, LSD, sodium, Pain
+aripiprazole,., aspirin, lithium,:, iodine,., Anonymous," """"",",", Pain
+chlorpromazine, aspirin, lithium,.,:, iodine,., sodium, insulin, LSD,","
+paliperidone,., aspirin, lithium,:,., iodine, Pain, Anonymous, LSD, insulin
+ziprasidone,., aspirin, lithium,.,:, iodine, Pain, insulin, LSD, Lyme
+loxapine,., aspirin, lithium,:,., iodine, Pain, Anonymous, insulin, LSD
+meloxicam, lithium, aspirin,.,:, iodine,., sodium, Anonymous, insulin, Ebola
+diclofenac, lithium, aspirin,.,:, iodine,., sodium, Pain, insulin, fentanyl
+naproxen,., aspirin, lithium,.,:, iodine, insulin, sodium, Pain, LSD
+ibuprofen,., aspirin,:, lithium,., iodine, Anonymous, Pain," """"", Ebola
+celecoxib, lithium, aspirin,.,:, iodine,., sodium, insulin, fentanyl, LSD
+chondroitin AND glucosamine, lithium, aspirin,., iodine,:,., sodium, insulin,",", drug
+diclofenac, lithium, aspirin,., iodine,:,., insulin, sodium,",", fentanyl
+etodolac,.,:, aspirin,., lithium, Anonymous, iodine, Pain, LSD, Ebola
+prednisone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+aspirin,., aspirin, lithium,.,:, iodine,",", insulin, LSD, sodium
+nabumetone, lithium, aspirin,.,:, iodine,., sodium,",", insulin, Ebola
+duloxetine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+quetiapine,., aspirin, lithium,:,., iodine, insulin, sodium, Anonymous, LSD
+lamotrigine, aspirin, lithium,., iodine,:,., sodium, insulin, drug, LSD
+lithium, aspirin, lithium,.,:, iodine,., insulin, LSD, Anonymous, sodium
+risperidone, lithium, aspirin,., iodine, fentanyl,:, sodium,., insulin, GABA
+fluoxetine, aspirin, lithium,., iodine,:,., sodium, fentanyl, insulin, LSD
+olanzapine, aspirin, lithium,., iodine,:,., sodium, Ebola, LSD, insulin
+buspirone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+clonazepam, aspirin,., lithium,:, iodine,., Pain, sodium, LSD,","
+sertraline, aspirin, lithium,., iodine,:,., insulin, sodium, Pain, LSD
+aripiprazole, aspirin,., lithium,:,., iodine, insulin, Anonymous, Pain,","
+topiramate, aspirin,., lithium,:, iodine, insulin, Pain,., Atkins, LSD
+diazepam,., lithium, aspirin,.,:, iodine, fentanyl, sodium, LSD, insulin
+lorazepam, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+escitalopram, aspirin, lithium,., iodine,.,:, sodium, insulin, LSD, fentanyl
+divalproex sodium,., lithium,:, aspirin,., iodine, Pain, Anonymous,","," """""
+alprazolam, aspirin, lithium,., iodine,:,., sodium, insulin,",", fentanyl
+clozapine, lithium,., aspirin,:,., iodine, sodium, insulin, LSD,","
+oxcarbazepine, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, Ebola
+citalopram, aspirin, lithium,., iodine,.,:, fentanyl, LSD, insulin, Anonymous
+haloperidol, lithium,., aspirin,:, iodine,., sodium, LSD, insulin,","
+lurasidone, lithium, aspirin,.,.,:, iodine, LSD, sodium, insulin, Pain
+l-methylfolate, lithium,., aspirin,:,., iodine,",", sodium, LSD, insulin
+carbamazepine,., aspirin, lithium,.,:, iodine, insulin, Anonymous, Pain, sodium
+asenapine, lithium,., aspirin,:,., iodine, LSD, Pain, sodium, insulin
+paliperidone, aspirin,., lithium,:,., iodine, insulin, sodium, Anonymous,","
+quetiapine, aspirin, lithium,., iodine,:,., LSD, sodium, insulin, Ebola
+lamotrigine, lithium, aspirin,.,:, iodine,., sodium, LSD, insulin, Pain
+lithium,., lithium, aspirin,:,., iodine, Anonymous, fentanyl, insulin, LSD
+risperidone, lithium, aspirin,.,:, iodine,., sodium,",", LSD, Pain
+fluoxetine,., aspirin, lithium,.,:, iodine, LSD, insulin, sodium, fentanyl
+olanzapine, aspirin,., lithium, iodine,:,., insulin, sodium, Anonymous, LSD
+buspirone, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+clonazepam,., aspirin, lithium,:,., iodine, LSD, Pain, Ebola, insulin
+sertraline,., aspirin, lithium,:,., iodine,",", Pain, Ebola, LSD
+aripiprazole, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+topiramate,., aspirin, lithium,.,:, iodine, insulin, sodium,",", Pain
+diazepam, aspirin, lithium,., iodine,:,., sodium, insulin,",", dex
+lorazepam,.,:, aspirin,., lithium, Pain, iodine, drug, Anonymous, insulin
+escitalopram, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, LSD
+divalproex sodium, aspirin,., lithium,:,., iodine, Pain, insulin, LSD," """
+alprazolam, aspirin, lithium,.,:,., iodine, LSD, sodium, Anonymous, insulin
+clozapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+oxcarbazepine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+citalopram,., lithium, aspirin,.,:, iodine, LSD, Anonymous, sodium, Pain
+haloperidol, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+lurasidone, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+l-methylfolate,., aspirin,., lithium, drug,:, Ebola, Oxy, El, iodine
+carbamazepine, aspirin,., lithium, iodine,.,:, LSD, Anonymous, insulin, sodium
+asenapine,., aspirin,:, lithium,., iodine, Anonymous, Pain, LSD, insulin
+paliperidone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+ibuprofen,., aspirin,.,:, lithium, Anonymous, Pain, iodine," """"", Ebola
+naproxen, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+acetaminophen, lithium, aspirin,., iodine,.,:, sodium, insulin, fentanyl, LSD
+diclofenac, aspirin, lithium,.,:, iodine,., sodium, insulin, Anonymous,","
+nabumetone, lithium, aspirin,., iodine,:,., insulin, fentanyl, LSD, sodium
+quetiapine, lithium, aspirin,., iodine,.,:, fentanyl, sodium, insulin, LSD
+lamotrigine,., lithium,:, aspirin,., iodine,",", Pain, Anonymous, Oxy
+lithium, lithium, aspirin,., iodine,:,., insulin, sodium, LSD, fentanyl
+risperidone, aspirin, lithium,.,:, iodine,., Pain, Anonymous,",", insulin
+fluoxetine,., aspirin, lithium,.,:, iodine, Pain, LSD, Anonymous," """""
+olanzapine, aspirin, lithium,.,:, iodine,., insulin, Anonymous, sodium, Pain
+buspirone,., aspirin, lithium,:,., iodine, insulin, LSD, Anonymous, Pain
+clonazepam, aspirin, lithium,.,:, iodine,., sodium, LSD, insulin, Anonymous
+sertraline, aspirin, lithium,.,:, iodine,., sodium, insulin,",", fentanyl
+aripiprazole, aspirin, lithium,., iodine,:,., sodium, drug, insulin,","
+topiramate,., lithium, aspirin,:,., iodine, Anonymous, insulin, Pain,","
+diazepam, lithium,., aspirin,:,., iodine, sodium, insulin, fentanyl,","
+lorazepam, aspirin,., lithium,:, iodine,., insulin, Anonymous, LSD, Ebola
+escitalopram, lithium, aspirin,., iodine,:,., insulin, fentanyl, sodium, LSD
+divalproex sodium, aspirin, lithium,., iodine,:,., Pain, Ebola, insulin, sodium
+alprazolam,., aspirin, lithium,.,:, iodine," """, LSD,",", Ebola
+clozapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+oxcarbazepine, aspirin, lithium,., iodine,:,., Anonymous, insulin, sodium, Pain
+citalopram, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, LSD
+haloperidol, aspirin, lithium,.,:, iodine,., insulin, sodium, Pain,","
+lurasidone, aspirin, lithium,., iodine,.,:, LSD, insulin, fentanyl, Anonymous
+l-methylfolate,., aspirin, lithium,:, iodine,., Anonymous, LSD, Ebola, insulin
+carbamazepine, aspirin,., lithium,:, iodine,., Ebola, Anonymous, Pain, insulin
+asenapine, lithium, aspirin,., iodine,.,:, sodium, fentanyl, insulin, LSD
+paliperidone, aspirin,., lithium,:, iodine,., insulin, sodium, Ebola, LSD
+quetiapine,., lithium, aspirin,:, iodine,.,",", sodium, insulin, fentanyl
+lamotrigine,., aspirin, lithium,:,., iodine, Pain, Anonymous, LSD, Ebola
+lithium, aspirin, lithium,.,:, iodine,., insulin, sodium, Pain, LSD
+risperidone,.,:,., aspirin, lithium, iodine," """, Pain, Anonymous," """""
+fluoxetine, lithium, aspirin,.,:, iodine,., sodium, insulin,",", Pain
+olanzapine,., aspirin, lithium,:,., iodine, Anonymous, Pain,",", insulin
+buspirone,., lithium, aspirin,:, iodine,., Anonymous, sodium, insulin, Pain
+clonazepam, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+sertraline, lithium,., aspirin,:, iodine,., sodium, insulin, LSD, drug
+aripiprazole, aspirin, lithium,.,:, iodine,., sodium, insulin,",", Ebola
+topiramate,., aspirin,.,:, lithium, Pain, iodine, insulin, Anonymous, LSD
+diazepam, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, THC
+lorazepam, aspirin, lithium,.,:, iodine,.,",", sodium, drug," """
+escitalopram,., lithium, aspirin,.,:, iodine, LSD, Ebola, Anonymous, Pain
+divalproex sodium,., aspirin,.,:, lithium, iodine, Pain, LSD, Ebola, Anonymous
+alprazolam, aspirin, lithium,., iodine,:,., sodium, insulin, LSD,","
+clozapine, aspirin, lithium,.,:,., iodine, Anonymous, Pain, insulin, Ebola
+oxcarbazepine, aspirin, lithium,.,:, iodine,., sodium, fentanyl, insulin, Anonymous
+citalopram, lithium, aspirin,., iodine,.,:, fentanyl, insulin, sodium, LSD
+haloperidol,., aspirin,:, lithium, iodine,., Anonymous, Ebola, Pain," """""
+lurasidone, aspirin, lithium,., iodine,:, insulin,., sodium, fentanyl, LSD
+l-methylfolate, lithium, aspirin,., iodine,.,:, fentanyl, insulin, LSD, sodium
+carbamazepine, aspirin,., lithium,:, iodine,., insulin, LSD, sodium, Anonymous
+asenapine,., aspirin, lithium,.,:, iodine, Anonymous, Pain, Ebola, fentanyl
+paliperidone,., aspirin,., lithium,:, iodine, Oxy, LSD, Pain, Anonymous
+quetiapine, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+lamotrigine, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, Ebola
+lithium, lithium, aspirin,., iodine,:,., sodium,",", insulin, THC
+risperidone, lithium, aspirin,.,:, iodine,., sodium, insulin,",", THC
+fluoxetine, lithium, aspirin,., iodine,:,., sodium, LSD, fentanyl, insulin
+olanzapine, lithium, aspirin,., iodine,.,:,","," """"", sodium, LSD
+buspirone,., aspirin, lithium,:,., iodine, Anonymous, Ebola, LSD, sodium
+clonazepam,., aspirin, lithium,:,., iodine, Ebola, Pain, Anonymous,","
+sertraline, aspirin,., lithium, iodine,:,., insulin, sodium, LSD,","
+aripiprazole,., lithium, aspirin,:,., iodine, LSD, Anonymous,",", sodium
+topiramate, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, GABA
+diazepam, lithium, aspirin,.,:,., iodine, sodium, THC,",", insulin
+lorazepam, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, LSD
+escitalopram, lithium, aspirin,., iodine,.,:, fentanyl, sodium, insulin, LSD
+divalproex sodium,., lithium, aspirin,:,., iodine,",", Pain, sodium, Anonymous
+alprazolam, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, Anonymous
+clozapine,., aspirin, lithium,:,., iodine, Anonymous, Pain, Ebola, LSD
+oxcarbazepine, lithium,., aspirin, iodine,.,:, insulin, sodium, LSD, fentanyl
+citalopram,., aspirin,:, lithium,., iodine, insulin, sodium, Anonymous," """""
+haloperidol, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+lurasidone,., lithium, aspirin,:, iodine,., Ebola, LSD, Pain, Anonymous
+l-methylfolate,., lithium, aspirin,:,., iodine, Pain,",", Ebola, insulin
+carbamazepine, aspirin, lithium,.,.,:, iodine, sodium, Pain, insulin, Oxy
+asenapine, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD, fentanyl
+paliperidone, lithium, aspirin,.,:, iodine,., insulin, fentanyl, LSD, sodium
+quetiapine, lithium, aspirin,.,:, iodine,., sodium,",", insulin, LSD
+lamotrigine, lithium, aspirin,.,:,., iodine,",", sodium, insulin, Anonymous
+lithium,.,:, lithium, aspirin,., iodine,","," """"", sodium, insulin
+risperidone, aspirin, lithium,.,:, iodine,., sodium, insulin,",", Anonymous
+fluoxetine,., lithium, aspirin,:, iodine,., Anonymous,",", insulin, LSD
+olanzapine,., aspirin, lithium,:,., iodine, Ebola, Pain, sodium, Anonymous
+buspirone, aspirin, lithium,., iodine,:,., Anonymous, insulin, LSD, fentanyl
+clonazepam, aspirin, lithium,.,., iodine,:, Anonymous, LSD, insulin, Pain
+sertraline, aspirin, lithium,.,:, iodine,., Pain, Anonymous, insulin, LSD
+aripiprazole, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD, fentanyl
+topiramate, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, THC
+diazepam,., aspirin, lithium,:, iodine,., Anonymous, insulin, Pain,","
+lorazepam,., lithium, aspirin,:,., iodine, Pain, Ebola, fentanyl, LSD
+escitalopram, lithium, aspirin,.,:, iodine,., insulin, fentanyl, sodium, LSD
+divalproex sodium, lithium, aspirin,.,:, iodine,., sodium, fentanyl,",", insulin
+alprazolam, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, fentanyl
+clozapine, aspirin, lithium,.,:, iodine,., sodium, fentanyl, insulin, Anonymous
+oxcarbazepine, aspirin, lithium,.,:, iodine,., sodium, insulin, Anonymous, LSD
+citalopram, aspirin, lithium,.,:, iodine,., insulin, sodium, LSD, Ebola
+haloperidol, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+lurasidone, aspirin,., lithium, iodine,:,., sodium, insulin,",", Ebola
+l-methylfolate, aspirin, lithium,., iodine,:,., sodium,",", insulin, drug
+carbamazepine,., aspirin,:, lithium,., iodine, Anonymous,",", Pain, sodium
+asenapine, aspirin, lithium,., iodine,:,., sodium, insulin, Pain, THC
+paliperidone, lithium, aspirin,., iodine, sodium, fentanyl,.,:, insulin, GABA
+quetiapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+lamotrigine, lithium, aspirin,.,:, iodine,., sodium,",", insulin, fentanyl
+lithium, lithium,., aspirin,:,., iodine,",", sodium, insulin," """""
+risperidone, aspirin, lithium,.,:, iodine,., insulin, sodium,",", LSD
+fluoxetine, aspirin, lithium,.,:,., iodine, insulin, sodium, fentanyl, LSD
+olanzapine, aspirin, lithium,.,:, iodine,., insulin, Anonymous, sodium, THC
+buspirone, aspirin, lithium,., iodine,:,., LSD, insulin, sodium, Anonymous
+clonazepam, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+sertraline,., aspirin, lithium,., LSD, iodine,:, insulin, Ebola, Anonymous
+aripiprazole, lithium,., aspirin,:,., iodine, THC, LSD, Anonymous,","
+topiramate, lithium,., aspirin,:,., iodine, Pain,",", insulin, sodium
+diazepam, aspirin, lithium,.,:, iodine,., Pain, Anonymous, insulin, Ebola
+lorazepam, lithium,., aspirin,:, iodine,., sodium,",", insulin, LSD
+escitalopram,., lithium,:, aspirin,., iodine,",", LSD, sodium, Ebola
+divalproex sodium, aspirin, lithium,., iodine,.,:, sodium, fentanyl, insulin, LSD
+alprazolam, lithium, aspirin,., iodine,:,., insulin, sodium, LSD, Anonymous
+clozapine, aspirin, lithium,., iodine,:,., sodium, insulin, LSD,","
+oxcarbazepine, lithium,., aspirin,.,:, iodine, LSD, sodium, insulin,","
+citalopram, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, GABA
+haloperidol, aspirin, lithium,.,:, iodine,., sodium, LSD, insulin, Pain
+lurasidone,., lithium, aspirin,.,:, iodine, sodium, Anonymous, LSD, insulin
+l-methylfolate, aspirin, lithium,., iodine,:,., fentanyl, LSD, sodium, insulin
+carbamazepine, aspirin, lithium,.,:, iodine,., Anonymous, Pain, sodium, Ebola
+asenapine, lithium, aspirin,.,:, iodine,., sodium, insulin, fentanyl, Anonymous
+paliperidone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+quetiapine,., aspirin, lithium,:,., iodine, Pain, Anonymous, Ebola, insulin
+lamotrigine, aspirin, lithium,., iodine,.,:, fentanyl, insulin, sodium, LSD
+lithium,., aspirin, lithium,:, iodine,., Pain, Anonymous," """"",","
+risperidone, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, THC
+fluoxetine, lithium,., aspirin,:,., iodine, sodium, LSD,",", insulin
+olanzapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+buspirone, aspirin, lithium,., iodine,:,., sodium, insulin,",", Ebola
+clonazepam, lithium, aspirin,.,:, iodine,., sodium, insulin, dex,","
+sertraline, lithium, aspirin,., iodine,:,., insulin, sodium, LSD, fentanyl
+aripiprazole, aspirin, lithium,., iodine,:,., sodium, insulin,",", fentanyl
+topiramate, aspirin,., lithium,:,., iodine, Anonymous, Pain, insulin, drug
+diazepam, aspirin, lithium,., iodine,:,., insulin, LSD, sodium, fentanyl
+lorazepam, aspirin, lithium,.,:, iodine,., Anonymous, sodium,",", LSD
+escitalopram, lithium, aspirin,.,:,., iodine, sodium, insulin, LSD, Anonymous
+divalproex sodium, lithium,., aspirin,:,., iodine, sodium, insulin, fentanyl, LSD
+alprazolam, aspirin, lithium,., iodine,.,:, sodium, insulin, dex, drug
+clozapine, aspirin, lithium,.,:, iodine,., sodium, insulin, Anonymous,","
+oxcarbazepine, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+citalopram,., lithium, aspirin,:, iodine,., Anonymous,",", LSD, THC
+haloperidol, aspirin, lithium,., iodine,:,., fentanyl, sodium, insulin, LSD
+lurasidone,.,:, aspirin, lithium,., iodine,",", Anonymous, Ebola, LSD
+l-methylfolate,.,:, lithium, aspirin,., iodine,",", sodium, insulin, Ebola
+carbamazepine, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+asenapine, aspirin, lithium,.,:, iodine,., insulin, sodium, LSD, fentanyl
+paliperidone, lithium, aspirin,., iodine,:,., sodium, insulin, dex, LSD
+triamcinolone, lithium,., aspirin,:,., iodine, LSD, sodium, insulin, Anonymous
+triamcinolone, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+quetiapine,., aspirin, lithium,:,., iodine, Anonymous, sodium, LSD, Ebola
+lamotrigine, aspirin,., lithium,.,:, iodine, LSD, Pain, sodium, Anonymous
+lithium, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+risperidone, aspirin,., lithium,:, iodine,., insulin, sodium, Anonymous," """""
+fluoxetine,., aspirin, lithium,:, iodine,., Anonymous,",", Ebola, insulin
+olanzapine, aspirin,., lithium, iodine,:,., insulin, LSD, Pain, Anonymous
+buspirone, aspirin, lithium,.,:,., iodine, sodium, insulin, LSD, Anonymous
+clonazepam, lithium, aspirin,., iodine,:,., sodium, insulin, LSD,","
+sertraline, lithium, iodine, aspirin,.,:,.,",", sodium, drug, insulin
+aripiprazole, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+topiramate,., aspirin,.,:, lithium, Pain, Ebola, Lyme, iodine, Cure
+diazepam, aspirin, lithium,., iodine,:,., insulin, LSD, sodium, fentanyl
+lorazepam,., lithium, aspirin,:,., iodine, Anonymous, LSD,",", sodium
+escitalopram,., aspirin, lithium,:,., iodine, insulin, Anonymous, Pain, LSD
+divalproex sodium,., lithium, aspirin,:,., iodine, LSD, Cure, Ebola, Anonymous
+alprazolam, aspirin, lithium,.,:,., iodine, insulin, LSD, sodium, Anonymous
+clozapine,.,:, aspirin,., lithium, iodine, Anonymous,","," """, Pain
+oxcarbazepine,., aspirin, lithium,:,., iodine, Anonymous, LSD, drug, Pain
+citalopram, aspirin,., lithium,:,., iodine, Anonymous, Pain, sodium,","
+haloperidol, aspirin,., lithium, iodine,:,., Pain, sodium, insulin, Anonymous
+lurasidone, lithium, aspirin,.,:, iodine,., insulin, sodium, fentanyl, THC
+l-methylfolate, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+carbamazepine,., lithium,:, aspirin, iodine,.,",", Anonymous, sodium, insulin
+asenapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+paliperidone, aspirin, lithium,.,:,., iodine, sodium, Anonymous, Pain, insulin
+atorvastatin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+simvastatin, aspirin, lithium,.,:, iodine,., insulin, sodium, Anonymous, LSD
+pravastatin,., lithium, aspirin,.,:, iodine, sodium,",", LSD, THC
+rosuvastatin,., lithium, aspirin,:,., iodine, sodium, insulin,",", drug
+lovastatin, aspirin, lithium,.,:, iodine,., insulin, Anonymous, sodium, LSD
+ezetimibe, lithium,., aspirin,:,., iodine, sodium,",", insulin, Ebola
+gemfibrozil, lithium,., aspirin,:, iodine,., sodium, fentanyl, insulin,","
+niacin,., aspirin, lithium,:,., Pain, iodine, Cure, Lyme, Anonymous
+ezetimibe AND simvastatin, aspirin, lithium,., iodine,:,., insulin, Anonymous, LSD, sodium
+fenofibric acid, lithium, aspirin,.,.,:, iodine, LSD, fentanyl, sodium, Anonymous
+ketoconazole, lithium, aspirin,.,:, iodine,., sodium, LSD, insulin, Anonymous
+terbinafine,., aspirin, lithium,:,., iodine, Pain, Ebola, sodium, Cure
+ketoconazole, lithium,., aspirin,:,., iodine, sodium,",", insulin, fentanyl
+terbinafine,., aspirin, lithium,:, iodine,., Anonymous, insulin,",", LSD
+terbinafine, aspirin, lithium,.,:, iodine,., sodium, insulin, fentanyl, LSD
+terbinafine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+terbinafine, aspirin, lithium,.,., iodine,:, LSD, Pain, insulin, sodium
+terbinafine, aspirin,., lithium,:, iodine,., Pain, LSD, insulin, Anonymous
+meloxicam, aspirin,., lithium,.,:, iodine, insulin, Pain, sodium, LSD
+diclofenac,., aspirin,:, lithium, Oxy, Meth, drug, iodine, Pain, Cl
+naproxen, lithium, aspirin,.,., iodine,:, sodium, fentanyl, insulin, LSD
+ibuprofen, aspirin,., lithium,:, iodine,., LSD, Anonymous, sodium, insulin
+celecoxib, aspirin,., lithium,:, iodine,.,",", sodium, insulin, Ebola
+chondroitin AND glucosamine,., aspirin,:,., lithium, iodine, Anonymous, Pain, insulin, Ebola
+diclofenac, aspirin, lithium,., iodine,:, sodium,., fentanyl, insulin, LSD
+etodolac,., aspirin, lithium,:,., iodine, Anonymous, LSD, insulin, Ebola
+prednisone, aspirin, lithium,.,:, iodine,., sodium, insulin,",", LSD
+aspirin, aspirin,., lithium, iodine,:,., Anonymous, Ebola, sodium, insulin
+nabumetone,., aspirin, lithium,:,., iodine," """,",", sodium, Anonymous
+duloxetine, aspirin, lithium,., iodine,:,., sodium, LSD, insulin,","
+triamcinolone, lithium, aspirin,.,:, iodine,., sodium, insulin,",", LSD
+triamcinolone,.,:, lithium, aspirin,., iodine,",", Anonymous," """"", insulin
+aspirin,., aspirin, lithium,:, iodine,., insulin,",", sodium, Pain
+nitroglycerin,., lithium, aspirin,:, iodine,., insulin, Anonymous, LSD, sodium
+metoprolol, lithium,., aspirin,., iodine,:, sodium, LSD, insulin, Ebola
+amlodipine, lithium, aspirin,.,:,., iodine, sodium, insulin,",", LSD
+isosorbide mononitrate, lithium,., aspirin,:,., iodine, sodium, insulin,",", LSD
+isosorbide dinitrate, lithium,., aspirin,:,., iodine, sodium, LSD, Anonymous, insulin
+enoxaparin, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+ranolazine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+atenolol,., aspirin, lithium,:, iodine,., Anonymous, sodium, insulin, THC
+carvedilol,., aspirin, lithium,:,., iodine, Pain, insulin, Anonymous, THC
+amlodipine AND atorvastatin, lithium,., aspirin,.,:, iodine, insulin, LSD, sodium,","
+atorvastatin, aspirin, lithium,.,:, iodine,., insulin, sodium, Ebola, Pain
+simvastatin, aspirin, lithium,.,.,:, iodine, LSD, insulin, fentanyl, sodium
+pravastatin,., lithium, aspirin,:, iodine,., Anonymous, Pain, insulin,","
+rosuvastatin, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+lovastatin, lithium, aspirin,.,:, iodine,., sodium, insulin, fentanyl,","
+ezetimibe, aspirin, lithium,.,:,., Pain, iodine, Oxy, THC, insulin
+gemfibrozil, lithium, aspirin,.,:, iodine,.,",", sodium, insulin, LSD
+niacin, lithium, aspirin,.,:, iodine,., sodium,",", insulin, Anonymous
+ezetimibe AND simvastatin,., aspirin,:, lithium,., iodine, Anonymous, insulin, LSD, Pain
+fenofibric acid, lithium, aspirin,.,:, iodine,., sodium, insulin,",", LSD
+cyclophosphamide,., aspirin, lithium,:, iodine,., insulin,",", Pain, Anonymous
+vincristine, lithium, aspirin,.,:,., iodine, fentanyl, LSD, insulin, Anonymous
+rituximab, lithium,., aspirin,:, iodine,., sodium,",", insulin, LSD
+methotrexate, aspirin,., lithium,:, iodine,., Pain, Anonymous, insulin, sodium
+bendamustine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+cytarabine,., aspirin, lithium,.,:, iodine, sodium, insulin, dex, LSD
+fludarabine, lithium,., aspirin,:, iodine,., sodium,",", Anonymous, insulin
+bleomycin, aspirin, lithium,., iodine,:,., insulin, Anonymous, LSD, fentanyl
+carmustine, aspirin, lithium,.,., iodine,:, insulin, Pain, LSD, sodium
+idelalisib,.,:,., aspirin, lithium, Pain,",", iodine, Anonymous, Lyme
+ibritumomab, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+ibrutinib,., aspirin, lithium,.,:, iodine, LSD, insulin, Pain, Anonymous
+mitoxantrone, aspirin,., lithium,:,., iodine, insulin, sodium, Anonymous, Pain
+lamivudine, lithium,., aspirin,:, iodine,., sodium, insulin,",", LSD
+efavirenz AND emtricitabine AND tenofovir, lithium, aspirin,., iodine,:,., insulin, sodium, LSD, Ebola
+ritonavir, lithium,., aspirin,:, iodine,., sodium, insulin,",", LSD
+emtricitabine AND tenofovir, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, THC
+tenofovir,., lithium, aspirin, iodine,:,., sodium,","," """, insulin
+abacavir, lithium,., aspirin,:, iodine,.,",", insulin, sodium, LSD
+lamivudine, aspirin, lithium,., iodine,.,:, sodium, insulin, fentanyl, LSD
+efavirenz AND emtricitabine AND tenofovir, aspirin, lithium,.,:, iodine,.,",", sodium, insulin, THC
+ritonavir, aspirin, lithium,.,:,., iodine, sodium, insulin, Ebola, Pain
+emtricitabine AND tenofovir,., aspirin, lithium,:,., iodine, Anonymous, Pain, insulin, sodium
+tenofovir,., lithium, aspirin,:,., iodine, Anonymous, insulin, LSD,","
+abacavir, lithium,., aspirin, iodine,:,., sodium, insulin,",", LSD
+lamivudine,., aspirin,:, lithium,., iodine, Anonymous, LSD, Pain, insulin
+efavirenz AND emtricitabine AND tenofovir, aspirin,., lithium,:, iodine,., Pain, sodium,",", Anonymous
+ritonavir, lithium, aspirin,.,:, iodine,., insulin, fentanyl, sodium, Anonymous
+emtricitabine AND tenofovir, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+tenofovir, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+abacavir, lithium, aspirin,.,:, iodine,., sodium,",", insulin, LSD
+lamivudine,., aspirin, lithium,:,., iodine, Anonymous, Pain, insulin,","
+efavirenz AND emtricitabine AND tenofovir,., aspirin, lithium,.,:, Pain, iodine, Anonymous, LSD, Lyme
+ritonavir,., aspirin, lithium,:, iodine,., insulin, sodium, LSD, Anonymous
+emtricitabine AND tenofovir, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, Ebola
+tenofovir, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, Anonymous
+abacavir, lithium, aspirin,., iodine,., sodium,:, fentanyl, insulin, LSD
+lamivudine, aspirin, lithium,.,:, iodine,., Anonymous, Pain, insulin, Ebola
+efavirenz AND emtricitabine AND tenofovir, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+ritonavir,., aspirin,:, lithium,., iodine, Anonymous, Pain, LSD, insulin
+emtricitabine AND tenofovir, aspirin,., lithium,:,., iodine, insulin, sodium, Pain, LSD
+tenofovir,., aspirin, lithium,:,., iodine, Anonymous, sodium, insulin, LSD
+abacavir,., aspirin, lithium,., iodine,:, LSD, sodium, Oxy, fentanyl
+lamivudine,., lithium, aspirin,:, iodine,., insulin, LSD, sodium, THC
+efavirenz AND emtricitabine AND tenofovir, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, dex
+ritonavir, aspirin,., lithium, iodine,.,:, insulin, sodium, LSD, Pain
+emtricitabine AND tenofovir, aspirin, lithium,.,:, iodine,., sodium, insulin,",", Anonymous
+tenofovir, aspirin,., lithium,:, iodine,., insulin, sodium, Pain, Anonymous
+abacavir, aspirin, lithium,., iodine,:,., fentanyl, insulin, Anonymous, sodium
+atorvastatin, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+simvastatin, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+pravastatin,., lithium, aspirin,:,., iodine, LSD, insulin,","," """""
+rosuvastatin, aspirin, lithium,., iodine,:,., sodium, dex, drug, insulin
+lovastatin, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, Pain
+ezetimibe,., aspirin, lithium,:,., iodine, LSD, Pain, insulin, Ebola
+gemfibrozil,., lithium, aspirin,:, iodine,., sodium,",", LSD, insulin
+niacin,.,:, lithium, aspirin,., iodine,",", Anonymous," """"", insulin
+ezetimibe AND simvastatin, lithium,., aspirin,:, iodine,., insulin, sodium, LSD, fentanyl
+fenofibric acid, lithium, aspirin,., iodine,:,., LSD, fentanyl, sodium, insulin
+atorvastatin, lithium, aspirin,., iodine,., fentanyl, sodium,:, insulin, GABA
+simvastatin, aspirin,., lithium,:,., iodine, insulin, LSD, Anonymous,","
+pravastatin, aspirin,., lithium,:,., iodine, insulin, sodium, LSD, Ebola
+rosuvastatin, aspirin, lithium,., iodine,:,., sodium, fentanyl, LSD, insulin
+lovastatin, aspirin,., lithium,:, iodine,., sodium, LSD, insulin, Anonymous
+ezetimibe, aspirin, lithium,., iodine,:,., LSD, insulin, sodium, fentanyl
+gemfibrozil, aspirin, lithium,., iodine,:,., insulin, sodium, LSD,","
+niacin, aspirin, lithium,., iodine,:,., insulin, sodium, Ebola, LSD
+ezetimibe AND simvastatin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+fenofibric acid, aspirin, lithium,.,:, iodine,., insulin, sodium,",", THC
+atorvastatin,., lithium, aspirin,:, iodine,.,",", sodium, insulin, LSD
+simvastatin, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+pravastatin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+rosuvastatin,., aspirin, lithium,:, iodine,., insulin, sodium,",", LSD
+lovastatin,., lithium, aspirin,:,., iodine, sodium, insulin, LSD, fentanyl
+ezetimibe,., aspirin, lithium,:,., iodine, insulin, Anonymous, Pain, LSD
+gemfibrozil,., aspirin,:, lithium,., iodine, Anonymous,",", Pain, insulin
+niacin,., aspirin, lithium,:,., iodine, insulin, sodium, THC, LSD
+ezetimibe AND simvastatin, lithium, aspirin,.,., iodine,:, sodium, fentanyl, LSD, insulin
+fenofibric acid,., aspirin, lithium,:,., iodine, sodium, insulin, Anonymous, Pain
+meloxicam, aspirin,., lithium,:, iodine,., Anonymous, insulin, LSD, Pain
+diclofenac, aspirin, lithium,., iodine,.,:, sodium, insulin, LSD, dex
+naproxen, aspirin,., lithium,:, iodine,., Oxy, Pain, drug, insulin
+ibuprofen,., lithium, aspirin,.,:, iodine, sodium, insulin, Anonymous, LSD
+celecoxib, aspirin, lithium,.,:, iodine,., Anonymous, insulin, Pain, fentanyl
+chondroitin AND glucosamine, aspirin,., lithium, iodine,.,:, sodium, Oxy, Vas," """
+diclofenac,., lithium, aspirin,:, iodine,., insulin, sodium,",", Anonymous
+etodolac, lithium, aspirin,., iodine,:,., sodium,",", insulin, Ebola
+prednisone, aspirin,., lithium, iodine,:,., sodium, insulin, Anonymous, Pain
+aspirin, lithium, aspirin,.,:, iodine,., sodium, insulin, Anonymous, THC
+nabumetone,., lithium, aspirin,.,:, LSD, iodine, Shine, Oxy, Pain
+duloxetine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+modafinil, lithium, aspirin,.,., iodine,:, fentanyl, sodium, insulin, LSD
+duloxetine, lithium, aspirin, iodine,.,:, sodium,., insulin, fentanyl, LSD
+lisdexamfetamine, aspirin, lithium,.,:,., iodine, sodium, insulin, LSD, Anonymous
+amantadine,., aspirin, lithium,:,., iodine, Pain, insulin, Anonymous,","
+armodafinil,., aspirin,:, lithium,., iodine, insulin, Anonymous," """"", sodium
+ibuprofen, lithium,., aspirin,:,., iodine,",", sodium, insulin, LSD
+naproxen,., aspirin, lithium,:,., iodine, insulin, LSD, Anonymous, Pain
+acetaminophen, aspirin, lithium,.,:,., iodine, insulin, sodium, Ebola, LSD
+diclofenac, lithium,., aspirin,:,., iodine, sodium, insulin,",", fentanyl
+nabumetone, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+quetiapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+lamotrigine, aspirin, lithium,.,:,., iodine, sodium, LSD, THC, insulin
+lithium, aspirin, lithium,., iodine,.,:, sodium, LSD, insulin, Anonymous
+risperidone, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, drug
+fluoxetine,., aspirin, lithium,:, iodine,.,",", insulin, sodium, LSD
+olanzapine,., aspirin, lithium,:,., iodine, Ebola, LSD, Pain, Anonymous
+buspirone, lithium, aspirin,.,:, iodine,., sodium, insulin,",", fentanyl
+clonazepam, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, fentanyl
+sertraline, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+aripiprazole,., lithium, aspirin,:, iodine,.,",", sodium, insulin, LSD
+topiramate, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+diazepam, lithium, aspirin,., iodine,:,., fentanyl, insulin, sodium, LSD
+lorazepam, lithium, aspirin,.,:,., iodine, LSD, Anonymous, Ebola, Pain
+escitalopram, lithium, aspirin,., iodine,.,:, sodium, fentanyl, insulin, LSD
+divalproex sodium,., aspirin, lithium,:,., iodine, Anonymous, Pain, insulin, sodium
+alprazolam, aspirin,., lithium,:, iodine,.,",", drug, sodium, Ebola
+clozapine, aspirin,., lithium,:,., iodine, insulin, LSD, Anonymous, Ebola
+oxcarbazepine,., lithium, aspirin,:,., iodine,",", Anonymous, insulin, sodium
+citalopram,., lithium, aspirin,.,:, iodine, Anonymous, Pain, sodium, LSD
+haloperidol, aspirin, lithium,., iodine,:,., sodium, insulin, LSD,","
+lurasidone, aspirin, lithium,.,:, iodine,., insulin, sodium,",", fentanyl
+l-methylfolate, lithium, aspirin,.,:, iodine,., sodium,",", insulin, LSD
+carbamazepine,.,:, lithium, aspirin, iodine,.,",", Anonymous, THC, Ebola
+asenapine, aspirin, lithium,., iodine,:,., insulin, LSD, sodium, fentanyl
+paliperidone, lithium, aspirin,.,:, iodine,., Anonymous, LSD, sodium, insulin
+ketoconazole, lithium,., aspirin,:,., iodine, sodium, insulin, LSD, fentanyl
+terbinafine,., lithium, aspirin,:, iodine,.,",", sodium," """"", LSD
+ketoconazole,., lithium, aspirin,:, iodine,., insulin, Anonymous,",", sodium
+terbinafine, lithium,., aspirin, iodine,.,:, sodium, LSD, insulin, Anonymous
+terbinafine, lithium,., aspirin,:, iodine,., sodium,",", insulin, fentanyl
+terbinafine,., aspirin, lithium,:, iodine,., sodium,",", THC, Pain
+terbinafine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+terbinafine, aspirin,., lithium,:,., iodine, Anonymous, Pain, insulin, sodium
+ibuprofen,., aspirin, lithium,:,., iodine, Pain, Anonymous, LSD, insulin
+naproxen,., aspirin, lithium,:,., iodine, sodium, insulin,",", LSD
+acetaminophen, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+diclofenac,., aspirin,:,., lithium, Pain, Lyme, Anonymous, iodine, Oxy
+nabumetone,., aspirin, lithium,:,., iodine, Anonymous, LSD, Pain, Ebola
+ibuprofen, lithium,., aspirin,.,:, iodine, LSD, sodium, Anonymous, insulin
+naproxen, lithium, aspirin,., iodine,:,., sodium, fentanyl, LSD, insulin
+acetaminophen, lithium,., aspirin,:, iodine,., sodium, insulin,",", THC
+diclofenac, aspirin, lithium,.,:, iodine,., insulin, LSD, THC,","
+nabumetone,., aspirin, lithium,:,., iodine,",", Anonymous, Pain, Ebola
+ibuprofen, aspirin, lithium,., iodine,:,., sodium, insulin, Anonymous, fentanyl
+naproxen, aspirin, lithium,.,., iodine,:, insulin, LSD, sodium, fentanyl
+acetaminophen, aspirin, lithium,.,:, iodine,., sodium,",", LSD, Ebola
+diclofenac, aspirin, lithium,., iodine,.,:, insulin, sodium, LSD, Pain
+nabumetone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+triamcinolone, aspirin, lithium,.,:, iodine,., insulin, fentanyl, sodium, LSD
+triamcinolone, lithium, aspirin,., iodine,:,., sodium, fentanyl,",", LSD
+quetiapine, aspirin, lithium,., iodine,:,., insulin, Anonymous, sodium, LSD
+lamotrigine, lithium, aspirin,.,:,., iodine, sodium, insulin,",", LSD
+lithium,., aspirin, lithium,.,:, iodine, Ebola, Pain, insulin,","
+risperidone,.,:, aspirin, lithium,., iodine," """"", Anonymous, insulin, sodium
+fluoxetine, aspirin, lithium,.,:, iodine,., Anonymous, sodium, LSD, fentanyl
+olanzapine, aspirin, lithium,.,:,., iodine, LSD, Pain,",", insulin
+buspirone,., aspirin, lithium,.,:, iodine, Ebola, Pain, Anonymous, LSD
+clonazepam, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, Pain
+sertraline,., aspirin,:, lithium,., iodine, Anonymous, Pain, LSD, insulin
+aripiprazole, aspirin,., lithium,:, iodine,., Anonymous, insulin, Pain, LSD
+topiramate, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+diazepam,., aspirin, lithium,:,., iodine, Pain, LSD, Anonymous, Ebola
+lorazepam, lithium, aspirin,.,:, iodine,., sodium,",", insulin, LSD
+escitalopram, aspirin, lithium,.,:, iodine,., insulin, sodium, fentanyl,","
+divalproex sodium,., aspirin, lithium,.,:, iodine, Anonymous, Pain, insulin, Ebola
+alprazolam, lithium,., aspirin,:,., iodine,",", sodium, LSD, insulin
+clozapine,.,:, aspirin, lithium,., iodine," """"",",", LSD, drug
+oxcarbazepine, lithium, aspirin,., iodine,.,:, sodium, LSD, insulin, fentanyl
+citalopram, aspirin, lithium,.,:, iodine,., sodium, Ebola,","," """""
+haloperidol, lithium, aspirin,., iodine,.,:, sodium, fentanyl, insulin, THC
+lurasidone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+l-methylfolate, aspirin,., lithium,:,., iodine, Anonymous, insulin, Pain, LSD
+carbamazepine, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, drug
+asenapine, aspirin,., lithium,.,:, iodine, Pain, Cure, insulin, LSD
+paliperidone, aspirin, lithium,., iodine, fentanyl,.,:, insulin, sodium, LSD
+collagenase, lithium,., aspirin,:,., iodine, sodium,",", insulin, fentanyl
+becaplermin, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, Ebola
+cadexomer iodine, aspirin, lithium,., iodine,:,., LSD, insulin, fentanyl, Anonymous
+terbinafine, aspirin,., lithium,:,., iodine, insulin, Anonymous, Ebola, LSD
+terbinafine, lithium,., aspirin,:, iodine,., insulin, sodium,",", LSD
+meloxicam, lithium, aspirin,.,:, iodine,., sodium,",", insulin, fentanyl
+diclofenac, lithium, aspirin,., iodine,.,:, insulin, sodium, LSD, fentanyl
+naproxen, lithium, aspirin,.,:, iodine,., sodium,",", insulin, LSD
+ibuprofen,.,:, aspirin, lithium,., iodine, LSD, Anonymous," """"",","
+celecoxib, aspirin, lithium,., iodine,:,., insulin, LSD, Pain, Anonymous
+chondroitin AND glucosamine, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, Pain
+diclofenac, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, fentanyl
+etodolac, aspirin, lithium,.,.,:, iodine, sodium, insulin, LSD, Anonymous
+prednisone,., lithium, aspirin,:,., iodine, Anonymous, insulin,",", LSD
+aspirin, aspirin, lithium,., iodine,:,., fentanyl, sodium, insulin, LSD
+nabumetone,., aspirin, lithium,:,., iodine, Pain, LSD,",", Ebola
+duloxetine, aspirin, lithium,.,:, iodine,., sodium, insulin, dex, Anonymous
+cytarabine, aspirin, lithium,.,:, iodine,., Pain, Ebola, sodium, insulin
+vincristine,., lithium, aspirin,.,:, iodine, LSD, Pain, Ebola, sodium
+daunorubicin, aspirin,., lithium, iodine,:,., insulin, sodium,",", chemotherapy
+idarubicin, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+decitabine, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, Anonymous
+gemtuzumab, aspirin, lithium,.,:, iodine,., sodium, insulin, fentanyl, LSD
+midostaurin, aspirin, lithium,.,:, iodine,., sodium, insulin, LSD, Anonymous
+venetoclax, aspirin, lithium,., iodine,:,., sodium, fentanyl, insulin, LSD
+enasidenib,., aspirin, lithium,.,:, iodine, LSD, THC, Anonymous, insulin
+cytarabine liposomal AND daunorubicin liposomal,., aspirin, lithium,:,., iodine, Anonymous, Pain," """"", Lyme
+ivosidenib,., aspirin,:,., lithium, Anonymous, Pain, Comfort, Ebola, LSD
+gilteritinib, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+glasdegib,., aspirin, lithium,:, iodine,., insulin, Anonymous, sodium, Pain
+cytarabine, lithium,., aspirin,:, iodine,., sodium,",", insulin, LSD
+vincristine, aspirin, lithium,.,.,:, iodine, insulin, LSD, THC, fentanyl
+daunorubicin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+idarubicin, aspirin,., lithium,:,., iodine, Anonymous, insulin, sodium, Pain
+decitabine,., aspirin, lithium,.,:, iodine, Anonymous, LSD, insulin, Pain
+gemtuzumab,., aspirin, lithium,:,., iodine, insulin, Anonymous, Pain, LSD
+midostaurin, lithium,., aspirin,:, iodine,., sodium, insulin,",", LSD
+venetoclax, lithium, aspirin,., iodine,.,:, fentanyl, insulin, sodium, LSD
+enasidenib, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+cytarabine liposomal AND daunorubicin liposomal, lithium, aspirin,., iodine,.,:, fentanyl, insulin, sodium, LSD
+ivosidenib, aspirin, lithium,.,:,., iodine, Anonymous, sodium, LSD, insulin
+gilteritinib, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+glasdegib, aspirin, lithium,., iodine,:,., insulin, THC, sodium, fentanyl
+cytarabine, aspirin,., lithium, iodine,:,., Anonymous, LSD, Ebola, insulin
+vincristine, lithium,., aspirin, iodine,:,., sodium,",", insulin, THC
+daunorubicin, lithium, aspirin,., iodine,:,., insulin, sodium, LSD, THC
+idarubicin, lithium, aspirin,., iodine,.,:, sodium, fentanyl, insulin, dex
+decitabine, aspirin,.,:, lithium,., iodine, Pain,",", drug, Meth
+gemtuzumab, lithium, aspirin,., iodine,.,:, sodium, fentanyl, insulin, LSD
+midostaurin, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+venetoclax, aspirin, lithium,., iodine,:,., insulin, Pain, sodium, Ebola
+enasidenib, aspirin, lithium,., iodine,.,:, fentanyl, sodium, insulin, LSD
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin, lithium,., iodine,","," """"", Anonymous, insulin
+ivosidenib, aspirin, lithium,., iodine,:,., sodium, insulin,",", Pain
+gilteritinib, aspirin,., lithium,:,., iodine,",", insulin, Pain, LSD
+glasdegib, aspirin, lithium,., iodine,.,:, sodium, fentanyl, insulin, LSD
+atorvastatin, lithium,., aspirin,:, iodine,., sodium, insulin, LSD, fentanyl
+simvastatin, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+pravastatin, lithium,., aspirin, iodine,:,., insulin, sodium, LSD, fentanyl
+rosuvastatin, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, Anonymous
+lovastatin, aspirin, lithium,., iodine,:,., sodium, insulin,",", fentanyl
+ezetimibe, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+gemfibrozil, aspirin,., lithium,:,., iodine, Pain, Anonymous, insulin, LSD
+niacin,., aspirin, lithium,., LSD,:, iodine, fentanyl, insulin, MDMA
+ezetimibe AND simvastatin,., aspirin, lithium,:,., iodine, sodium, Anonymous,",", LSD
+fenofibric acid,.,:, lithium, aspirin,., iodine,",", Anonymous, Ebola, THC
+cyclophosphamide,., aspirin, lithium,:, iodine,., Pain, insulin, LSD, sodium
+vincristine, lithium, aspirin,.,:, iodine,., sodium, insulin, fentanyl,","
+rituximab,., aspirin,:, lithium,., iodine," """"", Anonymous, Pain, insulin
+methotrexate, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, fentanyl
+bendamustine, aspirin,., lithium,:,., Anonymous, iodine, Pain, fentanyl, LSD
+cytarabine, aspirin, lithium,., iodine,:,., Anonymous, sodium, LSD, insulin
+fludarabine,., lithium, aspirin,.,:, iodine, LSD, fentanyl, insulin, sodium
+bleomycin,., aspirin, lithium,.,:, iodine, Anonymous, Pain, LSD, insulin
+carmustine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, dex
+idelalisib, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+ibritumomab,., lithium, aspirin,.,:, iodine, LSD, sodium, Ebola, fentanyl
+ibrutinib,., aspirin,:, lithium,., iodine,",", insulin," """"", sodium
+mitoxantrone, aspirin, lithium,.,:,., iodine, Pain, Anonymous, LSD, sodium
+cyclophosphamide, aspirin,.,:, lithium, iodine,., drug, sodium, Anonymous, Ebola
+vincristine,.,:, lithium, aspirin,., iodine,","," """"", Anonymous, sodium
+rituximab, lithium, aspirin,.,:,., iodine, sodium, insulin, fentanyl,","
+methotrexate, lithium, aspirin,.,:, iodine,., sodium,",", insulin, fentanyl
+bendamustine,., aspirin, lithium,:, iodine,.,",", sodium, Anonymous, insulin
+cytarabine, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, GABA
+fludarabine, aspirin, lithium,., iodine,:,., insulin, LSD, fentanyl, sodium
+bleomycin, lithium, aspirin,.,:, iodine,., insulin, sodium,",", LSD
+carmustine,., aspirin, lithium,:,., iodine, insulin, Pain, LSD, Anonymous
+idelalisib,., aspirin, lithium,:,., iodine, Pain, insulin, Anonymous, LSD
+ibritumomab,., aspirin, lithium, iodine,:,., sodium,",", insulin, LSD
+ibrutinib, aspirin, lithium,., iodine,.,:, sodium, insulin, dex, fentanyl
+mitoxantrone, lithium, aspirin,., iodine,:,., insulin, sodium, THC, LSD
+cyclophosphamide, aspirin,., lithium,.,:, iodine, LSD, Anonymous, Pain, insulin
+vincristine,., aspirin, lithium,:,., iodine, Pain, Anonymous, insulin, LSD
+rituximab,., lithium, aspirin,:,., iodine,",", insulin, Anonymous, THC
+methotrexate, aspirin, lithium,., iodine,:,., sodium, insulin, dex, LSD
+bendamustine, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD, fentanyl
+cytarabine,., lithium, aspirin,:,., iodine,",", Anonymous, Pain, LSD
+fludarabine, aspirin, lithium,.,.,:, iodine, Pain, LSD, insulin, THC
+bleomycin,., aspirin, lithium,.,:, iodine,",", sodium, insulin, Anonymous
+carmustine, lithium, aspirin,.,:, iodine,., sodium, insulin,",", fentanyl
+idelalisib, lithium,., aspirin,:, iodine,.,",", sodium, Anonymous, insulin
+ibritumomab, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+ibrutinib, lithium,., aspirin,:, iodine,., sodium,",", Anonymous, insulin
+mitoxantrone,., aspirin, lithium,:, iodine,.,",", insulin, sodium," """""
+cyclophosphamide, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+vincristine, aspirin, lithium,.,:,., iodine, insulin, sodium, fentanyl, Anonymous
+rituximab,., aspirin, lithium,:,., iodine, Anonymous, LSD, Pain, sodium
+methotrexate, aspirin, lithium,., iodine,.,:, LSD, insulin, fentanyl, Pain
+bendamustine, lithium,., aspirin, iodine,:,., LSD, Anonymous, insulin, fentanyl
+cytarabine, aspirin,., lithium, iodine,.,:, Anonymous, insulin, Pain, sodium
+fludarabine,., aspirin, lithium,:,., iodine, Anonymous, Ebola," """"", Pain
+bleomycin, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+carmustine, lithium,., aspirin,:, iodine,., Anonymous,",", sodium, insulin
+idelalisib, lithium,., aspirin,:,., iodine, sodium,",", insulin, LSD
+ibritumomab, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+ibrutinib, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, Anonymous
+mitoxantrone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+cyclophosphamide,., aspirin, lithium,.,:, iodine, Pain, LSD, Anonymous, Ebola
+vincristine, lithium,., aspirin,:,., iodine,",", sodium, Anonymous, insulin
+rituximab, aspirin,., lithium,.,:, iodine, Oxy, insulin, Pain, sodium
+methotrexate, lithium, aspirin,., iodine,:,., sodium, insulin,",", THC
+bendamustine, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, THC
+cytarabine, lithium, aspirin,., iodine,:,., sodium, Ebola, Anonymous, LSD
+fludarabine, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD, fentanyl
+bleomycin,., lithium, aspirin,:, iodine,., sodium,",", insulin, LSD
+carmustine,., lithium, aspirin,:, iodine,., sodium, insulin, Ebola, Pain
+idelalisib, aspirin, lithium,., iodine,:,., insulin, Anonymous, sodium, LSD
+ibritumomab, lithium, aspirin,.,:, iodine,., insulin, LSD, sodium, Ebola
+ibrutinib,., lithium, aspirin,:,., iodine, LSD,",", Anonymous, Ebola
+mitoxantrone, aspirin,., lithium,:, iodine,., Pain, Anonymous, insulin, THC
+cyclophosphamide, lithium, aspirin,., iodine,:,., fentanyl, insulin, sodium, LSD
+vincristine,., lithium, aspirin,:,., iodine, Pain,",", LSD, THC
+rituximab, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+methotrexate, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+bendamustine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl,","
+cytarabine,., lithium,:, aspirin,., iodine, drug, sodium, insulin, LSD
+fludarabine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl,","
+bleomycin, lithium, aspirin,., iodine,:, sodium,., insulin, fentanyl, LSD
+carmustine, aspirin, lithium,., iodine,.,:, sodium, fentanyl, insulin, LSD
+idelalisib, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+ibritumomab, aspirin, lithium,., iodine,:,., insulin, sodium, Ebola, drug
+ibrutinib, aspirin,., lithium,:,., iodine, Anonymous, sodium, insulin, Pain
+mitoxantrone,., lithium, aspirin,:,., iodine,",", insulin, Anonymous, sodium
+dexamethasone, aspirin, lithium,., iodine,:,., insulin, Ebola, sodium, Anonymous
+thalidomide, aspirin, lithium,.,:, iodine,., insulin, sodium, Pain, Anonymous
+cyclophosphamide, lithium,., aspirin,.,:, iodine, LSD, insulin, sodium, fentanyl
+lenalidomide,., aspirin,:, lithium,., iodine, Pain, Anonymous, insulin, Ebola
+bortezomib,., lithium, aspirin,:, iodine,.,",", sodium, LSD, insulin
+carfilzomib,.,.,:, aspirin, lithium, Pain, iodine, Lyme,",", Cure
+pomalidomide, aspirin, lithium,.,:, iodine,., Anonymous, Pain, LSD, insulin
+daratumumab, aspirin,., lithium, iodine,.,:, Pain, Anonymous, Lyme, Barbie
+melphalan, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+modafinil, lithium, aspirin,., iodine,:,., sodium, insulin,",", drug
+duloxetine, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+lisdexamfetamine, aspirin, lithium,., iodine,:,., sodium, insulin,",", LSD
+amantadine, aspirin,., lithium,:,., iodine, insulin, LSD, Pain, Anonymous
+armodafinil,., aspirin, lithium,:, iodine,., Anonymous, LSD, Oxy, Pain
+modafinil,., lithium, aspirin,:,., iodine, Anonymous,",", insulin, Bayer
+duloxetine, aspirin,., lithium, iodine,.,:, sodium, insulin, LSD, Anonymous
+lisdexamfetamine, lithium, aspirin,.,:, iodine,., sodium,",", Anonymous, LSD
+amantadine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, THC
+armodafinil, lithium, aspirin,., iodine,:,., fentanyl, sodium, LSD, insulin
+miconazole, aspirin,., lithium,.,:, iodine,",", sodium, LSD, THC
+miconazole, aspirin,., lithium,:, iodine,., insulin, Anonymous, sodium, LSD
+dexamethasone, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, Anonymous
+thalidomide, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+cyclophosphamide, lithium, aspirin,., iodine,.,:, fentanyl, sodium, insulin, LSD
+lenalidomide,., aspirin, lithium,:,., iodine, insulin, Anonymous, sodium,","
+bortezomib,., aspirin, lithium,.,:, iodine, Anonymous, sodium, LSD, Pain
+carfilzomib, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, dex
+pomalidomide, lithium, aspirin,.,:, iodine,., sodium, Anonymous,",", insulin
+daratumumab, aspirin, lithium,., iodine,:,., insulin, sodium, Ebola, fentanyl
+melphalan,., aspirin, lithium,.,:, iodine, Pain, insulin, Anonymous, Ebola
+ibuprofen, lithium, aspirin,.,:, iodine,., sodium, insulin, fentanyl,","
+naproxen, lithium, aspirin,., iodine,:,., sodium, insulin,",", LSD
+acetaminophen, aspirin, lithium, iodine,., sodium,., fentanyl,:, drug, insulin
+diclofenac,.,., lithium,:, aspirin, iodine, LSD, Pain, insulin, Anonymous
+nabumetone,., aspirin, lithium,:,., iodine, insulin, LSD, Ebola, Pain
+ibuprofen, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+naproxen, lithium, aspirin,.,:, iodine,., sodium, Anonymous, LSD, insulin
+acetaminophen, aspirin, lithium,., iodine,.,:, sodium, insulin, Anonymous, fentanyl
+diclofenac,., lithium, aspirin,:,., iodine,",", LSD, Pain, Anonymous
+nabumetone,., lithium, aspirin,:, iodine,., Anonymous, insulin, Ebola, sodium
+ibuprofen,., aspirin,:, lithium,., Pain, iodine, Anonymous, Lyme,","
+naproxen,., lithium, aspirin,.,:, iodine, sodium, insulin, LSD,","
+acetaminophen, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+diclofenac,.,., aspirin, lithium,:, iodine, Pain, LSD, Anonymous, Ebola
+nabumetone, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, THC
+modafinil, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, GABA
+duloxetine, lithium, aspirin,., iodine,.,:, LSD, sodium, fentanyl, insulin
+lisdexamfetamine, aspirin,., lithium,.,:, iodine, LSD, insulin, Pain, Anonymous
+amantadine,., aspirin, lithium,:,., iodine, Pain, Ebola," """"", Anonymous
+armodafinil,., lithium, aspirin,:,., iodine, insulin, sodium, LSD,","
+modafinil, aspirin, lithium,., iodine,:,., insulin, LSD, sodium," """""
+duloxetine, lithium, aspirin,., iodine,:,., insulin, fentanyl, LSD, sodium
+lisdexamfetamine,., aspirin, lithium,:,., iodine, insulin, LSD,",", sodium
+amantadine,., aspirin, lithium,.,:, iodine, Pain, Anonymous, insulin, Ebola
+armodafinil,., aspirin, lithium,.,:, iodine, LSD, Pain, Anonymous, insulin
+dexamethasone, lithium, aspirin,., iodine,:,., LSD, sodium, Ebola, Anonymous
+thalidomide,., aspirin, lithium,:,., iodine, insulin, Pain, Anonymous, LSD
+cyclophosphamide, aspirin, lithium,., iodine,.,:, sodium, insulin,",", Pain
+lenalidomide, lithium,., aspirin,:, iodine,., insulin, sodium,",", LSD
+bortezomib,., aspirin, lithium,:, iodine,., insulin, Anonymous, LSD, Pain
+carfilzomib, lithium, aspirin,.,:, iodine,., insulin, sodium,",", Anonymous
+pomalidomide, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+daratumumab,., lithium, aspirin,:,., iodine,",", sodium, LSD, insulin
+melphalan, aspirin, lithium,.,:, iodine,., sodium, insulin, fentanyl, Anonymous
+collagenase, aspirin, lithium,.,:, iodine,., insulin, sodium, LSD, Anonymous
+becaplermin, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD, fentanyl
+cadexomer iodine,., aspirin, lithium,:,., iodine, Ebola, Anonymous, LSD,","
+aspirin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, GABA
+nitroglycerin, lithium, aspirin,., iodine,:,., sodium, insulin,",", THC
+metoprolol, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, Anonymous
+amlodipine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, Anonymous
+isosorbide mononitrate,., aspirin, lithium,:, iodine,., insulin,",", sodium, Pain
+isosorbide dinitrate, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+enoxaparin, lithium, aspirin,., iodine,.,:, sodium, insulin, LSD, fentanyl
+ranolazine, lithium,., aspirin,:,., iodine, sodium,",", insulin, LSD
+atenolol, aspirin, lithium,., iodine,.,:, sodium, fentanyl, insulin, LSD
+carvedilol, lithium, aspirin,.,:, iodine,., sodium, insulin,",", LSD
+amlodipine AND atorvastatin,.,:, aspirin, lithium,., iodine, Pain, Anonymous, insulin, LSD
+cyclophosphamide, lithium, aspirin,., iodine,.,:, sodium, insulin, fentanyl, LSD
+vincristine,., aspirin, lithium,:,., iodine, Pain, Oxy, Anonymous, LSD
+rituximab,., lithium, aspirin,:, iodine,.,",", insulin, Anonymous, sodium
+methotrexate, lithium, aspirin,.,:, iodine,.,",", sodium, insulin, drug
+bendamustine, aspirin, lithium,.,.,:, iodine, insulin, Pain, sodium, Anonymous
+cytarabine, lithium, aspirin,.,., iodine,:, sodium, insulin, fentanyl, LSD
+fludarabine, aspirin,., lithium,:, iodine,., insulin, Anonymous, LSD, sodium
+bleomycin,., lithium,:, aspirin,., iodine,",", sodium, insulin," """""
+carmustine, aspirin, lithium,., iodine,.,:, insulin, LSD, Ebola, THC
+idelalisib, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+ibritumomab, aspirin, lithium,.,:, iodine,., sodium, insulin, fentanyl, Anonymous
+ibrutinib, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, Anonymous
+mitoxantrone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+cyclophosphamide, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+vincristine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+rituximab, aspirin, lithium,.,.,:, iodine, insulin, Pain, LSD, Ebola
+methotrexate, lithium, aspirin,., iodine,:,., fentanyl, sodium, LSD, insulin
+bendamustine, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, Ebola
+cytarabine, aspirin, lithium,.,:, iodine,.,",", insulin, Anonymous, sodium
+fludarabine,.,:,., lithium, aspirin, iodine, Anonymous,","," """"", Pain
+bleomycin, aspirin,., lithium,:,., iodine, Pain, insulin, Anonymous, Ebola
+carmustine, aspirin, lithium,., iodine,:,., sodium, insulin,",", LSD
+idelalisib, aspirin, lithium,., iodine,:,., sodium, insulin,",", LSD
+ibritumomab, lithium,., aspirin,:, iodine,.,",", sodium, insulin, LSD
+ibrutinib, aspirin, lithium,., iodine,:,., sodium, insulin,",", fentanyl
+mitoxantrone, aspirin, lithium,., iodine,:,., sodium, insulin, Anonymous, LSD
+meloxicam, aspirin,., lithium,:,., iodine, Anonymous, Pain, LSD, insulin
+diclofenac, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+naproxen, aspirin, lithium,.,:, iodine,., sodium, Anonymous, Ebola, LSD
+ibuprofen, aspirin, lithium,., iodine,:,., insulin, sodium, GABA,","
+celecoxib,., lithium, aspirin,:,., iodine, LSD, sodium, insulin, THC
+chondroitin AND glucosamine,., aspirin, lithium,:, iodine,.,",", Anonymous," """"", insulin
+diclofenac,., lithium,:, aspirin, iodine,.,",", Ebola, sodium, insulin
+etodolac,., aspirin, lithium,:, iodine,., insulin, Anonymous, LSD, sodium
+prednisone,., aspirin, lithium,.,:, iodine, LSD, Pain, Ebola, Anonymous
+aspirin, lithium,., aspirin,:,., iodine, Pain, Anonymous,",", sodium
+nabumetone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, THC
+duloxetine,., aspirin, lithium,:,., iodine, Pain, Anonymous, LSD," """""
+miconazole, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+miconazole,.,:, aspirin, lithium,., iodine, Pain, Anonymous,","," """""
+miconazole, aspirin, lithium,.,:, iodine,., sodium, insulin, Anonymous, LSD
+miconazole,., aspirin,:, lithium,., iodine, Anonymous, Pain, LSD, Ebola
+miconazole,., lithium, aspirin,., iodine,:, sodium, insulin, LSD,","
+miconazole, lithium,., aspirin,:, iodine,., sodium, insulin, LSD, Anonymous
+meloxicam, lithium,., aspirin,:, iodine,., sodium, insulin,",", Ebola
+diclofenac, aspirin, lithium,., iodine,:,., sodium, insulin, drug, LSD
+naproxen, lithium, aspirin,.,:, iodine,., sodium, insulin, fentanyl, LSD
+ibuprofen, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, Anonymous
+celecoxib, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD, THC
+chondroitin AND glucosamine,., lithium, aspirin,:,., iodine, sodium, insulin,",", Anonymous
+diclofenac, lithium, aspirin,., iodine,:,., insulin, fentanyl, sodium, LSD
+etodolac, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+prednisone,., lithium, aspirin,:, iodine,.,",", Anonymous, sodium, insulin
+aspirin, lithium,., aspirin,:,., iodine, sodium, fentanyl, Anonymous, LSD
+nabumetone, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+duloxetine, aspirin, lithium,., iodine,:,., sodium, LSD, Ebola, Anonymous
+meloxicam, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+diclofenac,., lithium, aspirin,.,:, iodine, Anonymous, insulin, LSD, fentanyl
+naproxen, lithium, aspirin,., iodine,:,., sodium, LSD, insulin, Ebola
+ibuprofen,., aspirin, lithium,:,., iodine, Anonymous, drug, insulin, Pain
+celecoxib, aspirin, lithium,., iodine,:,., LSD, insulin, sodium, THC
+chondroitin AND glucosamine,., aspirin, lithium,.,:, iodine, insulin, LSD, Ebola, Pain
+diclofenac,., lithium, aspirin,:, iodine,., Anonymous, Pain,",", LSD
+etodolac, aspirin, lithium,., iodine,:,., fentanyl, sodium, insulin, LSD
+prednisone,., aspirin, lithium,.,:, iodine, Anonymous, Pain, LSD, insulin
+aspirin, aspirin,., lithium,:,., iodine, insulin, sodium,",", fentanyl
+nabumetone,., aspirin, lithium,:,., iodine, Ebola, Anonymous, Pain, LSD
+duloxetine, aspirin, lithium,., iodine,:,., sodium, insulin, chemotherapy, fentanyl
+ibuprofen, aspirin,., lithium,.,:, iodine, Pain, Anonymous, LSD, insulin
+naproxen,., aspirin, lithium,:,., iodine, Anonymous, insulin, Pain,","
+acetaminophen, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, dex
+diclofenac, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, GABA
+nabumetone, aspirin,., lithium,:, iodine,., insulin, Anonymous,",", sodium
+ibuprofen, lithium, aspirin,.,.,:, iodine, sodium, insulin, LSD, fentanyl
+naproxen, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, GABA
+acetaminophen, aspirin, lithium,.,:, iodine,., insulin, sodium, LSD,","
+diclofenac, lithium, aspirin,.,:, iodine,., Anonymous, insulin, sodium, LSD
+nabumetone, aspirin,., lithium, iodine,:,., Ebola, sodium, chemotherapy, insulin
+ibuprofen, lithium,., aspirin,.,:, iodine, LSD, Ebola, Anonymous, sodium
+naproxen, lithium, aspirin,., iodine,:,., fentanyl, sodium, insulin, LSD
+acetaminophen,.,:, aspirin, lithium,., iodine,",", Anonymous, insulin," """""
+diclofenac, lithium, aspirin,., iodine,.,:, sodium, LSD, insulin, fentanyl
+nabumetone,., aspirin, lithium,:, iodine,., insulin, Anonymous, LSD, Pain
+ibuprofen, lithium, aspirin,., iodine,:,., fentanyl, sodium, insulin, LSD
+naproxen,., lithium, aspirin,:,., iodine,",", Anonymous, LSD, insulin
+acetaminophen,., aspirin, lithium,., iodine,:, sodium, insulin, Ebola, LSD
+diclofenac,., aspirin, lithium,:,., iodine, Anonymous, Pain, LSD, insulin
+nabumetone, aspirin, lithium,.,:,., iodine, insulin, sodium, Anonymous, LSD
+triamcinolone, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+triamcinolone,., lithium, aspirin,.,:, iodine, sodium, insulin, LSD,","
+risperidone, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+clozapine, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+olanzapine, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+quetiapine, aspirin,., lithium,:, iodine,., sodium, insulin, LSD, fentanyl
+aripiprazole, aspirin, lithium,.,:,., iodine, insulin, LSD,",", sodium
+chlorpromazine, lithium, aspirin,.,:, iodine,., insulin,",", sodium, LSD
+paliperidone, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+ziprasidone, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+loxapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+ibuprofen, aspirin, lithium,.,:, iodine,., sodium, insulin,",", LSD
+naproxen, lithium, aspirin,., iodine,:,., sodium, insulin,",", dex
+acetaminophen, aspirin,., lithium, iodine,:,., insulin, sodium, LSD, Anonymous
+diclofenac,., aspirin, lithium,:,., iodine, Anonymous, Pain, insulin, LSD
+nabumetone, aspirin, lithium,.,:, iodine,., insulin, Anonymous, sodium,","
+quetiapine, lithium,., aspirin,:, iodine,., sodium, LSD, Anonymous,","
+lamotrigine, lithium, aspirin,.,:, iodine,., sodium, insulin,",", fentanyl
+lithium,., aspirin, lithium,.,:, iodine, Pain, LSD, insulin, Ebola
+risperidone, lithium, aspirin,., iodine,:,., sodium, insulin,",", LSD
+fluoxetine, lithium, aspirin,., iodine,:,., sodium, LSD, insulin, fentanyl
+olanzapine,., aspirin,:, lithium,., iodine, Pain, Anonymous, insulin, LSD
+buspirone, lithium, aspirin,.,:, iodine,.,",", sodium, LSD, insulin
+clonazepam, lithium, aspirin,.,:,., iodine, sodium, insulin, LSD,","
+sertraline, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+aripiprazole, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin,","
+topiramate, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, Ebola
+diazepam, aspirin,., lithium,.,:, iodine, Anonymous, Pain, LSD, insulin
+lorazepam, lithium, aspirin,., iodine,.,:, sodium, insulin, fentanyl, drug
+escitalopram, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, Anonymous
+divalproex sodium, lithium, aspirin,., iodine,:,., sodium, LSD, insulin, Anonymous
+alprazolam,., lithium, aspirin,.,:, iodine, LSD, Anonymous, THC, insulin
+clozapine, lithium, aspirin,.,:,., iodine, insulin,",", sodium, Anonymous
+oxcarbazepine, aspirin,., lithium,:, iodine,., insulin, Anonymous, Ebola, Pain
+citalopram, aspirin,., lithium,:, iodine,., Anonymous, insulin, sodium, Pain
+haloperidol, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+lurasidone, aspirin,., lithium,:, iodine,., Anonymous, Pain, LSD, Ebola
+l-methylfolate, aspirin, lithium,., iodine,:,., insulin, sodium, Anonymous, fentanyl
+carbamazepine, aspirin,., lithium,:,., iodine, Anonymous, insulin, sodium, LSD
+asenapine, lithium, aspirin,., iodine,.,:, sodium, insulin, LSD, Ebola
+paliperidone, lithium, aspirin,., iodine,:,., sodium, insulin, LSD, THC
+dexamethasone, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, fentanyl
+thalidomide, aspirin,., lithium,:,., iodine, Anonymous, sodium, insulin, Pain
+cyclophosphamide, lithium, aspirin,., iodine,:,., sodium, insulin,",", LSD
+lenalidomide, aspirin, lithium,., iodine,:,., sodium, insulin,",", LSD
+bortezomib, aspirin,., lithium, iodine,:,., Anonymous, insulin,",", Pain
+carfilzomib, aspirin, lithium,.,:, iodine,., insulin, Anonymous, Pain, sodium
+pomalidomide, lithium,., aspirin,:, iodine,., sodium, LSD,",", insulin
+daratumumab, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+melphalan, lithium, aspirin,., iodine,:,., insulin, sodium, Anonymous, LSD
+dexamethasone, aspirin, lithium,., iodine,:,., insulin, LSD, Anonymous, fentanyl
+thalidomide,., aspirin,:, lithium, iodine,., Anonymous,",", Ebola, Pain
+cyclophosphamide, lithium, aspirin,.,:, iodine,.,",", sodium, insulin, fentanyl
+lenalidomide, lithium, aspirin,., iodine,:,., insulin, sodium, Ebola, LSD
+bortezomib, lithium, aspirin,.,:, iodine,., sodium, insulin,",", LSD
+carfilzomib, lithium, aspirin,., iodine,:,., insulin, sodium, fentanyl, LSD
+pomalidomide, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+daratumumab, lithium, aspirin,.,:, iodine,.,",", sodium, insulin, LSD
+melphalan, lithium, aspirin,.,:, iodine,., sodium, insulin, THC,","
+dexamethasone, aspirin, lithium,., iodine,:,., Anonymous, fentanyl, insulin, Pain
+thalidomide, lithium, aspirin,.,:, iodine,., insulin, Anonymous, LSD, sodium
+cyclophosphamide, aspirin, lithium,., iodine,.,:, sodium, insulin, dex, fentanyl
+lenalidomide, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+bortezomib, aspirin, lithium,., iodine,:,., insulin,",", LSD, sodium
+carfilzomib, lithium, aspirin,., iodine,:,., sodium, insulin, LSD,","
+pomalidomide, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+daratumumab, aspirin, lithium,., iodine,.,:, sodium, insulin, fentanyl, LSD
+melphalan, lithium, aspirin,.,:, iodine,., sodium,",", insulin, Anonymous
+modafinil, aspirin,., lithium, iodine,.,:, insulin, sodium, LSD, Pain
+duloxetine, lithium, aspirin,.,:, iodine,., sodium, insulin, fentanyl,","
+lisdexamfetamine, aspirin, lithium,.,:, iodine,., sodium, Pain, drug, insulin
+amantadine, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+armodafinil,., aspirin, lithium,.,:, iodine," """"", Pain,",", Ebola
+collagenase,., lithium, aspirin,:,., iodine,",", sodium, insulin, LSD
+becaplermin,., aspirin, lithium,:,., iodine, Anonymous, LSD, Ebola, Pain
+cadexomer iodine, aspirin,., lithium, iodine,:,., insulin, Anonymous, Pain, sodium
+collagenase,., aspirin,:,., lithium, iodine, Pain, Lyme, Ebola, Cure
+becaplermin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+cadexomer iodine, aspirin, lithium,.,:, iodine,., Anonymous, sodium, Pain, insulin
+lamivudine, lithium, aspirin,., iodine,.,:, fentanyl, sodium, insulin, LSD
+efavirenz AND emtricitabine AND tenofovir, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+ritonavir, aspirin, lithium,., iodine,.,:, insulin, LSD, sodium, Pain
+emtricitabine AND tenofovir, aspirin, lithium,., iodine,:,., sodium, insulin,",", LSD
+tenofovir, aspirin, lithium,., iodine,.,:, sodium, LSD, insulin, fentanyl
+abacavir, lithium, aspirin,., iodine,.,:, fentanyl, sodium, insulin, LSD
+aspirin,., aspirin, lithium,:,., iodine, Anonymous,",", Pain, Ebola
+nitroglycerin, aspirin, lithium,.,., iodine,:, LSD, insulin, sodium, Ebola
+metoprolol, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+amlodipine, lithium,., aspirin,:,., iodine, sodium,",", insulin, LSD
+isosorbide mononitrate, aspirin, lithium,.,:, iodine,., Anonymous, insulin, fentanyl, LSD
+isosorbide dinitrate,., aspirin, lithium,.,:, iodine, Pain, LSD, insulin, Ebola
+enoxaparin, lithium, aspirin,., iodine,:,., insulin, sodium, LSD, THC
+ranolazine, lithium, aspirin,., iodine,.,:, sodium, fentanyl, insulin, LSD
+atenolol, aspirin,., lithium,:, iodine,., insulin, Anonymous, fentanyl, LSD
+carvedilol, aspirin, lithium,., iodine,:,., sodium, insulin, dex, LSD
+amlodipine AND atorvastatin, aspirin, lithium,., iodine,:,., sodium, insulin,",", THC
+triamcinolone, aspirin,., lithium,:, iodine,., Anonymous, insulin, sodium, Pain
+triamcinolone,., aspirin, lithium,.,:, iodine, Pain, LSD, Anonymous, Ebola
+triamcinolone, aspirin, lithium,.,:, iodine,., Pain, Anonymous, insulin, LSD
+triamcinolone,., aspirin, lithium,:,., iodine, insulin, sodium, Anonymous, LSD
+risperidone, lithium, aspirin,.,:, iodine,., sodium, insulin, Anonymous,","
+clozapine, lithium, aspirin,.,:, iodine,., Anonymous, insulin,",", sodium
+olanzapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+quetiapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+aripiprazole, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, Anonymous
+chlorpromazine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+paliperidone, aspirin, lithium,., iodine,.,:, sodium, drug, fentanyl,","
+ziprasidone,., aspirin, lithium,:,., iodine, Pain, Anonymous, Ebola, LSD
+loxapine, lithium, aspirin,.,:, iodine,., sodium, insulin,",", fentanyl
+ketoconazole, lithium,., aspirin,:, iodine,.,",", sodium, insulin, Anonymous
+terbinafine, aspirin, lithium,., iodine,:,., sodium, LSD, insulin, Ebola
+ketoconazole,., lithium, aspirin,:,., iodine, sodium, insulin,",", Anonymous
+terbinafine, lithium, aspirin,., iodine,.,:, fentanyl, sodium, insulin, LSD
+ketoconazole, lithium, aspirin,.,:, iodine,., sodium, insulin, fentanyl,","
+terbinafine,., aspirin, lithium,:, iodine,.," """"", Ebola, Anonymous, LSD
+ketoconazole,., lithium, aspirin,:,., iodine, sodium,",", Anonymous, insulin
+terbinafine, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, Anonymous
+terbinafine, aspirin,., lithium,:, iodine,., Anonymous, Pain, insulin, LSD
+terbinafine, aspirin,., lithium,:,., iodine, insulin, Anonymous, LSD, fentanyl
+terbinafine, aspirin, lithium,.,:, iodine,.,",", insulin, sodium, LSD
+terbinafine, aspirin, lithium,.,:, iodine,., insulin, LSD, sodium, Anonymous
+ibuprofen, lithium,., aspirin,:,., iodine, insulin, sodium,",", LSD
+naproxen,., aspirin, lithium,:,., iodine, LSD, Pain, Anonymous, insulin
+acetaminophen,., aspirin, lithium,:,., iodine, Pain, insulin,",", sodium
+diclofenac, lithium,., aspirin,:, iodine,., sodium, insulin, LSD,","
+nabumetone,., aspirin, lithium,:,., iodine, Pain, Anonymous, LSD, sodium
+meloxicam, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, Anonymous
+diclofenac, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, GABA
+naproxen, aspirin,., lithium,.,:, iodine, Pain, drug, insulin, Cure
+ibuprofen, aspirin, lithium,., iodine,:,., sodium, insulin, Anonymous, Pain
+celecoxib, aspirin,., lithium,:, iodine,., Ebola," """"",",", sodium
+chondroitin AND glucosamine, lithium, aspirin,., iodine,.,:, LSD, sodium, insulin, fentanyl
+diclofenac,., aspirin, lithium,:,., iodine, insulin, sodium, Ebola, Pain
+etodolac, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+prednisone,.,:, aspirin, lithium,., iodine,",", sodium, insulin," """
+aspirin,., aspirin, lithium,:,., iodine, Pain, insulin, Anonymous,","
+nabumetone, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+duloxetine,., aspirin, lithium,.,:, Pain, iodine, Anonymous, Lyme," """
+risperidone, lithium,., aspirin,:,., iodine,",", sodium, insulin, Ebola
+clozapine, lithium, aspirin,.,., iodine,:, Anonymous, fentanyl, insulin, LSD
+olanzapine,., lithium, aspirin,.,:, iodine, LSD, sodium, Pain, insulin
+quetiapine, aspirin,., lithium,., iodine,:, sodium," """, insulin, dex
+aripiprazole,., aspirin, lithium,.,:, iodine, Pain, LSD, Anonymous, insulin
+chlorpromazine, lithium,., aspirin, iodine,.,:, sodium, insulin, LSD, dex
+paliperidone, lithium,., aspirin, iodine,:,., sodium,",", insulin," """
+ziprasidone, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, fentanyl
+loxapine, aspirin,., lithium,:,., iodine, Anonymous, Pain, LSD, insulin
+risperidone, aspirin,., lithium,:, iodine,., Pain, Anonymous, insulin,","
+clozapine, aspirin,., lithium, iodine,:,.," """"", LSD, sodium, Pain
+olanzapine,.,:, aspirin, lithium, iodine,.,",", Anonymous, LSD, insulin
+quetiapine, lithium, aspirin,.,:, iodine,., sodium, insulin,",", fentanyl
+aripiprazole,., lithium, aspirin,:,., iodine, Anonymous, LSD,",", insulin
+chlorpromazine,., aspirin, lithium,:,., iodine, Pain, Anonymous, insulin, LSD
+paliperidone, aspirin, lithium,., iodine,.,:, insulin, sodium, LSD, Pain
+ziprasidone, aspirin, lithium,., iodine,.,:, insulin, LSD, Oxy, drug
+loxapine, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, GABA
+risperidone,., lithium, aspirin,:,., iodine, LSD, insulin, sodium, Anonymous
+clozapine,., lithium, aspirin,:,., iodine, insulin, Pain, LSD, Anonymous
+olanzapine, aspirin, lithium,.,:, iodine,., insulin, sodium,",", fentanyl
+quetiapine,., aspirin, lithium,:,., iodine, Anonymous, Pain, sodium, insulin
+aripiprazole, aspirin,., lithium,:, iodine,., insulin, Anonymous, Pain, sodium
+chlorpromazine,., aspirin, lithium,:,., iodine, Anonymous, LSD, insulin,","
+paliperidone, aspirin, lithium,., iodine,:,., sodium, insulin,",", fentanyl
+ziprasidone, aspirin, lithium,.,.,:, iodine, insulin, LSD, Pain, sodium
+loxapine, aspirin,., lithium,:, iodine,., Anonymous, insulin, Pain, LSD
+risperidone, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+clozapine, lithium, aspirin,.,:, iodine,., sodium, insulin, fentanyl, Anonymous
+olanzapine,:,.,., lithium, aspirin, iodine,","," """""," """, Ebola
+quetiapine, aspirin,., lithium,:,., iodine, Pain, Anonymous, insulin, sodium
+aripiprazole,., aspirin, lithium,:,., iodine, Pain, insulin, LSD, THC
+chlorpromazine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+paliperidone, aspirin,., lithium,:,., iodine, Anonymous, LSD, Pain, sodium
+ziprasidone, lithium, aspirin,.,:, iodine,., sodium, insulin,",", fentanyl
+loxapine, lithium,.,:, aspirin, iodine,.,",", sodium, insulin, Anonymous
+risperidone, aspirin, lithium,.,:, iodine,., insulin, Pain, Anonymous, Ebola
+clozapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl,","
+olanzapine, lithium,., aspirin,:, iodine,.,",", sodium, Anonymous, insulin
+quetiapine,., lithium, aspirin,:,., iodine, Pain, Anonymous, insulin, Ebola
+aripiprazole, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+chlorpromazine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, dex
+paliperidone, aspirin, lithium,., iodine,:,., insulin, sodium, Ebola, LSD
+ziprasidone, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+loxapine, aspirin, lithium,.,.,:, iodine, Pain, LSD, Anonymous, fentanyl
+risperidone, lithium, aspirin,.,:, iodine,., sodium, insulin,",", LSD
+clozapine, aspirin,., lithium,:, iodine,.,",", Anonymous, sodium, insulin
+olanzapine, aspirin, lithium,.,:, iodine,., sodium, Ebola, insulin, LSD
+quetiapine, aspirin, lithium,.,:, iodine,., insulin, sodium, LSD, Anonymous
+aripiprazole, lithium, aspirin,.,:, iodine,., insulin, Anonymous, Pain, sodium
+chlorpromazine, lithium, aspirin,.,:, iodine,.,",", sodium, insulin, fentanyl
+paliperidone, lithium,., aspirin,:, iodine,., insulin, sodium,",", Anonymous
+ziprasidone,., aspirin, lithium,:,., iodine, LSD, insulin, Ebola, sodium
+loxapine,., lithium, aspirin,:, iodine,., sodium,",", insulin, LSD
+aspirin, lithium, aspirin,., iodine,:,., sodium, insulin, LSD,","
+nitroglycerin,., aspirin,:, lithium,., Anonymous, Ebola, iodine, Pain, LSD
+metoprolol, lithium, aspirin,., iodine,:,., sodium,",", insulin, Anonymous
+amlodipine, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+isosorbide mononitrate,., lithium, aspirin,:,., iodine, sodium, Oxy, insulin, Ebola
+isosorbide dinitrate,., aspirin, lithium,:, iodine,., Anonymous, Pain, insulin, LSD
+enoxaparin, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, GABA
+ranolazine, aspirin, lithium,., iodine,:,., sodium, insulin, Anonymous, LSD
+atenolol,., aspirin,:, lithium,., iodine, Anonymous, LSD, insulin, Ebola
+carvedilol, lithium, aspirin,., iodine,.,:, insulin, sodium, fentanyl, LSD
+amlodipine AND atorvastatin, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+modafinil, lithium, aspirin,., iodine,:,., insulin, LSD, sodium, Pain
+duloxetine,., lithium, aspirin,:,., iodine, sodium, insulin,",", LSD
+lisdexamfetamine, lithium, aspirin,.,:, iodine,., sodium, insulin, Anonymous, LSD
+amantadine,.,:, aspirin,., lithium,",", Anonymous, iodine, Pain," """""
+armodafinil, lithium, aspirin,., iodine,:, sodium,., fentanyl, insulin, LSD
+miconazole,., aspirin, lithium,:,., iodine, insulin, Pain, LSD, Anonymous
+miconazole,., aspirin, lithium,:, iodine,., insulin, sodium, Anonymous, LSD
+ketoconazole,.,., lithium, aspirin,:, iodine, fentanyl, insulin, sodium,","
+terbinafine, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, LSD
+ketoconazole, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+terbinafine, lithium, aspirin,., iodine,:,., sodium, insulin,",", fentanyl
+ketoconazole,.,:, aspirin, lithium,., iodine,",", drug," """, insulin
+terbinafine, lithium, aspirin,.,:,., iodine, sodium,",", insulin, LSD
+ketoconazole, lithium,., aspirin,:, iodine,., sodium,",", LSD, Ebola
+terbinafine, aspirin, lithium,.,:,., iodine, sodium, fentanyl, insulin, Anonymous
+terbinafine,., aspirin, lithium,.,:, iodine, LSD, Anonymous, insulin, THC
+terbinafine,., aspirin, lithium,:,., iodine, insulin, LSD, sodium, Anonymous
+ketoconazole, lithium, aspirin,.,:,., iodine, Anonymous, sodium, LSD, fentanyl
+terbinafine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+ketoconazole, lithium, aspirin,., iodine,:,., sodium, insulin, Anonymous, fentanyl
+terbinafine, aspirin, lithium,., iodine,:,., sodium, LSD, insulin, Ebola
+terbinafine,.,:, lithium, aspirin,., iodine,",", sodium, insulin, Ebola
+terbinafine, aspirin, lithium,., iodine,:,., insulin, sodium, LSD, fentanyl
+terbinafine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+terbinafine, lithium,., aspirin,:,., iodine, Pain, sodium, insulin, LSD
+terbinafine, aspirin, lithium,., iodine,:,., insulin, sodium, fentanyl, Ebola
+terbinafine,., lithium, aspirin,:, iodine,., Anonymous, fentanyl, insulin, Ebola
+ketoconazole, lithium, aspirin,.,.,:, iodine, Pain, sodium, insulin, Oxy
+terbinafine, aspirin,., lithium,:, iodine,., insulin, Anonymous, drug, sodium
+ketoconazole, aspirin,., lithium,:,., iodine, Anonymous, insulin, LSD, Pain
+terbinafine,.,:, aspirin, lithium,., iodine,","," """"", Ebola, insulin
+risperidone, lithium, aspirin, iodine,.,:,., sodium, insulin, fentanyl,","
+clozapine, aspirin,., lithium,.,:, iodine, Anonymous, Pain, insulin, LSD
+olanzapine, lithium, aspirin,., iodine,:,., sodium, insulin, fentanyl, LSD
+quetiapine,., lithium, aspirin,:,., iodine, sodium, insulin, LSD,","
+aripiprazole, aspirin, lithium,., iodine,.,:, sodium, Meth, LSD, drug
+chlorpromazine, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, Anonymous
+paliperidone, lithium, aspirin,.,:, iodine,., insulin, sodium,",", LSD
+ziprasidone,.,:,., aspirin, lithium, Anonymous, iodine,","," """"", LSD
+loxapine,.,:, lithium, aspirin, iodine,.,",", sodium, insulin, LSD
+aspirin, aspirin, lithium,.,:, iodine,., sodium,",", insulin, Anonymous
+nitroglycerin, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+metoprolol, aspirin,., lithium, iodine,.,:, insulin, Pain, LSD, Ebola
+amlodipine, lithium, aspirin,.,:, iodine,., sodium, insulin, LSD,","
+isosorbide mononitrate, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+isosorbide dinitrate, lithium, aspirin,., iodine,:,., sodium, LSD, insulin, fentanyl
+enoxaparin, aspirin, lithium,., iodine,:,., sodium, insulin, fentanyl, LSD
+ranolazine, aspirin,., lithium,.,:, iodine, Ebola, LSD, insulin, Pain
+atenolol, aspirin, lithium,., iodine,:,., sodium, insulin, LSD, fentanyl
+carvedilol, aspirin,., lithium,.,:, iodine, Pain, insulin, LSD, Anonymous
+amlodipine AND atorvastatin,., aspirin, lithium,:,., iodine, Pain, Anonymous, LSD, Ebola
+collagenase, aspirin, lithium,., iodine,:, sodium,., fentanyl, insulin, dex
+becaplermin, aspirin, lithium,., iodine,:,., insulin, fentanyl, sodium, LSD
+cadexomer iodine, lithium, aspirin,.,:,., iodine, sodium, insulin, fentanyl, LSD
+ibuprofen, lithium, aspirin,., iodine,:,., sodium, fentanyl, insulin, LSD
+naproxen,., lithium, aspirin,:,., iodine, Anonymous, Pain, LSD," """""
+acetaminophen, aspirin,., lithium,:, iodine,., Anonymous, insulin, sodium, Pain
+diclofenac, aspirin,., lithium,:, iodine,., insulin, Anonymous, Pain, LSD
+nabumetone,., lithium, aspirin,:,., iodine, LSD, Ebola, sodium, insulin

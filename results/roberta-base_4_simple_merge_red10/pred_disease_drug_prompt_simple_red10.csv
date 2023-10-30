@@ -1,0 +1,1545 @@
+label,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+vincristine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+daunorubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+idarubicin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+decitabine,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gemtuzumab,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+midostaurin,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+venetoclax,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+enasidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+cytarabine liposomal AND daunorubicin liposomal,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+ivosidenib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+gilteritinib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+glasdegib,.,:, aspirin,., lithium, iodine, ALS, drug, chemotherapy, D
+atorvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+pravastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+rosuvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+lovastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+gemfibrozil, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+niacin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+ezetimibe AND simvastatin, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+fenofibric acid, aspirin,.,:, iodine, ACE, ER, ASA, Cure, drug, CR
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cyclophosphamide, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+vincristine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+rituximab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+methotrexate, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bendamustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+cytarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+fludarabine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+bleomycin, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+carmustine, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+idelalisib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibritumomab, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+ibrutinib, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+mitoxantrone, aspirin,., drug, iodine,:, lithium,., chemotherapy, sodium, D
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+quetiapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lamotrigine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lithium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+risperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+fluoxetine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+olanzapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+buspirone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clonazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+sertraline,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+aripiprazole,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+topiramate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+diazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lorazepam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+escitalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+divalproex sodium,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+alprazolam,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+clozapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+oxcarbazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+citalopram,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+haloperidol,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+lurasidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+l-methylfolate,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+carbamazepine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+asenapine,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+paliperidone,., aspirin,.,:, iodine, lithium, ACE, schizophrenia," """, HIV
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+dexamethasone, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+thalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+cyclophosphamide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+lenalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+bortezomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+carfilzomib, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+pomalidomide, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+daratumumab, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+melphalan, aspirin, drug,., iodine, lithium, chemotherapy,:, D, MS, Drug
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+lamivudine, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+efavirenz AND emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+ritonavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+emtricitabine AND tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+tenofovir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+abacavir, aspirin,.,:, iodine, drug, MS, lithium, D, DSM,.
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+triamcinolone, aspirin,., iodine, lithium,.,:, sodium, drug," """, DSM
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+meloxicam, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+naproxen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+ibuprofen, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+celecoxib, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+chondroitin AND glucosamine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+diclofenac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+etodolac, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+prednisone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+aspirin, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+nabumetone, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+duloxetine, aspirin,.,:, drug, lithium, iodine,., chemotherapy, sodium, Pain
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+modafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+duloxetine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+lisdexamfetamine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+amantadine,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+armodafinil,., aspirin,:,., Pain, lithium, ALS, drug," """, chemotherapy
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+miconazole, aspirin, lithium, iodine,., drug,:, sodium,., chemotherapy, antibiotic
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+terbinafine, aspirin, lithium,., iodine,:,., drug, sodium, insulin,","
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+terbinafine, aspirin, lithium, iodine,.,:,., sodium, drug, CPR,","
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+ketoconazole, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+terbinafine, aspirin, lithium, iodine,.,:,., drug, sodium, insulin, CPR
+risperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+clozapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+olanzapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+quetiapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aripiprazole,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+chlorpromazine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+paliperidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+ziprasidone,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+loxapine,., aspirin,., lithium,:, iodine, Anonymous, schizophrenia, DSM, drug
+aspirin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+nitroglycerin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+metoprolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide mononitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+isosorbide dinitrate, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+enoxaparin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+ranolazine, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+atenolol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+carvedilol, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+amlodipine AND atorvastatin, aspirin,., drug, lithium, iodine,.,:, sodium, insulin, chemotherapy
+collagenase, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+becaplermin, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+cadexomer iodine, aspirin,., iodine, lithium,.,:, drug, sodium, MS, insulin
+ibuprofen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+naproxen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+acetaminophen, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+diclofenac, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
+nabumetone, aspirin,., Pain,.,:, MS, ACE, iodine, D, ASA
