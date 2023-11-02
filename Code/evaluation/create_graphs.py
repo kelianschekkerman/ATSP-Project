@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Sentences file paths
-file_path = "results/merged/eval_name_drug_prompt_simple_red10.csv"
+file_path = "results/merged/eval_disease_name_prompt_simple_red10.csv"
 
 def load_data(file_path):
     print("Importing data...")
@@ -160,8 +160,8 @@ y = [z for z in y if str(z) != 'nan']
 plt.plot(x, y, label = "percentage_found_in_dataset")
 
 plt.xticks(rotation = 90)
-plt.xlabel('Models') 
+plt.xlabel('Config') 
 plt.ylabel('Percentage')
 plt.legend()
-plt.savefig("results/graphs/name_drug_percentage_dataset.png")
+plt.savefig("results/graphs/disease-name_percentage_dataset.png")
 plt.cla()
